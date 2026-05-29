@@ -1,0 +1,935 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs Practice",
+      "slug": "current-affairs-practice",
+      "parent": ""
+    },
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs: 15 April 2026",
+      "slug": "current-affairs-15-apr-2026",
+      "parent": "current-affairs-practice"
+    }
+  ],
+  "posts": [
+    {
+      "id": 10001,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "In the context of NITI Aayog's recent reports on India's R&D ecosystem, what does the 'ROPE' framework stand for?",
+      "post_title": "NITI Aayog ROPE Framework",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Removing Obstacles and Promoting Enablers",
+            "image": ""
+          },
+          {
+            "text": "Research Outreach and Policy Evaluation",
+            "image": ""
+          },
+          {
+            "text": "Rapid Optimization of Public Enterprises",
+            "image": ""
+          },
+          {
+            "text": "Regulatory Oversight and Public Empowerment",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>ROPE Framework</b> stands for <b>Removing Obstacles and Promoting Enablers</b>. It is the core strategy proposed in the recent NITI Aayog reports to clear out administrative and regulatory bottlenecks in India's scientific and R&D ecosystem.<h5>Incorrect Options Analysis</h5><ul><li><b>Research Outreach and Policy Evaluation</b>: This is a fabricated term and not mentioned in the NITI Aayog reports.</li><li><b>Rapid Optimization of Public Enterprises</b>: Incorrect context; the report focuses on the R&D ecosystem, not specifically on public enterprise optimization.</li><li><b>Regulatory Oversight and Public Empowerment</b>: Incorrect. The focus is on reducing rigid bureaucracy, not increasing regulatory oversight.</li></ul>",
+        "_aimcq_title_hi": "नीति आयोग का ROPE फ्रेमवर्क",
+        "_aimcq_question_content_hi": "भारत के अनुसंधान एवं विकास (R&D) पारिस्थितिकी तंत्र पर नीति आयोग की हालिया रिपोर्टों के संदर्भ में, 'ROPE' फ्रेमवर्क का क्या अर्थ है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "बाधाओं को दूर करना और समर्थकों को बढ़ावा देना (Removing Obstacles and Promoting Enablers)",
+            "image": ""
+          },
+          {
+            "text": "अनुसंधान आउटरीच और नीति मूल्यांकन (Research Outreach and Policy Evaluation)",
+            "image": ""
+          },
+          {
+            "text": "सार्वजनिक उद्यमों का तीव्र अनुकूलन (Rapid Optimization of Public Enterprises)",
+            "image": ""
+          },
+          {
+            "text": "नियामक निरीक्षण और सार्वजनिक सशक्तिकरण (Regulatory Oversight and Public Empowerment)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>ROPE फ्रेमवर्क</b> का अर्थ <b>Removing Obstacles and Promoting Enablers (बाधाओं को दूर करना और समर्थकों को बढ़ावा देना)</b> है। यह भारत के वैज्ञानिक और अनुसंधान एवं विकास पारिस्थितिकी तंत्र में प्रशासनिक और नियामक अड़चनों को दूर करने के लिए हालिया नीति आयोग की रिपोर्टों में प्रस्तावित मुख्य रणनीति है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>अनुसंधान आउटरीच और नीति मूल्यांकन</b>: यह एक मनगढ़ंत शब्द है और नीति आयोग की रिपोर्ट में इसका उल्लेख नहीं है।</li><li><b>सार्वजनिक उद्यमों का तीव्र अनुकूलन</b>: गलत संदर्भ; रिपोर्ट विशेष रूप से सार्वजनिक उद्यम अनुकूलन पर नहीं, बल्कि आर एंड डी पारिस्थितिकी तंत्र पर केंद्रित है।</li><li><b>नियामक निरीक्षण और सार्वजनिक सशक्तिकरण</b>: गलत। ध्यान कठोर नौकरशाही को कम करने पर है, नियामक निरीक्षण को बढ़ाने पर नहीं।</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10002,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "According to recent data highlighted by NITI Aayog, what is India's Gross Expenditure on R&D (GERD) as a percentage of its GDP?",
+      "post_title": "India's Gross Expenditure on R&D (GERD)",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "~1.5%",
+            "image": ""
+          },
+          {
+            "text": "~0.64-0.7%",
+            "image": ""
+          },
+          {
+            "text": "~2.4%",
+            "image": ""
+          },
+          {
+            "text": "~3.5%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Despite significant GDP growth over decades, India's Gross Expenditure on R&D (GERD) remains vastly inadequate, currently sitting at only <b>~0.64-0.7% of GDP</b>. This is significantly below the global average and leaders like the US (~3.5%) and China (~2.4%).<h5>Incorrect Options Analysis</h5><ul><li><b>~1.5%</b>: This is the target that the government must actively work to achieve to compete globally, according to the report.</li><li><b>~2.4%</b>: This is the approximate GERD level of China.</li><li><b>~3.5%</b>: This is the approximate GERD level of the US.</li></ul>",
+        "_aimcq_title_hi": "भारत का R&D पर सकल व्यय (GERD)",
+        "_aimcq_question_content_hi": "नीति आयोग द्वारा उजागर किए गए हालिया आंकड़ों के अनुसार, भारत के सकल घरेलू उत्पाद (GDP) के प्रतिशत के रूप में अनुसंधान एवं विकास पर सकल व्यय (GERD) कितना है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "~1.5%",
+            "image": ""
+          },
+          {
+            "text": "~0.64-0.7%",
+            "image": ""
+          },
+          {
+            "text": "~2.4%",
+            "image": ""
+          },
+          {
+            "text": "~3.5%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>दशकों में महत्वपूर्ण सकल घरेलू उत्पाद की वृद्धि के बावजूद, भारत का अनुसंधान एवं विकास (GERD) पर सकल व्यय बेहद अपर्याप्त है, जो वर्तमान में केवल <b>~0.64-0.7%</b> है। यह वैश्विक औसत और अमेरिका (~3.5%) तथा चीन (~2.4%) जैसे अग्रणी देशों से काफी नीचे है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>~1.5%</b>: रिपोर्ट के अनुसार, यह वह लक्ष्य है जिसे विश्व स्तर पर प्रतिस्पर्धा करने के लिए सरकार को सक्रिय रूप से प्राप्त करने के लिए काम करना चाहिए।</li><li><b>~2.4%</b>: यह चीन का अनुमानित GERD स्तर है।</li><li><b>~3.5%</b>: यह अमेरिका का अनुमानित GERD स्तर है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10003,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "What is India's rank in the Global Innovation Index (GII) 2025 published by the World Intellectual Property Organization?",
+      "post_title": "India's Rank in Global Innovation Index 2025",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "48th",
+            "image": ""
+          },
+          {
+            "text": "42nd",
+            "image": ""
+          },
+          {
+            "text": "38th",
+            "image": ""
+          },
+          {
+            "text": "40th",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>India has risen to the <b>38th position</b> out of 139 economies in the Global Innovation Index (GII) 2025. It continues to hold the top position among lower-middle-income economies and ranks first in the Central and Southern Asia region.<h5>Incorrect Options Analysis</h5><ul><li><b>48th</b>: This was India's rank in the Global Innovation Index in the year 2020.</li><li><b>42nd & 40th</b>: These are incorrect rankings as per the latest GII 2025 report.</li></ul>",
+        "_aimcq_title_hi": "ग्लोबल इनोवेशन इंडेक्स 2025 में भारत का स्थान",
+        "_aimcq_question_content_hi": "विश्व बौद्धिक संपदा संगठन (WIPO) द्वारा प्रकाशित ग्लोबल इनोवेशन इंडेक्स (GII) 2025 में भारत का स्थान क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "48वां",
+            "image": ""
+          },
+          {
+            "text": "42वां",
+            "image": ""
+          },
+          {
+            "text": "38वां",
+            "image": ""
+          },
+          {
+            "text": "40वां",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>ग्लोबल इनोवेशन इंडेक्स (GII) 2025 में 139 अर्थव्यवस्थाओं में भारत <b>38वें स्थान</b> पर पहुंच गया है। यह निम्न-मध्यम आय वाली अर्थव्यवस्थाओं में शीर्ष स्थान पर बना हुआ है और मध्य तथा दक्षिणी एशिया क्षेत्र में पहले स्थान पर है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>48वां</b>: वर्ष 2020 में ग्लोबल इनोवेशन इंडेक्स में यह भारत की रैंक थी।</li><li><b>42वां और 40वां</b>: नवीनतम GII 2025 रिपोर्ट के अनुसार ये गलत रैंकिंग हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10004,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "Under the Cinematograph (Amendment) Act, 2023, what is the maximum financial penalty that can be imposed for film piracy in India?",
+      "post_title": "Cinematograph Act Penalty for Piracy",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Flat fine of Rs. 10 Lakh",
+            "image": ""
+          },
+          {
+            "text": "Fine equivalent to 5% of the audited gross budget of the film",
+            "image": ""
+          },
+          {
+            "text": "Flat fine of Rs. 2 Lakh",
+            "image": ""
+          },
+          {
+            "text": "Fine equivalent to 10% of the film's total revenue",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>Cinematograph (Amendment) Act, 2023</b> introduces massive financial deterrents against digital piracy, allowing courts to impose fines equivalent to <b>5% of the audited gross budget of a film</b>. This is especially relevant for pre-release leaks.<h5>Incorrect Options Analysis</h5><ul><li><b>Flat fine of Rs. 2 Lakh</b>: This fine is prescribed under the older Copyright Act, 1957, not the updated Cinematograph Act of 2023.</li><li><b>Flat fine of Rs. 10 Lakh & 10% of total revenue</b>: These are incorrect figures not supported by the current legal framework.</li></ul>",
+        "_aimcq_title_hi": "पायरेसी के लिए सिनेमैटोग्राफ अधिनियम के तहत जुर्माना",
+        "_aimcq_question_content_hi": "सिनेमैटोग्राफ (संशोधन) अधिनियम, 2023 के तहत, भारत में फिल्म पायरेसी के लिए अधिकतम कितना वित्तीय जुर्माना लगाया जा सकता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "10 लाख रुपये का एकमुश्त जुर्माना",
+            "image": ""
+          },
+          {
+            "text": "फिल्म के ऑडिट किए गए सकल बजट के 5% के बराबर जुर्माना",
+            "image": ""
+          },
+          {
+            "text": "2 लाख रुपये का एकमुश्त जुर्माना",
+            "image": ""
+          },
+          {
+            "text": "फिल्म के कुल राजस्व के 10% के बराबर जुर्माना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>सिनेमैटोग्राफ (संशोधन) अधिनियम, 2023</b> डिजिटल पायरेसी के खिलाफ बड़े पैमाने पर वित्तीय निवारक पेश करता है, जिससे अदालतों को <b>फिल्म के ऑडिट किए गए सकल बजट के 5% के बराबर जुर्माना</b> लगाने की अनुमति मिलती है। यह प्री-रिलीज़ लीक के लिए विशेष रूप से प्रासंगिक है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>2 लाख रुपये का एकमुश्त जुर्माना</b>: यह जुर्माना पुराने कॉपीराइट अधिनियम, 1957 के तहत निर्धारित है, न कि 2023 के अद्यतन सिनेमैटोग्राफ अधिनियम के तहत।</li><li><b>10 लाख रुपये का एकमुश्त जुर्माना और कुल राजस्व का 10%</b>: ये गलत आंकड़े हैं जो वर्तमान कानूनी ढांचे द्वारा समर्थित नहीं हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10005,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "Which section of the Information Technology (IT) Act, 2000 provides \"safe harbor\" immunity to online platforms from legal liability for user-generated pirated content, provided they act on takedown notices?",
+      "post_title": "IT Act Safe Harbor Provision",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Section 66A",
+            "image": ""
+          },
+          {
+            "text": "Section 69A",
+            "image": ""
+          },
+          {
+            "text": "Section 79",
+            "image": ""
+          },
+          {
+            "text": "Section 43",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Under <b>Section 79</b> of the IT Act, platforms (like Telegram, WhatsApp, ISPs, or social media sites) generally enjoy \"safe harbor,\" meaning they are not legally responsible for what users post. However, they lose this immunity if they fail to remove pirated content after receiving a lawful court order or government notice.<h5>Incorrect Options Analysis</h5><ul><li><b>Section 66A</b>: Dealt with sending \"offensive\" messages; it was struck down by the Supreme Court in the Shreya Singhal case.</li><li><b>Section 69A</b>: Grants power to the government to issue directions for blocking access to information for the public under specific conditions (e.g., national security).</li><li><b>Section 43</b>: Deals with penalty and compensation for damage to computers and computer systems.</li></ul>",
+        "_aimcq_title_hi": "आईटी अधिनियम सेफ हार्बर प्रावधान",
+        "_aimcq_question_content_hi": "सूचना प्रौद्योगिकी (IT) अधिनियम, 2000 की कौन सी धारा ऑनलाइन प्लेटफॉर्म को उपयोगकर्ता-जनित पायरेटेड सामग्री के लिए कानूनी दायित्व से \"सेफ हार्बर\" (सुरक्षित आश्रय) उन्मुक्ति प्रदान करती है, बशर्ते वे टेकडाउन नोटिस पर कार्रवाई करें?",
+        "_aimcq_options_hi": [
+          {
+            "text": "धारा 66A",
+            "image": ""
+          },
+          {
+            "text": "धारा 69A",
+            "image": ""
+          },
+          {
+            "text": "धारा 79",
+            "image": ""
+          },
+          {
+            "text": "धारा 43",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>आईटी अधिनियम की <b>धारा 79</b> के तहत, प्लेटफॉर्म (जैसे टेलीग्राम, व्हाट्सएप, आईएसपी, या सोशल मीडिया साइट) आम तौर पर \"सेफ हार्बर\" का आनंद लेते हैं, जिसका अर्थ है कि वे कानूनी रूप से उपयोगकर्ताओं द्वारा पोस्ट की गई सामग्री के लिए ज़िम्मेदार नहीं हैं। हालाँकि, यदि वे कानूनी अदालती आदेश या सरकारी नोटिस प्राप्त करने के बाद पायरेटेड सामग्री को हटाने में विफल रहते हैं तो वे यह छूट खो देते हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>धारा 66A</b>: \"आपत्तिजनक\" संदेश भेजने से संबंधित था; इसे श्रेया सिंघल मामले में सुप्रीम कोर्ट ने रद्द कर दिया था।</li><li><b>धारा 69A</b>: विशिष्ट परिस्थितियों (जैसे, राष्ट्रीय सुरक्षा) के तहत जनता के लिए जानकारी तक पहुंच को अवरुद्ध करने के लिए निर्देश जारी करने की शक्ति सरकार को प्रदान करता है।</li><li><b>धारा 43</b>: कंप्यूटर और कंप्यूटर सिस्टम को नुकसान पहुंचाने के लिए दंड और मुआवजे से संबंधित है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10006,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "In the context of fighting digital film piracy, what is 'Forensic Watermarking'?",
+      "post_title": "Forensic Watermarking in Anti-Piracy",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Encrypting the video stream with DRM (Digital Rights Management)",
+            "image": ""
+          },
+          {
+            "text": "Distributing movies exclusively via Digital Cinema Packages (DCPs)",
+            "image": ""
+          },
+          {
+            "text": "Embedding 'invisible' unique trackers into the film's audio and video to trace leaks",
+            "image": ""
+          },
+          {
+            "text": "A court order to continuously block new rogue domain names",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5><b>Forensic Watermarking</b> involves embedding \"invisible\" watermarks into a film's audio and video. These watermarks are unique to every theatre, digital copy, or technician handling the file. If a pirated version appears online, investigators can analyze the file to identify exactly where and when the leak originated.<h5>Incorrect Options Analysis</h5><ul><li><b>Encrypting with DRM</b>: This is a different technology that ensures only authorized devices can decrypt and play the content, preventing direct downloading.</li><li><b>Distributing via DCPs</b>: This refers to sending physical encrypted hard drives to theatres, which require a Key Delivery Message (KDM) to unlock.</li><li><b>Court order to block new domains</b>: This refers to \"Dynamic Injunctions,\" a legal mechanism rather than a technological tool.</li></ul>",
+        "_aimcq_title_hi": "एंटी-पायरेसी में फॉरेंसिक वाटरमार्किंग",
+        "_aimcq_question_content_hi": "डिजिटल फिल्म पायरेसी से लड़ने के संदर्भ में, 'फॉरेंसिक वाटरमार्किंग' क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "DRM के साथ वीडियो स्ट्रीम को एन्क्रिप्ट करना",
+            "image": ""
+          },
+          {
+            "text": "विशेष रूप से डिजिटल सिनेमा पैकेज (DCP) के माध्यम से फिल्में वितरित करना",
+            "image": ""
+          },
+          {
+            "text": "लीक का पता लगाने के लिए फिल्म के ऑडियो और वीडियो में 'अदृश्य' विशिष्ट ट्रैकर्स को एम्बेड करना",
+            "image": ""
+          },
+          {
+            "text": "नए अमान्य डोमेन नामों को लगातार ब्लॉक करने का अदालती आदेश",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>फॉरेंसिक वाटरमार्किंग</b> में फिल्म के ऑडियो और वीडियो में \"अदृश्य\" वॉटरमार्क एम्बेड करना शामिल है। ये वॉटरमार्क फ़ाइल को संभालने वाले प्रत्येक थिएटर, डिजिटल कॉपी या तकनीशियन के लिए अद्वितीय होते हैं। यदि कोई पायरेटेड संस्करण ऑनलाइन दिखाई देता है, तो जांचकर्ता यह पहचानने के लिए फ़ाइल का विश्लेषण कर सकते हैं कि लीक वास्तव में कहाँ और कब उत्पन्न हुआ था।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>DRM के साथ एन्क्रिप्ट करना</b>: यह एक अलग तकनीक है जो यह सुनिश्चित करती है कि केवल अधिकृत उपकरण ही सामग्री को डिक्रिप्ट और चला सकते हैं।</li><li><b>DCP के माध्यम से वितरित करना</b>: यह थिएटरों में भौतिक एन्क्रिप्टेड हार्ड ड्राइव भेजने को संदर्भित करता है, जिन्हें अनलॉक करने के लिए एक कुंजी की आवश्यकता होती है।</li><li><b>नए डोमेन को ब्लॉक करने का अदालती आदेश</b>: यह \"डायनामिक इंजंक्शन\" को संदर्भित करता है, जो तकनीकी उपकरण के बजाय एक कानूनी तंत्र है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10007,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "The Andaman Sea, a marginal sea of the northeastern Indian Ocean, is bordered to its north and east by which two countries?",
+      "post_title": "Geography of Andaman Sea",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "India and Sri Lanka",
+            "image": ""
+          },
+          {
+            "text": "Myanmar and Thailand",
+            "image": ""
+          },
+          {
+            "text": "Malaysia and Singapore",
+            "image": ""
+          },
+          {
+            "text": "Indonesia and Philippines",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Andaman Sea is bordered by <b>Myanmar and Thailand</b> to its north and east. It is bordered by the Malay Peninsula and Sumatra to the south, and is separated from the Bay of Bengal by India's Andaman and Nicobar Islands to the west.<h5>Incorrect Options Analysis</h5><ul><li><b>India and Sri Lanka</b>: Sri Lanka is situated to the south of India, bordering the Indian Ocean and the Bay of Bengal, but not the Andaman Sea directly.</li><li><b>Malaysia and Singapore</b>: While Malaysia borders the southern part of the sea, Singapore is further south at the tip of the Malay Peninsula. The north and east borders belong to Myanmar and Thailand.</li><li><b>Indonesia and Philippines</b>: The Philippines are situated far to the east, across the South China Sea.</li></ul>",
+        "_aimcq_title_hi": "अंडमान सागर का भूगोल",
+        "_aimcq_question_content_hi": "पूर्वोत्तर हिंद महासागर का एक सीमांत समुद्र, अंडमान सागर, अपने उत्तर और पूर्व में किन दो देशों से घिरा है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भारत और श्रीलंका",
+            "image": ""
+          },
+          {
+            "text": "म्यांमार और थाईलैंड",
+            "image": ""
+          },
+          {
+            "text": "मलेशिया और सिंगापुर",
+            "image": ""
+          },
+          {
+            "text": "इंडोनेशिया और फिलीपींस",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>अंडमान सागर अपने उत्तर और पूर्व में <b>म्यांमार और थाईलैंड</b> से घिरा हुआ है। यह दक्षिण में मलय प्रायद्वीप और सुमात्रा से घिरा हुआ है, और पश्चिम में भारत के अंडमान और निकोबार द्वीप समूह द्वारा बंगाल की खाड़ी से अलग किया गया है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>भारत और श्रीलंका</b>: श्रीलंका भारत के दक्षिण में स्थित है, जो हिंद महासागर और बंगाल की खाड़ी की सीमा पर है, लेकिन सीधे अंडमान सागर की सीमा पर नहीं है।</li><li><b>मलेशिया और सिंगापुर</b>: जबकि मलेशिया समुद्र के दक्षिणी हिस्से की सीमा बनाता है, सिंगापुर मलय प्रायद्वीप के सिरे पर और दक्षिण में है। उत्तर और पूर्व की सीमाएँ म्यांमार और थाईलैंड की हैं।</li><li><b>इंडोनेशिया और फिलीपींस</b>: फिलीपींस दक्षिण चीन सागर के पार सुदूर पूर्व में स्थित है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10008,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "Which of the following major rivers flows into the Gulf of Martaban located in the northern part of the Andaman Sea?",
+      "post_title": "Rivers Flowing into the Andaman Sea",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Mekong",
+            "image": ""
+          },
+          {
+            "text": "Irrawaddy",
+            "image": ""
+          },
+          {
+            "text": "Brahmaputra",
+            "image": ""
+          },
+          {
+            "text": "Godavari",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Andaman Sea geographically includes the Gulf of Martaban in the north, which receives major rivers like the <b>Irrawaddy</b>, Salween, and Sittang flowing from Myanmar.<h5>Incorrect Options Analysis</h5><ul><li><b>Mekong</b>: The Mekong River flows through Southeast Asia and empties into the South China Sea.</li><li><b>Brahmaputra</b>: It flows through Tibet, India, and Bangladesh, emptying into the Bay of Bengal.</li><li><b>Godavari</b>: A major peninsular river in India that empties into the Bay of Bengal.</li></ul>",
+        "_aimcq_title_hi": "अंडमान सागर में गिरने वाली नदियाँ",
+        "_aimcq_question_content_hi": "निम्नलिखित में से कौन सी प्रमुख नदी अंडमान सागर के उत्तरी भाग में स्थित मर्तबान की खाड़ी में गिरती है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "मेकांग",
+            "image": ""
+          },
+          {
+            "text": "इरावदी",
+            "image": ""
+          },
+          {
+            "text": "ब्रह्मपुत्र",
+            "image": ""
+          },
+          {
+            "text": "गोदावरी",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>अंडमान सागर में भौगोलिक रूप से उत्तर में मर्तबान की खाड़ी शामिल है, जहाँ म्यांमार से बहने वाली <b>इरावदी</b>, साल्विन और सितांग जैसी प्रमुख नदियाँ गिरती हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>मेकांग</b>: मेकांग नदी दक्षिण पूर्व एशिया से होकर बहती है और दक्षिण चीन सागर में गिरती है।</li><li><b>ब्रह्मपुत्र</b>: यह तिब्बत, भारत और बांग्लादेश से होकर बहती है और बंगाल की खाड़ी में गिरती है।</li><li><b>गोदावरी</b>: भारत की एक प्रमुख प्रायद्वीपीय नदी जो बंगाल की खाड़ी में गिरती है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10009,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "Lebanon, a country in the Levant region of West Asia, shares its land borders with which of the following two countries?",
+      "post_title": "Land Borders of Lebanon",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Syria and Jordan",
+            "image": ""
+          },
+          {
+            "text": "Israel and Egypt",
+            "image": ""
+          },
+          {
+            "text": "Syria and Israel",
+            "image": ""
+          },
+          {
+            "text": "Jordan and Israel",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Lebanon is located in West Asia and is bordered by <b>Syria</b> to its north and east, and <b>Israel</b> to its south. It also has a coastline along the Mediterranean Sea to the west.<h5>Incorrect Options Analysis</h5><ul><li><b>Jordan</b>: Lebanon does not share a border with Jordan; Syria lies between Lebanon and Jordan to the east.</li><li><b>Egypt</b>: Lebanon does not share a border with Egypt; Egypt is located further south across Israel.</li></ul>",
+        "_aimcq_title_hi": "लेबनान की भूमि सीमाएँ",
+        "_aimcq_question_content_hi": "पश्चिम एशिया के लेवांत क्षेत्र का एक देश लेबनान, अपनी भूमि सीमाएँ निम्नलिखित में से किन दो देशों के साथ साझा करता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "सीरिया और जॉर्डन",
+            "image": ""
+          },
+          {
+            "text": "इज़राइल और मिस्र",
+            "image": ""
+          },
+          {
+            "text": "सीरिया और इज़राइल",
+            "image": ""
+          },
+          {
+            "text": "जॉर्डन और इज़राइल",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>लेबनान पश्चिम एशिया में स्थित है और इसके उत्तर और पूर्व में <b>सीरिया</b> तथा दक्षिण में <b>इज़राइल</b> है। पश्चिम में भूमध्य सागर के साथ इसकी एक तटरेखा भी है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>जॉर्डन</b>: लेबनान जॉर्डन के साथ सीमा साझा नहीं करता है; पूर्व में लेबनान और जॉर्डन के बीच सीरिया स्थित है।</li><li><b>मिस्र</b>: लेबनान मिस्र के साथ सीमा साझा नहीं करता है; मिस्र इज़राइल के पार और दक्षिण में स्थित है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10010,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "The United Nations Interim Force in Lebanon (UNIFIL), to which India is a troop-contributing country, is primarily deployed along which region?",
+      "post_title": "UNIFIL Deployment Region",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Along the Lebanon-Syria border",
+            "image": ""
+          },
+          {
+            "text": "Along the Israel-Lebanon border",
+            "image": ""
+          },
+          {
+            "text": "Exclusively in the Bekaa Valley",
+            "image": ""
+          },
+          {
+            "text": "Within the capital city of Beirut",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>UNIFIL (United Nations Interim Force in Lebanon) is deployed in Lebanon specifically <b>along the Israel-Lebanon border</b>. It plays a crucial role in maintaining peace and stability in that volatile region.<h5>Incorrect Options Analysis</h5><ul><li><b>Along the Lebanon-Syria border</b>: Incorrect, UNIFIL is not primarily focused on the Syrian border.</li><li><b>Exclusively in the Bekaa Valley</b>: Incorrect. The Bekaa Valley is an internal region between the Lebanon and Anti-Lebanon mountains.</li><li><b>Within Beirut</b>: Incorrect. Beirut is the capital city where recent strikes occurred, but UNIFIL is a border peacekeeping force in the south.</li></ul>",
+        "_aimcq_title_hi": "UNIFIL की तैनाती का क्षेत्र",
+        "_aimcq_question_content_hi": "लेबनान में संयुक्त राष्ट्र अंतरिम बल (UNIFIL), जिसमें भारत भी अपने सैनिक भेजता है, मुख्य रूप से किस क्षेत्र में तैनात है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "लेबनान-सीरिया सीमा के साथ",
+            "image": ""
+          },
+          {
+            "text": "इज़राइल-लेबनान सीमा के साथ",
+            "image": ""
+          },
+          {
+            "text": "विशेष रूप से बेका घाटी में",
+            "image": ""
+          },
+          {
+            "text": "राजधानी बेरूत के भीतर",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>UNIFIL (लेबनान में संयुक्त राष्ट्र अंतरिम बल) लेबनान में विशेष रूप से <b>इज़राइल-लेबनान सीमा के साथ</b> तैनात है। यह उस अस्थिर क्षेत्र में शांति और स्थिरता बनाए रखने में महत्वपूर्ण भूमिका निभाता है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>लेबनान-सीरिया सीमा के साथ</b>: गलत, UNIFIL मुख्य रूप से सीरियाई सीमा पर केंद्रित नहीं है।</li><li><b>विशेष रूप से बेका घाटी में</b>: गलत। बेका घाटी लेबनान और एंटी-लेबनान पहाड़ों के बीच एक आंतरिक क्षेत्र है।</li><li><b>बेरूत के भीतर</b>: गलत। बेरूत राजधानी शहर है जहां हाल ही में हमले हुए थे, लेकिन UNIFIL दक्षिण में एक सीमा शांति सेना है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10011,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "Which Indian state recently inaugurated the country's first open-access Amaravati Quantum Reference Facility (AQRF) to boost deep-tech capabilities?",
+      "post_title": "First Open-Access AQRF Inauguration",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Telangana",
+            "image": ""
+          },
+          {
+            "text": "Karnataka",
+            "image": ""
+          },
+          {
+            "text": "Andhra Pradesh",
+            "image": ""
+          },
+          {
+            "text": "Tamil Nadu",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5><b>Andhra Pradesh</b> recently inaugurated India's first open-access Amaravati Quantum Reference Facility (AQRF). The twin centers (Amaravati 1S and Amaravati 1Q) were launched to allow researchers and deep-tech companies to test and certify indigenous quantum hardware.<h5>Incorrect Options Analysis</h5><ul><li><b>Telangana, Karnataka, Tamil Nadu</b>: While these states have prominent IT and tech hubs, the specific AQRF project with the vision to develop a 'Quantum Valley' is an initiative launched in Andhra Pradesh.</li></ul>",
+        "_aimcq_title_hi": "प्रथम ओपन-एक्सेस AQRF का उद्घाटन",
+        "_aimcq_question_content_hi": "डीप-टेक क्षमताओं को बढ़ावा देने के लिए किस भारतीय राज्य ने हाल ही में देश की पहली ओपन-एक्सेस 'अमरावती क्वांटम रेफरेंस फैसिलिटी' (AQRF) का उद्घाटन किया है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "तेलंगाना",
+            "image": ""
+          },
+          {
+            "text": "कर्नाटक",
+            "image": ""
+          },
+          {
+            "text": "आंध्र प्रदेश",
+            "image": ""
+          },
+          {
+            "text": "तमिलनाडु",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>आंध्र प्रदेश</b> ने हाल ही में भारत की पहली ओपन-एक्सेस 'अमरावती क्वांटम रेफरेंस फैसिलिटी' (AQRF) का उद्घाटन किया है। शोधकर्ताओं और डीप-टेक कंपनियों को स्वदेशी क्वांटम हार्डवेयर का परीक्षण और प्रमाणित करने की अनुमति देने के लिए ये जुड़वां केंद्र (अमरावती 1S और अमरावती 1Q) लॉन्च किए गए थे।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>तेलंगाना, कर्नाटक, तमिलनाडु</b>: यद्यपि इन राज्यों में प्रमुख आईटी और तकनीकी केंद्र हैं, 'क्वांटम वैली' विकसित करने की दृष्टि से विशिष्ट AQRF परियोजना आंध्र प्रदेश में शुरू की गई एक पहल है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10012,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "World Quantum Day is celebrated on April 14th as a reference to the rounded first digits (4.14) of which fundamental constant in physics?",
+      "post_title": "World Quantum Day Significance",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Speed of Light",
+            "image": ""
+          },
+          {
+            "text": "Gravitational Constant",
+            "image": ""
+          },
+          {
+            "text": "Planck's Constant",
+            "image": ""
+          },
+          {
+            "text": "Avogadro's Number",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>World Quantum Day is celebrated on April 14th (4/14 in month/day format), which is a reference to the rounded first digits of <b>Planck's constant</b>: 4.1356677×10^-15 eV-s. It is a fundamental constant governing quantum physics.<h5>Incorrect Options Analysis</h5><ul><li><b>Speed of Light</b>: Approximated as 3 x 10^8 m/s, not related to the April 14th date.</li><li><b>Gravitational Constant</b>: Typically denoted as G (approx. 6.67 x 10^-11), not related to 4.14.</li><li><b>Avogadro's Number</b>: Approximated as 6.022 x 10^23, historically celebrated as 'Mole Day' on October 23.</li></ul>",
+        "_aimcq_title_hi": "विश्व क्वांटम दिवस का महत्व",
+        "_aimcq_question_content_hi": "भौतिकी में किस मौलिक स्थिरांक के पहले अंकों (4.14) के संदर्भ में विश्व क्वांटम दिवस 14 अप्रैल को मनाया जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "प्रकाश की गति",
+            "image": ""
+          },
+          {
+            "text": "गुरुत्वाकर्षण स्थिरांक",
+            "image": ""
+          },
+          {
+            "text": "प्लैंक का स्थिरांक",
+            "image": ""
+          },
+          {
+            "text": "अवोगाद्रो संख्या",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>विश्व क्वांटम दिवस 14 अप्रैल को मनाया जाता है (महीने/दिन के प्रारूप में 4/14), जो <b>प्लैंक के स्थिरांक (Planck's constant)</b> के पहले अंकों का संदर्भ है: 4.1356677×10^-15 eV-s। यह क्वांटम भौतिकी को नियंत्रित करने वाला एक मूलभूत स्थिरांक है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>प्रकाश की गति</b>: लगभग 3 x 10^8 मीटर/सेकंड माना जाता है, इसका 14 अप्रैल की तारीख से कोई संबंध नहीं है।</li><li><b>गुरुत्वाकर्षण स्थिरांक</b>: आम तौर पर G द्वारा दर्शाया जाता है (लगभग 6.67 x 10^-11), 4.14 से संबंधित नहीं है।</li><li><b>अवोगाद्रो संख्या</b>: लगभग 6.022 x 10^23, ऐतिहासिक रूप से 23 अक्टूबर को 'मोल डे' के रूप में मनाया जाता है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10013,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "The newly inaugurated Delhi-Dehradun Economic Corridor features Asia's largest elevated wildlife corridor passing through which National Park?",
+      "post_title": "Delhi-Dehradun Elevated Wildlife Corridor",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Jim Corbett National Park",
+            "image": ""
+          },
+          {
+            "text": "Rajaji National Park",
+            "image": ""
+          },
+          {
+            "text": "Dudhwa National Park",
+            "image": ""
+          },
+          {
+            "text": "Nanda Devi National Park",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The environmental measures for the Delhi-Dehradun Economic Corridor include a ~10.97-km wildlife corridor, featuring one of Asia's largest elevated wildlife corridors passing through forest areas including <b>Rajaji National Park</b> in the Shiwalik Hills to ensure safe animal movement.<h5>Incorrect Options Analysis</h5><ul><li><b>Jim Corbett National Park</b>: Located in Uttarakhand, but the specific elevated corridor for this expressway does not pass through it.</li><li><b>Dudhwa National Park</b>: Located in Uttar Pradesh, near the Indo-Nepal border, far from the Delhi-Dehradun route.</li><li><b>Nanda Devi National Park</b>: Located in higher altitudes of Uttarakhand, not on this route.</li></ul>",
+        "_aimcq_title_hi": "दिल्ली-देहरादून एलिवेटेड वाइल्डलाइफ कॉरिडोर",
+        "_aimcq_question_content_hi": "नवनिर्मित दिल्ली-देहरादून इकोनॉमिक कॉरिडोर में एशिया का सबसे बड़ा एलिवेटेड वाइल्डलाइफ (वन्यजीव) कॉरिडोर है, जो किस राष्ट्रीय उद्यान से होकर गुजरता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "जिम कॉर्बेट राष्ट्रीय उद्यान",
+            "image": ""
+          },
+          {
+            "text": "राजाजी राष्ट्रीय उद्यान",
+            "image": ""
+          },
+          {
+            "text": "दुधवा राष्ट्रीय उद्यान",
+            "image": ""
+          },
+          {
+            "text": "नंदा देवी राष्ट्रीय उद्यान",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>दिल्ली-देहरादून इकोनॉमिक कॉरिडोर के लिए पर्यावरणीय उपायों में ~10.97-किमी का वन्यजीव गलियारा (कॉरिडोर) शामिल है, जिसमें जानवरों की सुरक्षित आवाजाही सुनिश्चित करने के लिए शिवालिक पहाड़ियों में <b>राजाजी राष्ट्रीय उद्यान</b> सहित वन क्षेत्रों से गुजरने वाला एशिया का सबसे बड़ा एलिवेटेड वन्यजीव कॉरिडोर शामिल है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>जिम कॉर्बेट राष्ट्रीय उद्यान</b>: उत्तराखंड में स्थित है, लेकिन इस एक्सप्रेसवे के लिए विशिष्ट एलिवेटेड कॉरिडोर इसके माध्यम से नहीं गुजरता है।</li><li><b>दुधवा राष्ट्रीय उद्यान</b>: उत्तर प्रदेश में भारत-नेपाल सीमा के पास स्थित है, जो दिल्ली-देहरादून मार्ग से बहुत दूर है।</li><li><b>नंदा देवी राष्ट्रीय उद्यान</b>: उत्तराखंड की उच्च ऊंचाई पर स्थित है, इस मार्ग पर नहीं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10014,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "In astrophysics, what does the term \"Hubble Tension\" refer to?",
+      "post_title": "Definition of Hubble Tension",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "The gravitational pull acting between two distant galaxies",
+            "image": ""
+          },
+          {
+            "text": "The disagreement among physicists about the exact expansion rate of the universe",
+            "image": ""
+          },
+          {
+            "text": "The tension caused by dark matter interacting with dark energy",
+            "image": ""
+          },
+          {
+            "text": "The fading of cosmic microwave background radiation over time",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>Hubble tension</b> refers to the disagreement among physicists about the <b>exact rate at which the universe is expanding</b>. This rate is measured using the Hubble constant, but different measurement methods are producing conflicting results.<h5>Incorrect Options Analysis</h5><ul><li><b>Gravitational pull between galaxies</b>: This describes gravity, not the Hubble tension.</li><li><b>Dark matter and dark energy interaction</b>: While these forces influence the universe, the term specifically refers to the discrepancy in the calculated expansion rate.</li><li><b>Fading of CMB radiation</b>: This is a natural occurrence as the universe cools, but it does not define the Hubble tension.</li></ul>",
+        "_aimcq_title_hi": "हबल टेंशन की परिभाषा",
+        "_aimcq_question_content_hi": "खगोल भौतिकी में, \"हबल टेंशन\" (Hubble Tension) शब्द का क्या अर्थ है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "दो दूर की आकाशगंगाओं के बीच काम करने वाला गुरुत्वाकर्षण खिंचाव",
+            "image": ""
+          },
+          {
+            "text": "ब्रह्मांड के विस्तार की सटीक दर के बारे में भौतिकविदों के बीच असहमति",
+            "image": ""
+          },
+          {
+            "text": "डार्क मैटर और डार्क एनर्जी के परस्पर संपर्क के कारण होने वाला तनाव",
+            "image": ""
+          },
+          {
+            "text": "समय के साथ कॉस्मिक माइक्रोवेव बैकग्राउंड रेडिएशन का फीका पड़ना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>हबल टेंशन</b> भौतिकविदों के बीच <b>ब्रह्मांड के विस्तार की सटीक दर</b> के बारे में असहमति को संदर्भित करता है। इस दर को हबल स्थिरांक (Hubble constant) का उपयोग करके मापा जाता है, लेकिन अलग-अलग माप विधियां परस्पर विरोधी परिणाम दे रही हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>आकाशगंगाओं के बीच गुरुत्वाकर्षण खिंचाव</b>: यह गुरुत्वाकर्षण का वर्णन करता है, हबल तनाव का नहीं।</li><li><b>डार्क मैटर और डार्क एनर्जी इंटरेक्शन</b>: हालांकि ये ताकतें ब्रह्मांड को प्रभावित करती हैं, लेकिन यह शब्द विशेष रूप से गणना की गई विस्तार दर में विसंगति को संदर्भित करता है।</li><li><b>CMB रेडिएशन का फीका पड़ना</b>: जैसे-जैसे ब्रह्मांड ठंडा होता है, यह एक स्वाभाविक घटना है, लेकिन यह हबल तनाव को परिभाषित नहीं करता है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 10015,
+      "post_author": 1,
+      "post_date": "2026-04-16 10:00:00",
+      "post_content": "The \"Hubble Tension\" arises due to a discrepancy between two primary measurement methods. Which method estimates a lower expansion rate by observing relic radiation from the Big Bang?",
+      "post_title": "Methods causing Hubble Tension",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Cosmic Distance Ladder Method",
+            "image": ""
+          },
+          {
+            "text": "Early Universe Method",
+            "image": ""
+          },
+          {
+            "text": "Stellar Parallax Method",
+            "image": ""
+          },
+          {
+            "text": "Transit Method",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>Early Universe Method</b> estimates a lower expansion rate of the universe (about 67 km/s per megaparsec) by using the cosmic microwave background (relic radiation from the Big Bang) and mathematical models.<h5>Incorrect Options Analysis</h5><ul><li><b>Cosmic Distance Ladder Method</b>: This is the 'Local Measurement Method' which uses observations of nearby stars and supernovae, estimating a higher expansion rate (73-73.5 km/s/Mpc).</li><li><b>Stellar Parallax Method</b>: A method used to measure the distance to nearby stars, but not the primary method causing the Hubble tension discrepancy for the entire universe.</li><li><b>Transit Method</b>: This is used to detect exoplanets, not the universe's expansion rate.</li></ul>",
+        "_aimcq_title_hi": "हबल टेंशन पैदा करने वाले तरीके",
+        "_aimcq_question_content_hi": "\"हबल टेंशन\" दो प्राथमिक माप विधियों के बीच विसंगति के कारण उत्पन्न होता है। कौन सी विधि बिग बैंग से अवशेष विकिरण (relic radiation) का अवलोकन करके कम विस्तार दर का अनुमान लगाती है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "कॉस्मिक डिस्टेंस लैडर मेथड (Cosmic Distance Ladder Method)",
+            "image": ""
+          },
+          {
+            "text": "प्रारंभिक ब्रह्मांड विधि (Early Universe Method)",
+            "image": ""
+          },
+          {
+            "text": "तारकीय लंबन विधि (Stellar Parallax Method)",
+            "image": ""
+          },
+          {
+            "text": "पारगमन विधि (Transit Method)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>प्रारंभिक ब्रह्मांड विधि (Early Universe Method)</b> कॉस्मिक माइक्रोवेव बैकग्राउंड (बिग बैंग से अवशेष विकिरण) और गणितीय मॉडल का उपयोग करके ब्रह्मांड की कम विस्तार दर (लगभग 67 किमी/सेकेंड प्रति मेगापारसेक) का अनुमान लगाती है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>कॉस्मिक डिस्टेंस लैडर मेथड</b>: यह 'स्थानीय मापन विधि' है जो पास के तारों और सुपरनोवा के अवलोकनों का उपयोग करती है, जो उच्च विस्तार दर (73-73.5 किमी/सेकंड/एमपीसी) का अनुमान लगाती है।</li><li><b>तारकीय लंबन विधि</b>: एक विधि जिसका उपयोग पास के तारों की दूरी मापने के लिए किया जाता है, लेकिन यह संपूर्ण ब्रह्मांड के लिए हबल तनाव विसंगति पैदा करने वाली प्राथमिक विधि नहीं है।</li><li><b>पारगमन विधि</b>: इसका उपयोग एक्सोप्लैनेट (बाह्य ग्रहों) का पता लगाने के लिए किया जाता है, न कि ब्रह्मांड के विस्तार दर के लिए।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice",
+          "current-affairs-15-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
