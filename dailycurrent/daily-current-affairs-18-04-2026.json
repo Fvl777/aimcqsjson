@@ -1,0 +1,935 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs",
+      "slug": "current-affairs",
+      "parent": ""
+    },
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs (18 Apr, 2026)",
+      "slug": "current-affairs-18-apr-2026",
+      "parent": "current-affairs"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1001,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "What indigenous political philosophy was developed by Subhas Chandra Bose aimed at synthesising global ideologies?",
+      "post_title": "Bose's Political Philosophy",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Antyodaya",
+            "image": ""
+          },
+          {
+            "text": "Samyavada",
+            "image": ""
+          },
+          {
+            "text": "Sarvodaya",
+            "image": ""
+          },
+          {
+            "text": "Panchsheel",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Subhas Chandra Bose developed <strong>Samyavada</strong>, the \"Doctrine of Harmony,\" as an indigenous political philosophy aimed at synthesising the strengths of global ideologies like Fascism and Communism while rejecting their extremes.<h5>Incorrect Options Analysis</h5><ul><li><strong>Antyodaya</strong>: Associated with Deendayal Upadhyaya.</li><li><strong>Sarvodaya</strong>: Associated with Mahatma Gandhi and Vinoba Bhave.</li><li><strong>Panchsheel</strong>: Refers to the Five Principles of Peaceful Coexistence introduced by Jawaharlal Nehru.</li></ul>",
+        "_aimcq_title_hi": "बोस का राजनीतिक दर्शन",
+        "_aimcq_question_content_hi": "सुभाष चंद्र बोस द्वारा वैश्विक विचारधाराओं को संश्लेषित करने के उद्देश्य से कौन सा स्वदेशी राजनीतिक दर्शन विकसित किया गया था?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अंत्योदय",
+            "image": ""
+          },
+          {
+            "text": "साम्यवाद",
+            "image": ""
+          },
+          {
+            "text": "सर्वोदय",
+            "image": ""
+          },
+          {
+            "text": "पंचशील",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>सुभाष चंद्र बोस ने फासीवाद और साम्यवाद जैसी वैश्विक विचारधाराओं की ताकत को संश्लेषित करने और उनकी चरम सीमाओं को खारिज करने के उद्देश्य से एक स्वदेशी राजनीतिक दर्शन के रूप में <strong>साम्यवाद</strong>, \"सद्भाव का सिद्धांत\" विकसित किया।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1002,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "In which year did Subhas Chandra Bose establish the National Planning Committee?",
+      "post_title": "National Planning Committee Establishment",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "1935",
+            "image": ""
+          },
+          {
+            "text": "1938",
+            "image": ""
+          },
+          {
+            "text": "1939",
+            "image": ""
+          },
+          {
+            "text": "1941",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Subhas Chandra Bose championed scientific large-scale production and institutionalized it through his creation of the <strong>National Planning Committee</strong> during his <strong>1938</strong> Haripura presidency of the INC. Jawaharlal Nehru was appointed to chair it.",
+        "_aimcq_title_hi": "राष्ट्रीय योजना समिति की स्थापना",
+        "_aimcq_question_content_hi": "सुभाष चंद्र बोस ने राष्ट्रीय योजना समिति की स्थापना किस वर्ष की थी?",
+        "_aimcq_options_hi": [
+          {
+            "text": "1935",
+            "image": ""
+          },
+          {
+            "text": "1938",
+            "image": ""
+          },
+          {
+            "text": "1939",
+            "image": ""
+          },
+          {
+            "text": "1941",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>सुभाष चंद्र बोस ने वैज्ञानिक बड़े पैमाने पर उत्पादन का समर्थन किया और <strong>1938</strong> में अपने हरिपुरा कांग्रेस अध्यक्षीय कार्यकाल के दौरान <strong>राष्ट्रीय योजना समिति</strong> के निर्माण के माध्यम से इसे संस्थागत रूप दिया। जवाहरलाल नेहरू को इसकी अध्यक्षता करने के लिए नियुक्त किया गया था।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1003,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "For which period has the River Basin Management (RBM) Scheme been extended?",
+      "post_title": "River Basin Management Scheme Extension",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "2024-25 to 2028-29",
+            "image": ""
+          },
+          {
+            "text": "2025-26 to 2029-30",
+            "image": ""
+          },
+          {
+            "text": "2026-27 to 2030-31",
+            "image": ""
+          },
+          {
+            "text": "2027-28 to 2031-32",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>River Basin Management (RBM) Scheme</strong> has been extended for the 16th Finance Commission period spanning <strong>2026-27 to 2030-31</strong> to ensure the integrated planning and sustainable use of water resources.",
+        "_aimcq_title_hi": "नदी बेसिन प्रबंधन योजना का विस्तार",
+        "_aimcq_question_content_hi": "नदी बेसिन प्रबंधन (RBM) योजना को किस अवधि के लिए बढ़ाया गया है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "2024-25 से 2028-29",
+            "image": ""
+          },
+          {
+            "text": "2025-26 से 2029-30",
+            "image": ""
+          },
+          {
+            "text": "2026-27 से 2030-31",
+            "image": ""
+          },
+          {
+            "text": "2027-28 से 2031-32",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>जल संसाधनों की एकीकृत योजना और सतत उपयोग सुनिश्चित करने के लिए <strong>नदी बेसिन प्रबंधन (RBM) योजना</strong> को 16वें वित्त आयोग की अवधि <strong>2026-27 से 2030-31</strong> तक बढ़ा दिया गया है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1004,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Which agency is responsible for preparing feasibility reports for the Interlinking of Rivers (ILR) programme under the RBM Scheme?",
+      "post_title": "Agency for Interlinking of Rivers",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Central Water Commission",
+            "image": ""
+          },
+          {
+            "text": "Brahmaputra Board",
+            "image": ""
+          },
+          {
+            "text": "National Water Development Agency",
+            "image": ""
+          },
+          {
+            "text": "NITI Aayog",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>National Water Development Agency (NWDA)</strong> handles national-level water planning, specifically the preparation of feasibility reports for the Interlinking of Rivers (ILR) programme under the River Basin Management Scheme.",
+        "_aimcq_title_hi": "नदियों को जोड़ने के लिए एजेंसी",
+        "_aimcq_question_content_hi": "RBM योजना के तहत नदियों को जोड़ने (ILR) कार्यक्रम के लिए व्यवहार्यता रिपोर्ट तैयार करने के लिए कौन सी एजेंसी जिम्मेदार है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "केंद्रीय जल आयोग",
+            "image": ""
+          },
+          {
+            "text": "ब्रह्मपुत्र बोर्ड",
+            "image": ""
+          },
+          {
+            "text": "राष्ट्रीय जल विकास एजेंसी",
+            "image": ""
+          },
+          {
+            "text": "नीति आयोग",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>राष्ट्रीय जल विकास एजेंसी (NWDA)</strong> नदी बेसिन प्रबंधन योजना के तहत राष्ट्रीय स्तर की जल योजना को संभालती है, विशेष रूप से नदियों को जोड़ने (ILR) कार्यक्रम के लिए व्यवहार्यता रिपोर्ट तैयार करना।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1005,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Which Article of the Indian Constitution mandates the election of the Deputy Chairman of the Rajya Sabha?",
+      "post_title": "Rajya Sabha Deputy Chairman Article",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Article 80",
+            "image": ""
+          },
+          {
+            "text": "Article 89(2)",
+            "image": ""
+          },
+          {
+            "text": "Article 93",
+            "image": ""
+          },
+          {
+            "text": "Article 100",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5><strong>Article 89(2)</strong> of the Constitution of India mandates that the Council of States (Rajya Sabha) shall elect one of its members as the Deputy Chairman.",
+        "_aimcq_title_hi": "राज्यसभा के उपसभापति से संबंधित अनुच्छेद",
+        "_aimcq_question_content_hi": "भारतीय संविधान का कौन सा अनुच्छेद राज्यसभा के उपसभापति के चुनाव का प्रावधान करता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अनुच्छेद 80",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 89(2)",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 93",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 100",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>भारतीय संविधान के <strong>अनुच्छेद 89(2)</strong> में कहा गया है कि राज्यों की परिषद (राज्यसभा) अपने सदस्यों में से एक को उपसभापति के रूप में चुनेगी।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1006,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Who recently became the first nominated Member of Parliament to be re-elected as the Rajya Sabha Deputy Chairman for a third consecutive term?",
+      "post_title": "Nominated MP as Deputy Chairman",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Jagdeep Dhankhar",
+            "image": ""
+          },
+          {
+            "text": "Harivansh Narayan Singh",
+            "image": ""
+          },
+          {
+            "text": "P.T. Usha",
+            "image": ""
+          },
+          {
+            "text": "Ranjan Gogoi",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>In a historic first, a nominated Member of Parliament, <strong>Harivansh Narayan Singh</strong>, has been made the Rajya Sabha Deputy Chairman. He was re-elected unopposed for a third consecutive term.",
+        "_aimcq_title_hi": "उपसभापति के रूप में मनोनीत सांसद",
+        "_aimcq_question_content_hi": "हाल ही में लगातार तीसरी बार राज्यसभा के उपसभापति के रूप में फिर से चुने जाने वाले पहले मनोनीत सांसद कौन बने हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "जगदीप धनखड़",
+            "image": ""
+          },
+          {
+            "text": "हरिवंश नारायण सिंह",
+            "image": ""
+          },
+          {
+            "text": "पी.टी. उषा",
+            "image": ""
+          },
+          {
+            "text": "रंजन गोगोई",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>एक ऐतिहासिक प्रथम घटना में, मनोनीत सांसद <strong>हरिवंश नारायण सिंह</strong> को लगातार तीसरी बार राज्यसभा का उपसभापति बनाया गया है। उन्हें निर्विरोध फिर से चुना गया।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1007,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The Constitution (131st Amendment) Bill, 2026, which recently failed to pass in the Lok Sabha, was related to what?",
+      "post_title": "131st Amendment Bill 2026",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Uniform Civil Code",
+            "image": ""
+          },
+          {
+            "text": "One Nation One Election",
+            "image": ""
+          },
+          {
+            "text": "Fast-tracking 33% women's reservation",
+            "image": ""
+          },
+          {
+            "text": "Lowering voting age",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Lok Sabha failed to pass the <strong>Constitution (131st Amendment) Bill, 2026</strong>, which aimed to <strong>fast-track the implementation of 33% reservation for women</strong> in legislatures by enabling delimitation based on the 2011 Census.",
+        "_aimcq_title_hi": "131वां संशोधन विधेयक 2026",
+        "_aimcq_question_content_hi": "संविधान (131वां संशोधन) विधेयक, 2026, जो हाल ही में लोकसभा में पारित होने में विफल रहा, किससे संबंधित था?",
+        "_aimcq_options_hi": [
+          {
+            "text": "समान नागरिक संहिता",
+            "image": ""
+          },
+          {
+            "text": "एक देश एक चुनाव",
+            "image": ""
+          },
+          {
+            "text": "33% महिला आरक्षण को तेजी से लागू करना",
+            "image": ""
+          },
+          {
+            "text": "मतदान की आयु कम करना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>लोकसभा <strong>संविधान (131वां संशोधन) विधेयक, 2026</strong> को पारित करने में विफल रही, जिसका उद्देश्य 2011 की जनगणना के आधार पर परिसीमन को सक्षम करके विधायिकाओं में <strong>महिलाओं के लिए 33% आरक्षण के कार्यान्वयन में तेजी लाना</strong> था।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1008,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The 106th Constitutional Amendment Act, 2023, also known as Nari Shakti Vandan Adhiniyam, provides what percentage of reservation for women in the Lok Sabha?",
+      "post_title": "Women's Reservation Percentage",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "25%",
+            "image": ""
+          },
+          {
+            "text": "33%",
+            "image": ""
+          },
+          {
+            "text": "50%",
+            "image": ""
+          },
+          {
+            "text": "10%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The 106th Constitutional Amendment Act, 2023 (Nari Shakti Vandan Adhiniyam) provides <strong>1/3rd or 33% reservation</strong> for women in the Lok Sabha and State Legislative Assemblies.",
+        "_aimcq_title_hi": "महिला आरक्षण प्रतिशत",
+        "_aimcq_question_content_hi": "106वां संवैधानिक संशोधन अधिनियम, 2023, जिसे नारी शक्ति वंदन अधिनियम के रूप में भी जाना जाता है, लोकसभा में महिलाओं के लिए कितने प्रतिशत आरक्षण प्रदान करता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "25%",
+            "image": ""
+          },
+          {
+            "text": "33%",
+            "image": ""
+          },
+          {
+            "text": "50%",
+            "image": ""
+          },
+          {
+            "text": "10%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>106वां संवैधानिक संशोधन अधिनियम, 2023 (नारी शक्ति वंदन अधिनियम) लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए <strong>1/3 या 33% आरक्षण</strong> प्रदान करता है।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1009,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The National Chambal Sanctuary is a tri-state protected area spread across which of the following states?",
+      "post_title": "National Chambal Sanctuary Location",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "MP, UP and Bihar",
+            "image": ""
+          },
+          {
+            "text": "Rajasthan, MP and UP",
+            "image": ""
+          },
+          {
+            "text": "Gujarat, Rajasthan and MP",
+            "image": ""
+          },
+          {
+            "text": "MP, Maharashtra and Gujarat",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The National Chambal Sanctuary is the first and only tri-state protected area in the country, spanning <strong>Rajasthan, Madhya Pradesh, and Uttar Pradesh</strong> along a 600 km stretch of the Chambal River.",
+        "_aimcq_title_hi": "राष्ट्रीय चंबल अभयारण्य का स्थान",
+        "_aimcq_question_content_hi": "राष्ट्रीय चंबल अभयारण्य किन राज्यों में फैला एक त्रि-राज्य संरक्षित क्षेत्र है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "एमपी, यूपी और बिहार",
+            "image": ""
+          },
+          {
+            "text": "राजस्थान, एमपी और यूपी",
+            "image": ""
+          },
+          {
+            "text": "गुजरात, राजस्थान और एमपी",
+            "image": ""
+          },
+          {
+            "text": "एमपी, महाराष्ट्र और गुजरात",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>राष्ट्रीय चंबल अभयारण्य देश का पहला और एकमात्र त्रि-राज्य संरक्षित क्षेत्र है, जो चंबल नदी के 600 किमी के विस्तार में <strong>राजस्थान, मध्य प्रदेश और उत्तर प्रदेश</strong> में फैला है।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1010,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The National Chambal Sanctuary is known for harbouring nearly 90% of the world's remaining wild population of which species?",
+      "post_title": "Key Species of Chambal Sanctuary",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Saltwater Crocodile",
+            "image": ""
+          },
+          {
+            "text": "Gharial",
+            "image": ""
+          },
+          {
+            "text": "Mugger Crocodile",
+            "image": ""
+          },
+          {
+            "text": "Olive Ridley Turtle",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The National Chambal Sanctuary harbors nearly 90% of the world's remaining wild <strong>Gharial</strong> population, making it a critical habitat for this endangered species.",
+        "_aimcq_title_hi": "चंबल अभयारण्य की प्रमुख प्रजाति",
+        "_aimcq_question_content_hi": "राष्ट्रीय चंबल अभयारण्य किस प्रजाति की दुनिया की शेष जंगली आबादी का लगभग 90% आश्रय देने के लिए जाना जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "खारे पानी का मगरमच्छ",
+            "image": ""
+          },
+          {
+            "text": "घड़ियाल",
+            "image": ""
+          },
+          {
+            "text": "मगरमच्छ",
+            "image": ""
+          },
+          {
+            "text": "ओलिव रिडले कछुआ",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>राष्ट्रीय चंबल अभयारण्य दुनिया की शेष जंगली <strong>घड़ियाल</strong> आबादी का लगभग 90% आश्रय देता है, जो इसे इस लुप्तप्राय प्रजाति के लिए एक महत्वपूर्ण निवास स्थान बनाता है।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1011,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Which scheme was recently expanded by the government to provide a financial safety net for Indian exporters facing maritime risks in West Asia?",
+      "post_title": "Scheme for Exporter Safety Net",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "RELIEF Scheme",
+            "image": ""
+          },
+          {
+            "text": "NIRYAT Scheme",
+            "image": ""
+          },
+          {
+            "text": "RAMP Scheme",
+            "image": ""
+          },
+          {
+            "text": "ECGC Shield Scheme",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The government expanded the Resilience & Logistics Intervention for Export Facilitation <strong>(RELIEF) Scheme</strong> in response to geopolitical tensions and maritime disruptions in West Asia to provide risk protection for exporters.",
+        "_aimcq_title_hi": "निर्यातकों के लिए सुरक्षा जाल योजना",
+        "_aimcq_question_content_hi": "पश्चिम एशिया में समुद्री जोखिमों का सामना कर रहे भारतीय निर्यातकों को वित्तीय सुरक्षा जाल प्रदान करने के लिए हाल ही में सरकार द्वारा किस योजना का विस्तार किया गया था?",
+        "_aimcq_options_hi": [
+          {
+            "text": "RELIEF योजना",
+            "image": ""
+          },
+          {
+            "text": "NIRYAT योजना",
+            "image": ""
+          },
+          {
+            "text": "RAMP योजना",
+            "image": ""
+          },
+          {
+            "text": "ECGC शील्ड योजना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>सरकार ने पश्चिम एशिया में भू-राजनीतिक तनाव और समुद्री व्यवधानों के जवाब में निर्यातकों को जोखिम से बचाने के लिए निर्यात सुविधा के लिए लचीलापन और रसद हस्तक्षेप <strong>(RELIEF) योजना</strong> का विस्तार किया।",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1012,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The RELIEF Scheme is implemented through which organization?",
+      "post_title": "Implementing Agency for RELIEF Scheme",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Reserve Bank of India",
+            "image": ""
+          },
+          {
+            "text": "Export Credit Guarantee Corporation of India",
+            "image": ""
+          },
+          {
+            "text": "EXIM Bank",
+            "image": ""
+          },
+          {
+            "text": "Directorate General of Foreign Trade",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The RELIEF scheme is implemented through the <strong>Export Credit Guarantee Corporation of India (ECGC)</strong>, which handles claims, disbursement, and monitoring of the insurance cover.",
+        "_aimcq_title_hi": "RELIEF योजना के लिए कार्यान्वयन एजेंसी",
+        "_aimcq_question_content_hi": "RELIEF योजना किस संगठन के माध्यम से लागू की जाती है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भारतीय रिजर्व बैंक",
+            "image": ""
+          },
+          {
+            "text": "भारतीय निर्यात ऋण गारंटी निगम",
+            "image": ""
+          },
+          {
+            "text": "एक्ज़िम बैंक",
+            "image": ""
+          },
+          {
+            "text": "विदेश व्यापार महानिदेशालय",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>RELIEF योजना को <strong>भारतीय निर्यात ऋण गारंटी निगम (ECGC)</strong> के माध्यम से लागू किया जाता है, जो दावों, संवितरण और बीमा कवर की निगरानी को संभालता है।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1013,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Financial Intelligence Unit-India (FIU-IND) recently signed an MoU to combat financial crimes with which regulatory body?",
+      "post_title": "FIU-IND MoU with Regulatory Body",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "RBI",
+            "image": ""
+          },
+          {
+            "text": "SEBI",
+            "image": ""
+          },
+          {
+            "text": "IRDAI",
+            "image": ""
+          },
+          {
+            "text": "PFRDA",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Financial Intelligence Unit-India (FIU-IND) and the <strong>Securities and Exchange Board of India (SEBI)</strong> signed an MoU to strengthen efforts against money laundering, financial crimes, and terrorist financing.",
+        "_aimcq_title_hi": "FIU-IND का नियामक निकाय के साथ समझौता",
+        "_aimcq_question_content_hi": "वित्तीय खुफिया इकाई-भारत (FIU-IND) ने हाल ही में किस नियामक निकाय के साथ वित्तीय अपराधों का मुकाबला करने के लिए एक समझौता ज्ञापन पर हस्ताक्षर किए हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "आरबीआई",
+            "image": ""
+          },
+          {
+            "text": "सेबी",
+            "image": ""
+          },
+          {
+            "text": "इरडाई",
+            "image": ""
+          },
+          {
+            "text": "पीएफआरडीए",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>वित्तीय खुफिया इकाई-भारत (FIU-IND) और <strong>भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)</strong> ने मनी लॉन्ड्रिंग, वित्तीय अपराधों और आतंकवादी वित्तपोषण के खिलाफ प्रयासों को मजबूत करने के लिए एक समझौता ज्ञापन पर हस्ताक्षर किए।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1014,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Which Indian river basin has the largest catchment area, accounting for over 43% of the total catchment area of major rivers?",
+      "post_title": "Largest River Basin in India",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Godavari Basin",
+            "image": ""
+          },
+          {
+            "text": "Indus Basin",
+            "image": ""
+          },
+          {
+            "text": "Ganga-Brahmaputra-Meghna Basin",
+            "image": ""
+          },
+          {
+            "text": "Krishna Basin",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>Ganga-Brahmaputra-Meghna basin</strong> is the largest in India, with a catchment area of around 11.0 lakh sq km, accounting for over 43% of the total catchment area of major rivers.",
+        "_aimcq_title_hi": "भारत का सबसे बड़ा नदी बेसिन",
+        "_aimcq_question_content_hi": "किस भारतीय नदी बेसिन का जलग्रहण क्षेत्र सबसे बड़ा है, जो प्रमुख नदियों के कुल जलग्रहण क्षेत्र का 43% से अधिक है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "गोदावरी बेसिन",
+            "image": ""
+          },
+          {
+            "text": "सिंधु बेसिन",
+            "image": ""
+          },
+          {
+            "text": "गंगा-ब्रह्मपुत्र-मेघना बेसिन",
+            "image": ""
+          },
+          {
+            "text": "कृष्णा बेसिन",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>गंगा-ब्रह्मपुत्र-मेघना बेसिन</strong> सबसे बड़ा है, जिसका जलग्रहण क्षेत्र लगभग 11.0 लाख वर्ग किमी है, जो प्रमुख नदियों के कुल जलग्रहण क्षेत्र का 43% से अधिक है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1015,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Subhas Chandra Bose developed 'Samyavada' and articulated it through which political party formed in 1939?",
+      "post_title": "Bose's Political Party (1939)",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Swaraj Party",
+            "image": ""
+          },
+          {
+            "text": "Indian National Army",
+            "image": ""
+          },
+          {
+            "text": "Forward Bloc",
+            "image": ""
+          },
+          {
+            "text": "Ghadar Party",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Subhas Chandra Bose developed Samyavada (Doctrine of Harmony) as an indigenous political philosophy and articulated it through the <strong>Forward Bloc</strong> (founded in 1939) as India's unique contribution to world thought.",
+        "_aimcq_title_hi": "बोस की राजनीतिक पार्टी (1939)",
+        "_aimcq_question_content_hi": "सुभाष चंद्र बोस ने 'साम्यवाद' विकसित किया और 1939 में गठित किस राजनीतिक दल के माध्यम से इसे स्पष्ट किया?",
+        "_aimcq_options_hi": [
+          {
+            "text": "स्वराज पार्टी",
+            "image": ""
+          },
+          {
+            "text": "इंडियन नेशनल आर्मी",
+            "image": ""
+          },
+          {
+            "text": "फॉरवर्ड ब्लॉक",
+            "image": ""
+          },
+          {
+            "text": "गदर पार्टी",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>सुभाष चंद्र बोस ने एक स्वदेशी राजनीतिक दर्शन के रूप में साम्यवाद (सद्भाव का सिद्धांत) विकसित किया और इसे <strong>फॉरवर्ड ब्लॉक</strong> (1939 में स्थापित) के माध्यम से विश्व विचार में भारत के अद्वितीय योगदान के रूप में स्पष्ट किया।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-18-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
