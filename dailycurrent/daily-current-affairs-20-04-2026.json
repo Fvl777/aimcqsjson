@@ -1,0 +1,935 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs",
+      "slug": "current-affairs",
+      "parent": ""
+    },
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs (20 Apr, 2026)",
+      "slug": "current-affairs-20-apr-2026",
+      "parent": "current-affairs"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1016,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Which ministry formulated the new comprehensive deportation policy to expedite the identification and deportation of illegal migrants?",
+      "post_title": "New Deportation Policy Ministry",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Ministry of Defence",
+            "image": ""
+          },
+          {
+            "text": "Ministry of External Affairs",
+            "image": ""
+          },
+          {
+            "text": "Ministry of Home Affairs",
+            "image": ""
+          },
+          {
+            "text": "Ministry of Law and Justice",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>Union Ministry of Home Affairs (MHA)</strong> has formulated a new comprehensive deportation policy to expedite the identification and deportation of illegal migrants, particularly from Bangladesh and Myanmar.",
+        "_aimcq_title_hi": "नई निर्वासन नीति मंत्रालय",
+        "_aimcq_question_content_hi": "अवैध प्रवासियों की पहचान और निर्वासन में तेजी लाने के लिए किस मंत्रालय ने नई व्यापक निर्वासन नीति तैयार की है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "रक्षा मंत्रालय",
+            "image": ""
+          },
+          {
+            "text": "विदेश मंत्रालय",
+            "image": ""
+          },
+          {
+            "text": "गृह मंत्रालय",
+            "image": ""
+          },
+          {
+            "text": "कानून और न्याय मंत्रालय",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>केंद्रीय गृह मंत्रालय (MHA)</strong> ने विशेष रूप से बांग्लादेश और म्यांमार से अवैध प्रवासियों की पहचान और निर्वासन में तेजी लाने के लिए एक नई व्यापक निर्वासन नीति तैयार की है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1017,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Under the new deportation policy, what is the maximum time limit fixed to verify the antecedents of suspected undocumented migrants?",
+      "post_title": "Deportation Verification Timeline",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "30 days",
+            "image": ""
+          },
+          {
+            "text": "60 days",
+            "image": ""
+          },
+          {
+            "text": "90 days",
+            "image": ""
+          },
+          {
+            "text": "120 days",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>An upper limit of <strong>90 days</strong> has been fixed to verify the antecedents of suspected Bangladeshi or Myanmarese nationals, particularly if they claim residency in another State.",
+        "_aimcq_title_hi": "निर्वासन सत्यापन समयरेखा",
+        "_aimcq_question_content_hi": "नई निर्वासन नीति के तहत, संदिग्ध गैर-दस्तावेजी प्रवासियों के पूर्ववृत्त को सत्यापित करने के लिए निर्धारित अधिकतम समय सीमा क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "30 दिन",
+            "image": ""
+          },
+          {
+            "text": "60 दिन",
+            "image": ""
+          },
+          {
+            "text": "90 दिन",
+            "image": ""
+          },
+          {
+            "text": "120 दिन",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>संदिग्ध बांग्लादेशी या म्यांमार के नागरिकों के पूर्ववृत्त को सत्यापित करने के लिए <strong>90 दिनों</strong> की अधिकतम सीमा तय की गई है, खासकर यदि वे किसी अन्य राज्य में निवास का दावा करते हैं।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1018,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Which new act replaces the Foreigners Act of 1946 and consolidates India's immigration framework?",
+      "post_title": "Immigration and Foreigners Act 2025",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Immigration and Foreigners Act, 2025",
+            "image": ""
+          },
+          {
+            "text": "Citizenship Amendment Act, 2024",
+            "image": ""
+          },
+          {
+            "text": "Foreigners Tribunal Act, 2025",
+            "image": ""
+          },
+          {
+            "text": "Illegal Migrants Act, 2024",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>Immigration and Foreigners Act, 2025</strong> consolidates India's immigration framework by replacing four older laws (including the Foreigners Act, 1946) and introduces stricter regulatory and enforcement measures.",
+        "_aimcq_title_hi": "आव्रजन और विदेशी अधिनियम 2025",
+        "_aimcq_question_content_hi": "कौन सा नया अधिनियम 1946 के विदेशी अधिनियम की जगह लेता है और भारत के आव्रजन ढांचे को समेकित करता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "आव्रजन और विदेशी अधिनियम, 2025",
+            "image": ""
+          },
+          {
+            "text": "नागरिकता संशोधन अधिनियम, 2024",
+            "image": ""
+          },
+          {
+            "text": "विदेशी न्यायाधिकरण अधिनियम, 2025",
+            "image": ""
+          },
+          {
+            "text": "अवैध प्रवासी अधिनियम, 2024",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>आव्रजन और विदेशी अधिनियम, 2025</strong> चार पुराने कानूनों (विदेशी अधिनियम, 1946 सहित) की जगह लेकर भारत के आव्रजन ढांचे को समेकित करता है और सख्त नियामक और प्रवर्तन उपाय पेश करता है।",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1019,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "What is the name of the portal launched to capture the biometric and demographic details of intercepted illegal foreigners?",
+      "post_title": "Foreigners Identification Portal",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Foreigners Tracking Portal",
+            "image": ""
+          },
+          {
+            "text": "Foreigners Identification Portal",
+            "image": ""
+          },
+          {
+            "text": "Bureau of Immigration Portal",
+            "image": ""
+          },
+          {
+            "text": "National Migrant Database",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>A dedicated <strong>Foreigners Identification Portal (FIP)</strong> has been launched to capture the biometric (fingerprints and facial photographs) and demographic details of intercepted illegal foreigners.",
+        "_aimcq_title_hi": "विदेशी पहचान पोर्टल",
+        "_aimcq_question_content_hi": "रोके गए अवैध विदेशियों के बायोमेट्रिक और जनसांख्यिकीय विवरण को दर्ज करने के लिए शुरू किए गए पोर्टल का नाम क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "विदेशी ट्रैकिंग पोर्टल",
+            "image": ""
+          },
+          {
+            "text": "विदेशी पहचान पोर्टल",
+            "image": ""
+          },
+          {
+            "text": "आव्रजन ब्यूरो पोर्टल",
+            "image": ""
+          },
+          {
+            "text": "राष्ट्रीय प्रवासी डेटाबेस",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>रोके गए अवैध विदेशियों के बायोमेट्रिक (उंगलियों के निशान और चेहरे की तस्वीरें) और जनसांख्यिकीय विवरण प्राप्त करने के लिए एक समर्पित <strong>विदेशी पहचान पोर्टल (FIP)</strong> शुरू किया गया है।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1020,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "India has extended the Overseas Citizen of India (OCI) scheme eligibility to which generation of the Indian diaspora in Sri Lanka?",
+      "post_title": "OCI Eligibility Extension",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Third and fourth generations",
+            "image": ""
+          },
+          {
+            "text": "Fourth and fifth generations",
+            "image": ""
+          },
+          {
+            "text": "Fifth and sixth generations",
+            "image": ""
+          },
+          {
+            "text": "Sixth and seventh generations",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>India has extended the OCI scheme to the <strong>fifth and sixth generations</strong> of the Indian diaspora in Sri Lanka. Previously limited to the fourth generation, this move will specifically benefit the Indian Origin Tamil (Malaiyaha Tamil) community.",
+        "_aimcq_title_hi": "ओसीआई पात्रता विस्तार",
+        "_aimcq_question_content_hi": "भारत ने श्रीलंका में भारतीय डायस्पोरा की किस पीढ़ी तक भारत के विदेशी नागरिक (OCI) योजना की पात्रता बढ़ा दी है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "तीसरी और चौथी पीढ़ी",
+            "image": ""
+          },
+          {
+            "text": "चौथी और पांचवीं पीढ़ी",
+            "image": ""
+          },
+          {
+            "text": "पांचवीं और छठी पीढ़ी",
+            "image": ""
+          },
+          {
+            "text": "छठी और सातवीं पीढ़ी",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>भारत ने श्रीलंका में भारतीय डायस्पोरा की <strong>पांचवीं और छठी पीढ़ी</strong> तक OCI योजना का विस्तार किया है। पहले यह चौथी पीढ़ी तक सीमित था, इस कदम से विशेष रूप से भारतीय मूल के तमिल (मलयहा तमिल) समुदाय को लाभ होगा।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1021,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "India recently signed a tripartite MoU to develop the Trincomalee energy hub with Sri Lanka and which other country?",
+      "post_title": "Trincomalee Energy Hub Tripartite MoU",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "USA",
+            "image": ""
+          },
+          {
+            "text": "UAE",
+            "image": ""
+          },
+          {
+            "text": "France",
+            "image": ""
+          },
+          {
+            "text": "Saudi Arabia",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The push to develop the 'energy hub' in the Trincomalee district follows an April 2025 tripartite Memorandum of Understanding (MoU) signed between India, Sri Lanka, and the <strong>UAE</strong>.",
+        "_aimcq_title_hi": "त्रिंकोमाली ऊर्जा केंद्र त्रिपक्षीय समझौता ज्ञापन",
+        "_aimcq_question_content_hi": "भारत ने हाल ही में श्रीलंका और किस अन्य देश के साथ त्रिंकोमाली ऊर्जा केंद्र विकसित करने के लिए एक त्रिपक्षीय समझौता ज्ञापन पर हस्ताक्षर किए हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अमेरिका",
+            "image": ""
+          },
+          {
+            "text": "यूएई",
+            "image": ""
+          },
+          {
+            "text": "फ्रांस",
+            "image": ""
+          },
+          {
+            "text": "सऊदी अरब",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>त्रिंकोमाली जिले में 'ऊर्जा केंद्र' विकसित करने का प्रयास अप्रैल 2025 में भारत, श्रीलंका और <strong>यूएई</strong> के बीच हस्ताक्षरित त्रिपक्षीय समझौता ज्ञापन (MoU) के बाद हुआ है।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1022,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Citizens of which of the following countries are strictly ineligible for registration under the Overseas Citizen of India (OCI) scheme?",
+      "post_title": "OCI Ineligibility",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Nepal and Bhutan",
+            "image": ""
+          },
+          {
+            "text": "Sri Lanka and Maldives",
+            "image": ""
+          },
+          {
+            "text": "Pakistan and Bangladesh",
+            "image": ""
+          },
+          {
+            "text": "Afghanistan and Myanmar",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>A person, who or either of whose parents or grandparents or great grandparents is or has been a citizen of <strong>Pakistan or Bangladesh</strong>, is strictly ineligible for OCI registration.",
+        "_aimcq_title_hi": "ओसीआई अपात्रता",
+        "_aimcq_question_content_hi": "निम्नलिखित में से किस देश के नागरिक भारत के विदेशी नागरिक (OCI) योजना के तहत पंजीकरण के लिए सख्त रूप से अपात्र हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "नेपाल और भूटान",
+            "image": ""
+          },
+          {
+            "text": "श्रीलंका और मालदीव",
+            "image": ""
+          },
+          {
+            "text": "पाकिस्तान और बांग्लादेश",
+            "image": ""
+          },
+          {
+            "text": "अफगानिस्तान और म्यांमार",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>एक व्यक्ति, जो या जिसके माता-पिता या दादा-दादी या परदादा <strong>पाकिस्तान या बांग्लादेश</strong> के नागरिक हैं या रहे हैं, ओसीआई पंजीकरण के लिए सख्त रूप से अपात्र है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1023,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "In which financial year did the number of recognized startups under the Startup India initiative cross the 55,200 mark, making it the highest ever in a single year?",
+      "post_title": "Startup India Record Growth",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "FY 2022-23",
+            "image": ""
+          },
+          {
+            "text": "FY 2023-24",
+            "image": ""
+          },
+          {
+            "text": "FY 2024-25",
+            "image": ""
+          },
+          {
+            "text": "FY 2025-26",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The government reported that over 55,200 startups were recognized in <strong>FY 2025-26</strong>, the highest ever in a single year since the launch of the Startup India initiative.",
+        "_aimcq_title_hi": "स्टार्टअप इंडिया रिकॉर्ड विकास",
+        "_aimcq_question_content_hi": "किस वित्तीय वर्ष में स्टार्टअप इंडिया पहल के तहत मान्यता प्राप्त स्टार्टअप्स की संख्या 55,200 का आंकड़ा पार कर गई, जो एक ही वर्ष में अब तक का सबसे अधिक है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "वित्त वर्ष 2022-23",
+            "image": ""
+          },
+          {
+            "text": "वित्त वर्ष 2023-24",
+            "image": ""
+          },
+          {
+            "text": "वित्त वर्ष 2024-25",
+            "image": ""
+          },
+          {
+            "text": "वित्त वर्ष 2025-26",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>सरकार ने बताया कि <strong>वित्त वर्ष 2025-26</strong> में 55,200 से अधिक स्टार्टअप्स को मान्यता दी गई, जो स्टार्टअप इंडिया पहल की शुरुआत के बाद से एक ही वर्ष में अब तक का सबसे अधिक है।",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1024,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The Fund of Funds for Startups (FFS) under the Startup India Action Plan is managed by which organization?",
+      "post_title": "Fund of Funds for Startups Manager",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "RBI",
+            "image": ""
+          },
+          {
+            "text": "SEBI",
+            "image": ""
+          },
+          {
+            "text": "SIDBI",
+            "image": ""
+          },
+          {
+            "text": "NABARD",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Fund of Funds for Startups (FFS) is a flagship initiative of DPIIT under the Startup India Action Plan, managed by the <strong>Small Industries Development Bank of India (SIDBI)</strong>, with a Rs 10,000 crore corpus.",
+        "_aimcq_title_hi": "स्टार्टअप्स के लिए फंड ऑफ फंड्स प्रबंधक",
+        "_aimcq_question_content_hi": "स्टार्टअप इंडिया एक्शन प्लान के तहत फंड ऑफ फंड्स फॉर स्टार्टअप्स (FFS) का प्रबंधन किस संगठन द्वारा किया जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "आरबीआई",
+            "image": ""
+          },
+          {
+            "text": "सेबी",
+            "image": ""
+          },
+          {
+            "text": "सिडबी",
+            "image": ""
+          },
+          {
+            "text": "नाबार्ड",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>फंड ऑफ फंड्स फॉर स्टार्टअप्स (FFS) स्टार्टअप इंडिया एक्शन प्लान के तहत DPIIT की एक प्रमुख पहल है, जिसका प्रबंधन <strong>भारतीय लघु उद्योग विकास बैंक (SIDBI)</strong> द्वारा 10,000 करोड़ रुपये के कोष के साथ किया जाता है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1025,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Which gene-editing tool is utilized in 'gene drive' technology to suppress malaria transmission in mosquitoes?",
+      "post_title": "Gene Drive Technology Tool",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "TALENs",
+            "image": ""
+          },
+          {
+            "text": "ZFNs",
+            "image": ""
+          },
+          {
+            "text": "CRISPR-Cas9",
+            "image": ""
+          },
+          {
+            "text": "RNA interference",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>A gene drive is a genetic technology that bypasses traditional inheritance rules using the <strong>CRISPR-Cas9</strong> gene-editing tool. It ensures a modified gene is passed to over 90% of offspring.",
+        "_aimcq_title_hi": "जीन ड्राइव तकनीक उपकरण",
+        "_aimcq_question_content_hi": "मच्छरों में मलेरिया संचरण को दबाने के लिए 'जीन ड्राइव' तकनीक में किस जीन-संपादन उपकरण का उपयोग किया जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "टैलेंस (TALENs)",
+            "image": ""
+          },
+          {
+            "text": "जेडएफएन (ZFNs)",
+            "image": ""
+          },
+          {
+            "text": "क्रिस्पर-कैस9 (CRISPR-Cas9)",
+            "image": ""
+          },
+          {
+            "text": "आरएनए हस्तक्षेप (RNA interference)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>एक जीन ड्राइव एक आनुवंशिक तकनीक है जो <strong>क्रिस्पर-कैस9 (CRISPR-Cas9)</strong> जीन-संपादन उपकरण का उपयोग करके पारंपरिक विरासत नियमों को बायपास करती है। यह सुनिश्चित करता है कि एक संशोधित जीन 90% से अधिक संतानों में पारित हो जाए।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1026,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "Malaria is a vector-borne infectious disease transmitted to humans through the bite of which infected mosquito?",
+      "post_title": "Malaria Transmitting Mosquito",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Female Aedes",
+            "image": ""
+          },
+          {
+            "text": "Female Anopheles",
+            "image": ""
+          },
+          {
+            "text": "Male Culex",
+            "image": ""
+          },
+          {
+            "text": "Female Culex",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Malaria is a vector-borne infectious disease caused by the Plasmodium parasite and transmitted to humans through the bite of infected <strong>female Anopheles</strong> mosquitoes.",
+        "_aimcq_title_hi": "मलेरिया फैलाने वाला मच्छर",
+        "_aimcq_question_content_hi": "मलेरिया एक वेक्टर-जनित संक्रामक रोग है जो किस संक्रमित मच्छर के काटने से मनुष्यों में फैलता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "मादा एडीज",
+            "image": ""
+          },
+          {
+            "text": "मादा एनाफिलीज",
+            "image": ""
+          },
+          {
+            "text": "नर क्यूलेक्स",
+            "image": ""
+          },
+          {
+            "text": "मादा क्यूलेक्स",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>मलेरिया प्लास्मोडियम परजीवी के कारण होने वाला एक वेक्टर-जनित संक्रामक रोग है जो संक्रमित <strong>मादा एनाफिलीज</strong> मच्छरों के काटने से मनुष्यों में फैलता है।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1027,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The Aoleang festival, recently celebrated to mark the beginning of the New Year with the onset of spring, belongs to which tribe of Nagaland?",
+      "post_title": "Aoleang Festival Tribe",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Angami",
+            "image": ""
+          },
+          {
+            "text": "Ao",
+            "image": ""
+          },
+          {
+            "text": "Konyak",
+            "image": ""
+          },
+          {
+            "text": "Sema",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Aoleang (Aoleang Monyu) is the premier festival of the <strong>Konyak</strong> tribe, celebrated annually in the first week of April. It marks the end of the old year and the beginning of the New Year with the onset of spring.",
+        "_aimcq_title_hi": "आओलांग त्योहार की जनजाति",
+        "_aimcq_question_content_hi": "हाल ही में वसंत की शुरुआत के साथ नए साल की शुरुआत को चिह्नित करने के लिए मनाया गया आओलांग त्योहार नागालैंड की किस जनजाति से संबंधित है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अंगामी",
+            "image": ""
+          },
+          {
+            "text": "आओ",
+            "image": ""
+          },
+          {
+            "text": "कोन्याक",
+            "image": ""
+          },
+          {
+            "text": "सेमा",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>आओलांग (आओलांग मोन्यु) <strong>कोन्याक</strong> जनजाति का प्रमुख त्योहार है, जिसे हर साल अप्रैल के पहले सप्ताह में मनाया जाता है। यह वसंत की शुरुआत के साथ पुराने वर्ष के अंत और नए साल की शुरुआत का प्रतीक है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1028,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "What is the sovereign guarantee amount provided by the Union Cabinet for the newly created 'Bharat Maritime Insurance Pool'?",
+      "post_title": "Bharat Maritime Insurance Pool Guarantee",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Rs 5,000 crore",
+            "image": ""
+          },
+          {
+            "text": "Rs 10,000 crore",
+            "image": ""
+          },
+          {
+            "text": "Rs 12,980 crore",
+            "image": ""
+          },
+          {
+            "text": "Rs 15,500 crore",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Union Cabinet has approved the creation of the 'Bharat Maritime Insurance Pool (BMI Pool)', a domestic insurance pool with a sovereign guarantee of <strong>Rs 12,980 crore</strong> to ensure continuous and affordable maritime insurance coverage.",
+        "_aimcq_title_hi": "भारत समुद्री बीमा पूल गारंटी",
+        "_aimcq_question_content_hi": "केंद्रीय मंत्रिमंडल द्वारा नव निर्मित 'भारत समुद्री बीमा पूल' के लिए कितनी संप्रभु गारंटी राशि प्रदान की गई है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "5,000 करोड़ रुपये",
+            "image": ""
+          },
+          {
+            "text": "10,000 करोड़ रुपये",
+            "image": ""
+          },
+          {
+            "text": "12,980 करोड़ रुपये",
+            "image": ""
+          },
+          {
+            "text": "15,500 करोड़ रुपये",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>केंद्रीय मंत्रिमंडल ने निरंतर और सस्ती समुद्री बीमा कवरेज सुनिश्चित करने के लिए <strong>12,980 करोड़ रुपये</strong> की संप्रभु गारंटी के साथ घरेलू बीमा पूल 'भारत समुद्री बीमा पूल (BMI पूल)' के निर्माण को मंजूरी दी है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1029,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "The indigenous design and development of a 1,000-kg aerial bomb for the Indian Air Force is being executed under which route of the Defence Acquisition Procedure (DAP) 2020?",
+      "post_title": "1000-kg Aerial Bomb Development Route",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Make-I",
+            "image": ""
+          },
+          {
+            "text": "Make-II",
+            "image": ""
+          },
+          {
+            "text": "Make-III",
+            "image": ""
+          },
+          {
+            "text": "Buy Global",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The project is being executed under Defence Acquisition Procedure (DAP) 2020 through the <strong>Make-II</strong> (industry-funded) route, followed by procurement under the Buy category.",
+        "_aimcq_title_hi": "1000 किलोग्राम के हवाई बम का विकास मार्ग",
+        "_aimcq_question_content_hi": "भारतीय वायु सेना के लिए 1,000 किलोग्राम के हवाई बम का स्वदेशी डिजाइन और विकास रक्षा अधिग्रहण प्रक्रिया (DAP) 2020 के किस मार्ग के तहत निष्पादित किया जा रहा है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "मेक-I",
+            "image": ""
+          },
+          {
+            "text": "मेक-II",
+            "image": ""
+          },
+          {
+            "text": "मेक-III",
+            "image": ""
+          },
+          {
+            "text": "बाय ग्लोबल",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>परियोजना को रक्षा अधिग्रहण प्रक्रिया (DAP) 2020 के तहत <strong>मेक-II</strong> (उद्योग-वित्त पोषित) मार्ग के माध्यम से निष्पादित किया जा रहा है, इसके बाद बाय (खरीदें) श्रेणी के तहत खरीद की जाएगी।",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1030,
+      "post_author": 1,
+      "post_date": "2026-04-20 18:00:00",
+      "post_content": "What percentage of indigenous content is mandated for the development of the 1,000-kg aerial bomb for the IAF?",
+      "post_title": "Indigenous Content for Aerial Bomb",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "30%",
+            "image": ""
+          },
+          {
+            "text": "40%",
+            "image": ""
+          },
+          {
+            "text": "50%",
+            "image": ""
+          },
+          {
+            "text": "60%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The project mandates at least <strong>50%</strong> indigenous content and is open to Indian private industry, with provisions for technology transfer and joint ventures.",
+        "_aimcq_title_hi": "हवाई बम के लिए स्वदेशी सामग्री",
+        "_aimcq_question_content_hi": "IAF के लिए 1,000 किलोग्राम के हवाई बम के विकास के लिए कितने प्रतिशत स्वदेशी सामग्री अनिवार्य की गई है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "30%",
+            "image": ""
+          },
+          {
+            "text": "40%",
+            "image": ""
+          },
+          {
+            "text": "50%",
+            "image": ""
+          },
+          {
+            "text": "60%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>परियोजना में कम से कम <strong>50%</strong> स्वदेशी सामग्री अनिवार्य है और प्रौद्योगिकी हस्तांतरण और संयुक्त उद्यमों के प्रावधानों के साथ भारतीय निजी उद्योग के लिए खुला है।",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs",
+          "current-affairs-20-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
