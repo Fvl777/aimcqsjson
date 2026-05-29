@@ -1,0 +1,935 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs Practice",
+      "slug": "current-affairs-practice-set",
+      "parent": ""
+    },
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs : 13 Apr 2026",
+      "slug": "current-affairs-13-apr-2026",
+      "parent": "current-affairs-practice-set"
+    }
+  ],
+  "posts": [
+    {
+      "id": 6001,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "Which state's Law Commission recently proposed a comprehensive Hate Speech and Hate Crimes (Prevention) Act, 2026?",
+      "post_title": "State Law Commission Hate Speech Act",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Kerala",
+            "image": ""
+          },
+          {
+            "text": "Odisha",
+            "image": ""
+          },
+          {
+            "text": "Maharashtra",
+            "image": ""
+          },
+          {
+            "text": "Karnataka",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>Odisha State Law Commission (OSLC)</strong> has submitted a comprehensive recommendation for the Odisha Hate Speech and Hate Crimes (Prevention) Act, 2026. The act aims to curb hate speech and hate crimes through stringent penal measures, including 7-year jail for repeat crimes.<h5>Incorrect Options Analysis</h5><ul><li><strong>Kerala, Maharashtra, Karnataka</strong>: These states have not recently proposed this specific comprehensive Hate Speech and Hate Crimes (Prevention) Act, 2026 mentioned in the context.</li></ul>",
+        "_aimcq_title_hi": "राज्य विधि आयोग हेट स्पीच अधिनियम",
+        "_aimcq_question_content_hi": "हाल ही में किस राज्य के विधि आयोग ने एक व्यापक हेट स्पीच और हेट क्राइम (रोकथाम) अधिनियम, 2026 का प्रस्ताव दिया है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "केरल",
+            "image": ""
+          },
+          {
+            "text": "ओडिशा",
+            "image": ""
+          },
+          {
+            "text": "महाराष्ट्र",
+            "image": ""
+          },
+          {
+            "text": "कर्नाटक",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>ओडिशा राज्य विधि आयोग (OSLC)</strong> ने ओडिशा हेट स्पीच और हेट क्राइम्स (रोकथाम) अधिनियम, 2026 के लिए एक व्यापक सिफारिश प्रस्तुत की है। इस अधिनियम का उद्देश्य कड़े दंडात्मक उपायों के माध्यम से हेट स्पीच और हेट क्राइम को रोकना है, जिसमें बार-बार अपराध करने पर 7 साल की जेल शामिल है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>केरल, महाराष्ट्र, कर्नाटक</strong>: इन राज्यों ने हाल ही में संदर्भ में उल्लिखित यह विशिष्ट व्यापक हेट स्पीच और हेट क्राइम (रोकथाम) अधिनियम, 2026 प्रस्तावित नहीं किया है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6002,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "The \"Rabat Threshold Test\", sometimes seen in the news, is used for which of the following purposes?",
+      "post_title": "Rabat Threshold Test Utility",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Measuring quantum communication range",
+            "image": ""
+          },
+          {
+            "text": "Distinguishing free speech from criminal incitement",
+            "image": ""
+          },
+          {
+            "text": "Assessing environmental degradation",
+            "image": ""
+          },
+          {
+            "text": "Classifying endangered penguin species",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The UN <strong>Rabat Plan of Action 2012</strong> provides a six-part test (context, speaker, intent, content, extent, and likelihood of harm) to objectively distinguish between <strong>protected free speech and criminal incitement</strong>. This standardizes the \"harm\" thresholds for legal regulation.<h5>Incorrect Options Analysis</h5><ul><li><strong>Measuring quantum communication range</strong>: Relates to QKD networks, not the Rabat test.</li><li><strong>Assessing environmental degradation</strong>: Associated with sentinel species monitoring.</li><li><strong>Classifying endangered penguin species</strong>: Done by the IUCN Red List.</li></ul>",
+        "_aimcq_title_hi": "रबात थ्रेसहोल्ड टेस्ट उपयोगिता",
+        "_aimcq_question_content_hi": "कभी-कभी समाचारों में देखा जाने वाला \"रबात थ्रेसहोल्ड टेस्ट\" (Rabat Threshold Test) निम्नलिखित में से किस उद्देश्य के लिए उपयोग किया जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "क्वांटम संचार सीमा को मापना",
+            "image": ""
+          },
+          {
+            "text": "मुक्त भाषण और आपराधिक उकसावे के बीच अंतर करना",
+            "image": ""
+          },
+          {
+            "text": "पर्यावरण क्षरण का आकलन करना",
+            "image": ""
+          },
+          {
+            "text": "लुप्तप्राय पेंगुइन प्रजातियों का वर्गीकरण करना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>संयुक्त राष्ट्र का <strong>रबात प्लान ऑफ एक्शन 2012</strong> संरक्षित <strong>मुक्त भाषण और आपराधिक उकसावे</strong> के बीच निष्पक्ष रूप से अंतर करने के लिए छह-भाग का परीक्षण (संदर्भ, वक्ता, इरादा, सामग्री, सीमा और नुकसान की संभावना) प्रदान करता है। यह कानूनी विनियमन के लिए \"नुकसान\" थ्रेसहोल्ड को मानकीकृत करता है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>क्वांटम संचार सीमा को मापना</strong>: QKD नेटवर्क से संबंधित है, रबात परीक्षण से नहीं।</li><li><strong>पर्यावरण क्षरण का आकलन करना</strong>: प्रहरी प्रजातियों (sentinel species) की निगरानी से जुड़ा है।</li><li><strong>लुप्तप्राय पेंगुइन प्रजातियों का वर्गीकरण करना</strong>: IUCN रेड लिस्ट द्वारा किया जाता है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6003,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "In the landmark <em>Shaheen Abdulla v. Union of India (2022)</em> case, the Supreme Court issued directives regarding which issue?",
+      "post_title": "Shaheen Abdulla v. Union of India 2022",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Right to Privacy",
+            "image": ""
+          },
+          {
+            "text": "Curbing mob lynching",
+            "image": ""
+          },
+          {
+            "text": "Registering suo motu FIRs in hate speech cases",
+            "image": ""
+          },
+          {
+            "text": "Striking down Section 66A of IT Act",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>In the <em>Shaheen Abdulla v. Union of India (2022)</em> case, the Supreme Court directed police authorities to <strong>register suo motu FIRs in hate speech cases</strong> immediately, without waiting for a formal complaint, irrespective of the religion of the offender.<h5>Incorrect Options Analysis</h5><ul><li><strong>Right to Privacy</strong>: Putta Swamy case (2017).</li><li><strong>Curbing mob lynching</strong>: Tehseen S. Poonawalla v. Union of India (2018).</li><li><strong>Striking down Section 66A of IT Act</strong>: Shreya Singhal v. Union of India (2015).</li></ul>",
+        "_aimcq_title_hi": "शाहीन अब्दुल्ला बनाम भारत संघ 2022",
+        "_aimcq_question_content_hi": "ऐतिहासिक <em>शाहीन अब्दुल्ला बनाम भारत संघ (2022)</em> मामले में, सर्वोच्च न्यायालय ने किस मुद्दे के संबंध में निर्देश जारी किए?",
+        "_aimcq_options_hi": [
+          {
+            "text": "निजता का अधिकार",
+            "image": ""
+          },
+          {
+            "text": "मॉब लिंचिंग पर रोक",
+            "image": ""
+          },
+          {
+            "text": "हेट स्पीच मामलों में स्वतः संज्ञान लेते हुए एफआईआर दर्ज करना",
+            "image": ""
+          },
+          {
+            "text": "आईटी अधिनियम की धारा 66ए को रद्द करना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><em>शाहीन अब्दुल्ला बनाम भारत संघ (2022)</em> मामले में, सर्वोच्च न्यायालय ने पुलिस अधिकारियों को निर्देश दिया कि वे अपराधी के धर्म की परवाह किए बिना औपचारिक शिकायत की प्रतीक्षा किए बिना <strong>हेट स्पीच मामलों में स्वतः संज्ञान लेते हुए तुरंत FIR दर्ज करें</strong>।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>निजता का अधिकार</strong>: पुट्टा स्वामी मामला (2017)।</li><li><strong>मॉब लिंचिंग पर रोक</strong>: तहसीन एस. पूनावाला बनाम भारत संघ (2018)।</li><li><strong>आईटी अधिनियम की धारा 66ए को रद्द करना</strong>: श्रेया सिंघल बनाम भारत संघ (2015)।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6004,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "India recently achieved a breakthrough by developing a 1,000 km quantum communication network. Which deep-tech startup played a key role in this?",
+      "post_title": "1,000 km Quantum Communication Startup",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "AgniKul Cosmos",
+            "image": ""
+          },
+          {
+            "text": "QNu Labs",
+            "image": ""
+          },
+          {
+            "text": "Skyroot Aerospace",
+            "image": ""
+          },
+          {
+            "text": "Pixxel",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The 1,000 km quantum communication network was developed using indigenous technology by <strong>QNu Labs</strong>, with support from the Department of Science and Technology under the National Quantum Mission.<h5>Incorrect Options Analysis</h5><ul><li><strong>AgniKul Cosmos & Skyroot Aerospace</strong>: These are Indian private space-tech startups focused on launch vehicles.</li><li><strong>Pixxel</strong>: A space-data startup focusing on building a constellation of hyperspectral earth imaging satellites.</li></ul>",
+        "_aimcq_title_hi": "1,000 किमी क्वांटम संचार स्टार्टअप",
+        "_aimcq_question_content_hi": "भारत ने हाल ही में 1,000 किमी क्वांटम संचार नेटवर्क विकसित करके एक सफलता हासिल की है। किस डीप-टेक स्टार्टअप ने इसमें महत्वपूर्ण भूमिका निभाई?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अग्निकुल कॉसमॉस",
+            "image": ""
+          },
+          {
+            "text": "क्यूएनयू लैब्स (QNu Labs)",
+            "image": ""
+          },
+          {
+            "text": "स्काईरूट एयरोस्पेस",
+            "image": ""
+          },
+          {
+            "text": "पिक्सेल (Pixxel)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>1,000 किमी क्वांटम संचार नेटवर्क स्वदेशी तकनीक का उपयोग करके <strong>QNu Labs</strong> द्वारा राष्ट्रीय क्वांटम मिशन के तहत विज्ञान और प्रौद्योगिकी विभाग के समर्थन से विकसित किया गया था।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>अग्निकुल कॉसमॉस और स्काईरूट एयरोस्पेस</strong>: ये भारतीय निजी स्पेस-टेक स्टार्टअप हैं जो लॉन्च वाहनों पर केंद्रित हैं।</li><li><strong>पिक्सेल</strong>: हाइपरस्पेक्ट्रल अर्थ इमेजिंग सैटेलाइट्स का तारामंडल बनाने पर ध्यान केंद्रित करने वाला एक अंतरिक्ष-डेटा स्टार्टअप।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6005,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "Under the National Quantum Mission (NQM), what is the target range for establishing satellite-based secure quantum communications within India?",
+      "post_title": "NQM Satellite Quantum Communication Range",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "1,000 km",
+            "image": ""
+          },
+          {
+            "text": "1,500 km",
+            "image": ""
+          },
+          {
+            "text": "2,000 km",
+            "image": ""
+          },
+          {
+            "text": "5,000 km",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>One of the key objectives of the National Quantum Mission (NQM) is establishing satellite-based secure quantum communications between ground stations over a range of <strong>2,000 kilometres</strong> within India, as well as with other countries, within eight years.<h5>Incorrect Options Analysis</h5><ul><li><strong>1,000 km</strong>: This is the breakthrough distance already achieved recently by QNu Labs, but the mission's ultimate target is higher.</li><li><strong>1,500 km & 5,000 km</strong>: These are incorrect figures not aligned with the stated NQM targets.</li></ul>",
+        "_aimcq_title_hi": "एनक्यूएम (NQM) उपग्रह क्वांटम संचार सीमा",
+        "_aimcq_question_content_hi": "राष्ट्रीय क्वांटम मिशन (NQM) के तहत, भारत के भीतर उपग्रह आधारित सुरक्षित क्वांटम संचार स्थापित करने का लक्ष्य सीमा क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "1,000 किमी",
+            "image": ""
+          },
+          {
+            "text": "1,500 किमी",
+            "image": ""
+          },
+          {
+            "text": "2,000 किमी",
+            "image": ""
+          },
+          {
+            "text": "5,000 किमी",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>राष्ट्रीय क्वांटम मिशन (NQM) के प्रमुख उद्देश्यों में से एक आठ वर्षों के भीतर भारत में <strong>2,000 किलोमीटर</strong> की सीमा में ग्राउंड स्टेशनों के बीच, साथ ही अन्य देशों के साथ उपग्रह-आधारित सुरक्षित क्वांटम संचार स्थापित करना है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>1,000 किमी</strong>: यह वह दूरी है जिसे हाल ही में QNu Labs द्वारा पहले ही हासिल कर लिया गया है, लेकिन मिशन का अंतिम लक्ष्य इससे अधिक है।</li><li><strong>1,500 किमी और 5,000 किमी</strong>: ये गलत आंकड़े हैं जो NQM के निर्धारित लक्ष्यों के अनुरूप नहीं हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6006,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "What is the primary mechanism used in Quantum Key Distribution (QKD) to ensure communication remains safe from hacking?",
+      "post_title": "Mechanism of Quantum Key Distribution",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "End-to-end encryption with prime numbers",
+            "image": ""
+          },
+          {
+            "text": "Using quantum particles (photons) that get disturbed if intercepted",
+            "image": ""
+          },
+          {
+            "text": "Blockchain ledger technology",
+            "image": ""
+          },
+          {
+            "text": "Machine Learning algorithms",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>QKD is a highly secure way to share secret encryption keys using <strong>quantum particles (photons)</strong>. It ensures safety because if anyone tries to intercept the key, the quantum particles get disturbed (due to the observer effect and no-cloning rule), immediately alerting users.<h5>Incorrect Options Analysis</h5><ul><li><strong>End-to-end encryption with prime numbers</strong>: This refers to classical RSA encryption, not quantum encryption.</li><li><strong>Blockchain ledger technology & Machine Learning algorithms</strong>: While useful in other tech domains, these are not the basis of the unhackable nature of QKD.</li></ul>",
+        "_aimcq_title_hi": "क्वांटम कुंजी वितरण (QKD) का तंत्र",
+        "_aimcq_question_content_hi": "क्वांटम कुंजी वितरण (QKD) में यह सुनिश्चित करने के लिए कि संचार हैकिंग से सुरक्षित रहे, किस प्राथमिक तंत्र का उपयोग किया जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अभाज्य संख्याओं (prime numbers) के साथ एंड-टू-एंड एन्क्रिप्शन",
+            "image": ""
+          },
+          {
+            "text": "क्वांटम कणों (फोटॉन) का उपयोग जो इंटरसेप्ट (अवरोधन) होने पर विक्षुब्ध हो जाते हैं",
+            "image": ""
+          },
+          {
+            "text": "ब्लॉकचेन लेजर तकनीक",
+            "image": ""
+          },
+          {
+            "text": "मशीन लर्निंग एल्गोरिदम",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>QKD <strong>क्वांटम कणों (फोटॉन)</strong> का उपयोग करके गुप्त एन्क्रिप्शन कुंजी साझा करने का एक अत्यधिक सुरक्षित तरीका है। यह सुरक्षा सुनिश्चित करता है क्योंकि यदि कोई कुंजी को रोकने (intercept) का प्रयास करता है, तो क्वांटम कण विक्षुब्ध हो जाते हैं (पर्यवेक्षक प्रभाव और नो-क्लोनिंग नियम के कारण), जिससे उपयोगकर्ताओं को तुरंत सचेत कर दिया जाता है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>अभाज्य संख्याओं के साथ एंड-टू-एंड एन्क्रिप्शन</strong>: यह शास्त्रीय RSA एन्क्रिप्शन को संदर्भित करता है, न कि क्वांटम एन्क्रिप्शन को।</li><li><strong>ब्लॉकचेन लेजर तकनीक और मशीन लर्निंग एल्गोरिदम</strong>: जबकि अन्य तकनीकी डोमेन में उपयोगी हैं, ये QKD की अनहैक करने योग्य प्रकृति का आधार नहीं हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6007,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "The arrest of which two prominent leaders sparked the protests that culminated in the Jallianwala Bagh massacre in 1919?",
+      "post_title": "Leaders Arrested before Jallianwala Bagh",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Mahatma Gandhi and Sardar Patel",
+            "image": ""
+          },
+          {
+            "text": "Dr. Saifuddin Kitchlew and Dr. Satyapal",
+            "image": ""
+          },
+          {
+            "text": "Bhagat Singh and Chandrashekhar Azad",
+            "image": ""
+          },
+          {
+            "text": "Motilal Nehru and C.R. Das",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>On 9th April 1919, tensions in Punjab escalated when two prominent local nationalist leaders, <strong>Dr. Saifuddin Kitchlew and Dr. Satyapal</strong>, were secretly arrested and deported for organizing peaceful protests against the Rowlatt Act. This led to public gatherings, including the ill-fated assembly at Jallianwala Bagh on 13th April.<h5>Incorrect Options Analysis</h5><ul><li>The other pairs were prominent freedom fighters but were not the specific local leaders whose arrest directly sparked the Jallianwala Bagh protests in Amritsar.</li></ul>",
+        "_aimcq_title_hi": "जलियांवाला बाग से पहले गिरफ्तार नेता",
+        "_aimcq_question_content_hi": "किन दो प्रमुख नेताओं की गिरफ्तारी से 1919 के जलियांवाला बाग हत्याकांड के विरोध प्रदर्शन शुरू हुए?",
+        "_aimcq_options_hi": [
+          {
+            "text": "महात्मा गांधी और सरदार पटेल",
+            "image": ""
+          },
+          {
+            "text": "डॉ. सैफुद्दीन किचलू और डॉ. सत्यपाल",
+            "image": ""
+          },
+          {
+            "text": "भगत सिंह और चंद्रशेखर आजाद",
+            "image": ""
+          },
+          {
+            "text": "मोतीलाल नेहरू और सी.आर. दास",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>9 अप्रैल 1919 को, पंजाब में तनाव तब बढ़ गया जब दो प्रमुख स्थानीय राष्ट्रवादी नेताओं, <strong>डॉ. सैफुद्दीन किचलू और डॉ. सत्यपाल</strong> को रॉलेट एक्ट के खिलाफ शांतिपूर्ण विरोध प्रदर्शन आयोजित करने के लिए गुप्त रूप से गिरफ्तार कर निर्वासित कर दिया गया। इसके कारण सार्वजनिक सभाएं हुईं, जिसमें 13 अप्रैल को जलियांवाला बाग में हुई दुर्भाग्यपूर्ण सभा भी शामिल थी।<h5>गलत विकल्प विश्लेषण</h5><ul><li>अन्य जोड़े प्रमुख स्वतंत्रता सेनानी थे लेकिन वे विशिष्ट स्थानीय नेता नहीं थे जिनकी गिरफ्तारी ने सीधे अमृतसर में जलियांवाला बाग विरोध प्रदर्शन शुरू किया।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6008,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "Who assassinated Michael O'Dwyer in London in 1940 in retribution for the Jallianwala Bagh massacre?",
+      "post_title": "Assassination of Michael O'Dwyer",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Bhagat Singh",
+            "image": ""
+          },
+          {
+            "text": "Surya Sen",
+            "image": ""
+          },
+          {
+            "text": "Udham Singh",
+            "image": ""
+          },
+          {
+            "text": "Ram Prasad Bismil",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>In 1940, <strong>Udham Singh</strong> (a survivor of the Jallianwala Bagh massacre) assassinated Michael O'Dwyer in London. O'Dwyer was the Lieutenant Governor of Punjab in 1919 and had officially endorsed General Dyer's actions at Jallianwala Bagh.<h5>Incorrect Options Analysis</h5><ul><li><strong>Bhagat Singh</strong>: Assassinated British police officer John Saunders in 1928.</li><li><strong>Surya Sen</strong>: Led the 1930 Chittagong armoury raid.</li><li><strong>Ram Prasad Bismil</strong>: Involved in the 1925 Kakori Train Robbery.</li></ul>",
+        "_aimcq_title_hi": "माइकल ओ'डायर की हत्या",
+        "_aimcq_question_content_hi": "1940 में जलियांवाला बाग हत्याकांड के प्रतिशोध में लंदन में माइकल ओ'डायर की हत्या किसने की थी?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भगत सिंह",
+            "image": ""
+          },
+          {
+            "text": "सूर्य सेन",
+            "image": ""
+          },
+          {
+            "text": "ऊधम सिंह",
+            "image": ""
+          },
+          {
+            "text": "राम प्रसाद बिस्मिल",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>1940 में, <strong>ऊधम सिंह</strong> (जलियांवाला बाग हत्याकांड के एक उत्तरजीवी) ने लंदन में माइकल ओ'डायर की हत्या कर दी। ओ'डायर 1919 में पंजाब का लेफ्टिनेंट गवर्नर था और उसने जलियांवाला बाग में जनरल डायर की कार्रवाई का आधिकारिक तौर पर समर्थन किया था।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>भगत सिंह</strong>: 1928 में ब्रिटिश पुलिस अधिकारी जॉन सॉन्डर्स की हत्या की।</li><li><strong>सूर्य सेन</strong>: 1930 के चटगांव शस्त्रागार छापे का नेतृत्व किया।</li><li><strong>राम प्रसाद बिस्मिल</strong>: 1925 काकोरी ट्रेन डकैती में शामिल थे।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6009,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "Which commission was appointed by the British government to investigate the 1919 Jallianwala Bagh massacre?",
+      "post_title": "Commission on Jallianwala Bagh Massacre",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Simon Commission",
+            "image": ""
+          },
+          {
+            "text": "Hunter Commission",
+            "image": ""
+          },
+          {
+            "text": "Cabinet Mission",
+            "image": ""
+          },
+          {
+            "text": "Cripps Mission",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>Hunter Commission</strong> (officially the Disorders Inquiry Committee) was appointed in 1919 to investigate the Jallianwala Bagh massacre. While it censured General Dyer and forced his resignation from the military, it recommended no penal or legal action against him, exposing colonial bias.<h5>Incorrect Options Analysis</h5><ul><li><strong>Simon Commission</strong>: Appointed in 1927 to review the Government of India Act 1919.</li><li><strong>Cabinet Mission (1946) & Cripps Mission (1942)</strong>: Were sent to discuss the transfer of power and Indian political demands.</li></ul>",
+        "_aimcq_title_hi": "जलियांवाला बाग हत्याकांड पर आयोग",
+        "_aimcq_question_content_hi": "ब्रिटिश सरकार ने 1919 के जलियांवाला बाग हत्याकांड की जांच के लिए किस आयोग की नियुक्ति की थी?",
+        "_aimcq_options_hi": [
+          {
+            "text": "साइमन कमीशन",
+            "image": ""
+          },
+          {
+            "text": "हंटर कमीशन",
+            "image": ""
+          },
+          {
+            "text": "कैबिनेट मिशन",
+            "image": ""
+          },
+          {
+            "text": "क्रिप्स मिशन",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>जलियांवाला बाग हत्याकांड की जांच के लिए 1919 में <strong>हंटर कमीशन</strong> (आधिकारिक तौर पर विकार जांच समिति) नियुक्त किया गया था। यद्यपि इसने जनरल डायर की निंदा की और सेना से उनका इस्तीफा देने के लिए मजबूर किया, लेकिन इसने उनके खिलाफ कोई दंडात्मक या कानूनी कार्रवाई की सिफारिश नहीं की, जिससे औपनिवेशिक पूर्वाग्रह उजागर हुआ।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>साइमन कमीशन</strong>: भारत सरकार अधिनियम 1919 की समीक्षा के लिए 1927 में नियुक्त किया गया था।</li><li><strong>कैबिनेट मिशन (1946) और क्रिप्स मिशन (1942)</strong>: सत्ता के हस्तांतरण और भारतीय राजनीतिक मांगों पर चर्चा करने के लिए भेजे गए थे।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6010,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "The joint military exercise 'DUSTLIK' is conducted between the armed forces of India and which country?",
+      "post_title": "Exercise DUSTLIK",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Kazakhstan",
+            "image": ""
+          },
+          {
+            "text": "Kyrgyzstan",
+            "image": ""
+          },
+          {
+            "text": "Uzbekistan",
+            "image": ""
+          },
+          {
+            "text": "Tajikistan",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The 7th edition of the joint military exercise <strong>DUSTLIK</strong> is conducted between the Indian Armed Forces and the <strong>Uzbekistan</strong> Armed Forces. It aims to enhance bilateral military cooperation and operational synergy, particularly in semi-mountainous terrain.<h5>Incorrect Options Analysis</h5><ul><li><strong>Kazakhstan</strong>: Participates in Exercise KAZIND with India.</li><li><strong>Kyrgyzstan</strong>: Participates in Exercise KHANJAR with India.</li><li><strong>Tajikistan</strong>: Has no major bilateral exercise like DUSTLIK with India.</li></ul>",
+        "_aimcq_title_hi": "सैन्य अभ्यास दस्तलिक",
+        "_aimcq_question_content_hi": "संयुक्त सैन्य अभ्यास 'दस्तलिक' (DUSTLIK) भारत और किस देश के सशस्त्र बलों के बीच आयोजित किया जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "कजाकिस्तान",
+            "image": ""
+          },
+          {
+            "text": "किर्गिस्तान",
+            "image": ""
+          },
+          {
+            "text": "उज़्बेकिस्तान",
+            "image": ""
+          },
+          {
+            "text": "ताजिकिस्तान",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>संयुक्त सैन्य अभ्यास <strong>DUSTLIK</strong> का 7वां संस्करण भारतीय सशस्त्र बलों और <strong>उज़्बेकिस्तान</strong> के सशस्त्र बलों के बीच आयोजित किया जाता है। इसका उद्देश्य द्विपक्षीय सैन्य सहयोग और परिचालन तालमेल बढ़ाना है, विशेष रूप से अर्ध-पहाड़ी इलाकों में।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>कजाकिस्तान</strong>: भारत के साथ अभ्यास KAZIND में भाग लेता है।</li><li><strong>किर्गिस्तान</strong>: भारत के साथ अभ्यास KHANJAR में भाग लेता है।</li><li><strong>ताजिकिस्तान</strong>: भारत के साथ दस्तलिक जैसा कोई बड़ा द्विपक्षीय अभ्यास नहीं है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6011,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "Which of the following Central Asian countries is one of the only two \"doubly landlocked\" countries in the world?",
+      "post_title": "Doubly Landlocked Country Uzbekistan",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Turkmenistan",
+            "image": ""
+          },
+          {
+            "text": "Kazakhstan",
+            "image": ""
+          },
+          {
+            "text": "Afghanistan",
+            "image": ""
+          },
+          {
+            "text": "Uzbekistan",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5><strong>Uzbekistan</strong> is a <strong>doubly landlocked</strong> country in Central Asia, meaning it is completely surrounded by other landlocked countries (Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, and Turkmenistan). The only other doubly landlocked country in the world is Liechtenstein in Europe.<h5>Incorrect Options Analysis</h5><ul><li><strong>Turkmenistan, Kazakhstan</strong>: Are landlocked but border the Caspian Sea (a landlocked body of water), and are surrounded by countries that are not all landlocked.</li><li><strong>Afghanistan</strong>: Is landlocked but borders Iran and Pakistan, which are not landlocked.</li></ul>",
+        "_aimcq_title_hi": "दोहरा लैंडलॉक देश उज़्बेकिस्तान",
+        "_aimcq_question_content_hi": "निम्नलिखित में से कौन सा मध्य एशियाई देश दुनिया के केवल दो \"दोहरे लैंडलॉक\" (doubly landlocked) देशों में से एक है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "तुर्कमेनिस्तान",
+            "image": ""
+          },
+          {
+            "text": "कजाकिस्तान",
+            "image": ""
+          },
+          {
+            "text": "अफगानिस्तान",
+            "image": ""
+          },
+          {
+            "text": "उज़्बेकिस्तान",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>उज़्बेकिस्तान</strong> मध्य एशिया में एक <strong>दोहरा लैंडलॉक</strong> देश है, जिसका अर्थ है कि यह पूरी तरह से अन्य लैंडलॉक देशों (कजाकिस्तान, किर्गिस्तान, ताजिकिस्तान, अफगानिस्तान और तुर्कमेनिस्तान) से घिरा हुआ है। दुनिया का एकमात्र दूसरा दोहरा लैंडलॉक देश यूरोप का लिकटेंस्टीन है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>तुर्कमेनिस्तान, कजाकिस्तान</strong>: लैंडलॉक हैं लेकिन कैस्पियन सागर (पानी का एक लैंडलॉक निकाय) की सीमा पर हैं, और उन देशों से घिरे हैं जो सभी लैंडलॉक नहीं हैं।</li><li><strong>अफगानिस्तान</strong>: लैंडलॉक है लेकिन ईरान और पाकिस्तान की सीमा पर है, जो लैंडलॉक नहीं हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6012,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "India recently rejected China's establishment of a new administrative county named \"Cenling\" in which region, close to the Indian border?",
+      "post_title": "China's Cenling County",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Tibet",
+            "image": ""
+          },
+          {
+            "text": "Xinjiang",
+            "image": ""
+          },
+          {
+            "text": "Yunnan",
+            "image": ""
+          },
+          {
+            "text": "Sichuan",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>China recently established a new county named \"Cenling\" in <strong>Xinjiang</strong>. It lies near the tri-junction region adjoining Afghanistan, Pakistan-occupied Kashmir, and India's Arunachal Pradesh, close to the Karakoram range. India has firmly rejected this move, asserting it is part of China's attempt to assign fictitious names to places within its territory.<h5>Incorrect Options Analysis</h5><ul><li><strong>Tibet, Yunnan, Sichuan</strong>: While Tibet shares a long border with India, the newly named \"Cenling\" county is specifically administered under the Kashgar prefecture in the Xinjiang region.</li></ul>",
+        "_aimcq_title_hi": "चीन का सेनलींग काउंटी",
+        "_aimcq_question_content_hi": "भारत ने हाल ही में भारतीय सीमा के करीब, किस क्षेत्र में \"सेनलींग\" (Cenling) नामक एक नए प्रशासनिक काउंटी की स्थापना को खारिज कर दिया है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "तिब्बत",
+            "image": ""
+          },
+          {
+            "text": "शिनजियांग",
+            "image": ""
+          },
+          {
+            "text": "युन्नान",
+            "image": ""
+          },
+          {
+            "text": "सिचुआन",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>चीन ने हाल ही में <strong>शिनजियांग</strong> में \"सेनलींग\" नाम से एक नया काउंटी स्थापित किया है। यह अफगानिस्तान, पाकिस्तान अधिकृत कश्मीर और भारत के अरुणाचल प्रदेश से सटे त्रि-जंक्शन क्षेत्र के पास, काराकोरम पर्वतमाला के करीब स्थित है। भारत ने इस कदम को दृढ़ता से खारिज कर दिया है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>तिब्बत, युन्नान, सिचुआन</strong>: जबकि तिब्बत भारत के साथ एक लंबी सीमा साझा करता है, नया नामित \"सेनलींग\" काउंटी विशेष रूप से शिनजियांग क्षेत्र में काशगर प्रान्त के तहत प्रशासित है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6013,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "The McMahon Line, the effective boundary between India (Arunachal Pradesh) and Tibet, was negotiated at which historic accord?",
+      "post_title": "McMahon Line Treaty Accord",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Treaty of Yandabo (1826)",
+            "image": ""
+          },
+          {
+            "text": "Simla Accord (1914)",
+            "image": ""
+          },
+          {
+            "text": "Panchsheel Agreement (1954)",
+            "image": ""
+          },
+          {
+            "text": "Tashkent Declaration (1966)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The McMahon Line, named after Sir Henry McMahon, was negotiated as the boundary between Great Britain and Tibet at the <strong>Simla Accord in 1914</strong>. China rejects the accord, claiming Tibet was not sovereign and thus lacked the power to conclude treaties.<h5>Incorrect Options Analysis</h5><ul><li><strong>Treaty of Yandabo (1826)</strong>: Ended the First Anglo-Burmese War.</li><li><strong>Panchsheel Agreement (1954)</strong>: An agreement on trade and intercourse between the Tibet region of China and India, outlining Five Principles of Peaceful Coexistence.</li><li><strong>Tashkent Declaration (1966)</strong>: A peace agreement between India and Pakistan that resolved the Indo-Pakistani War of 1965.</li></ul>",
+        "_aimcq_title_hi": "मैकमोहन रेखा संधि समझौता",
+        "_aimcq_question_content_hi": "मैकमोहन रेखा, जो भारत (अरुणाचल प्रदेश) और तिब्बत के बीच प्रभावी सीमा है, किस ऐतिहासिक समझौते पर बातचीत की गई थी?",
+        "_aimcq_options_hi": [
+          {
+            "text": "यांडाबो की संधि (1826)",
+            "image": ""
+          },
+          {
+            "text": "शिमला समझौता (1914)",
+            "image": ""
+          },
+          {
+            "text": "पंचशील समझौता (1954)",
+            "image": ""
+          },
+          {
+            "text": "ताशकंद घोषणा (1966)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>मैकमोहन रेखा, जिसका नाम सर हेनरी मैकमोहन के नाम पर रखा गया है, पर <strong>1914 के शिमला समझौते</strong> में ग्रेट ब्रिटेन और तिब्बत के बीच सीमा के रूप में बातचीत की गई थी। चीन इस समझौते को यह कहते हुए खारिज करता है कि तिब्बत संप्रभु नहीं था और इसलिए उसे संधियां करने का अधिकार नहीं था।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>यांडाबो की संधि (1826)</strong>: प्रथम आंग्ल-बर्मी युद्ध को समाप्त किया।</li><li><strong>पंचशील समझौता (1954)</strong>: चीन के तिब्बत क्षेत्र और भारत के बीच व्यापार और समागम पर एक समझौता, जिसमें शांतिपूर्ण सह-अस्तित्व के पांच सिद्धांतों को रेखांकित किया गया है।</li><li><strong>ताशकंद घोषणा (1966)</strong>: भारत और पाकिस्तान के बीच एक शांति समझौता जिसने 1965 के भारत-पाकिस्तान युद्ध को सुलझाया।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6014,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "The Emperor Penguin, recently declared endangered by the IUCN, is highly dependent on which habitat for its survival?",
+      "post_title": "Emperor Penguin Habitat",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Tropical rainforests",
+            "image": ""
+          },
+          {
+            "text": "Sea ice in Antarctica",
+            "image": ""
+          },
+          {
+            "text": "Desert sand dunes",
+            "image": ""
+          },
+          {
+            "text": "Coral reefs",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Emperor Penguins are highly dependent on <strong>sea ice in Antarctica</strong> for survival, using it for living, hunting, and breeding. Due to global warming and the melting of sea ice, their populations are projected to decline significantly.<h5>Incorrect Options Analysis</h5><ul><li><strong>Tropical rainforests, Desert sand dunes, Coral reefs</strong>: Emperor penguins reside exclusively in the extremely cold environment of Antarctica and rely specifically on stable sea ice platforms.</li></ul>",
+        "_aimcq_title_hi": "एम्परर पेंगुइन का आवास",
+        "_aimcq_question_content_hi": "हाल ही में IUCN द्वारा लुप्तप्राय घोषित किया गया एम्परर पेंगुइन, अपने अस्तित्व के लिए मुख्य रूप से किस आवास पर निर्भर है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "उष्णकटिबंधीय वर्षावन",
+            "image": ""
+          },
+          {
+            "text": "अंटार्कटिका में समुद्री बर्फ (Sea ice)",
+            "image": ""
+          },
+          {
+            "text": "रेगिस्तानी रेत के टीले",
+            "image": ""
+          },
+          {
+            "text": "प्रवाल भित्तियाँ (Coral reefs)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>एम्परर पेंगुइन अस्तित्व के लिए अंटार्कटिका में <strong>समुद्री बर्फ</strong> पर अत्यधिक निर्भर हैं, इसका उपयोग रहने, शिकार करने और प्रजनन के लिए करते हैं। ग्लोबल वार्मिंग और समुद्री बर्फ पिघलने के कारण, उनकी आबादी में काफी गिरावट आने का अनुमान है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>उष्णकटिबंधीय वर्षावन, रेगिस्तानी रेत के टीले, प्रवाल भित्तियाँ</strong>: एम्परर पेंगुइन विशेष रूप से अंटार्कटिका के अत्यधिक ठंडे वातावरण में रहते हैं और विशेष रूप से स्थिर समुद्री बर्फ प्लेटफार्मों पर निर्भर करते हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6015,
+      "post_author": 1,
+      "post_date": "2026-04-13 10:00:00",
+      "post_content": "In ecology, organisms like frogs or Emperor Penguins that provide early warning signs of environmental degradation are known as:",
+      "post_title": "Sentinel Species in Ecology",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Invasive species",
+            "image": ""
+          },
+          {
+            "text": "Keystone species",
+            "image": ""
+          },
+          {
+            "text": "Sentinel species",
+            "image": ""
+          },
+          {
+            "text": "Endemic species",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5><strong>Sentinel species</strong> are organisms whose health reflects the condition of the ecosystem, providing early warning signs of environmental degradation. They respond quickly and visibly to environmental stressors like climate change, pollution, and disease (e.g., Emperor Penguins, frogs, honeybees).<h5>Incorrect Options Analysis</h5><ul><li><strong>Invasive species</strong>: Non-native organisms that cause harm to an ecosystem.</li><li><strong>Keystone species</strong>: A species on which other species in an ecosystem largely depend, such that if it were removed the ecosystem would change drastically.</li><li><strong>Endemic species</strong>: Species that are native to and found only within a specific geographic area.</li></ul>",
+        "_aimcq_title_hi": "पारिस्थितिकी में प्रहरी प्रजातियां (Sentinel Species)",
+        "_aimcq_question_content_hi": "पारिस्थितिकी में, मेंढक या एम्परर पेंगुइन जैसे जीव जो पर्यावरण क्षरण की प्रारंभिक चेतावनी के संकेत देते हैं, उन्हें क्या कहा जाता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "आक्रामक प्रजातियां (Invasive species)",
+            "image": ""
+          },
+          {
+            "text": "कीस्टोन प्रजातियां (Keystone species)",
+            "image": ""
+          },
+          {
+            "text": "प्रहरी प्रजातियां (Sentinel species)",
+            "image": ""
+          },
+          {
+            "text": "स्थानिक प्रजातियां (Endemic species)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>प्रहरी प्रजातियां (Sentinel species)</strong> वे जीव हैं जिनका स्वास्थ्य पारिस्थितिकी तंत्र की स्थिति को दर्शाता है, जो पर्यावरण क्षरण के शुरुआती चेतावनी संकेत प्रदान करता है। वे जलवायु परिवर्तन, प्रदूषण और बीमारी (जैसे, एम्परर पेंगुइन, मेंढक, मधुमक्खियां) जैसे पर्यावरणीय तनावों पर जल्दी और स्पष्ट रूप से प्रतिक्रिया करते हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>आक्रामक प्रजातियां</strong>: गैर-देशी जीव जो पारिस्थितिकी तंत्र को नुकसान पहुंचाते हैं।</li><li><strong>कीस्टोन प्रजातियां</strong>: एक प्रजाति जिस पर एक पारिस्थितिकी तंत्र में अन्य प्रजातियां काफी हद तक निर्भर करती हैं, ताकि यदि इसे हटा दिया जाए तो पारिस्थितिकी तंत्र काफी हद तक बदल जाएगा।</li><li><strong>स्थानिक प्रजातियां</strong>: प्रजातियां जो मूल रूप से केवल एक विशिष्ट भौगोलिक क्षेत्र में पाई जाती हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-13-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
