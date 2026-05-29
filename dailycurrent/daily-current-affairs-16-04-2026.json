@@ -1,0 +1,824 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs (April 2026)",
+      "slug": "current-affairs-april-2026",
+      "parent": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 6001,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "As per the Constitution (One Hundred and Thirty-First Amendment) Bill, 2026, what is the proposed maximum strength of the Lok Sabha?",
+      "post_title": "Lok Sabha Expansion 2026",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "550",
+            "image": ""
+          },
+          {
+            "text": "750",
+            "image": ""
+          },
+          {
+            "text": "850",
+            "image": ""
+          },
+          {
+            "text": "1000",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>Constitution (131st Amendment) Bill, 2026</b> proposes to increase the maximum strength of the Lok Sabha from 550 to <b>850 members</b>. This includes 815 members from States and 35 from Union Territories. This expansion is designed to facilitate fresh delimitation and the implementation of women's reservation.<h5>Incorrect Options Analysis</h5><ul><li><b>550</b>: This is the current maximum strength prescribed under Article 81.</li><li><b>750 & 1000</b>: These are incorrect figures not mentioned in the proposed legislation.</li></ul>",
+        "_aimcq_title_hi": "लोकसभा विस्तार 2026",
+        "_aimcq_question_content_hi": "संविधान (एक सौ इकतीसवां संशोधन) विधेयक, 2026 के अनुसार, लोकसभा की प्रस्तावित अधिकतम सदस्य संख्या क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "550",
+            "image": ""
+          },
+          {
+            "text": "750",
+            "image": ""
+          },
+          {
+            "text": "850",
+            "image": ""
+          },
+          {
+            "text": "1000",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>संविधान (131वां संशोधन) विधेयक, 2026</b> में लोकसभा की अधिकतम संख्या 550 से बढ़ाकर <b>850 सदस्य</b> करने का प्रस्ताव है। इसमें राज्यों से 815 और केंद्र शासित प्रदेशों से 35 सदस्य शामिल हैं। यह विस्तार नए परिसीमन और महिला आरक्षण के कार्यान्वयन को सुविधाजनक बनाने के लिए डिज़ाइन किया गया है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>550</b>: यह अनुच्छेद 81 के तहत वर्तमान निर्धारित अधिकतम संख्या है।</li><li><b>750 और 1000</b>: ये गलत आंकड़े हैं जिनका उल्लेख प्रस्तावित कानून में नहीं है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      }
+    },
+    {
+      "id": 6002,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "The Nari Shakti Vandan Adhiniyam (106th Amendment Act) mandates what percentage of reservation for women in the Lok Sabha and State Assemblies?",
+      "post_title": "Women's Reservation Percentage",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "25%",
+            "image": ""
+          },
+          {
+            "text": "33%",
+            "image": ""
+          },
+          {
+            "text": "50%",
+            "image": ""
+          },
+          {
+            "text": "30%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>Nari Shakti Vandan Adhiniyam</b> mandates <b>33% (one-third)</b> reservation for women in the Lok Sabha and State Legislative Assemblies. The 2026 Bills aim to fast-track this by decoupling it from the first census after 2026 and using 2011 census data.<h5>Incorrect Options Analysis</h5><ul><li><b>50%</b>: This is often the cap discussed for total reservations in India, but not the specific quota for women in this Act.</li><li><b>25% & 30%</b>: These figures are lower than the constitutionally mandated 33% quota.</li></ul>",
+        "_aimcq_title_hi": "महिला आरक्षण प्रतिशत",
+        "_aimcq_question_content_hi": "नारी शक्ति वंदन अधिनियम (106वां संशोधन अधिनियम) लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए कितने प्रतिशत आरक्षण का आदेश देता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "25%",
+            "image": ""
+          },
+          {
+            "text": "33%",
+            "image": ""
+          },
+          {
+            "text": "50%",
+            "image": ""
+          },
+          {
+            "text": "30%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>नारी शक्ति वंदन अधिनियम</b> लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए <b>33% (एक-तिहाई)</b> आरक्षण का आदेश देता है। 2026 के विधेयकों का उद्देश्य 2026 के बाद की पहली जनगणना से इसे अलग करके और 2011 की जनगणना के आंकड़ों का उपयोग करके इसे तेजी से लागू करना है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>50%</b>: यह अक्सर भारत में कुल आरक्षण की सीमा के रूप में चर्चा में रहता है, लेकिन इस अधिनियम में महिलाओं के लिए विशिष्ट कोटा नहीं है।</li><li><b>25% और 30%</b>: ये आंकड़े संवैधानिक रूप से अनिवार्य 33% कोटे से कम हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6003,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "According to the UNEP Food Waste Index 2024, approximately how much food does India waste annually?",
+      "post_title": "India Food Waste Scale",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "50-55 million tonnes",
+            "image": ""
+          },
+          {
+            "text": "78-80 million tonnes",
+            "image": ""
+          },
+          {
+            "text": "108 million tonnes",
+            "image": ""
+          },
+          {
+            "text": "24.7 million tonnes",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>According to the <b>UNEP Food Waste Index 2024</b>, India wastes <b>78-80 million tonnes</b> of food annually, valued at approximately Rs 1.55 lakh crore. India ranks 2nd globally in food waste, trailing only China.<h5>Incorrect Options Analysis</h5><ul><li><b>108 million tonnes</b>: This is the amount of food wasted by China annually.</li><li><b>24.7 million tonnes</b>: This is the approximate food waste of the United States.</li><li><b>50-55 million tonnes</b>: This figure is incorrect and significantly lower than India's actual waste.</li></ul>",
+        "_aimcq_title_hi": "भारत में खाद्य अपव्यय का पैमाना",
+        "_aimcq_question_content_hi": "UNEP फूड वेस्ट इंडेक्स 2024 के अनुसार, भारत सालाना लगभग कितना भोजन बर्बाद करता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "50-55 मिलियन टन",
+            "image": ""
+          },
+          {
+            "text": "78-80 मिलियन टन",
+            "image": ""
+          },
+          {
+            "text": "108 मिलियन टन",
+            "image": ""
+          },
+          {
+            "text": "24.7 मिलियन टन",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>UNEP फूड वेस्ट इंडेक्स 2024</b> के अनुसार, भारत सालाना <b>78-80 मिलियन टन</b> भोजन बर्बाद करता है, जिसका मूल्य लगभग 1.55 लाख करोड़ रुपये है। खाद्य अपव्यय में भारत वैश्विक स्तर पर दूसरे स्थान पर है, केवल चीन से पीछे है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>108 मिलियन टन</b>: यह चीन द्वारा सालाना बर्बाद किए जाने वाले भोजन की मात्रा है।</li><li><b>24.7 मिलियन टन</b>: यह संयुक्त राज्य अमेरिका का अनुमानित खाद्य अपव्यय है।</li><li><b>50-55 मिलियन टन</b>: यह आंकड़ा गलत है और भारत के वास्तविक कचरे से काफी कम है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6004,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "Which constitutional article mandates the Parliament to enact a Delimitation Act after every census?",
+      "post_title": "Constitutional Basis for Delimitation",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Article 81",
+            "image": ""
+          },
+          {
+            "text": "Article 82",
+            "image": ""
+          },
+          {
+            "text": "Article 170",
+            "image": ""
+          },
+          {
+            "text": "Article 334A",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5><b>Article 82</b> of the Indian Constitution mandates that Parliament shall enact a Delimitation Act after every census to readjust the allocation of seats and territorial constituencies in the Lok Sabha.<h5>Incorrect Options Analysis</h5><ul><li><b>Article 81</b>: Defines the composition of the House of the People (Lok Sabha).</li><li><b>Article 170</b>: Deals with the readjustment of seats in State Legislative Assemblies.</li><li><b>Article 334A</b>: Is the new article related to the implementation of women's reservation.</li></ul>",
+        "_aimcq_title_hi": "परिसीमन का संवैधानिक आधार",
+        "_aimcq_question_content_hi": "कौन सा संवैधानिक अनुच्छेद संसद को हर जनगणना के बाद परिसीमन अधिनियम बनाने का आदेश देता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अनुच्छेद 81",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 82",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 170",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 334A",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>भारतीय संविधान का <b>अनुच्छेद 82</b> यह आदेश देता है कि संसद हर जनगणना के बाद लोकसभा में सीटों के आवंटन और क्षेत्रीय निर्वाचन क्षेत्रों को पुनर्व्यवस्थित करने के लिए एक परिसीमन अधिनियम बनाएगी।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>अनुच्छेद 81</b>: लोकसभा की संरचना को परिभाषित करता है।</li><li><b>अनुच्छेद 170</b>: राज्य विधानसभाओं में सीटों के पुनर्समायोजन से संबंधित है।</li><li><b>अनुच्छेद 334A</b>: महिला आरक्षण के कार्यान्वयन से संबंधित नया अनुच्छेद है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6005,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "Which greenhouse gas, much more potent than $CO_{2}$, is released from decomposing food in landfills?",
+      "post_title": "Food Waste and Emissions",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Nitrous Oxide",
+            "image": ""
+          },
+          {
+            "text": "Methane",
+            "image": ""
+          },
+          {
+            "text": "Sulphur Dioxide",
+            "image": ""
+          },
+          {
+            "text": "Carbon Monoxide",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Decomposing food in landfills produces <b>Methane</b> ($CH_{4}$), a greenhouse gas that is significantly more potent than Carbon Dioxide ($CO_{2}$) in terms of atmospheric warming. Food loss and waste account for 8-10% of global greenhouse gas emissions.<h5>Incorrect Options Analysis</h5><ul><li><b>Nitrous Oxide</b>: Though a potent GHG, it is primarily associated with agricultural fertilizers.</li><li><b>Sulphur Dioxide</b>: Is a pollutant from fossil fuel combustion, not a primary byproduct of organic decomposition.</li><li><b>Carbon Monoxide</b>: Is a toxic gas from incomplete combustion, not the primary landfill gas.</li></ul>",
+        "_aimcq_title_hi": "खाद्य अपव्यय और उत्सर्जन",
+        "_aimcq_question_content_hi": "लैंडफिल में सड़ने वाले भोजन से कौन सी ग्रीनहाउस गैस निकलती है, जो $CO_{2}$ से कहीं अधिक शक्तिशाली है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "नाइट्रस ऑक्साइड",
+            "image": ""
+          },
+          {
+            "text": "मीथेन",
+            "image": ""
+          },
+          {
+            "text": "सल्फर डाइऑक्साइड",
+            "image": ""
+          },
+          {
+            "text": "कार्बन मोनोऑक्साइड",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>लैंडफिल में सड़ने वाला भोजन <b>मीथेन</b> ($CH_{4}$) पैदा करता है, जो वायुमंडलीय वार्मिंग के मामले में कार्बन डाइऑक्साइड ($CO_{2}$) की तुलना में काफी अधिक शक्तिशाली ग्रीनहाउस गैस है। खाद्य हानि और अपव्यय वैश्विक ग्रीनहाउस गैस उत्सर्जन का 8-10% हिस्सा है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>नाइट्रस ऑक्साइड</b>: हालांकि यह एक शक्तिशाली GHG है, यह मुख्य रूप से कृषि उर्वरकों से जुड़ा है।</li><li><b>सल्फर डाइऑक्साइड</b>: जीवाश्म ईंधन दहन से निकलने वाला प्रदूषक है, न कि जैविक अपघटन का प्राथमिक उपोत्पाद।</li><li><b>कार्बन मोनोऑक्साइड</b>: अपूर्ण दहन से निकलने वाली एक जहरीली गैस है, प्राथमिक लैंडफिल गैस नहीं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6006,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "The Lanjia Saora tribe, recently in the news, is a Particularly Vulnerable Tribal Group (PVTG) residing in which state?",
+      "post_title": "Lanjia Saora Tribe Location",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Jharkhand",
+            "image": ""
+          },
+          {
+            "text": "Chhattisgarh",
+            "image": ""
+          },
+          {
+            "text": "Odisha",
+            "image": ""
+          },
+          {
+            "text": "Madhya Pradesh",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>Lanjia Saora</b> tribe is a PVTG primarily inhabiting the forested hills of Rayagada and Gajapati districts in <b>Odisha</b>. They are known for their unique culture, including large metal earrings and geometric tattoos.<h5>Incorrect Options Analysis</h5><ul><li><b>Jharkhand, Chhattisgarh, & Madhya Pradesh</b>: While these states have significant tribal populations, the specific Lanjia Saora group highlighted for their cultural evolution resides in Odisha.</li></ul>",
+        "_aimcq_title_hi": "लांजिया सोरा जनजाति का स्थान",
+        "_aimcq_question_content_hi": "हाल ही में चर्चा में रही लांजिया सोरा जनजाति, एक विशेष रूप से कमजोर जनजातीय समूह (PVTG) है, जो किस राज्य में निवास करती है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "झारखंड",
+            "image": ""
+          },
+          {
+            "text": "छत्तीसगढ़",
+            "image": ""
+          },
+          {
+            "text": "ओडिशा",
+            "image": ""
+          },
+          {
+            "text": "मध्य प्रदेश",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>लांजिया सोरा</b> जनजाति एक PVTG है जो मुख्य रूप से <b>ओडिशा</b> के रायगडा और गजपति जिलों की जंगली पहाड़ियों में निवास करती है। वे अपनी अनूठी संस्कृति के लिए जाने जाते हैं, जिसमें बड़े धातु के झुमके और ज्यामितीय टैटू शामिल हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>झारखंड, छत्तीसगढ़ और मध्य प्रदेश</b>: हालांकि इन राज्यों में महत्वपूर्ण जनजातीय आबादी है, लेकिन उनकी सांस्कृतिक विकास के लिए उजागर विशिष्ट लांजिया सोरा समूह ओडिशा में रहता है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      }
+    },
+    {
+      "id": 6007,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "The Delhi High Court recently upheld a woman's right to IVF with a soldier in a vegetative state under which constitutional article?",
+      "post_title": "Reproductive Autonomy and Article 21",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Article 14",
+            "image": ""
+          },
+          {
+            "text": "Article 19",
+            "image": ""
+          },
+          {
+            "text": "Article 21",
+            "image": ""
+          },
+          {
+            "text": "Article 25",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Delhi High Court invoked <b>Article 21</b> (Right to Life and Personal Liberty) to uphold the woman's right to motherhood, dignity, and reproductive autonomy, allowing her to continue IVF treatment with her husband who is in a vegetative state.<h5>Incorrect Options Analysis</h5><ul><li><b>Article 14</b>: Deals with Equality before Law.</li><li><b>Article 19</b>: Deals with Freedom of Speech and Expression.</li><li><b>Article 25</b>: Deals with Freedom of Religion.</li></ul>",
+        "_aimcq_title_hi": "प्रजनन स्वायत्तता और अनुच्छेद 21",
+        "_aimcq_question_content_hi": "दिल्ली उच्च न्यायालय ने हाल ही में किस संवैधानिक अनुच्छेद के तहत वेजिटेटिव स्थिति में एक सैनिक के साथ एक महिला के IVF के अधिकार को बरकरार रखा?",
+        "_aimcq_options_hi": [
+          {
+            "text": "अनुच्छेद 14",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 19",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 21",
+            "image": ""
+          },
+          {
+            "text": "अनुच्छेद 25",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>दिल्ली उच्च न्यायालय ने महिला के मातृत्व, गरिमा और प्रजनन स्वायत्तता के अधिकार को बनाए रखने के लिए <b>अनुच्छेद 21</b> (जीवन और व्यक्तिगत स्वतंत्रता का अधिकार) का आह्वान किया, जिससे उसे अपने पति के साथ IVF उपचार जारी रखने की अनुमति मिली जो वेजिटेटिव स्थिति में है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>अनुच्छेद 14</b>: कानून के समक्ष समानता से संबंधित है।</li><li><b>अनुच्छेद 19</b>: भाषण और अभिव्यक्ति की स्वतंत्रता से संबंधित है।</li><li><b>अनुच्छेद 25</b>: धर्म की स्वतंत्रता से संबंधित है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      }
+    },
+    {
+      "id": 6008,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "What is the primary significance of the 'DF-PIBM' simulation model introduced recently?",
+      "post_title": "DF-PIBM Tool in Urban Planning",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Predicting earthquake intensity",
+            "image": ""
+          },
+          {
+            "text": "Tracking pollen spread in cities",
+            "image": ""
+          },
+          {
+            "text": "Simulating urban traffic flow",
+            "image": ""
+          },
+          {
+            "text": "Measuring noise pollution levels",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>DF-PIBM</b> (direct-forcing porous immersed boundary method) is a simulation model designed to accurately predict how <b>pollen travels through urban air</b>. This helps address health concerns like seasonal allergies by helping urban planners choose tree species strategically.<h5>Incorrect Options Analysis</h5><ul><li>The model is specifically related to <b>atmospheric particles (pollen)</b> and tree porosity, not traffic, earthquakes, or noise.</li></ul>",
+        "_aimcq_title_hi": "शहरी नियोजन में DF-PIBM टूल",
+        "_aimcq_question_content_hi": "हाल ही में पेश किए गए 'DF-PIBM' सिमुलेशन मॉडल का प्राथमिक महत्व क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भूकंप की तीव्रता की भविष्यवाणी करना",
+            "image": ""
+          },
+          {
+            "text": "शहरों में पराग प्रसार पर नज़र रखना",
+            "image": ""
+          },
+          {
+            "text": "शहरी यातायात प्रवाह का अनुकरण करना",
+            "image": ""
+          },
+          {
+            "text": "ध्वनि प्रदूषण के स्तर को मापना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>DF-PIBM</b> (डायरेक्ट-फोर्सिंग पोरस इमर्स्ड बाउंड्री मेथड) एक सिमुलेशन मॉडल है जिसे यह सटीक भविष्यवाणी करने के लिए डिज़ाइन किया गया है कि <b>पराग शहरी हवा के माध्यम से कैसे यात्रा करता है</b>। यह शहरी योजनाकारों को रणनीतिक रूप से पेड़ों की प्रजातियों को चुनने में मदद करके मौसमी एलर्जी जैसी स्वास्थ्य संबंधी चिंताओं को दूर करने में मदद करता है।<h5>गलत विकल्प विश्लेषण</h5><ul><li>यह मॉडल विशेष रूप से <b>वायुमंडलीय कणों (पराग)</b> और पेड़ों की छिद्रयुक्त संरचना से संबंधित है, न कि यातायात, भूकंप या शोर से।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6009,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "According to the IMF, which global scenario is the world economy currently drifting toward due to conflict?",
+      "post_title": "IMF Global Growth Scenarios",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Baseline Scenario",
+            "image": ""
+          },
+          {
+            "text": "Adverse Scenario",
+            "image": ""
+          },
+          {
+            "text": "Worst-Case Scenario",
+            "image": ""
+          },
+          {
+            "text": "Optimistic Scenario",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The IMF warned that the global economy is drifting toward an <b>Adverse Scenario</b>, where prolonged conflict could drop global growth to 2.5% with oil prices around $100 per barrel.<h5>Incorrect Options Analysis</h5><ul><li><b>Baseline</b>: Assumes short-lived conflict.</li><li><b>Worst-Case</b>: Global economy approaches recession (growth lower than 2.5%).</li><li><b>Optimistic</b>: Is not a term used in the current three-tier risk framework by the IMF.</li></ul>",
+        "_aimcq_title_hi": "IMF वैश्विक विकास परिदृश्य",
+        "_aimcq_question_content_hi": "IMF के अनुसार, संघर्ष के कारण विश्व अर्थव्यवस्था वर्तमान में किस वैश्विक परिदृश्य की ओर बढ़ रही है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "बेसलाइन परिदृश्य",
+            "image": ""
+          },
+          {
+            "text": "प्रतिकूल परिदृश्य (Adverse Scenario)",
+            "image": ""
+          },
+          {
+            "text": "सबसे खराब स्थिति वाला परिदृश्य",
+            "image": ""
+          },
+          {
+            "text": "आशावादी परिदृश्य",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>IMF ने चेतावनी दी कि वैश्विक अर्थव्यवस्था एक <b>प्रतिकूल परिदृश्य (Adverse Scenario)</b> की ओर बढ़ रही है, जहाँ लंबे समय तक चलने वाले संघर्ष से वैश्विक विकास दर गिरकर 2.5% हो सकती है और तेल की कीमतें 100 डॉलर प्रति बैरल के आसपास हो सकती हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>बेसलाइन</b>: अल्पकालिक संघर्ष मानती है।</li><li><b>सबसे खराब स्थिति</b>: वैश्विक अर्थव्यवस्था मंदी के करीब पहुंचती है (विकास दर 2.5% से कम)।</li><li><b>आशावादी</b>: IMF द्वारा वर्तमान त्रि-स्तरीय जोखिम ढांचे में उपयोग किया जाने वाला शब्द नहीं है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6010,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "The 'Sunset Clause' in the women's reservation bill implies that the reservation is initially valid for how many years?",
+      "post_title": "Women's Reservation Sunset Clause",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "10 years",
+            "image": ""
+          },
+          {
+            "text": "15 years",
+            "image": ""
+          },
+          {
+            "text": "25 years",
+            "image": ""
+          },
+          {
+            "text": "Indefinite",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The women's reservation comes with a <b>'sunset clause'</b>, meaning it is valid for an initial period of <b>15 years</b>. However, Parliament retains the authority to extend it further through legislation.<h5>Incorrect Options Analysis</h5><ul><li><b>10 years</b>: This was the original duration for SC/ST reservations which has been extended repeatedly.</li><li><b>25 years & Indefinite</b>: These are incorrect as per the current legislative provisions.</li></ul>",
+        "_aimcq_title_hi": "महिला आरक्षण सूर्यास्त खंड (Sunset Clause)",
+        "_aimcq_question_content_hi": "महिला आरक्षण विधेयक में 'सूर्यास्त खंड' (Sunset Clause) का तात्पर्य है कि आरक्षण शुरू में कितने वर्षों के लिए मान्य है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "10 वर्ष",
+            "image": ""
+          },
+          {
+            "text": "15 वर्ष",
+            "image": ""
+          },
+          {
+            "text": "25 वर्ष",
+            "image": ""
+          },
+          {
+            "text": "अनिश्चित",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>महिला आरक्षण एक <b>'सूर्यास्त खंड' (sunset clause)</b> के साथ आता है, जिसका अर्थ है कि यह <b>15 वर्षों</b> की प्रारंभिक अवधि के लिए मान्य है। हालांकि, संसद के पास कानून के माध्यम से इसे और आगे बढ़ाने का अधिकार है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>10 वर्ष</b>: यह SC/ST आरक्षण के लिए मूल अवधि थी जिसे बार-बार बढ़ाया गया है।</li><li><b>25 वर्ष और अनिश्चित</b>: वर्तमान विधायी प्रावधानों के अनुसार ये गलत हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6011,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "Which efficiency range do modern biomass-based Improved Cookstoves (ICS) achieve compared to traditional chulhas?",
+      "post_title": "Improved Cookstoves Efficiency",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "10-15%",
+            "image": ""
+          },
+          {
+            "text": "20-25%",
+            "image": ""
+          },
+          {
+            "text": "38-45%",
+            "image": ""
+          },
+          {
+            "text": "60-70%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Improved Cookstoves (ICS) achieve <b>38-45% efficiency</b>, which is significantly higher than traditional chulhas that operate at around 10% efficiency. This helps reduce firewood consumption by 50-66%.<h5>Incorrect Options Analysis</h5><ul><li><b>10-15%</b>: Is characteristic of traditional stoves.</li><li><b>60-70%</b>: Is generally the range for high-efficiency gas or electric stoves, but not biomass ICS.</li></ul>",
+        "_aimcq_title_hi": "बेहतर कुकस्टोव की दक्षता",
+        "_aimcq_question_content_hi": "पारंपरिक चूल्हों की तुलना में आधुनिक बायोमास-आधारित उन्नत कुकस्टोव (ICS) कितनी दक्षता प्राप्त करते हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "10-15%",
+            "image": ""
+          },
+          {
+            "text": "20-25%",
+            "image": ""
+          },
+          {
+            "text": "38-45%",
+            "image": ""
+          },
+          {
+            "text": "60-70%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>बेहतर कुकस्टोव (ICS) <b>38-45% दक्षता</b> प्राप्त करते हैं, जो लगभग 10% दक्षता पर काम करने वाले पारंपरिक चूल्हों की तुलना में काफी अधिक है। यह जलाऊ लकड़ी की खपत को 50-66% तक कम करने में मदद करता है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>10-15%</b>: पारंपरिक चूल्हों की विशेषता है।</li><li><b>60-70%</b>: आम तौर पर उच्च दक्षता वाले गैस या इलेक्ट्रिक स्टोव की सीमा होती है, बायोमास ICS की नहीं।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      }
+    },
+    {
+      "id": 6012,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "India processes what percentage of its agricultural produce currently?",
+      "post_title": "India Food Processing Sector",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "8-10%",
+            "image": ""
+          },
+          {
+            "text": "23%",
+            "image": ""
+          },
+          {
+            "text": "65%",
+            "image": ""
+          },
+          {
+            "text": "40%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>India currently processes only about <b>8-10%</b> of its agricultural produce. In contrast, countries like the USA process 65% and China processes 23%. This under-utilization is a major cause of food wastage.<h5>Incorrect Options Analysis</h5><ul><li><b>65%</b>: Percentage processed in the USA.</li><li><b>23%</b>: Percentage processed in China.</li></ul>",
+        "_aimcq_title_hi": "भारत खाद्य प्रसंस्करण क्षेत्र",
+        "_aimcq_question_content_hi": "भारत वर्तमान में अपनी कृषि उपज का कितना प्रतिशत प्रसंस्कृत (Process) करता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "8-10%",
+            "image": ""
+          },
+          {
+            "text": "23%",
+            "image": ""
+          },
+          {
+            "text": "65%",
+            "image": ""
+          },
+          {
+            "text": "40%",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>भारत वर्तमान में अपनी कृषि उपज का केवल <b>8-10%</b> ही प्रसंस्कृत करता है। इसके विपरीत, अमेरिका जैसे देश 65% और चीन 23% प्रसंस्करण करते हैं। यह कम उपयोग खाद्य अपव्यय का एक प्रमुख कारण है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>65%</b>: अमेरिका में प्रसंस्कृत प्रतिशत।</li><li><b>23%</b>: चीन में प्रसंस्कृत प्रतिशत।</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      }
+    },
+    {
+      "id": 6013,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "Which scheme aims to provide financial and technical support specifically to micro food processing units in India?",
+      "post_title": "Micro Food Processing Support",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "PMKSY",
+            "image": ""
+          },
+          {
+            "text": "PMFME",
+            "image": ""
+          },
+          {
+            "text": "Agriculture Infrastructure Fund",
+            "image": ""
+          },
+          {
+            "text": "Mission LIFE",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <b>PM Formalisation of Micro food processing Enterprises (PMFME)</b> scheme provides financial, technical, and business support to micro food processing units to enhance local value addition and reduce waste.<h5>Incorrect Options Analysis</h5><ul><li><b>PMKSY</b>: Focuses on larger infrastructure like Mega Food Parks.</li><li><b>Agriculture Infrastructure Fund</b>: Is a debt financing facility for post-harvest management projects.</li><li><b>Mission LIFE</b>: Is a movement for sustainable lifestyles.</li></ul>",
+        "_aimcq_title_hi": "सूक्ष्म खाद्य प्रसंस्करण सहायता",
+        "_aimcq_question_content_hi": "किस योजना का उद्देश्य विशेष रूप से भारत में सूक्ष्म खाद्य प्रसंस्करण इकाइयों को वित्तीय और तकनीकी सहायता प्रदान करना है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "PMKSY",
+            "image": ""
+          },
+          {
+            "text": "PMFME",
+            "image": ""
+          },
+          {
+            "text": "कृषि अवसंरचना कोष",
+            "image": ""
+          },
+          {
+            "text": "मिशन LIFE",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><b>पीएम सूक्ष्म खाद्य उद्योग उन्नयन योजना (PMFME)</b> स्थानीय मूल्यवर्धन बढ़ाने और कचरे को कम करने के लिए सूक्ष्म खाद्य प्रसंस्करण इकाइयों को वित्तीय, तकनीकी और व्यावसायिक सहायता प्रदान करती है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>PMKSY</b>: मेगा फूड पार्क जैसी बड़ी बुनियादी सुविधाओं पर ध्यान केंद्रित करती है।</li><li><b>कृषि अवसंरचना कोष</b>: फसल कटाई के बाद प्रबंधन परियोजनाओं के लिए एक ऋण वित्तपोषण सुविधा है।</li><li><b>मिशन LIFE</b>: टिकाऊ जीवन शैली के लिए एक आंदोलन है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 6014,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "The Constitution (131st Amendment) Bill, 2026 allows the government to proceed with delimitation using data from which census?",
+      "post_title": "Census Data for 2026 Delimitation",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "1971 Census",
+            "image": ""
+          },
+          {
+            "text": "2001 Census",
+            "image": ""
+          },
+          {
+            "text": "2011 Census",
+            "image": ""
+          },
+          {
+            "text": "Post-2026 Census",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>By decoupling delimitation from the first census taken after 2026, the <b>Constitution (131st Amendment) Bill, 2026</b> allows the government to proceed using the <b>2011 Census</b> data (the latest available published figures).<h5>Incorrect Options Analysis</h5><ul><li><b>1971 Census</b>: Is the current basis for inter-state Lok Sabha seat allocation.</li><li><b>2001 Census</b>: Is the current basis for internal boundary redrawing.</li><li><b>Post-2026 Census</b>: This was the original requirement that the new Bill seeks to bypass.</li></ul>",
+        "_aimcq_title_hi": "2026 परिसीमन के लिए जनगणना डेटा",
+        "_aimcq_question_content_hi": "संविधान (131वां संशोधन) विधेयक, 2026 सरकार को किस जनगणना के आंकड़ों का उपयोग करके परिसीमन के साथ आगे बढ़ने की अनुमति देता है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "1971 की जनगणना",
+            "image": ""
+          },
+          {
+            "text": "2001 की जनगणना",
+            "image": ""
+          },
+          {
+            "text": "2011 की जनगणना",
+            "image": ""
+          },
+          {
+            "text": "2026 के बाद की जनगणना",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>2026 के बाद होने वाली पहली जनगणना से परिसीमन को अलग करके, <b>संविधान (131वां संशोधन) विधेयक, 2026</b> सरकार को <b>2011 की जनगणना</b> के आंकड़ों (नवीनतम उपलब्ध प्रकाशित आंकड़ों) का उपयोग करके आगे बढ़ने की अनुमति देता है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><b>1971 की जनगणना</b>: अंतर-राज्यीय लोकसभा सीटों के आवंटन का वर्तमान आधार है।</li><li><b>2001 की जनगणना</b>: आंतरिक सीमा पुनर्निर्धारण का वर्तमान आधार है।</li><li><b>2026 के बाद की जनगणना</b>: यह मूल आवश्यकता थी जिसे नया विधेयक बाईपास करना चाहता है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      }
+    },
+    {
+      "id": 6015,
+      "post_author": 1,
+      "post_date": "2026-04-16 20:30:00",
+      "post_content": "Under the proposed expansion of the Lok Sabha, what is the projected change for Uttar Pradesh's seat count?",
+      "post_title": "UP Lok Sabha Projection",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "From 80 to 100",
+            "image": ""
+          },
+          {
+            "text": "From 80 to 140",
+            "image": ""
+          },
+          {
+            "text": "From 80 to 120",
+            "image": ""
+          },
+          {
+            "text": "From 80 to 150",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>If the Lok Sabha is increased to the proposed 850 seats, <b>Uttar Pradesh's</b> seat count is projected to rise from <b>80 to 140</b>, increasing its proportion in the house from 14.7% to 16.5%.<h5>Incorrect Options Analysis</h5><ul><li>Other figures like 100, 120, or 150 are not consistent with the 2011 census-based projections for an 850-seat house mentioned in the source.</li></ul>",
+        "_aimcq_title_hi": "यूपी लोकसभा प्रोजेक्शन",
+        "_aimcq_question_content_hi": "लोकसभा के प्रस्तावित विस्तार के तहत, उत्तर प्रदेश की सीटों की संख्या में क्या अनुमानित परिवर्तन है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "80 से 100",
+            "image": ""
+          },
+          {
+            "text": "80 से 140",
+            "image": ""
+          },
+          {
+            "text": "80 से 120",
+            "image": ""
+          },
+          {
+            "text": "80 से 150",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>यदि लोकसभा को प्रस्तावित 850 सीटों तक बढ़ाया जाता है, तो <b>उत्तर प्रदेश</b> की सीटों की संख्या <b>80 से बढ़कर 140</b> होने का अनुमान है, जिससे सदन में इसका अनुपात 14.7% से बढ़कर 16.5% हो जाएगा।<h5>गलत विकल्प विश्लेषण</h5><ul><li>100, 120, या 150 जैसे अन्य आंकड़े स्रोत में उल्लिखित 850 सीटों वाले सदन के लिए 2011 की जनगणना-आधारित अनुमानों के अनुरूप नहीं हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      }
+    }
+  ]
+}
