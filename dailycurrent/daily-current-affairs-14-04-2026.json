@@ -1,0 +1,935 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs Practice",
+      "slug": "current-affairs-practice-set",
+      "parent": ""
+    },
+    {
+      "taxonomy": "topic",
+      "name": "Current Affairs : 14 Apr 2026",
+      "slug": "current-affairs-14-apr-2026",
+      "parent": "current-affairs-practice-set"
+    }
+  ],
+  "posts": [
+    {
+      "id": 6016,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "What is the global target for the Maternal Mortality Ratio (MMR) by 2030 under Sustainable Development Goal (SDG) 3.1?",
+      "post_title": "SDG 3.1 Maternal Mortality Target",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Below 50 per 100,000 live births",
+            "image": ""
+          },
+          {
+            "text": "Below 70 per 100,000 live births",
+            "image": ""
+          },
+          {
+            "text": "Below 100 per 100,000 live births",
+            "image": ""
+          },
+          {
+            "text": "Below 120 per 100,000 live births",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Sustainable Development Goal (SDG) target 3.1 aims to reduce the global <strong>Maternal Mortality Ratio (MMR) to below 70 deaths per 100,000 live births</strong> by 2030.<h5>Incorrect Options Analysis</h5><ul><li><strong>Below 50, 100, 120</strong>: These are incorrect figures. India's current MMR has dropped to 80, but the global SDG target specifically aims for below 70.</li></ul>",
+        "_aimcq_title_hi": "एसडीजी 3.1 मातृ मृत्यु दर लक्ष्य",
+        "_aimcq_question_content_hi": "सतत विकास लक्ष्य (SDG) 3.1 के तहत 2030 तक मातृ मृत्यु अनुपात (MMR) का वैश्विक लक्ष्य क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "प्रति 100,000 जीवित जन्मों पर 50 से कम",
+            "image": ""
+          },
+          {
+            "text": "प्रति 100,000 जीवित जन्मों पर 70 से कम",
+            "image": ""
+          },
+          {
+            "text": "प्रति 100,000 जीवित जन्मों पर 100 से कम",
+            "image": ""
+          },
+          {
+            "text": "प्रति 100,000 जीवित जन्मों पर 120 से कम",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>सतत विकास लक्ष्य (SDG) 3.1 का लक्ष्य 2030 तक वैश्विक <strong>मातृ मृत्यु अनुपात (MMR) को प्रति 100,000 जीवित जन्मों पर 70 से कम करना है</strong>।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>50, 100, 120 से कम</strong>: ये गलत आंकड़े हैं। भारत का वर्तमान MMR गिरकर 80 हो गया है, लेकिन वैश्विक SDG लक्ष्य विशेष रूप से 70 से कम का लक्ष्य रखता है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6017,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "Under the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA), free antenatal care (ANC) is provided on which day of every month?",
+      "post_title": "PMSMA Antenatal Care Day",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "1st",
+            "image": ""
+          },
+          {
+            "text": "5th",
+            "image": ""
+          },
+          {
+            "text": "9th",
+            "image": ""
+          },
+          {
+            "text": "15th",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)</strong> provides free Antenatal Care (ANC) on the <strong>9th of every month</strong>. This initiative has benefited nearly 5.9 crore women by identifying high-risk pregnancies early.<h5>Incorrect Options Analysis</h5><ul><li><strong>1st, 5th, 15th</strong>: These are incorrect dates. The program is specifically designed to be conducted on the 9th of every month across designated health facilities.</li></ul>",
+        "_aimcq_title_hi": "पीएमएसएमए प्रसवपूर्व देखभाल दिवस",
+        "_aimcq_question_content_hi": "प्रधान मंत्री सुरक्षित मातृत्व अभियान (PMSMA) के तहत, हर महीने के किस दिन मुफ्त प्रसवपूर्व देखभाल (ANC) प्रदान की जाती है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "पहली (1st)",
+            "image": ""
+          },
+          {
+            "text": "5वीं",
+            "image": ""
+          },
+          {
+            "text": "9वीं",
+            "image": ""
+          },
+          {
+            "text": "15वीं",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>प्रधान मंत्री सुरक्षित मातृत्व अभियान (PMSMA)</strong> हर महीने की <strong>9 तारीख</strong> को मुफ्त प्रसवपूर्व देखभाल (ANC) प्रदान करता है। इस पहल से उच्च जोखिम वाले गर्भधारण की जल्द पहचान करके लगभग 5.9 करोड़ महिलाओं को लाभ हुआ है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>पहली, 5वीं, 15वीं</strong>: ये गलत तिथियां हैं। कार्यक्रम विशेष रूप से प्रत्येक महीने की 9 तारीख को नामित स्वास्थ्य सुविधाओं में आयोजित करने के लिए डिज़ाइन किया गया है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6018,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "The Government of India's \"LaQshya\" initiative primarily aims to improve the quality of care in which specific area?",
+      "post_title": "LaQshya Initiative Objective",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Labour room and maternity operation theatres",
+            "image": ""
+          },
+          {
+            "text": "Immunization for infants",
+            "image": ""
+          },
+          {
+            "text": "Nutritional support for adolescent girls",
+            "image": ""
+          },
+          {
+            "text": "Free medicines for senior citizens",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>LaQshya</strong> program is a dedicated initiative by the Government of India designed to improve the quality of care in <strong>labour rooms and maternity operation theatres (OTs)</strong> to prevent maternal and newborn deaths and morbidities.<h5>Incorrect Options Analysis</h5><ul><li><strong>Immunization for infants</strong>: This is covered under Mission Indradhanush.</li><li><strong>Nutritional support for adolescent girls</strong>: This is covered under schemes like POSHAN Abhiyaan and SABLA.</li><li><strong>Free medicines for senior citizens</strong>: This is unrelated to maternal healthcare initiatives.</li></ul>",
+        "_aimcq_title_hi": "लक्ष्य (LaQshya) पहल का उद्देश्य",
+        "_aimcq_question_content_hi": "भारत सरकार की \"LaQshya (लक्ष्य)\" पहल का प्राथमिक उद्देश्य किस विशिष्ट क्षेत्र में देखभाल की गुणवत्ता में सुधार करना है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "लेबर रूम और मैटरनिटी ऑपरेशन थियेटर",
+            "image": ""
+          },
+          {
+            "text": "शिशुओं के लिए टीकाकरण",
+            "image": ""
+          },
+          {
+            "text": "किशोरियों के लिए पोषण संबंधी सहायता",
+            "image": ""
+          },
+          {
+            "text": "वरिष्ठ नागरिकों के लिए मुफ्त दवाएं",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>LaQshya (लक्ष्य)</strong> कार्यक्रम भारत सरकार द्वारा शुरू की गई एक समर्पित पहल है जिसका उद्देश्य मातृ और नवजात शिशु मृत्यु और रुग्णता को रोकने के लिए <strong>लेबर रूम और मैटरनिटी ऑपरेशन थियेटर (OTs)</strong> में देखभाल की गुणवत्ता में सुधार करना है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>शिशुओं के लिए टीकाकरण</strong>: यह मिशन इंद्रधनुष के अंतर्गत आता है।</li><li><strong>किशोरियों के लिए पोषण संबंधी सहायता</strong>: यह पोषण अभियान और सबला जैसी योजनाओं के अंतर्गत आता है।</li><li><strong>वरिष्ठ नागरिकों के लिए मुफ्त दवाएं</strong>: यह मातृ स्वास्थ्य देखभाल पहलों से संबंधित नहीं है।</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6019,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "Where was the 9th Indian Ocean Conference recently held in 2026?",
+      "post_title": "9th Indian Ocean Conference Location",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Maldives",
+            "image": ""
+          },
+          {
+            "text": "Sri Lanka",
+            "image": ""
+          },
+          {
+            "text": "Mauritius",
+            "image": ""
+          },
+          {
+            "text": "Bangladesh",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>9th Indian Ocean Conference</strong> was recently held in <strong>Mauritius</strong>. During the conference, India reaffirmed its firm opposition to the targeting of civilians and commercial shipping amid the escalating West Asia conflict.<h5>Incorrect Options Analysis</h5><ul><li><strong>Maldives</strong>: No delegate attended from the Maldives due to suspended diplomatic ties with Mauritius over the Chagos Islands.</li><li><strong>Bangladesh</strong>: Bangladesh was a participant that emphasized the need to \"revitalise SAARC\", but did not host this specific edition.</li><li><strong>Sri Lanka</strong>: Sri Lanka is a key IOR nation but was not the host of the 9th edition.</li></ul>",
+        "_aimcq_title_hi": "9वां हिंद महासागर सम्मेलन स्थान",
+        "_aimcq_question_content_hi": "हाल ही में 2026 में 9वां हिंद महासागर सम्मेलन कहाँ आयोजित किया गया था?",
+        "_aimcq_options_hi": [
+          {
+            "text": "मालदीव",
+            "image": ""
+          },
+          {
+            "text": "श्रीलंका",
+            "image": ""
+          },
+          {
+            "text": "मॉरीशस",
+            "image": ""
+          },
+          {
+            "text": "बांग्लादेश",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>9वां हिंद महासागर सम्मेलन</strong> हाल ही में <strong>मॉरीशस</strong> में आयोजित किया गया था। सम्मेलन के दौरान, भारत ने बढ़ते पश्चिम एशिया संघर्ष के बीच नागरिकों और वाणिज्यिक शिपिंग को लक्षित करने के अपने दृढ़ विरोध की पुष्टि की।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>मालदीव</strong>: चागोस द्वीप समूह को लेकर मॉरीशस के साथ निलंबित राजनयिक संबंधों के कारण मालदीव का कोई प्रतिनिधि शामिल नहीं हुआ।</li><li><strong>बांग्लादेश</strong>: बांग्लादेश एक भागीदार था जिसने \"सार्क को पुनर्जीवित करने\" की आवश्यकता पर जोर दिया, लेकिन इस विशिष्ट संस्करण की मेजबानी नहीं की।</li><li><strong>श्रीलंका</strong>: श्रीलंका एक प्रमुख IOR राष्ट्र है लेकिन 9वें संस्करण का मेजबान नहीं था।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6020,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "Which organization has partnered with the Centre for Development of Advanced Computing (C-DAC) to implement the \"e-SafeHER\" Cyber Security Awareness Programme?",
+      "post_title": "e-SafeHER Initiative Partner",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Tata Trusts",
+            "image": ""
+          },
+          {
+            "text": "Reliance Foundation",
+            "image": ""
+          },
+          {
+            "text": "Infosys Foundation",
+            "image": ""
+          },
+          {
+            "text": "Bill & Melinda Gates Foundation",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The e-SafeHER Cyber Security Awareness Programme is anchored under MeitY and is implemented by the Centre for Development of Advanced Computing (C-DAC) in partnership with the <strong>Reliance Foundation</strong>. It aims to empower one million rural women in digital safety.<h5>Incorrect Options Analysis</h5><ul><li><strong>Tata Trusts, Infosys Foundation, Bill & Melinda Gates Foundation</strong>: While these are prominent philanthropic organizations involved in various social initiatives, they are not the specific partners for the e-SafeHER programme mentioned in the recent update.</li></ul>",
+        "_aimcq_title_hi": "ई-सेफहर (e-SafeHER) पहल का भागीदार",
+        "_aimcq_question_content_hi": "\"ई-सेफहर (e-SafeHER)\" साइबर सुरक्षा जागरूकता कार्यक्रम को लागू करने के लिए किस संगठन ने सेंटर फॉर डेवलपमेंट ऑफ एडवांस कंप्यूटिंग (C-DAC) के साथ साझेदारी की है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "टाटा ट्रस्ट्स",
+            "image": ""
+          },
+          {
+            "text": "रिलायंस फाउंडेशन",
+            "image": ""
+          },
+          {
+            "text": "इन्फोसिस फाउंडेशन",
+            "image": ""
+          },
+          {
+            "text": "बिल एंड मेलिंडा गेट्स फाउंडेशन",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>e-SafeHER साइबर सुरक्षा जागरूकता कार्यक्रम MeitY के तहत संचालित है और इसे <strong>रिलायंस फाउंडेशन</strong> के साथ साझेदारी में सेंटर फॉर डेवलपमेंट ऑफ एडवांस कंप्यूटिंग (C-DAC) द्वारा लागू किया गया है। इसका उद्देश्य दस लाख ग्रामीण महिलाओं को डिजिटल सुरक्षा में सशक्त बनाना है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>टाटा ट्रस्ट्स, इन्फोसिस फाउंडेशन, बिल एंड मेलिंडा गेट्स फाउंडेशन</strong>: हालांकि ये विभिन्न सामाजिक पहलों में शामिल प्रमुख परोपकारी संगठन हैं, लेकिन वे हाल के अपडेट में उल्लिखित e-SafeHER कार्यक्रम के विशिष्ट भागीदार नहीं हैं।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6021,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "The term \"Cyber Sakhis\", recently seen in the news, is associated with which initiative?",
+      "post_title": "Cyber Sakhis Initiative",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Lakhpati Didi Scheme",
+            "image": ""
+          },
+          {
+            "text": "e-SafeHER Initiative",
+            "image": ""
+          },
+          {
+            "text": "PM-WANI",
+            "image": ""
+          },
+          {
+            "text": "Digital India Bhashini",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The term \"Cyber Sakhis\" is associated with the <strong>e-SafeHER Initiative</strong>. Cyber Sakhis are trained women from Self-Help Groups (SHGs) who promote safe digital practices, cybersecurity awareness, and confidence in online transactions within their rural communities.<h5>Incorrect Options Analysis</h5><ul><li><strong>Lakhpati Didi Scheme</strong>: Aims to create self-reliant women through economic empowerment and micro-enterprises, not specifically focused on cybersecurity training.</li><li><strong>PM-WANI</strong>: Relates to the proliferation of public Wi-Fi networks.</li><li><strong>Digital India Bhashini</strong>: An AI-led language translation platform.</li></ul>",
+        "_aimcq_title_hi": "साइबर सखी पहल",
+        "_aimcq_question_content_hi": "हाल ही में खबरों में रहा \"साइबर सखी (Cyber Sakhis)\" शब्द किस पहल से जुड़ा है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "लखपति दीदी योजना",
+            "image": ""
+          },
+          {
+            "text": "ई-सेफहर (e-SafeHER) पहल",
+            "image": ""
+          },
+          {
+            "text": "PM-WANI",
+            "image": ""
+          },
+          {
+            "text": "डिजिटल इंडिया भाषिनी",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>\"साइबर सखी\" शब्द <strong>e-SafeHER पहल</strong> से जुड़ा है। साइबर सखी स्वयं सहायता समूहों (SHG) की प्रशिक्षित महिलाएं हैं जो अपने ग्रामीण समुदायों के भीतर सुरक्षित डिजिटल प्रथाओं, साइबर सुरक्षा जागरूकता और ऑनलाइन लेनदेन में विश्वास को बढ़ावा देती हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>लखपति दीदी योजना</strong>: आर्थिक सशक्तिकरण और सूक्ष्म उद्यमों के माध्यम से आत्मनिर्भर महिलाएं बनाने का लक्ष्य है, यह विशेष रूप से साइबर सुरक्षा प्रशिक्षण पर केंद्रित नहीं है।</li><li><strong>PM-WANI</strong>: सार्वजनिक वाई-फाई नेटवर्क के प्रसार से संबंधित है।</li><li><strong>डिजिटल इंडिया भाषिनी</strong>: एआई-आधारित भाषा अनुवाद मंच है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6022,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "Which institution is the implementing agency for the recently notified Startup India Fund of Funds (FoF) 2.0?",
+      "post_title": "Startup India FoF 2.0 Implementing Agency",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Reserve Bank of India (RBI)",
+            "image": ""
+          },
+          {
+            "text": "Securities and Exchange Board of India (SEBI)",
+            "image": ""
+          },
+          {
+            "text": "Small Industries Development Bank of India (SIDBI)",
+            "image": ""
+          },
+          {
+            "text": "NITI Aayog",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Small Industries Development Bank of India (<strong>SIDBI</strong>) is the implementing agency that will operationalise the Startup India Fund of Funds (FoF) 2.0 scheme, which has a corpus of ₹10,000 crore to mobilise capital for startups.<h5>Incorrect Options Analysis</h5><ul><li><strong>RBI & SEBI</strong>: RBI is the central banking regulator, and SEBI regulates the securities and commodity markets (including registering the AIFs that FoF invests in), but neither is the implementing agency for this fund.</li><li><strong>NITI Aayog</strong>: A policy think tank of the Government of India, not a financial implementation agency.</li></ul>",
+        "_aimcq_title_hi": "स्टार्टअप इंडिया FoF 2.0 कार्यान्वयन एजेंसी",
+        "_aimcq_question_content_hi": "हाल ही में अधिसूचित स्टार्टअप इंडिया फंड ऑफ फंड्स (FoF) 2.0 के लिए कार्यान्वयन एजेंसी कौन सी संस्था है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भारतीय रिजर्व बैंक (RBI)",
+            "image": ""
+          },
+          {
+            "text": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)",
+            "image": ""
+          },
+          {
+            "text": "भारतीय लघु उद्योग विकास बैंक (SIDBI)",
+            "image": ""
+          },
+          {
+            "text": "नीति आयोग",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>भारतीय लघु उद्योग विकास बैंक (<strong>SIDBI</strong>) वह कार्यान्वयन एजेंसी है जो स्टार्टअप इंडिया फंड ऑफ फंड्स (FoF) 2.0 योजना को चालू करेगी, जिसमें स्टार्टअप के लिए पूंजी जुटाने के लिए ₹10,000 करोड़ का कोष है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>RBI और SEBI</strong>: RBI केंद्रीय बैंकिंग नियामक है, और SEBI प्रतिभूति और कमोडिटी बाजारों को नियंत्रित करता है, लेकिन कोई भी इस फंड के लिए कार्यान्वयन एजेंसी नहीं है।</li><li><strong>नीति आयोग</strong>: भारत सरकार का एक नीतिगत थिंक टैंक है, कोई वित्तीय कार्यान्वयन एजेंसी नहीं।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6023,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "The Unified Payments Interface (UPI), which recently completed 10 years, was developed by which organization?",
+      "post_title": "Developer of UPI",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "State Bank of India (SBI)",
+            "image": ""
+          },
+          {
+            "text": "National Informatics Centre (NIC)",
+            "image": ""
+          },
+          {
+            "text": "National Payments Corporation of India (NPCI)",
+            "image": ""
+          },
+          {
+            "text": "Ministry of Finance",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Unified Payments Interface (UPI) was developed by the <strong>National Payments Corporation of India (NPCI)</strong>, an umbrella organization for operating retail payments and settlement systems in India.<h5>Incorrect Options Analysis</h5><ul><li><strong>SBI, NIC, Ministry of Finance</strong>: While these entities play crucial roles in India's governance and banking, the specific development and operation of UPI is the mandate of the NPCI.</li></ul>",
+        "_aimcq_title_hi": "UPI का विकासकर्ता",
+        "_aimcq_question_content_hi": "यूनिफाइड पेमेंट्स इंटरफेस (UPI), जिसने हाल ही में 10 वर्ष पूरे किए हैं, किस संगठन द्वारा विकसित किया गया था?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भारतीय स्टेट बैंक (SBI)",
+            "image": ""
+          },
+          {
+            "text": "राष्ट्रीय सूचना विज्ञान केंद्र (NIC)",
+            "image": ""
+          },
+          {
+            "text": "भारतीय राष्ट्रीय भुगतान निगम (NPCI)",
+            "image": ""
+          },
+          {
+            "text": "वित्त मंत्रालय",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>यूनिफाइड पेमेंट्स इंटरफेस (UPI) <strong>भारतीय राष्ट्रीय भुगतान निगम (NPCI)</strong> द्वारा विकसित किया गया था, जो भारत में खुदरा भुगतान और निपटान प्रणाली के संचालन के लिए एक प्रमुख संगठन है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>SBI, NIC, वित्त मंत्रालय</strong>: हालांकि ये संस्थाएं भारत के शासन और बैंकिंग में महत्वपूर्ण भूमिका निभाती हैं, लेकिन UPI का विशिष्ट विकास और संचालन NPCI का जनादेश है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6024,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "What does the 'M' stand for in the \"JAM Trinity\", the foundational architecture that set the stage for UPI in India?",
+      "post_title": "JAM Trinity Meaning",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Money",
+            "image": ""
+          },
+          {
+            "text": "Mobile",
+            "image": ""
+          },
+          {
+            "text": "Market",
+            "image": ""
+          },
+          {
+            "text": "Microfinance",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>In the JAM Trinity, 'M' stands for <strong>Mobile</strong> connectivity. The full acronym stands for <strong>Jan Dhan, Aadhaar, and Mobile</strong>. This framework structurally prepared citizens to engage with digital services and formed the backbone of India's digital payment revolution.<h5>Incorrect Options Analysis</h5><ul><li><strong>Money, Market, Microfinance</strong>: These do not fit the established acronym of the JAM Trinity, which specifically links bank accounts (Jan Dhan) and biometric identity (Aadhaar) to mobile phones.</li></ul>",
+        "_aimcq_title_hi": "जैम (JAM) ट्रिनिटी का अर्थ",
+        "_aimcq_question_content_hi": "\"JAM ट्रिनिटी\" में 'M' का क्या अर्थ है, जो मूलभूत वास्तुकला है जिसने भारत में UPI के लिए मंच तैयार किया?",
+        "_aimcq_options_hi": [
+          {
+            "text": "धन (Money)",
+            "image": ""
+          },
+          {
+            "text": "मोबाइल (Mobile)",
+            "image": ""
+          },
+          {
+            "text": "बाजार (Market)",
+            "image": ""
+          },
+          {
+            "text": "माइक्रोफाइनेंस (Microfinance)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>JAM ट्रिनिटी में, 'M' का अर्थ <strong>मोबाइल</strong> कनेक्टिविटी है। पूर्ण संक्षिप्त नाम का अर्थ <strong>जन धन, आधार और मोबाइल</strong> है। इस ढांचे ने नागरिकों को डिजिटल सेवाओं के साथ जुड़ने के लिए संरचनात्मक रूप से तैयार किया और भारत की डिजिटल भुगतान क्रांति की रीढ़ बना।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>धन, बाजार, माइक्रोफाइनेंस</strong>: ये JAM ट्रिनिटी के स्थापित संक्षिप्त नाम में फिट नहीं होते हैं, जो विशेष रूप से बैंक खातों (जन धन) और बायोमेट्रिक पहचान (आधार) को मोबाइल फोन से जोड़ता है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6025,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "What is the primary concern raised by Payment Service Providers (PSPs) regarding the \"Zero MDR\" policy on UPI transactions?",
+      "post_title": "UPI Zero MDR Concern",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "It limits the daily transaction volume for users",
+            "image": ""
+          },
+          {
+            "text": "It creates a lack of revenue to upgrade and maintain server infrastructure",
+            "image": ""
+          },
+          {
+            "text": "It restricts cross-border payment integration",
+            "image": ""
+          },
+          {
+            "text": "It automatically deducts taxes from merchants' accounts",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The primary concern with the <strong>Zero MDR (Merchant Discount Rate)</strong> mandate is that Payment Service Providers (PSPs) and banks argue it leaves them with <strong>no revenue model to upgrade and maintain the massive server infrastructure</strong> required to process the extremely high volume of UPI transactions, leading to high failure rates during peak hours.<h5>Incorrect Options Analysis</h5><ul><li><strong>Limits transaction volume, restricts cross-border payments, deducts taxes</strong>: These are incorrect. The policy specifically pertains to the removal of transaction fees, directly impacting the revenue streams of PSPs rather than restricting user functionality.</li></ul>",
+        "_aimcq_title_hi": "यूपीआई जीरो एमडीआर संबंधी चिंता",
+        "_aimcq_question_content_hi": "UPI लेनदेन पर \"जीरो MDR\" नीति के संबंध में भुगतान सेवा प्रदाताओं (PSP) द्वारा उठाई गई प्राथमिक चिंता क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "यह उपयोगकर्ताओं के लिए दैनिक लेनदेन की मात्रा को सीमित करता है",
+            "image": ""
+          },
+          {
+            "text": "यह सर्वर बुनियादी ढांचे को उन्नत और बनाए रखने के लिए राजस्व की कमी पैदा करता है",
+            "image": ""
+          },
+          {
+            "text": "यह सीमा पार भुगतान एकीकरण को प्रतिबंधित करता है",
+            "image": ""
+          },
+          {
+            "text": "यह व्यापारियों के खातों से स्वचालित रूप से कर काटता है",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>जीरो MDR (मर्चेंट डिस्काउंट रेट)</strong> जनादेश के साथ प्राथमिक चिंता यह है कि भुगतान सेवा प्रदाता (PSP) और बैंकों का तर्क है कि यह उनके पास यूपीआई लेनदेन की अत्यधिक उच्च मात्रा को संसाधित करने के लिए आवश्यक <strong>विशाल सर्वर बुनियादी ढांचे को अपग्रेड करने और बनाए रखने के लिए कोई राजस्व मॉडल नहीं</strong> छोड़ता है, जिससे पीक आवर्स के दौरान उच्च विफलता दर होती है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>लेनदेन की मात्रा को सीमित करता है, सीमा पार भुगतान को प्रतिबंधित करता है, कर काटता है</strong>: ये गलत हैं। नीति विशेष रूप से लेनदेन शुल्क को हटाने से संबंधित है, जो उपयोगकर्ता की कार्यक्षमता को प्रतिबंधित करने के बजाय सीधे PSP के राजस्व को प्रभावित करती है।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6026,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "In the context of modern banking, how do \"Deposit Tokens\" primarily differ from unregulated private cryptocurrencies?",
+      "post_title": "Deposit Tokens vs Cryptocurrencies",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "They are completely anonymous and untraceable",
+            "image": ""
+          },
+          {
+            "text": "They do not use blockchain technology",
+            "image": ""
+          },
+          {
+            "text": "They are direct claims on a regulated bank's balance sheet",
+            "image": ""
+          },
+          {
+            "text": "They are only used for retail shopping",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Unlike private cryptocurrencies, <strong>Deposit Tokens</strong> are <strong>direct claims on a bank's balance sheet</strong>. They are digital representations of bank deposits issued on permissioned blockchain networks, fully backed by traditional deposits and subject to strict regulatory frameworks, ensuring no additional credit risk.<h5>Incorrect Options Analysis</h5><ul><li><strong>Anonymous</strong>: Deposit tokens are highly regulated and subject to AML/KYC norms, unlike anonymous crypto.</li><li><strong>Do not use blockchain</strong>: They actually *do* use permissioned blockchain networks.</li><li><strong>Only used for retail</strong>: They are primarily intended for interbank settlements, treasury operations, and large corporate payments.</li></ul>",
+        "_aimcq_title_hi": "डिपॉजिट टोकन बनाम क्रिप्टोकरेंसी",
+        "_aimcq_question_content_hi": "आधुनिक बैंकिंग के संदर्भ में, \"डिपॉजिट टोकन\" मुख्य रूप से अनियमित निजी क्रिप्टोकरेंसी से कैसे भिन्न होते हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "वे पूरी तरह से गुमनाम और अप्राप्य हैं",
+            "image": ""
+          },
+          {
+            "text": "वे ब्लॉकचेन तकनीक का उपयोग नहीं करते हैं",
+            "image": ""
+          },
+          {
+            "text": "वे विनियमित बैंक की बैलेंस शीट पर सीधे दावे हैं",
+            "image": ""
+          },
+          {
+            "text": "इनका उपयोग केवल खुदरा खरीदारी के लिए किया जाता है",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>निजी क्रिप्टोकरेंसी के विपरीत, <strong>डिपॉजिट टोकन (Deposit Tokens)</strong> <strong>बैंक की बैलेंस शीट पर सीधे दावे</strong> हैं। वे अनुमति प्राप्त ब्लॉकचेन नेटवर्क पर जारी बैंक जमा के डिजिटल प्रतिनिधित्व हैं, जो पारंपरिक जमा द्वारा पूरी तरह से समर्थित हैं और सख्त नियामक ढांचे के अधीन हैं, जिससे कोई अतिरिक्त क्रेडिट जोखिम नहीं होता है।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>गुमनाम</strong>: अनाम क्रिप्टो के विपरीत, डिपॉजिट टोकन अत्यधिक विनियमित होते हैं और एएमएल/केवाईसी (AML/KYC) मानदंडों के अधीन होते हैं।</li><li><strong>ब्लॉकचेन का उपयोग नहीं करते हैं</strong>: वे वास्तव में अनुमति प्राप्त ब्लॉकचेन नेटवर्क का उपयोग करते हैं।</li><li><strong>केवल खुदरा के लिए उपयोग किया जाता है</strong>: उनका मुख्य रूप से इंटरबैंक बस्तियों, ट्रेजरी संचालन और बड़े कॉर्पोरेट भुगतान के लिए इरादा है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6027,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "The Government of India has developed five key sites known as 'Panchteerth' to preserve the legacy of which prominent leader?",
+      "post_title": "Panchteerth Sites Legacy",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Mahatma Gandhi",
+            "image": ""
+          },
+          {
+            "text": "Sardar Vallabhbhai Patel",
+            "image": ""
+          },
+          {
+            "text": "Dr. B.R. Ambedkar",
+            "image": ""
+          },
+          {
+            "text": "Subhas Chandra Bose",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The Government of India has developed five key sites associated with <strong>Dr. B.R. Ambedkar</strong> as the '<strong>Panchteerth</strong>' to preserve and promote his legacy. These include Janma Bhoomi (Mhow), Shiksha Bhoomi (London), Deeksha Bhoomi (Nagpur), Mahaparinirvan Bhoomi (Delhi), and Chaitya Bhoomi (Mumbai).<h5>Incorrect Options Analysis</h5><ul><li><strong>Mahatma Gandhi, Sardar Vallabhbhai Patel, Subhas Chandra Bose</strong>: While all are towering figures in Indian history with their own memorials, the specific grouping of five sites known as 'Panchteerth' is exclusively dedicated to Dr. B.R. Ambedkar.</li></ul>",
+        "_aimcq_title_hi": "पंचतीर्थ स्थल विरासत",
+        "_aimcq_question_content_hi": "भारत सरकार ने किस प्रमुख नेता की विरासत को संरक्षित करने के लिए 'पंचतीर्थ' के रूप में जाने जाने वाले पांच प्रमुख स्थलों का विकास किया है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "महात्मा गांधी",
+            "image": ""
+          },
+          {
+            "text": "सरदार वल्लभभाई पटेल",
+            "image": ""
+          },
+          {
+            "text": "डॉ. बी.आर. अम्बेडकर",
+            "image": ""
+          },
+          {
+            "text": "सुभाष चंद्र बोस",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>भारत सरकार ने <strong>डॉ. बी.आर. अम्बेडकर</strong> से जुड़े पांच प्रमुख स्थलों को उनकी विरासत को संरक्षित करने और बढ़ावा देने के लिए '<strong>पंचतीर्थ</strong>' के रूप में विकसित किया है। इनमें जन्म भूमि (महू), शिक्षा भूमि (लंदन), दीक्षा भूमि (नागपुर), महापरिनिर्वाण भूमि (दिल्ली), और चैत्य भूमि (मुंबई) शामिल हैं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>महात्मा गांधी, सरदार वल्लभभाई पटेल, सुभाष चंद्र बोस</strong>: हालांकि सभी भारतीय इतिहास में अपने स्वयं के स्मारकों के साथ विशाल व्यक्तित्व हैं, 'पंचतीर्थ' के रूप में जाने जाने वाले पांच स्थलों का विशिष्ट समूह विशेष रूप से डॉ. बी.आर. अम्बेडकर को समर्पित है।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6028,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "Which of the following organizations was founded by Dr. B.R. Ambedkar in 1924 to advocate for the socio-economic upliftment of depressed classes?",
+      "post_title": "Dr. Ambedkar Organizations",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Independent Labour Party",
+            "image": ""
+          },
+          {
+            "text": "Scheduled Castes Federation",
+            "image": ""
+          },
+          {
+            "text": "Bahishkrit Hitakarini Sabha",
+            "image": ""
+          },
+          {
+            "text": "Satyashodhak Samaj",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>Dr. B.R. Ambedkar founded the <strong>Bahishkrit Hitakarini Sabha in 1924</strong> for the socio-economic upliftment of the depressed classes.<h5>Incorrect Options Analysis</h5><ul><li><strong>Independent Labour Party</strong>: Founded by Ambedkar, but later in 1936.</li><li><strong>Scheduled Castes Federation</strong>: Founded by Ambedkar in 1942.</li><li><strong>Satyashodhak Samaj</strong>: This was founded by Jyotirao Phule in 1873, not Dr. Ambedkar.</li></ul>",
+        "_aimcq_title_hi": "डॉ. अम्बेडकर के संगठन",
+        "_aimcq_question_content_hi": "निम्नलिखित में से किस संगठन की स्थापना डॉ. बी.आर. अम्बेडकर ने 1924 में दलित वर्गों के सामाजिक-आर्थिक उत्थान की वकालत करने के लिए की थी?",
+        "_aimcq_options_hi": [
+          {
+            "text": "इंडिपेंडेंट लेबर पार्टी",
+            "image": ""
+          },
+          {
+            "text": "शेड्यूल्ड कास्ट्स फेडरेशन",
+            "image": ""
+          },
+          {
+            "text": "बहिष्कृत हितकारिणी सभा",
+            "image": ""
+          },
+          {
+            "text": "सत्यशोधक समाज",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5>डॉ. बी.आर. अम्बेडकर ने दलित वर्गों के सामाजिक-आर्थिक उत्थान के लिए <strong>1924 में बहिष्कृत हितकारिणी सभा</strong> की स्थापना की।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>इंडिपेंडेंट लेबर पार्टी</strong>: अम्बेडकर द्वारा स्थापित, लेकिन बाद में 1936 में।</li><li><strong>शेड्यूल्ड कास्ट्स फेडरेशन</strong>: 1942 में अम्बेडकर द्वारा स्थापित।</li><li><strong>सत्यशोधक समाज</strong>: इसकी स्थापना 1873 में ज्योतिराव फुले ने की थी, डॉ. अम्बेडकर ने नहीं।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6029,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "Which of the following journals was NOT started by Dr. B.R. Ambedkar?",
+      "post_title": "Journals of Dr. B.R. Ambedkar",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Mooknayak",
+            "image": ""
+          },
+          {
+            "text": "Bahishkrit Bharat",
+            "image": ""
+          },
+          {
+            "text": "Harijan",
+            "image": ""
+          },
+          {
+            "text": "Samatha",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5><strong>Harijan</strong> was not started by Dr. B.R. Ambedkar; it was an influential weekly journal started by <strong>Mahatma Gandhi</strong> in 1933 to highlight the social and economic problems of the untouchables.<h5>Incorrect Options Analysis</h5><ul><li><strong>Mooknayak (1920), Bahishkrit Bharat (1927), and Samatha (1929)</strong>: All of these were important journals started by Dr. B.R. Ambedkar to spread social awareness and advocate for the rights of the depressed classes.</li></ul>",
+        "_aimcq_title_hi": "डॉ. बी.आर. अम्बेडकर की पत्रिकाएं",
+        "_aimcq_question_content_hi": "निम्नलिखित में से कौन सी पत्रिका डॉ. बी.आर. अम्बेडकर द्वारा शुरू नहीं की गई थी?",
+        "_aimcq_options_hi": [
+          {
+            "text": "मूकनायक",
+            "image": ""
+          },
+          {
+            "text": "बहिष्कृत भारत",
+            "image": ""
+          },
+          {
+            "text": "हरिजन",
+            "image": ""
+          },
+          {
+            "text": "समता",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>हरिजन</strong> डॉ. बी.आर. अम्बेडकर द्वारा शुरू नहीं किया गया था; यह 1933 में अछूतों की सामाजिक और आर्थिक समस्याओं को उजागर करने के लिए <strong>महात्मा गांधी</strong> द्वारा शुरू की गई एक प्रभावशाली साप्ताहिक पत्रिका थी।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>मूकनायक (1920), बहिष्कृत भारत (1927), और समता (1929)</strong>: ये सभी डॉ. बी.आर. अम्बेडकर द्वारा सामाजिक जागरूकता फैलाने और दलित वर्गों के अधिकारों की वकालत करने के लिए शुरू की गई महत्वपूर्ण पत्रिकाएं थीं।</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 6030,
+      "post_author": 1,
+      "post_date": "2026-04-14 10:00:00",
+      "post_content": "The historic Poona Pact of 1932 was signed between Dr. B.R. Ambedkar and whom?",
+      "post_title": "Signatories of the Poona Pact",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Lord Irwin",
+            "image": ""
+          },
+          {
+            "text": "Mahatma Gandhi",
+            "image": ""
+          },
+          {
+            "text": "Jawaharlal Nehru",
+            "image": ""
+          },
+          {
+            "text": "Winston Churchill",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer Explanation</h5>The <strong>Poona Pact (1932)</strong> was signed between Dr. B.R. Ambedkar and <strong>Mahatma Gandhi</strong> (though signed on Gandhi's behalf by Madan Mohan Malaviya). This pact was a result of Gandhi's fast unto death against the Communal Award, and it secured reserved seats for the depressed classes within the general Hindu electorate instead of separate electorates.<h5>Incorrect Options Analysis</h5><ul><li><strong>Lord Irwin</strong>: Signed the Gandhi-Irwin Pact in 1931, not the Poona Pact.</li><li><strong>Jawaharlal Nehru & Winston Churchill</strong>: Were not the key signatories of this specific agreement addressing the electoral representation of depressed classes.</li></ul>",
+        "_aimcq_title_hi": "पूना पैक्ट के हस्ताक्षरकर्ता",
+        "_aimcq_question_content_hi": "1932 के ऐतिहासिक पूना पैक्ट पर डॉ. बी.आर. अम्बेडकर और किसके बीच हस्ताक्षर किए गए थे?",
+        "_aimcq_options_hi": [
+          {
+            "text": "लॉर्ड इरविन",
+            "image": ""
+          },
+          {
+            "text": "महात्मा गांधी",
+            "image": ""
+          },
+          {
+            "text": "जवाहरलाल नेहरू",
+            "image": ""
+          },
+          {
+            "text": "विंस्टन चर्चिल",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर स्पष्टीकरण</h5><strong>पूना पैक्ट (1932)</strong> पर डॉ. बी.आर. अम्बेडकर और <strong>महात्मा गांधी</strong> (हालांकि गांधी की ओर से मदन मोहन मालवीय द्वारा हस्ताक्षर किए गए) के बीच हस्ताक्षर किए गए थे। यह समझौता सांप्रदायिक पंचाट (Communal Award) के खिलाफ गांधीजी के आमरण अनशन का परिणाम था, और इसने अलग निर्वाचक मंडल के बजाय सामान्य हिंदू निर्वाचक मंडल के भीतर दलित वर्गों के लिए आरक्षित सीटें सुरक्षित कर दीं।<h5>गलत विकल्प विश्लेषण</h5><ul><li><strong>लॉर्ड इरविन</strong>: 1931 में गांधी-इरविन समझौते पर हस्ताक्षर किए, पूना पैक्ट पर नहीं।</li><li><strong>जवाहरलाल नेहरू और विंस्टन चर्चिल</strong>: दलित वर्गों के चुनावी प्रतिनिधित्व को संबोधित करने वाले इस विशिष्ट समझौते के प्रमुख हस्ताक्षरकर्ता नहीं थे।</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "current-affairs-practice-set",
+          "current-affairs-14-apr-2026"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
