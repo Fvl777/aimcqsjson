@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Publisher</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f5f4f0;--surface:#fff;--surface2:#f8f7f4;
+  --border:rgba(0,0,0,.10);--border2:rgba(0,0,0,.18);
+  --text:#1a1a1a;--text2:#666;--text3:#999;
+  --ab:#1a1a1a;--at:#fff;
+  --green:#3B6D11;--green-bg:#EAF3DE;
+  --blue:#185FA5;--blue-bg:#E6F1FB;
+  --red:#A32D2D;--red-bg:#FCEBEB;
+  --amber:#854F0B;--amber-bg:#FAEEDA;
+  --r:10px;--rs:6px
+}
+@media(prefers-color-scheme:dark){:root{
+  --bg:#141414;--surface:#1f1f1f;--surface2:#252525;
+  --border:rgba(255,255,255,.10);--border2:rgba(255,255,255,.18);
+  --text:#f0f0f0;--text2:#999;--text3:#555;
+  --ab:#f0f0f0;--at:#141414;
+  --green:#97C459;--green-bg:#173404;
+  --blue:#85B7EB;--blue-bg:#042C53;
+  --red:#F09595;--red-bg:#501313;
+  --amber:#EF9F27;--amber-bg:#412402
+}}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;padding:2rem 1rem}
+.wrap{max-width:640px;margin:0 auto}
+.topbar{display:flex;align-items:center;gap:12px;margin-bottom:1.8rem}
+.logo{width:40px;height:40px;background:var(--ab);border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.logo svg{width:21px;height:21px;fill:var(--at)}
+.ttl{font-size:17px;font-weight:600;letter-spacing:-.02em}
+.sub{font-size:12px;color:var(--text2);margin-top:2px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:1.1rem 1.2rem 1rem;margin-bottom:10px}
+.clabel{font-size:10px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--text3);margin-bottom:11px}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.field{display:flex;flex-direction:column;gap:4px;margin-bottom:9px}
+.field:last-child{margin-bottom:0}
+.field label{font-size:12px;color:var(--text2);font-weight:500}
+.field input[type=text],.field input[type=password]{height:37px;padding:0 11px;border-radius:var(--rs);border:1px solid var(--border2);background:var(--surface2);color:var(--text);font-size:13.5px;font-family:inherit;width:100%;transition:border-color .15s}
+.field input:focus{outline:none;border-color:var(--ab)}
+.tw{position:relative}
+.tw input{padding-right:38px}
+.eyebtn{position:absolute;right:0;top:0;height:37px;width:37px;background:none;border:none;cursor:pointer;color:var(--text3);display:flex;align-items:center;justify-content:center}
+.eyebtn:hover{color:var(--text)}
+
+/* ── Upload mode tabs ── */
+.mode-tabs{display:flex;gap:6px;margin-bottom:13px}
+.mode-tab{flex:1;height:34px;border-radius:var(--rs);border:1px solid var(--border2);background:transparent;color:var(--text2);font-size:12.5px;font-family:inherit;cursor:pointer;font-weight:500;transition:all .15s}
+.mode-tab.active{background:var(--ab);color:var(--at);border-color:transparent}
+.mode-tab:not(.active):hover{background:var(--surface2)}
+
+/* ── Drop zone ── */
+.dropzone{border:1.5px dashed var(--border2);border-radius:var(--rs);padding:1.5rem 1rem;text-align:center;cursor:pointer;transition:border-color .2s,background .2s;position:relative}
+.dropzone:hover,.dropzone.over{border-color:var(--blue);background:var(--blue-bg)}
+.dropzone.loaded{border-color:var(--green);border-style:solid;background:var(--green-bg)}
+.dropzone input[type=file]{position:absolute;inset:0;opacity:0;cursor:pointer;width:100%;height:100%}
+.dz-icon{font-size:28px;margin-bottom:6px;line-height:1}
+.dz-text{font-size:13px;color:var(--text2)}
+.dz-hint{font-size:11px;color:var(--text3);margin-top:3px}
+.dz-name{font-size:13px;font-weight:600;color:var(--green);margin-top:4px}
+
+/* ── ZIP file checklist ── */
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:7px}
+.frow{display:flex;align-items:center;gap:7px;padding:8px 10px;border-radius:var(--rs);background:var(--surface2);border:1px solid var(--border);font-size:13px;transition:border-color .2s}
+.frow.found{border-color:var(--green)}
+.frow.missing{border-color:var(--red);opacity:.7}
+.dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;background:var(--border2);transition:background .2s}
+.dot.up{background:#378ADD;animation:blink .7s infinite}
+.dot.ok{background:var(--green)}
+.dot.er{background:var(--red)}
+.dot.ready{background:var(--amber)}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+.fstatus{margin-left:auto;font-size:10px;font-weight:600;padding:1px 6px;border-radius:20px}
+.fstatus.ok{background:var(--green-bg);color:var(--green)}
+.fstatus.miss{background:var(--red-bg);color:var(--red)}
+
+/* ── Custom file upload panel ── */
+#custom-panel{display:none}
+.custom-drop{border:1.5px dashed var(--border2);border-radius:var(--rs);padding:1.2rem 1rem;text-align:center;cursor:pointer;position:relative;transition:border-color .2s,background .2s;margin-bottom:10px}
+.custom-drop:hover,.custom-drop.over{border-color:var(--blue);background:var(--blue-bg)}
+.custom-drop input[type=file]{position:absolute;inset:0;opacity:0;cursor:pointer;width:100%;height:100%}
+.custom-file-list{display:flex;flex-direction:column;gap:6px;margin-bottom:8px}
+.custom-file-row{display:flex;align-items:center;gap:8px;padding:8px 10px;border-radius:var(--rs);background:var(--surface2);border:1px solid var(--border);font-size:13px}
+.custom-file-row .dot{flex-shrink:0}
+.custom-file-info{flex:1;min-width:0}
+.custom-file-name{font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.custom-file-path-input{width:100%;height:28px;margin-top:4px;padding:0 8px;border-radius:4px;border:1px solid var(--border2);background:var(--bg);color:var(--text);font-size:11.5px;font-family:"SF Mono","Fira Code",monospace}
+.custom-file-path-input:focus{outline:none;border-color:var(--ab)}
+.custom-file-size{font-size:11px;color:var(--text3);flex-shrink:0;white-space:nowrap}
+.custom-file-remove{flex-shrink:0;width:24px;height:24px;border-radius:4px;background:none;border:1px solid var(--border);cursor:pointer;color:var(--red);display:flex;align-items:center;justify-content:center;transition:background .15s}
+.custom-file-remove:hover{background:var(--red-bg);border-color:var(--red)}
+.path-hint{font-size:11px;color:var(--text3);margin-bottom:8px;line-height:1.5}
+
+/* ── Progress ── */
+.pw{height:3px;background:var(--border);border-radius:2px;margin-top:9px;overflow:hidden;display:none}
+.pb{height:100%;background:#378ADD;border-radius:2px;transition:width .3s;width:0}
+
+.hint{font-size:11.5px;color:var(--text3);margin-top:6px;line-height:1.5}
+.badge{display:inline-block;font-size:10px;font-weight:700;padding:2px 7px;border-radius:20px;vertical-align:middle;margin-left:5px;letter-spacing:.04em}
+.bg{background:var(--green-bg);color:var(--green)}
+.bb{background:var(--blue-bg);color:var(--blue)}
+.acts{display:flex;gap:8px;margin-top:12px}
+.btn{display:inline-flex;align-items:center;gap:6px;height:39px;padding:0 17px;border-radius:var(--rs);border:1px solid var(--border2);background:transparent;color:var(--text);font-size:13.5px;font-family:inherit;cursor:pointer;font-weight:500;transition:background .15s,opacity .15s;white-space:nowrap}
+.btn:hover{background:var(--surface2)}
+.btn.p{background:var(--ab);color:var(--at);border-color:transparent}
+.btn.p:hover{opacity:.85;background:var(--ab)}
+.btn:disabled{opacity:.38;cursor:not-allowed}
+.st{margin-top:11px;font-size:13px;color:var(--text2);min-height:18px;line-height:1.5}
+.st.ok{color:var(--green)}
+.st.er{color:var(--red)}
+.cdncard{display:none;margin-top:12px}
+.cdnitem{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:9px;padding-bottom:9px;border-bottom:1px solid var(--border)}
+.cdnitem:last-child{margin:0;padding:0;border:none}
+.cdnlbl{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);margin-bottom:3px}
+.cdnurl{font-size:11.5px;font-family:"SF Mono","Fira Code",monospace;color:var(--text);word-break:break-all;line-height:1.55}
+.cpbtn{flex-shrink:0;background:var(--surface2);border:1px solid var(--border);border-radius:var(--rs);width:31px;height:31px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--text2);transition:color .15s,background .15s}
+.cpbtn:hover{color:var(--text);background:var(--bg)}
+details summary{font-size:13px;color:var(--text2);cursor:pointer;padding:8px 0;user-select:none;list-style:none;display:flex;align-items:center;gap:5px}
+details summary::before{content:"›";font-size:18px;line-height:1;transition:transform .2s;display:inline-block}
+details[open] summary::before{transform:rotate(90deg)}
+.gstep{display:flex;gap:11px;padding:7px 0;font-size:13px;color:var(--text);line-height:1.5;border-bottom:1px solid var(--border)}
+.gstep:last-child{border:none}
+.sn{width:21px;height:21px;border-radius:50%;background:var(--surface2);border:1px solid var(--border2);font-size:11px;font-weight:700;color:var(--text3);display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px}
+code{font-family:"SF Mono","Fira Code",monospace;font-size:11.5px;background:var(--surface2);padding:1px 5px;border-radius:4px;border:1px solid var(--border)}
+a{color:var(--blue)}
+
+/* ── Delete section ── */
+.del-toolbar{display:flex;align-items:center;gap:8px;margin-bottom:10px;flex-wrap:wrap}
+.del-search{flex:1;min-width:140px;height:33px;padding:0 10px;border-radius:var(--rs);border:1px solid var(--border2);background:var(--surface2);color:var(--text);font-size:13px;font-family:inherit}
+.del-search:focus{outline:none;border-color:var(--ab)}
+.del-list{max-height:260px;overflow-y:auto;border:1px solid var(--border);border-radius:var(--rs);background:var(--surface2)}
+.del-item{display:flex;align-items:center;gap:8px;padding:7px 10px;border-bottom:1px solid var(--border);font-size:13px;transition:background .12s}
+.del-item:last-child{border-bottom:none}
+.del-item:hover{background:var(--bg)}
+.del-item-icon{font-size:14px;flex-shrink:0;width:18px;text-align:center}
+.del-item-name{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--text)}
+.del-item-size{font-size:11px;color:var(--text3);flex-shrink:0}
+.del-item-btn{flex-shrink:0;width:27px;height:27px;border-radius:var(--rs);background:none;border:1px solid var(--border);cursor:pointer;color:var(--red);display:flex;align-items:center;justify-content:center;transition:background .15s,border-color .15s}
+.del-item-btn:hover{background:var(--red-bg);border-color:var(--red)}
+.del-item-btn:disabled{opacity:.35;cursor:not-allowed}
+.del-empty{text-align:center;padding:22px 10px;font-size:13px;color:var(--text3)}
+.del-check{accent-color:var(--ab);width:14px;height:14px;cursor:pointer;flex-shrink:0}
+.del-actions{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.btn.danger{color:var(--red);border-color:var(--red)}
+.btn.danger:hover{background:var(--red-bg)}
+.btn.danger:disabled{opacity:.35}
+.del-st{font-size:12.5px;color:var(--text2);margin-top:7px;min-height:17px;line-height:1.5}
+.del-st.ok{color:var(--green)}.del-st.er{color:var(--red)}
+.del-pw{height:3px;background:var(--border);border-radius:2px;margin-top:8px;overflow:hidden;display:none}
+.del-pb{height:100%;background:var(--red);border-radius:2px;transition:width .3s;width:0}
+.folder-row{cursor:pointer}
+.folder-row .del-item-name{font-weight:500}
+.breadcrumb{display:flex;align-items:center;gap:4px;font-size:12px;color:var(--text2);margin-bottom:8px;flex-wrap:wrap}
+.breadcrumb span{cursor:pointer;color:var(--blue)}
+.breadcrumb span:hover{text-decoration:underline}
+.breadcrumb .sep{color:var(--text3)}
+
+/* ── CDN Flush section ── */
+.flush-card{margin-top:10px}
+.flush-urls{display:flex;flex-direction:column;gap:7px;margin-bottom:11px}
+.flush-url-row{display:flex;align-items:center;gap:8px;padding:8px 10px;border-radius:var(--rs);background:var(--surface2);border:1px solid var(--border);transition:border-color .2s}
+.flush-url-row.flushing{border-color:#378ADD}
+.flush-url-row.flushed{border-color:var(--green)}
+.flush-url-row.flush-err{border-color:var(--red)}
+.flush-url-label{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);width:38px;flex-shrink:0}
+.flush-url-text{flex:1;font-family:"SF Mono","Fira Code",monospace;font-size:11px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.flush-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;background:var(--border2);transition:background .2s}
+.flush-dot.flushing{background:#378ADD;animation:blink .7s infinite}
+.flush-dot.ok{background:var(--green)}
+.flush-dot.er{background:var(--red)}
+.flush-manual{display:flex;flex-direction:column;gap:6px;margin-bottom:11px}
+.flush-manual label{font-size:12px;color:var(--text2);font-weight:500}
+.flush-manual input{height:35px;padding:0 10px;border-radius:var(--rs);border:1px solid var(--border2);background:var(--surface2);color:var(--text);font-size:12.5px;font-family:"SF Mono","Fira Code",monospace;width:100%}
+.flush-manual input:focus{outline:none;border-color:var(--ab)}
+.flush-st{font-size:12.5px;color:var(--text2);margin-top:7px;min-height:17px;line-height:1.5}
+.flush-st.ok{color:var(--green)}.flush-st.er{color:var(--red)}
+.flush-result-log{margin-top:9px;max-height:140px;overflow-y:auto;font-family:"SF Mono","Fira Code",monospace;font-size:11px;background:var(--surface2);border:1px solid var(--border);border-radius:var(--rs);padding:8px 10px;display:none;line-height:1.7;color:var(--text2)}
+.flush-result-log .log-ok{color:var(--green)}
+.flush-result-log .log-er{color:var(--red)}
+.flush-result-log .log-pending{color:#378ADD}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="topbar">
+  <div class="logo">
+    <svg viewBox="0 0 98 96" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M48.854 0C21.839 0 0 22 0 49.217c0 21.756 13.993 40.172 33.405 46.69 2.427.49 3.316-1.059 3.316-2.362 0-1.141-.08-5.052-.08-9.127-13.59 2.934-16.42-5.867-16.42-5.867-2.184-5.704-5.42-7.17-5.42-7.17-4.448-3.015.324-3.015.324-3.015 4.934.326 7.523 5.052 7.523 5.052 4.367 7.496 11.404 5.378 14.235 4.074.404-3.178 1.699-5.378 3.074-6.6-10.839-1.141-22.243-5.378-22.243-24.283 0-5.378 1.94-9.778 5.014-13.2-.485-1.222-2.184-6.275.486-13.038 0 0 4.125-1.304 13.426 5.052a46.97 46.97 0 0 1 12.214-1.63c4.125 0 8.33.571 12.213 1.63 9.302-6.356 13.427-5.052 13.427-5.052 2.67 6.763.97 11.816.485 13.038 3.155 3.422 5.015 7.822 5.015 13.2 0 18.905-11.404 23.06-22.324 24.283 1.78 1.548 3.316 4.481 3.316 9.126 0 6.6-.08 11.897-.08 13.526 0 1.304.89 2.853 3.316 2.364 19.412-6.52 33.405-24.935 33.405-46.691C97.707 22 75.788 0 48.854 0z"/></svg>
+  </div>
+  <div>
+    <div class="ttl">GitHub Publisher</div>
+    <div class="sub">Upload files to any GitHub repository — no terminal needed</div>
+  </div>
+</div>
+
+<!-- Credentials -->
+<div class="card">
+  <div class="clabel">Repository &amp; Credentials</div>
+  <div class="g2">
+    <div class="field"><label>GitHub username</label><input id="u" type="text" placeholder="any-username" autocomplete="off" spellcheck="false"></div>
+    <div class="field"><label>Repository name</label><input id="r" type="text" placeholder="my-repo" autocomplete="off" spellcheck="false"></div>
+  </div>
+  <div class="field">
+    <label>Personal access token &nbsp;<span style="font-weight:400;color:var(--text3);font-size:11px">(classic token, <code>repo</code> scope)</span></label>
+    <div class="tw">
+      <input id="tk" type="password" placeholder="ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxx" autocomplete="off" spellcheck="false">
+      <button class="eyebtn" onclick="toggleEye()" aria-label="Toggle token visibility">
+        <svg id="eyesvg" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="g2">
+    <div class="field"><label>Branch</label><input id="br" type="text" value="main" autocomplete="off" spellcheck="false"></div>
+    <div class="field"><label>Commit message</label><input id="cm" type="text" placeholder="Update files" autocomplete="off"></div>
+  </div>
+</div>
+
+<!-- Files to upload -->
+<div class="card">
+  <div class="clabel">Files to upload</div>
+
+  <!-- Mode toggle -->
+  <div class="mode-tabs">
+    <button class="mode-tab active" id="tab-zip" onclick="setMode('zip')">📦 ZIP file</button>
+    <button class="mode-tab" id="tab-custom" onclick="setMode('custom')">📁 Custom files</button>
+  </div>
+
+  <!-- ZIP panel -->
+  <div id="zip-panel">
+    <div class="dropzone" id="dropzone" ondragover="dzOver(event)" ondragleave="dzLeave()" ondrop="dzDrop(event)">
+      <input type="file" accept=".zip" onchange="zipPicked(this)" id="zipinput">
+      <div class="dz-icon">📦</div>
+      <div class="dz-text">Drop ZIP file here or click to browse</div>
+      <div class="dz-hint">All files found in the ZIP will be uploaded to the repo root (subfolders preserved)</div>
+      <div class="dz-name" id="dz-name" style="display:none"></div>
+    </div>
+    <div class="fgrid" id="zip-fgrid" style="margin-top:9px;display:none" id="zip-fgrid"></div>
+  </div>
+
+  <!-- Custom files panel -->
+  <div id="custom-panel">
+    <p class="path-hint">Add individual files. Each file has an editable <strong>destination path</strong> in the repo — set subdirectories like <code>src/utils.js</code> or leave as the filename for root.</p>
+    <div class="custom-drop" id="custom-drop" ondragover="customDzOver(event)" ondragleave="customDzLeave()" ondrop="customDzDrop(event)">
+      <input type="file" multiple onchange="customFilesPicked(this)" id="custominput">
+      <div class="dz-icon">📂</div>
+      <div class="dz-text">Drop files here or click to browse</div>
+      <div class="dz-hint">Multiple files supported — any type</div>
+    </div>
+    <div class="custom-file-list" id="custom-file-list"></div>
+    <div id="custom-empty" style="font-size:13px;color:var(--text3);text-align:center;padding:6px 0;display:none">No files added yet.</div>
+  </div>
+
+  <div class="pw" id="pw"><div class="pb" id="pb"></div></div>
+</div>
+
+<!-- Tag -->
+<div class="card">
+  <div class="clabel">Release tag <span class="badge bb">optional</span></div>
+  <div class="g2">
+    <div class="field"><label>Tag name</label><input id="tn" type="text" placeholder="v2.0.0" autocomplete="off" spellcheck="false"></div>
+    <div class="field"><label>Tag message</label><input id="tm" type="text" placeholder="Release v2.0.0" autocomplete="off"></div>
+  </div>
+  <div class="hint">Use <code>v</code> prefix (e.g. <code>v2.0.0</code>) — required by jsDelivr. Leave blank to push files only.</div>
+</div>
+
+<div class="acts">
+  <button class="btn p" id="upbtn" onclick="doUpload()">
+    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.3" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+    Upload to GitHub
+  </button>
+  <button class="btn" onclick="doReset()">
+    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.3" viewBox="0 0 24 24"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 .49-3.36"/></svg>
+    Reset
+  </button>
+</div>
+<div class="st" id="st"></div>
+
+<!-- CDN URLs -->
+<div class="card cdncard" id="cdncard">
+  <div class="clabel">CDN URLs <span class="badge bg">ready</span></div>
+  <div id="cdnbody"></div>
+</div>
+
+<!-- jsDelivr CDN Cache Flush -->
+<div class="card flush-card" id="flush-card" style="display:none">
+  <div class="clabel">
+    jsDelivr CDN cache
+    <span class="badge" style="background:var(--amber-bg);color:var(--amber)">instant update</span>
+  </div>
+  <div class="flush-urls" id="flush-url-list"></div>
+  <div class="acts" style="margin-top:4px">
+    <button class="btn p" id="flush-all-btn" onclick="doFlushAll()">
+      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M23 4v6h-6"/><path d="M1 20v-6h6"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+      Flush all CDN cache
+    </button>
+    <button class="btn" onclick="doFlushManual()">
+      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+      Flush custom URL
+    </button>
+  </div>
+  <div class="flush-manual" id="flush-manual-row" style="display:none;margin-top:11px">
+    <label>Custom jsDelivr URL to purge</label>
+    <input id="flush-custom-input" type="text" placeholder="https://cdn.jsdelivr.net/gh/user/repo@tag/file.js" spellcheck="false" autocomplete="off">
+  </div>
+  <div class="flush-result-log" id="flush-log"></div>
+  <div class="flush-st" id="flush-st"></div>
+  <div class="hint" style="margin-top:10px">
+    jsDelivr's <strong>purge API</strong> clears the CDN edge cache instantly so visitors get the new version right away.
+  </div>
+</div>
+
+<!-- Manage repository files -->
+<div class="card" style="margin-top:10px">
+  <div class="clabel">Manage repository files
+    <span class="badge" style="background:var(--red-bg);color:var(--red)">Destructive</span>
+  </div>
+  <div class="del-toolbar">
+    <button class="btn" id="del-browse-btn" onclick="doBrowse()" style="height:33px;padding:0 13px;font-size:12.5px">
+      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.3" viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      Browse repo
+    </button>
+    <input class="del-search" id="del-search" type="text" placeholder="Filter files…" oninput="delFilter()" style="display:none">
+  </div>
+  <div class="breadcrumb" id="del-breadcrumb" style="display:none"></div>
+  <div class="del-list" id="del-list" style="display:none">
+    <div class="del-empty" id="del-placeholder">Click "Browse repo" to load files from GitHub.</div>
+  </div>
+  <div class="del-pw" id="del-pw"><div class="del-pb" id="del-pb"></div></div>
+  <div class="del-actions" id="del-actions" style="display:none">
+    <button class="btn danger" id="del-selected-btn" onclick="doDeleteSelected()" disabled>
+      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.3" viewBox="0 0 24 24"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6"/><path d="M14 11v6"/><path d="M9 6V4h6v2"/></svg>
+      Delete selected
+    </button>
+    <button class="btn danger" id="del-all-btn" onclick="doDeleteAll()">
+      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.3" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+      Delete all files
+    </button>
+    <label style="display:flex;align-items:center;gap:5px;font-size:12.5px;color:var(--text2);cursor:pointer;margin-left:auto">
+      <input type="checkbox" id="del-select-all" class="del-check" onchange="delToggleAll(this.checked)"> Select all
+    </label>
+  </div>
+  <div class="del-st" id="del-st"></div>
+</div>
+
+<div style="margin-top:18px">
+  <details>
+    <summary>Setup guide</summary>
+    <div style="padding:6px 0 0 26px">
+      <div class="gstep"><div class="sn">1</div><div>Create a repo on <a href="https://github.com/new" target="_blank">github.com/new</a>. Initialise with a README so the branch exists.</div></div>
+      <div class="gstep"><div class="sn">2</div><div>Generate a classic token at <a href="https://github.com/settings/tokens/new" target="_blank">Settings → Tokens (classic)</a>. Tick <code>repo</code> scope and copy it.</div></div>
+      <div class="gstep"><div class="sn">3</div><div>Enter your <strong>username</strong>, <strong>repo name</strong>, and <strong>token</strong> above. Works with any GitHub account and any repo.</div></div>
+      <div class="gstep"><div class="sn">4</div><div>Choose <strong>ZIP mode</strong> to upload all files from a ZIP, or <strong>Custom files</strong> to pick individual files and set their destination paths in the repo.</div></div>
+      <div class="gstep"><div class="sn">5</div><div>Optionally set a tag like <code>v2.0.0</code> (the <code>v</code> prefix is required by jsDelivr) and click <strong>Upload to GitHub</strong>.</div></div>
+      <div class="gstep"><div class="sn">6</div><div>Copy the CDN URLs that appear and paste them into your site. Use Flush CDN after re-using the same tag.</div></div>
+    </div>
+  </details>
+</div>
+
+</div><!-- /wrap -->
+
+<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+<script>
+
+/* ════════════════════════════════════════════
+   STATE
+   ════════════════════════════════════════════ */
+
+var uploadMode = "zip";          // "zip" | "custom"
+var zipFiles   = {};             // name -> Uint8Array  (ZIP mode)
+var customFiles = [];            // [{id, file, name, destPath, bytes}]  (Custom mode)
+var _customIdCounter = 0;
+
+/* ════════════════════════════════════════════
+   MODE TABS
+   ════════════════════════════════════════════ */
+
+function setMode(mode) {
+  uploadMode = mode;
+  document.getElementById("tab-zip").classList.toggle("active", mode === "zip");
+  document.getElementById("tab-custom").classList.toggle("active", mode === "custom");
+  document.getElementById("zip-panel").style.display   = mode === "zip"    ? "" : "none";
+  document.getElementById("custom-panel").style.display = mode === "custom" ? "" : "none";
+  setst("", "");
+}
+
+/* ════════════════════════════════════════════
+   ZIP DROP ZONE
+   ════════════════════════════════════════════ */
+
+function dzOver(e){ e.preventDefault(); document.getElementById("dropzone").classList.add("over"); }
+function dzLeave(){ document.getElementById("dropzone").classList.remove("over"); }
+function dzDrop(e){
+  e.preventDefault(); dzLeave();
+  var file = e.dataTransfer.files[0];
+  if (file) processZip(file);
+}
+function zipPicked(inp){ if(inp.files[0]) processZip(inp.files[0]); }
+
+async function processZip(file) {
+  var dz     = document.getElementById("dropzone");
+  var dzName = document.getElementById("dz-name");
+  var fgrid  = document.getElementById("zip-fgrid");
+  setst("Reading ZIP…","");
+  zipFiles = {};
+
+  try {
+    var ab  = await file.arrayBuffer();
+    var zip = await JSZip.loadAsync(ab);
+
+    // Collect every non-directory entry
+    var entries = [];
+    zip.forEach(function(relPath, entry) {
+      if (!entry.dir) entries.push({ relPath: relPath, entry: entry });
+    });
+
+    // Read all bytes
+    for (var i = 0; i < entries.length; i++) {
+      var e = entries[i];
+      var bytes = await e.entry.async("uint8array");
+      // Use the base name as key, preserving relative path as dest
+      zipFiles[e.relPath] = bytes;
+    }
+
+    // Render dynamic file list
+    var html = "";
+    var keys = Object.keys(zipFiles);
+    for (var j = 0; j < keys.length; j++) {
+      var k = keys[j];
+      var kb = Math.round(zipFiles[k].length / 1024);
+      html += "<div class=\"frow found\" id=\"zf"+j+"\"><div class=\"dot ok\" id=\"zd"+j+"\"></div>" +
+              "<span style=\"flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap\" title=\""+esc(k)+"\">"+esc(k)+"</span>" +
+              "<span class=\"fstatus ok\" id=\"zs"+j+"\">"+kb+" KB</span></div>";
+    }
+    fgrid.innerHTML = html;
+    fgrid.style.display = keys.length ? "grid" : "none";
+
+    dz.classList.remove("over");
+    dz.classList.add("loaded");
+    dzName.style.display = "";
+    dzName.textContent = file.name + " — " + keys.length + " file" + (keys.length !== 1 ? "s" : "") + " found ✓";
+    setst("ZIP loaded. Ready to upload " + keys.length + " file" + (keys.length !== 1 ? "s" : "") + ".", "ok");
+  } catch(e) {
+    setst("Failed to read ZIP: " + e.message, "er");
+  }
+}
+
+/* ════════════════════════════════════════════
+   CUSTOM FILES DROP ZONE
+   ════════════════════════════════════════════ */
+
+function customDzOver(e){ e.preventDefault(); document.getElementById("custom-drop").classList.add("over"); }
+function customDzLeave(){ document.getElementById("custom-drop").classList.remove("over"); }
+function customDzDrop(e){
+  e.preventDefault(); customDzLeave();
+  addCustomFiles(Array.from(e.dataTransfer.files));
+}
+function customFilesPicked(inp){
+  if (inp.files.length) addCustomFiles(Array.from(inp.files));
+  inp.value = ""; // allow re-picking same file
+}
+
+async function addCustomFiles(files) {
+  for (var i = 0; i < files.length; i++) {
+    var file = files[i];
+    var bytes = new Uint8Array(await file.arrayBuffer());
+    var id = ++_customIdCounter;
+    customFiles.push({ id: id, file: file, name: file.name, destPath: file.name, bytes: bytes });
+  }
+  renderCustomList();
+  setst("", "");
+}
+
+function removeCustomFile(id) {
+  customFiles = customFiles.filter(function(f){ return f.id !== id; });
+  renderCustomList();
+}
+
+function updateDestPath(id, val) {
+  var f = customFiles.find(function(f){ return f.id === id; });
+  if (f) f.destPath = val.trim() || f.name;
+}
+
+function renderCustomList() {
+  var list = document.getElementById("custom-file-list");
+  var empty = document.getElementById("custom-empty");
+  if (customFiles.length === 0) {
+    list.innerHTML = "";
+    empty.style.display = "";
+    return;
+  }
+  empty.style.display = "none";
+  var html = "";
+  for (var i = 0; i < customFiles.length; i++) {
+    var f = customFiles[i];
+    var kb = f.bytes.length < 1024 ? f.bytes.length + " B" :
+             f.bytes.length < 1024*1024 ? Math.round(f.bytes.length/1024) + " KB" :
+             (f.bytes.length/1024/1024).toFixed(1) + " MB";
+    html += "<div class=\"custom-file-row\" id=\"cfrow-"+f.id+"\">" +
+      "<div class=\"dot ready\" id=\"cfd-"+f.id+"\"></div>" +
+      "<div class=\"custom-file-info\">" +
+        "<div class=\"custom-file-name\">"+fileIcon(f.name)+" "+esc(f.name)+"</div>" +
+        "<input class=\"custom-file-path-input\" type=\"text\" value=\""+esc(f.destPath)+"\" " +
+          "placeholder=\"destination/path/in/repo\" title=\"Repo destination path\" " +
+          "oninput=\"updateDestPath("+f.id+",this.value)\" spellcheck=\"false\">" +
+      "</div>" +
+      "<span class=\"custom-file-size\">"+kb+"</span>" +
+      "<button class=\"custom-file-remove\" onclick=\"removeCustomFile("+f.id+")\" title=\"Remove\">" +
+        "<svg width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg>" +
+      "</button></div>";
+  }
+  list.innerHTML = html;
+}
+
+/* ════════════════════════════════════════════
+   Uint8Array → base64
+   ════════════════════════════════════════════ */
+
+function uint8ToB64(bytes) {
+  var CHUNK = 8192;
+  var parts = [];
+  for (var i = 0; i < bytes.length; i += CHUNK) {
+    parts.push(String.fromCharCode.apply(null, bytes.subarray(i, i + CHUNK)));
+  }
+  return btoa(parts.join(""));
+}
+
+/* ════════════════════════════════════════════
+   GITHUB API HELPERS
+   ════════════════════════════════════════════ */
+
+async function repoExists(user, repo, token) {
+  var r = await fetch("https://api.github.com/repos/"+user+"/"+repo, {
+    headers:{ Authorization:"token "+token, Accept:"application/vnd.github+json" }
+  });
+  if (r.status===401) throw new Error("Bad credentials — check your token.");
+  if (r.status===404) throw new Error("Repo \""+repo+"\" not found for user \""+user+"\". Create it first at github.com/new.");
+  if (!r.ok) throw new Error("GitHub API error: "+r.status);
+}
+
+async function getSHA(user, repo, path, token, branch) {
+  var r = await fetch(
+    "https://api.github.com/repos/"+user+"/"+repo+"/contents/"+encodePath(path)+"?ref="+branch,
+    { headers:{ Authorization:"token "+token, Accept:"application/vnd.github+json" } }
+  );
+  if (r.status===404) return null;
+  if (!r.ok) return null;
+  return (await r.json()).sha || null;
+}
+
+async function pushFile(user, repo, path, b64content, token, branch, message) {
+  var sha  = await getSHA(user, repo, path, token, branch);
+  var body = { message:message, content:b64content, branch:branch };
+  if (sha) body.sha = sha;
+  var r = await fetch(
+    "https://api.github.com/repos/"+user+"/"+repo+"/contents/"+encodePath(path),
+    { method:"PUT",
+      headers:{ Authorization:"token "+token, Accept:"application/vnd.github+json", "Content-Type":"application/json" },
+      body: JSON.stringify(body) }
+  );
+  if (!r.ok){ var e=await r.json(); throw new Error((e.message||r.statusText)+" (HTTP "+r.status+")"); }
+}
+
+/* Encode a repo path: encode each segment separately so slashes are preserved */
+function encodePath(path) {
+  return path.split("/").map(encodeURIComponent).join("/");
+}
+
+async function createTag(user, repo, token, tag, branch) {
+  var rr = await fetch(
+    "https://api.github.com/repos/"+user+"/"+repo+"/git/refs/heads/"+branch,
+    { headers:{ Authorization:"token "+token, Accept:"application/vnd.github+json" } }
+  );
+  if (!rr.ok) throw new Error("Could not fetch branch ref");
+  var sha = (await rr.json()).object.sha;
+  var tr = await fetch("https://api.github.com/repos/"+user+"/"+repo+"/git/refs", {
+    method:"POST",
+    headers:{ Authorization:"token "+token, Accept:"application/vnd.github+json", "Content-Type":"application/json" },
+    body: JSON.stringify({ ref:"refs/tags/"+tag, sha:sha })
+  });
+  if (!tr.ok){
+    var e = await tr.json();
+    if (e.message && e.message.indexOf("already exists") >= 0) return;
+    throw new Error(e.message || tr.statusText);
+  }
+}
+
+/* ════════════════════════════════════════════
+   UPLOAD
+   ════════════════════════════════════════════ */
+
+async function doUpload() {
+  var user   = document.getElementById("u").value.trim();
+  var repo   = document.getElementById("r").value.trim();
+  var token  = document.getElementById("tk").value.trim();
+  var branch = document.getElementById("br").value.trim() || "main";
+  var msg    = document.getElementById("cm").value.trim() || "Update files";
+  var tag    = document.getElementById("tn").value.trim();
+
+  if (!user)  { setst("Please enter your GitHub username.","er"); return; }
+  if (!repo)  { setst("Please enter the repository name.","er"); return; }
+  if (!token) { setst("Please enter a personal access token.","er"); return; }
+
+  // Gather files based on mode
+  var files = []; // [{name (display), destPath, bytes}]
+
+  if (uploadMode === "zip") {
+    var keys = Object.keys(zipFiles);
+    if (keys.length === 0) { setst("No ZIP loaded — drop a ZIP file first.","er"); return; }
+    files = keys.map(function(k){ return { name:k, destPath:k, bytes:zipFiles[k] }; });
+  } else {
+    if (customFiles.length === 0) { setst("No files added — add at least one file.","er"); return; }
+    // Validate destination paths
+    var badPaths = customFiles.filter(function(f){ return !f.destPath || f.destPath.trim() === ""; });
+    if (badPaths.length) { setst("Some files have empty destination paths.","er"); return; }
+    files = customFiles.map(function(f){ return { name:f.name, destPath:f.destPath.trim(), bytes:f.bytes }; });
+  }
+
+  var btn = document.getElementById("upbtn");
+  btn.disabled = true;
+  document.getElementById("cdncard").style.display = "none";
+  prog(0, files.length);
+
+  // Verify repo
+  setst("Checking repository…");
+  try { await repoExists(user, repo, token); }
+  catch(e) { setst(e.message,"er"); btn.disabled=false; return; }
+
+  // Update dot indicators for custom mode
+  for (var i = 0; i < files.length; i++) {
+    var f = files[i];
+    var dotEl = document.getElementById("cfd-"+(customFiles[i] ? customFiles[i].id : ""));
+    if (uploadMode === "zip") {
+      // update zip dots if they exist
+      var zd = document.getElementById("zd"+i);
+      if (zd) zd.className = "dot";
+    } else {
+      if (dotEl) dotEl.className = "dot";
+    }
+  }
+
+  var uploadedPaths = [];
+  for (var i = 0; i < files.length; i++) {
+    var f = files[i];
+    setst("Uploading " + f.destPath + " (" + (i+1) + "/" + files.length + ")…");
+
+    // Update indicators
+    if (uploadMode === "zip") {
+      var zd = document.getElementById("zd"+i);
+      if (zd) zd.className = "dot up";
+    } else {
+      var cfid = customFiles[i] ? customFiles[i].id : null;
+      if (cfid) { var dd = document.getElementById("cfd-"+cfid); if(dd) dd.className="dot up"; }
+    }
+
+    try {
+      await pushFile(user, repo, f.destPath, uint8ToB64(f.bytes), token, branch, msg);
+      uploadedPaths.push(f.destPath);
+      prog(i+1, files.length);
+
+      if (uploadMode === "zip") {
+        var zd = document.getElementById("zd"+i); if(zd) zd.className="dot ok";
+      } else {
+        if (cfid) { var dd = document.getElementById("cfd-"+cfid); if(dd) dd.className="dot ok"; }
+      }
+    } catch(e) {
+      if (uploadMode === "zip") {
+        var zd = document.getElementById("zd"+i); if(zd) zd.className="dot er";
+      } else {
+        if (cfid) { var dd = document.getElementById("cfd-"+cfid); if(dd) dd.className="dot er"; }
+      }
+      setst("Failed on "+f.destPath+": "+e.message,"er");
+      btn.disabled=false; return;
+    }
+  }
+
+  if (tag) {
+    setst("Creating release tag "+tag+"…");
+    try { await createTag(user, repo, token, tag, branch); }
+    catch(e){ setst("Files uploaded but tagging failed: "+e.message,"er"); btn.disabled=false; showCDN(user,repo,tag,uploadedPaths); return; }
+    showCDN(user, repo, tag, uploadedPaths);
+  }
+
+  setst("All "+files.length+" file"+(files.length!==1?"s":"")+" uploaded"+(tag?" and tagged "+tag:"")+" successfully.","ok");
+  btn.disabled=false;
+}
+
+/* ════════════════════════════════════════════
+   CDN DISPLAY
+   ════════════════════════════════════════════ */
+
+function showCDN(user, repo, tag, paths) {
+  var base = "https://cdn.jsdelivr.net/gh/"+user+"/"+repo+"@"+tag;
+  var items = paths.map(function(p){
+    var ext = (p.split(".").pop()||"").toLowerCase();
+    var lbl = ext === "js" ? "JS" : ext === "css" ? "CSS" :
+              ext === "html" || ext === "htm" ? "HTML" : p.split("/").pop();
+    return { lbl: lbl, url: base + "/" + p };
+  });
+
+  document.getElementById("cdnbody").innerHTML = items.map(function(it){
+    return "<div class=\"cdnitem\"><div><div class=\"cdnlbl\">"+esc(it.lbl)+"</div><div class=\"cdnurl\">"+esc(it.url)+"</div></div>"+
+      "<button class=\"cpbtn\" onclick=\"copyURL(event,\x27"+it.url+"\x27)\" aria-label=\"Copy URL\">"+
+      "<svg width=\"13\" height=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><rect x=\"9\" y=\"9\" width=\"13\" height=\"13\" rx=\"2\"/><path d=\"M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1\"/></svg>"+
+      "</button></div>";
+  }).join("");
+  document.getElementById("cdncard").style.display = "block";
+  buildFlushURLs(items);
+  document.getElementById("flush-card").style.display = "block";
+}
+
+/* ════════════════════════════════════════════
+   jsDelivr CDN CACHE FLUSH
+   ════════════════════════════════════════════ */
+
+var _flushURLs = [];
+
+function buildFlushURLs(items) {
+  _flushURLs = items;
+  var html = "";
+  for (var i = 0; i < items.length; i++) {
+    html += "<div class=\"flush-url-row\" id=\"flush-row-"+i+"\">" +
+      "<span class=\"flush-url-label\">"+esc(items[i].lbl)+"</span>" +
+      "<span class=\"flush-url-text\" title=\""+esc(items[i].url)+"\">"+esc(items[i].url)+"</span>" +
+      "<span class=\"flush-dot\" id=\"flush-dot-"+i+"\"></span>" +
+      "</div>";
+  }
+  document.getElementById("flush-url-list").innerHTML = html;
+  document.getElementById("flush-log").style.display = "none";
+  document.getElementById("flush-log").innerHTML = "";
+  flushSetSt("");
+}
+
+function flushSetSt(msg,cls){ var el=document.getElementById("flush-st"); el.textContent=msg; el.className="flush-st "+(cls||""); }
+function flushLog(html){ var log=document.getElementById("flush-log"); log.style.display="block"; log.innerHTML+=html+"\n"; log.scrollTop=log.scrollHeight; }
+
+async function purgeJsdelivr(url) {
+  var purgeURL = url.replace("https://cdn.jsdelivr.net/","https://purge.jsdelivr.net/");
+  var r = await fetch(purgeURL,{method:"GET"});
+  if (!r.ok) throw new Error("HTTP "+r.status);
+  return await r.json().catch(function(){ return {}; });
+}
+
+async function doFlushAll() {
+  if (_flushURLs.length===0){ flushSetSt("No CDN URLs to flush. Upload files first.","er"); return; }
+  var btn=document.getElementById("flush-all-btn");
+  btn.disabled=true;
+  document.getElementById("flush-log").innerHTML="";
+  document.getElementById("flush-log").style.display="block";
+  flushSetSt("Purging CDN cache…");
+  var ok=0, failed=0;
+  for (var i=0;i<_flushURLs.length;i++){
+    var item=_flushURLs[i];
+    var dot=document.getElementById("flush-dot-"+i);
+    var row=document.getElementById("flush-row-"+i);
+    dot.className="flush-dot flushing"; row.className="flush-url-row flushing";
+    flushLog("<span class=\"log-pending\">⟳ Purging "+item.lbl+": "+item.url+"</span>");
+    try {
+      await purgeJsdelivr(item.url);
+      dot.className="flush-dot ok"; row.className="flush-url-row flushed";
+      flushLog("<span class=\"log-ok\">✓ "+item.lbl+" cache cleared</span>"); ok++;
+    } catch(e) {
+      dot.className="flush-dot er"; row.className="flush-url-row flush-err";
+      flushLog("<span class=\"log-er\">✗ "+item.lbl+" failed: "+e.message+"</span>"); failed++;
+    }
+  }
+  btn.disabled=false;
+  if (failed===0) flushSetSt("All "+ok+" file"+(ok!==1?"s":"")+" purged — CDN is up to date.","ok");
+  else flushSetSt(ok+" purged, "+failed+" failed.","er");
+}
+
+function doFlushManual(){
+  var row=document.getElementById("flush-manual-row");
+  if (row.style.display==="none"){ row.style.display="flex"; document.getElementById("flush-custom-input").focus(); return; }
+  var url=document.getElementById("flush-custom-input").value.trim();
+  if (!url){ row.style.display="none"; return; }
+  if (!url.startsWith("https://cdn.jsdelivr.net/")){ flushSetSt("URL must start with https://cdn.jsdelivr.net/","er"); return; }
+  flushSingleCustom(url);
+}
+
+async function flushSingleCustom(url){
+  var btn=document.querySelector(".btn[onclick='doFlushManual()']");
+  if(btn) btn.disabled=true;
+  flushSetSt("Purging custom URL…");
+  document.getElementById("flush-log").innerHTML=""; document.getElementById("flush-log").style.display="block";
+  flushLog("<span class=\"log-pending\">⟳ "+esc(url)+"</span>");
+  try {
+    await purgeJsdelivr(url);
+    flushLog("<span class=\"log-ok\">✓ Cache purged successfully</span>");
+    flushSetSt("Custom URL purged — CDN updated.","ok");
+    document.getElementById("flush-custom-input").value="";
+    document.getElementById("flush-manual-row").style.display="none";
+  } catch(e) {
+    flushLog("<span class=\"log-er\">✗ Failed: "+e.message+"</span>");
+    flushSetSt("Purge failed: "+e.message,"er");
+  }
+  if(btn) btn.disabled=false;
+}
+
+/* ════════════════════════════════════════════
+   MANAGE / DELETE FILES
+   ════════════════════════════════════════════ */
+
+var delCurPath="", delPathStack=[];
+
+function delCreds(){
+  return {
+    user:   document.getElementById("u").value.trim(),
+    repo:   document.getElementById("r").value.trim(),
+    token:  document.getElementById("tk").value.trim(),
+    branch: document.getElementById("br").value.trim()||"main"
+  };
+}
+function delSetSt(msg,cls){ var el=document.getElementById("del-st"); el.textContent=msg; el.className="del-st "+(cls||""); }
+function delProg(n,t){ document.getElementById("del-pw").style.display="block"; document.getElementById("del-pb").style.width=(t>0?Math.round(n/t*100):0)+"%"; }
+function delHideProg(){ document.getElementById("del-pw").style.display="none"; document.getElementById("del-pb").style.width="0"; }
+
+async function fetchDir(user,repo,token,branch,path){
+  var url="https://api.github.com/repos/"+user+"/"+repo+"/contents/"+(path?encodePath(path):"")+
+          "?ref="+branch;
+  var r=await fetch(url,{headers:{Authorization:"token "+token,Accept:"application/vnd.github+json"}});
+  if(r.status===401) throw new Error("Bad credentials — check your token.");
+  if(r.status===404) throw new Error("Path not found.");
+  if(!r.ok) throw new Error("GitHub API error: "+r.status);
+  return await r.json();
+}
+
+async function collectAllFiles(user,repo,token,branch,path){
+  var items=await fetchDir(user,repo,token,branch,path);
+  var result=[];
+  for(var i=0;i<items.length;i++){
+    var it=items[i];
+    if(it.type==="blob"||it.type==="file"){ result.push({path:it.path,sha:it.sha,size:it.size}); }
+    else if(it.type==="tree"||it.type==="dir"){ result=result.concat(await collectAllFiles(user,repo,token,branch,it.path)); }
+  }
+  return result;
+}
+
+async function deleteFile(user,repo,token,branch,path,sha){
+  var r=await fetch("https://api.github.com/repos/"+user+"/"+repo+"/contents/"+encodePath(path),{
+    method:"DELETE",
+    headers:{Authorization:"token "+token,Accept:"application/vnd.github+json","Content-Type":"application/json"},
+    body:JSON.stringify({message:"Delete "+path,sha:sha,branch:branch})
+  });
+  if(!r.ok){ var e=await r.json(); throw new Error((e.message||r.statusText)+" (HTTP "+r.status+")"); }
+}
+
+async function doBrowse(){
+  var c=delCreds();
+  if(!c.user)  { delSetSt("Enter your GitHub username first.","er"); return; }
+  if(!c.repo)  { delSetSt("Enter the repository name first.","er"); return; }
+  if(!c.token) { delSetSt("Enter your personal access token first.","er"); return; }
+  delCurPath=""; delPathStack=[];
+  await loadDir(c,"");
+}
+
+async function loadDir(c,path){
+  var btn=document.getElementById("del-browse-btn");
+  btn.disabled=true; delSetSt("Loading…"); delHideProg();
+  try {
+    var items=await fetchDir(c.user,c.repo,c.token,c.branch,path);
+    delCurPath=path;
+    renderDirListing(items,c,path);
+    document.getElementById("del-search").style.display="";
+    document.getElementById("del-actions").style.display="flex";
+    document.getElementById("del-select-all").checked=false;
+    delSetSt("");
+  } catch(e){ delSetSt(e.message,"er"); }
+  btn.disabled=false;
+}
+
+function renderDirListing(items,c,path){
+  items=items.slice().sort(function(a,b){
+    var at=(a.type==="dir"||a.type==="tree")?0:1, bt=(b.type==="dir"||b.type==="tree")?0:1;
+    if(at!==bt) return at-bt;
+    return a.name.localeCompare(b.name);
+  });
+  document.getElementById("del-search").value="";
+  window._delCurrentItems=items; window._delCurrentCreds=c;
+  renderItems(items,c);
+  renderBreadcrumb(c,path);
+}
+
+function renderBreadcrumb(c,path){
+  var bc=document.getElementById("del-breadcrumb");
+  bc.style.display="flex";
+  var html="<span onclick=\"doBrowse()\">🏠 root</span>";
+  if(path){
+    var parts=path.split("/"), built="";
+    for(var i=0;i<parts.length;i++){
+      built+=(built?"/":"")+parts[i];
+      var cap=built;
+      html+="<span class=\"sep\">/</span><span onclick=\"navigateTo('"+cap.replace(/'/g,"\\'")+"')\">"+esc(parts[i])+"</span>";
+    }
+  }
+  bc.innerHTML=html;
+}
+
+function renderItems(items,c){
+  var list=document.getElementById("del-list");
+  list.style.display="";
+  if(!items||items.length===0){ list.innerHTML="<div class=\"del-empty\">This folder is empty.</div>"; return; }
+  var html="";
+  for(var i=0;i<items.length;i++){
+    var it=items[i], isDir=(it.type==="dir"||it.type==="tree");
+    var icon=isDir?"📁":fileIcon(it.name);
+    var size=(!isDir&&it.size!=null)?formatSize(it.size):"";
+    var sha=it.sha||"";
+    var itemPath=it.path||(delCurPath?delCurPath+"/"+it.name:it.name);
+    html+="<div class=\"del-item"+(isDir?" folder-row":"")+"\" data-path=\""+esc(itemPath)+"\" data-sha=\""+esc(sha)+"\" data-isdir=\""+(isDir?1:0)+"\" data-name=\""+esc(it.name)+"\">";
+    if(!isDir) html+="<input type=\"checkbox\" class=\"del-check del-cb\" onchange=\"delUpdateSelected()\">";
+    else html+="<span style=\"width:14px;height:14px;display:inline-block\"></span>";
+    if(isDir){
+      html+="<span class=\"del-item-icon\" onclick=\"navigateTo('"+esc(itemPath)+"')\">"+icon+"</span>";
+      html+="<span class=\"del-item-name\" onclick=\"navigateTo('"+esc(itemPath)+"')\" title=\""+esc(itemPath)+"\">"+esc(it.name)+"</span>";
+      html+="<span class=\"del-item-size\"></span>";
+      html+="<button class=\"del-item-btn\" title=\"Delete folder\" onclick=\"doDeleteFolder('"+esc(itemPath)+"',this)\">";
+      html+="<svg width=\"12\" height=\"12\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.3\" viewBox=\"0 0 24 24\"><polyline points=\"3 6 5 6 21 6\"/><path d=\"M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6\"/><path d=\"M10 11v6\"/><path d=\"M14 11v6\"/><path d=\"M9 6V4h6v2\"/></svg></button>";
+    } else {
+      html+="<span class=\"del-item-icon\">"+icon+"</span>";
+      html+="<span class=\"del-item-name\" title=\""+esc(itemPath)+"\">"+esc(it.name)+"</span>";
+      html+="<span class=\"del-item-size\">"+size+"</span>";
+      html+="<button class=\"del-item-btn\" title=\"Delete file\" onclick=\"doDeleteSingle('"+esc(itemPath)+"','"+esc(sha)+"',this)\">";
+      html+="<svg width=\"12\" height=\"12\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.3\" viewBox=\"0 0 24 24\"><polyline points=\"3 6 5 6 21 6\"/><path d=\"M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6\"/><path d=\"M10 11v6\"/><path d=\"M14 11v6\"/><path d=\"M9 6V4h6v2\"/></svg></button>";
+    }
+    html+="</div>";
+  }
+  list.innerHTML=html;
+}
+
+async function navigateTo(path){ var c=window._delCurrentCreds||delCreds(); await loadDir(c,path); }
+
+function delFilter(){
+  var q=document.getElementById("del-search").value.toLowerCase();
+  var items=(window._delCurrentItems||[]).filter(function(it){ return it.name.toLowerCase().indexOf(q)>=0; });
+  renderItems(items,window._delCurrentCreds);
+}
+
+function delToggleAll(checked){ document.querySelectorAll(".del-cb").forEach(function(cb){ cb.checked=checked; }); delUpdateSelected(); }
+
+function delUpdateSelected(){
+  var cbs=document.querySelectorAll(".del-cb:checked");
+  var btn=document.getElementById("del-selected-btn");
+  btn.disabled=cbs.length===0;
+  btn.innerHTML="<svg width=\"13\" height=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.3\" viewBox=\"0 0 24 24\"><polyline points=\"3 6 5 6 21 6\"/><path d=\"M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6\"/><path d=\"M10 11v6\"/><path d=\"M14 11v6\"/><path d=\"M9 6V4h6v2\"/></svg> Delete selected"+(cbs.length>0?" ("+cbs.length+")":"");
+}
+
+async function doDeleteSingle(path,sha,btnEl){
+  var c=delCreds();
+  if(!confirm("Delete \""+path+"\" from the repo?\n\nThis cannot be undone.")) return;
+  btnEl.disabled=true; delSetSt("Deleting "+path+"…");
+  try {
+    await deleteFile(c.user,c.repo,c.token,c.branch,path,sha);
+    var row=btnEl.closest(".del-item");
+    if(row){ row.style.transition="opacity .3s"; row.style.opacity="0"; setTimeout(function(){ if(row) row.remove(); },300); }
+    delSetSt("Deleted: "+path,"ok");
+  } catch(e){ btnEl.disabled=false; delSetSt("Failed: "+e.message,"er"); }
+}
+
+async function doDeleteFolder(folderPath,btnEl){
+  var c=delCreds();
+  if(!confirm("Delete entire folder \""+folderPath+"\" and ALL its contents?\n\nThis cannot be undone.")) return;
+  btnEl.disabled=true; delSetSt("Collecting files in folder…");
+  try {
+    var files=await collectAllFiles(c.user,c.repo,c.token,c.branch,folderPath);
+    if(files.length===0){ delSetSt("Folder is already empty.","ok"); btnEl.disabled=false; return; }
+    delProg(0,files.length);
+    for(var i=0;i<files.length;i++){
+      delSetSt("Deleting "+files[i].path+" ("+(i+1)+"/"+files.length+")…");
+      await deleteFile(c.user,c.repo,c.token,c.branch,files[i].path,files[i].sha);
+      delProg(i+1,files.length);
+    }
+    var row=btnEl.closest(".del-item");
+    if(row){ row.style.transition="opacity .3s"; row.style.opacity="0"; setTimeout(function(){ if(row) row.remove(); },300); }
+    delSetSt("Deleted folder \""+folderPath+"\" ("+files.length+" file"+(files.length!==1?"s":"")+").","ok");
+  } catch(e){ btnEl.disabled=false; delSetSt("Failed: "+e.message,"er"); }
+}
+
+async function doDeleteSelected(){
+  var c=delCreds();
+  var cbs=Array.from(document.querySelectorAll(".del-cb:checked"));
+  if(cbs.length===0) return;
+  if(!confirm("Delete "+cbs.length+" selected file(s)?\n\nThis cannot be undone.")) return;
+  var selBtn=document.getElementById("del-selected-btn");
+  selBtn.disabled=true; delProg(0,cbs.length);
+  var failed=0;
+  for(var i=0;i<cbs.length;i++){
+    var row=cbs[i].closest(".del-item");
+    var path=row.dataset.path, sha=row.dataset.sha;
+    delSetSt("Deleting "+path+" ("+(i+1)+"/"+cbs.length+")…");
+    try {
+      await deleteFile(c.user,c.repo,c.token,c.branch,path,sha);
+      row.style.transition="opacity .3s"; row.style.opacity="0";
+      setTimeout((function(r){ return function(){ r.remove(); }; })(row),300);
+    } catch(e){ failed++; delSetSt("Error on "+path+": "+e.message,"er"); }
+    delProg(i+1,cbs.length);
+  }
+  selBtn.disabled=false;
+  document.getElementById("del-select-all").checked=false;
+  if(failed===0) delSetSt("Deleted "+cbs.length+" file"+(cbs.length!==1?"s":"")+" successfully.","ok");
+  else delSetSt((cbs.length-failed)+" deleted, "+failed+" failed.","er");
+  delUpdateSelected();
+}
+
+async function doDeleteAll(){
+  var c=delCreds();
+  if(!c.user)  { delSetSt("Enter your GitHub username first.","er"); return; }
+  if(!c.repo)  { delSetSt("Enter the repository name first.","er"); return; }
+  if(!c.token) { delSetSt("Enter your personal access token first.","er"); return; }
+  if(!confirm("⚠️ Delete EVERY file in \""+c.repo+"\" on branch \""+c.branch+"\"?\n\nThis will remove ALL files recursively and cannot be undone.")) return;
+  if(!confirm("Are you absolutely sure? This is irreversible.")) return;
+  var btn=document.getElementById("del-all-btn");
+  btn.disabled=true; delSetSt("Collecting all files…"); delProg(0,1);
+  try {
+    var files=await collectAllFiles(c.user,c.repo,c.token,c.branch,"");
+    if(files.length===0){ delSetSt("Repository appears to be empty already.","ok"); btn.disabled=false; delHideProg(); return; }
+    delProg(0,files.length);
+    var failed=0;
+    for(var i=0;i<files.length;i++){
+      delSetSt("Deleting "+files[i].path+" ("+(i+1)+"/"+files.length+")…");
+      try { await deleteFile(c.user,c.repo,c.token,c.branch,files[i].path,files[i].sha); }
+      catch(e){ failed++; }
+      delProg(i+1,files.length);
+    }
+    document.getElementById("del-list").innerHTML="<div class=\"del-empty\">Repository is now empty.</div>";
+    document.getElementById("del-actions").style.display="none";
+    document.getElementById("del-search").style.display="none";
+    document.getElementById("del-breadcrumb").style.display="none";
+    if(failed===0) delSetSt("All "+files.length+" file"+(files.length!==1?"s":"")+" deleted.","ok");
+    else delSetSt((files.length-failed)+" deleted, "+failed+" failed.","er");
+  } catch(e){ delSetSt("Failed: "+e.message,"er"); }
+  btn.disabled=false;
+}
+
+/* ════════════════════════════════════════════
+   RESET
+   ════════════════════════════════════════════ */
+
+function doReset(){
+  ["u","r","tk","br","cm","tn","tm"].forEach(function(id){ document.getElementById(id).value=""; });
+  document.getElementById("br").value="main";
+  try{ localStorage.removeItem("gh_pub_creds"); }catch(e){}
+  zipFiles={}; customFiles=[]; _customIdCounter=0;
+  document.getElementById("pw").style.display="none";
+  document.getElementById("pb").style.width="0";
+  document.getElementById("cdncard").style.display="none";
+  document.getElementById("flush-card").style.display="none";
+  document.getElementById("zip-fgrid").style.display="none";
+  document.getElementById("zip-fgrid").innerHTML="";
+  document.getElementById("dz-name").style.display="none";
+  document.getElementById("dropzone").className="dropzone";
+  document.getElementById("zipinput").value="";
+  document.getElementById("custom-file-list").innerHTML="";
+  document.getElementById("custom-empty").style.display="none";
+  setst("","");
+  setMode("zip");
+  document.getElementById("upbtn").disabled=false;
+}
+
+/* ════════════════════════════════════════════
+   CREDENTIAL PERSISTENCE
+   ════════════════════════════════════════════ */
+
+var CRED_FIELDS=["u","r","tk","br"];
+function saveCreds(){
+  try{
+    var obj={}; CRED_FIELDS.forEach(function(id){ obj[id]=document.getElementById(id).value; });
+    localStorage.setItem("gh_pub_creds",JSON.stringify(obj));
+  }catch(e){}
+}
+function loadCreds(){
+  try{
+    var raw=localStorage.getItem("gh_pub_creds"); if(!raw) return;
+    var obj=JSON.parse(raw);
+    CRED_FIELDS.forEach(function(id){ if(obj[id]!=null) document.getElementById(id).value=obj[id]; });
+  }catch(e){}
+}
+(function(){
+  document.addEventListener("DOMContentLoaded",function(){
+    loadCreds();
+    CRED_FIELDS.forEach(function(id){
+      var el=document.getElementById(id); if(el) el.addEventListener("input",saveCreds);
+    });
+  });
+})();
+
+/* ════════════════════════════════════════════
+   UTILS
+   ════════════════════════════════════════════ */
+
+function toggleEye(){ var i=document.getElementById("tk"); i.type=i.type==="password"?"text":"password"; }
+function setst(msg,cls){ var e=document.getElementById("st"); e.textContent=msg; e.className="st "+(cls||""); }
+function prog(n,t){ document.getElementById("pw").style.display="block"; document.getElementById("pb").style.width=Math.round(n/t*100)+"%"; }
+function copyURL(evt,url){
+  var btn=evt.currentTarget;
+  navigator.clipboard.writeText(url).then(function(){
+    btn.innerHTML="<svg width=\"13\" height=\"13\" fill=\"none\" stroke=\"#3B6D11\" stroke-width=\"2.5\" viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg>";
+    setTimeout(function(){ btn.innerHTML="<svg width=\"13\" height=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><rect x=\"9\" y=\"9\" width=\"13\" height=\"13\" rx=\"2\"/><path d=\"M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1\"/></svg>"; },2000);
+  });
+}
+function esc(s){ return String(s).replace(/&/g,"&amp;").replace(/"/g,"&quot;").replace(/'/g,"&#39;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+function formatSize(bytes){
+  if(bytes==null) return "";
+  if(bytes<1024) return bytes+" B";
+  if(bytes<1024*1024) return Math.round(bytes/1024)+" KB";
+  return (bytes/1024/1024).toFixed(1)+" MB";
+}
+function fileIcon(name){
+  var ext=(name.split(".").pop()||"").toLowerCase();
+  var map={js:"📜",mjs:"📜",ts:"📜",tsx:"📜",css:"🎨",scss:"🎨",html:"🌐",htm:"🌐",md:"📝",json:"📋",
+           png:"🖼",jpg:"🖼",jpeg:"🖼",gif:"🖼",svg:"🖼",webp:"🖼",ico:"🖼",
+           txt:"📄",pdf:"📕",zip:"📦",gz:"📦",xml:"📋",yml:"📋",yaml:"📋",sh:"⚙️",py:"🐍"};
+  return map[ext]||"📄";
+}
+</script>
+</body>
+</html>
