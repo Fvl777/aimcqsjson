@@ -1,0 +1,600 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "language": "English",
+      "language_code": "01EN",
+      "name": "General Studies",
+      "slug": "general-studies"
+    }
+  ],
+  "posts": [
+    {
+      "id": 76,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "With reference to the 'E-Waste (Management) Rules' in...",
+      "post_content": "<p>With reference to the 'E-Waste (Management) Rules' in India, consider the following statements:</p><ol><li>The Extended Producer Responsibility (EPR) makes manufacturers primarily responsible for the collection and channelization of e-waste.</li><li>The concept of EPR applies only to the manufacturers and completely exempts importers and brand owners.</li></ol><p>Which of the statements given above is/are correct?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1",
+            "image": ""
+          },
+          {
+            "text": "Only 2",
+            "image": ""
+          },
+          {
+            "text": "Both 1 and 2",
+            "image": ""
+          },
+          {
+            "text": "Neither 1 nor 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 1</h5><p><strong>E-Waste Management in India:</strong> To combat the growing hazard of electronic waste, the Ministry of Environment, Forest and Climate Change has notified detailed E-Waste (Management) Rules based on the 'polluter pays' principle.</p><h5>Statement Analysis</h5><ul><li><strong>Statement 1 is Correct:</strong> A central pillar of these rules is the <strong>Extended Producer Responsibility (EPR)</strong>. EPR places the responsibility on the producer (manufacturer) for the environmentally sound management of the product until the end of its life, which mainly involves the collection and recycling/channelization of the e-waste generated from their products.</li><li><strong>Statement 2 is Incorrect:</strong> EPR does NOT exempt other entities in the supply chain. Under the rules, a 'producer' is broadly defined. It applies to any person or entity who manufactures and offers to sell, as well as <strong>importers</strong>, and <strong>dealers/brand owners</strong> selling assembled electrical and electronic equipment under their own brand name.</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 77,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Given below are two statements, one is labelled as...",
+      "post_content": "<p>Given below are two statements, one is labelled as <b>Assertion (A)</b> and the other as <b>Reason (R)</b>.</p><p><b>Assertion (A):</b> Mangrove forests act as natural bio-shields, reducing the catastrophic impact of tsunamis and severe cyclonic storms on coastal communities.</p><p><b>Reason (R):</b> Mangroves possess an intricate network of stilt and prop roots that trap sediments and absorb the kinetic energy of incoming sea waves.</p><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "(A) is true, but (R) is false",
+            "image": ""
+          },
+          {
+            "text": "(A) is false, but (R) is true",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Both (A) and (R) are true and (R) is the correct explanation of (A)</h5><p><strong>Ecological Importance of Mangroves:</strong> Beyond being biodiversity hotspots, mangroves provide invaluable ecosystem services, particularly in disaster mitigation.</p><h5>Statement Analysis</h5><ul><li><strong>Assertion (A):</strong> Historical events, such as the 2004 Indian Ocean Tsunami, have heavily documented that coastlines backed by healthy mangrove forests suffered significantly less damage and fewer casualties compared to areas where mangroves had been cleared. Thus, <strong>Assertion (A) is correct</strong>.</li><li><strong>Reason (R):</strong> The physical structure of mangroves makes this possible. They have a complex, tangled above-ground root system (stilt roots, prop roots). When powerful storm surges or tsunami waves hit the coast, this dense root network acts as a physical barrier. It dissipates the kinetic energy of the waves, slows down the water flow, and stabilizes the soil by trapping sediments, thereby preventing severe coastal erosion. Thus, <strong>Reason (R) is correct and perfectly explains (A)</strong>.</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 78,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "In which year was the National Green Tribunal (NGT)...",
+      "post_content": "<p>In which year was the National Green Tribunal (NGT) established in India for effective and expeditious disposal of cases relating to environmental protection?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "2006",
+            "image": ""
+          },
+          {
+            "text": "2008",
+            "image": ""
+          },
+          {
+            "text": "2010",
+            "image": ""
+          },
+          {
+            "text": "2014",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 2010</h5><p><strong>National Green Tribunal (NGT):</strong> The NGT is a specialized judicial body equipped with expertise solely for the purpose of adjudicating environmental cases in the country.</p><h5>Key Facts about NGT</h5><ul><li><strong>Establishment:</strong> It was established on <strong>October 18, 2010</strong>, under the National Green Tribunal Act 2010.</li><li><strong>Objective:</strong> To provide effective and expeditious disposal of cases relating to environmental protection and conservation of forests and other natural resources, including enforcement of any legal right relating to the environment.</li><li><strong>Global Standing:</strong> With the establishment of the NGT, India became the third country in the world (after Australia and New Zealand) to set up a specialized environmental tribunal.</li><li><strong>Jurisdiction:</strong> The Tribunal is not bound by the procedure laid down under the Code of Civil Procedure, 1908, but is guided by principles of natural justice.</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 79,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Consider the following important International Days related to...",
+      "post_content": "<p>Consider the following important International Days related to the environment. Arrange them in the correct sequential order of their occurrence in a calendar year (starting from January).</p><ol><li>World Earth Day</li><li>World Ozone Day</li><li>World Wetlands Day</li><li>International Day for Biological Diversity</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "3, 1, 4, 2",
+            "image": ""
+          },
+          {
+            "text": "1, 3, 2, 4",
+            "image": ""
+          },
+          {
+            "text": "3, 4, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "1, 4, 3, 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 3, 1, 4, 2</h5><p><strong>Environmental Calendar:</strong> The United Nations designates specific days to raise global awareness and action for various environmental issues.</p><h5>Chronological Sequence in a Year</h5><ul><li><strong>3. World Wetlands Day (February 2):</strong> Marks the date of the adoption of the Convention on Wetlands (Ramsar Convention) in 1971.</li><li><strong>1. World Earth Day (April 22):</strong> First celebrated in 1970, it demonstrates support for environmental protection globally.</li><li><strong>4. International Day for Biological Diversity (May 22):</strong> Sanctioned by the UN to increase understanding and awareness of biodiversity issues.</li><li><strong>2. World Ozone Day (September 16):</strong> Also known as the International Day for the Preservation of the Ozone Layer. It commemorates the signing of the Montreal Protocol in 1987.</li></ul><h5>Additional Important Day</h5><ul><li><strong>World Environment Day:</strong> Celebrated annually on June 5th, marking the first day of the 1972 Stockholm Conference.</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 80,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Match List - I with List - II and choose...",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Protected Area Category)</th><th>List - II<br>(Characteristic / Level of Protection)</th></tr><tr><td>A. National Park</td><td>1. Zoned area promoting sustainable development alongside conservation</td></tr><tr><td>B. Wildlife Sanctuary</td><td>2. Highest degree of legal protection; no human habitation or extraction allowed</td></tr><tr><td>C. Biosphere Reserve</td><td>3. Protected area typically on private or community lands</td></tr><tr><td>D. Community Reserve</td><td>4. Protection of specific flora/fauna; limited human activities (like grazing) may be allowed</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-2, B-4, C-1, D-3",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-2, C-3, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-1, C-4, D-3",
+            "image": ""
+          },
+          {
+            "text": "A-1, B-4, C-2, D-3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-2, B-4, C-1, D-3</h5><p><strong>Protected Area Network in India:</strong> India has designated various categories of protected areas under the Wildlife Protection Act, 1972 (and its amendments) and international frameworks to safeguard biodiversity.</p><h5>Analysis of Matching Lists</h5><ul><li><strong>A. National Park (2):</strong> These areas are strictly reserved for the betterment of wildlife & biodiversity. They have the <strong>highest legal protection</strong>. No human activities like grazing, forestry, or habitat manipulation are permitted.</li><li><strong>B. Wildlife Sanctuary (4):</strong> Specifically dedicated to the protection of particular species of flora and fauna. While protected, <strong>limited human activities</strong> (like collection of minor forest produce or regulated grazing) may be allowed by the Chief Wildlife Warden, provided they do not interfere with conservation.</li><li><strong>C. Biosphere Reserve (1):</strong> An internationally recognized (UNESCO) <strong>zoned area</strong> (Core, Buffer, Transition) that aims to balance biodiversity conservation with the economic and social sustainable development of local communities.</li><li><strong>D. Community Reserve (3):</strong> A category added to the Wildlife Protection Act in 2002 to provide legal recognition to <strong>community or privately owned lands</strong> that act as buffer zones, connectors, or migration corridors between established national parks and sanctuaries.</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 81,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Which of the following pairs of International Environmental Reports/Indices...",
+      "post_content": "<p>Which of the following pairs of International Environmental Reports/Indices and their publishing organizations are correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Report / Index)</th><th>(Publishing Organization)</th></tr><tr><td>1. Living Planet Report</td><td>World Wide Fund for Nature (WWF)</td></tr><tr><td>2. Global Environment Outlook</td><td>United Nations Environment Programme (UNEP)</td></tr><tr><td>3. Red List of Threatened Species</td><td>International Union for Conservation of Nature (IUCN)</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "1 and 2 only",
+            "image": ""
+          },
+          {
+            "text": "2 and 3 only",
+            "image": ""
+          },
+          {
+            "text": "1 and 3 only",
+            "image": ""
+          },
+          {
+            "text": "1, 2 and 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 1, 2 and 3</h5><p><strong>Global Environmental Monitoring:</strong> Several prominent international organizations publish periodic reports to assess the health of the planet and the status of biodiversity.</p><h5>Analysis of Pairs</h5><ul><li><strong>1. Living Planet Report (Correct):</strong> Published every two years by the <strong>World Wide Fund for Nature (WWF)</strong> in collaboration with the Zoological Society of London. It is a comprehensive study of trends in global biodiversity and the health of the planet.</li><li><strong>2. Global Environment Outlook (Correct):</strong> The GEO is a series of reports on the environment issued periodically by the <strong>United Nations Environment Programme (UNEP)</strong>. It provides an independent assessment of the state of the environment worldwide.</li><li><strong>3. Red List of Threatened Species (Correct):</strong> Established in 1964, the <strong>IUCN Red List</strong> is the world's most comprehensive inventory of the global conservation status of biological species, maintained by the International Union for Conservation of Nature.</li></ul>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 82,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "The concept of a 'Biodiversity Hotspot' was introduced...",
+      "post_content": "<p>The concept of a 'Biodiversity Hotspot' was introduced by Norman Myers. For a region to be classified as a Biodiversity Hotspot, it must meet which of the following strict criteria?</p><ol><li>It must contain at least 1,500 species of vascular plants as endemics.</li><li>It must have lost at least 70% of its original natural vegetation.</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1",
+            "image": ""
+          },
+          {
+            "text": "Only 2",
+            "image": ""
+          },
+          {
+            "text": "Both 1 and 2",
+            "image": ""
+          },
+          {
+            "text": "Neither 1 nor 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Both 1 and 2</h5><p><strong>Biodiversity Hotspots:</strong> British ecologist Norman Myers coined the term \"biodiversity hotspot\" in 1988 to identify regions of the world that are both exceptionally rich in endemic species and severely threatened by human activities.</p><h5>Strict Criteria for Hotspots</h5><p>To qualify as a biodiversity hotspot, a region must meet two strict criteria simultaneously:</p><ul><li><strong>Statement 1 is Correct (Endemism):</strong> It must contain at least 0.5% or <strong>1,500 species of vascular plants as endemics</strong>. Endemic means these species are found nowhere else on the planet. This criterion establishes that the region possesses irreplaceable biodiversity.</li><li><strong>Statement 2 is Correct (Degree of Threat):</strong> It must have 30% or less of its original natural vegetation. In other words, it must have <strong>lost at least 70% of its original habitat</strong>. This criterion establishes that the region is under severe threat and requires urgent conservation efforts.</li></ul><h5>Status in India</h5><ul><li>India is home to four biodiversity hotspots: the Himalayas, the Western Ghats, the Indo-Burma region, and Sunderland (Nicobar Islands).</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 83,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Given below are two statements, one is labelled as...",
+      "post_content": "<p>Given below are two statements, one is labelled as <b>Assertion (A)</b> and the other as <b>Reason (R)</b>.</p><p><b>Assertion (A):</b> The severe depletion of the stratospheric ozone layer, commonly known as the 'Ozone Hole', is most pronounced over Antarctica.</p><p><b>Reason (R):</b> The extreme cold conditions over Antarctica during winter facilitate the formation of Polar Stratospheric Clouds (PSCs), which provide the surface for chemical reactions that destroy ozone.</p><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "(A) is false, but (R) is true",
+            "image": ""
+          },
+          {
+            "text": "(A) is true, but (R) is false",
+            "image": ""
+          },
+          {
+            "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Both (A) and (R) are true and (R) is the correct explanation of (A)</h5><p><strong>The Ozone Hole Phenomenon:</strong> While ozone-depleting substances (ODS) like CFCs are released globally, the ozone layer depletion is most drastic over the South Pole.</p><h5>Statement Analysis</h5><ul><li><strong>Assertion (A):</strong> Every year during the Southern Hemisphere's spring (September to November), the ozone layer over Antarctica thins drastically, forming what is termed the 'Ozone Hole'. The Arctic also sees depletion, but it is far less severe than the Antarctic. Thus, <strong>Assertion (A) is correct</strong>.</li><li><strong>Reason (R):</strong> The primary reason for this geographical anomaly is the unique meteorology of Antarctica. During the extreme winter, a strong polar vortex traps ultra-cold air. Temperatures drop so low (-78&deg;C) that <strong>Polar Stratospheric Clouds (PSCs)</strong> form. The ice crystals in these clouds provide a solid surface where inert chlorine compounds are converted into active, ozone-destroying chlorine gas. When sunlight returns in spring, the UV rays break these molecules, releasing chlorine atoms that rapidly destroy ozone. Thus, <strong>Reason (R) is correct and provides the precise chemical and meteorological explanation for (A)</strong>.</li></ul>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 84,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "In the context of biodiversity conservation, which of the...",
+      "post_content": "<p>In the context of biodiversity conservation, which of the following is an example of an 'Ex-situ' conservation strategy?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Biosphere Reserve",
+            "image": ""
+          },
+          {
+            "text": "Sacred Grove",
+            "image": ""
+          },
+          {
+            "text": "Seed Bank",
+            "image": ""
+          },
+          {
+            "text": "National Park",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Seed Bank</h5><p><strong>Conservation Strategies:</strong> Biodiversity conservation is broadly categorized into two main approaches: In-situ (on-site) and Ex-situ (off-site).</p><h5>Differences and Examples</h5><ul><li><strong>In-situ Conservation:</strong> This is the conservation of species in their natural habitats. The entire ecosystem is protected to ensure the safety of the species within it. Examples include <strong>National Parks, Wildlife Sanctuaries, Biosphere Reserves, and Sacred Groves</strong>. Options 1, 2, and 4 are therefore incorrect.</li><li><strong>Ex-situ Conservation:</strong> This involves the conservation of biological diversity outside their natural habitats. Threatened animals and plants are taken out from their natural habitat and placed in special settings where they can be protected and given special care. Examples include <strong>Seed Banks, Zoological Parks (Zoos), Botanical Gardens, Cryopreservation facilities, and Aquariums</strong>. A Seed Bank (Option 3) safely stores genetic material for future use.</li></ul>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 85,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Consider the establishment of the following environmental and...",
+      "post_content": "<p>Consider the establishment of the following environmental and wildlife institutions in India. Arrange them in the correct chronological order from earliest to latest.</p><ol><li>Central Pollution Control Board (CPCB)</li><li>National Green Tribunal (NGT)</li><li>National Biodiversity Authority (NBA)</li><li>Wildlife Crime Control Bureau (WCCB)</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "1, 3, 4, 2",
+            "image": ""
+          },
+          {
+            "text": "1, 4, 3, 2",
+            "image": ""
+          },
+          {
+            "text": "3, 1, 2, 4",
+            "image": ""
+          },
+          {
+            "text": "1, 3, 2, 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 1, 3, 4, 2</h5><p><strong>Environmental Institutions in India:</strong> Various statutory bodies have been created under different acts to enforce environmental laws and protect biodiversity.</p><h5>Chronological Sequence</h5><ul><li><strong>1. Central Pollution Control Board - CPCB (1974):</strong> Established as a statutory organization under the Water (Prevention and Control of Pollution) Act, 1974. It also has powers under the Air Act of 1981.</li><li><strong>3. National Biodiversity Authority - NBA (2003):</strong> Established as a statutory body to implement the provisions of the Biological Diversity Act, 2002. Headquartered in Chennai.</li><li><strong>4. Wildlife Crime Control Bureau - WCCB (2007):</strong> A statutory multi-disciplinary body established under the Ministry of Environment and Forests, to combat organized wildlife crime.</li><li><strong>2. National Green Tribunal - NGT (2010):</strong> Established under the NGT Act 2010 to handle the expeditious disposal of cases pertaining to environmental issues.</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 86,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Match List - I with List - II and choose...",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Ecological Concept)</th><th>List - II<br>(Definition)</th></tr><tr><td>A. Ecotone</td><td>1. The functional role and position of a species within an ecosystem</td></tr><tr><td>B. Ecotype</td><td>2. A gradient of continuous change in environmental conditions</td></tr><tr><td>C. Ecocline</td><td>3. A transition zone between two distinct ecosystems</td></tr><tr><td>D. Ecological Niche</td><td>4. A genetically adapted local population of a species</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-2, C-4, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-4, C-1, D-3",
+            "image": ""
+          },
+          {
+            "text": "A-1, B-2, C-3, D-4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-3, B-4, C-2, D-1</h5><p><strong>Ecological Terms:</strong> Understanding these specific terms is crucial for studying environmental boundaries and species adaptation.</p><h5>Analysis of Matching Lists</h5><ul><li><strong>A. Ecotone (3):</strong> A transition area between two biological communities (e.g., an estuary is an ecotone between freshwater and marine ecosystems). It exhibits the 'edge effect'.</li><li><strong>B. Ecotype (4):</strong> A variant in which the phenotypic differences are genetically determined. It represents a genetically distinct geographic variety, population, or race within a species, adapted to specific environmental conditions.</li><li><strong>C. Ecocline (2):</strong> A gradual, continuous physical and chemical gradient (like a temperature or salinity gradient) between two ecosystems without a clear boundary.</li><li><strong>D. Ecological Niche (1):</strong> Describes the relational position of a species or population in an ecosystem. It includes how a population responds to the abundance of its resources and enemies (its 'profession' or 'job' in the ecosystem).</li></ul>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 87,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Which of the following pairs of Primary Air Pollutants...",
+      "post_content": "<p>Which of the following pairs of Primary Air Pollutants and their major environmental/health effects are correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Pollutant)</th><th>(Primary Effect)</th></tr><tr><td>1. Chlorofluorocarbons (CFCs)</td><td>Stratospheric Ozone Layer Depletion</td></tr><tr><td>2. Sulphur Dioxide (SO2)</td><td>Acid Rain</td></tr><tr><td>3. Carbon Monoxide (CO)</td><td>Impairs oxygen transport in the blood</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "1 and 2 only",
+            "image": ""
+          },
+          {
+            "text": "2 and 3 only",
+            "image": ""
+          },
+          {
+            "text": "1 and 3 only",
+            "image": ""
+          },
+          {
+            "text": "1, 2 and 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 1, 2 and 3</h5><p><strong>Primary Pollutants:</strong> These are pollutants emitted directly from a source into the atmosphere, causing specific environmental and biological damages.</p><h5>Analysis of Pairs</h5><ul><li><strong>1. Chlorofluorocarbons / CFCs (Correct):</strong> These man-made compounds (historically used in refrigerants and aerosols) drift into the stratosphere where UV radiation breaks them down, releasing chlorine atoms that catalyze the destruction of ozone molecules.</li><li><strong>2. Sulphur Dioxide / SO2 (Correct):</strong> Emitted primarily from burning fossil fuels (like coal in power plants). Once in the atmosphere, it reacts with water, oxygen, and other chemicals to form sulfuric acid, which then falls to the ground as Acid Rain, damaging forests and aquatic ecosystems.</li><li><strong>3. Carbon Monoxide / CO (Correct):</strong> A colorless, odorless gas produced by incomplete combustion. When inhaled, it binds to hemoglobin in red blood cells with an affinity much higher than oxygen (forming carboxyhemoglobin). This severely impairs the blood's ability to carry oxygen to vital organs, leading to asphyxiation and death.</li></ul>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 88,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "With reference to the supplementary protocols under the...",
+      "post_content": "<p>With reference to the supplementary protocols under the Convention on Biological Diversity (CBD), consider the following statements:</p><ol><li>The Cartagena Protocol deals with the fair and equitable sharing of benefits arising from the utilization of genetic resources.</li><li>The Nagoya Protocol primarily deals with Biosafety, governing the movements of Living Modified Organisms (LMOs) across international borders.</li></ol><p>Which of the statements given above is/are correct?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1",
+            "image": ""
+          },
+          {
+            "text": "Only 2",
+            "image": ""
+          },
+          {
+            "text": "Both 1 and 2",
+            "image": ""
+          },
+          {
+            "text": "Neither 1 nor 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Neither 1 nor 2</h5><p><strong>Protocols of the CBD:</strong> The Convention on Biological Diversity (CBD) is an international legal instrument that has two major supplementary agreements (protocols). The statements above have swapped their definitions.</p><h5>Statement Analysis</h5><ul><li><strong>Statement 1 is Incorrect:</strong> The <strong>Nagoya Protocol</strong> (not Cartagena) on Access and Benefit-sharing (ABS) deals with the fair and equitable sharing of benefits arising from the utilization of genetic resources. It ensures that indigenous communities and countries providing genetic resources get a fair share of the benefits (e.g., from pharmaceutical discoveries).</li><li><strong>Statement 2 is Incorrect:</strong> The <strong>Cartagena Protocol</strong> (not Nagoya) on Biosafety is an international agreement governing the safe handling, transport, and use of Living Modified Organisms (LMOs) resulting from modern biotechnology. It aims to protect biodiversity from potential risks posed by LMOs.</li></ul>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 89,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "Given below are two statements, one is labelled as...",
+      "post_content": "<p>Given below are two statements, one is labelled as <b>Assertion (A)</b> and the other as <b>Reason (R)</b>.</p><p><b>Assertion (A):</b> Food chains in a natural ecosystem rarely exceed four to five trophic levels.</p><p><b>Reason (R):</b> The progressive loss of energy at each successive trophic level severely limits the amount of biomass that can be supported at higher levels.</p><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "(A) is true, but (R) is false",
+            "image": ""
+          },
+          {
+            "text": "(A) is false, but (R) is true",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Both (A) and (R) are true and (R) is the correct explanation of (A)</h5><p><strong>Energy Flow and Food Chain Length:</strong> The length of a food chain is restricted by the thermodynamics of energy transfer within an ecosystem.</p><h5>Statement Analysis</h5><ul><li><strong>Assertion (A):</strong> Observations in ecology consistently show that food chains are short. You usually have Producers &rarr; Primary Consumers &rarr; Secondary Consumers &rarr; Tertiary Consumers. Finding a Quaternary or Quinary consumer is extremely rare. Thus, <strong>Assertion (A) is correct</strong>.</li><li><strong>Reason (R):</strong> This limitation exists due to the <strong>10% Law</strong> proposed by Raymond Lindeman. At each step, about 90% of the energy consumed is used for metabolic processes (respiration, movement, heat loss) and is not stored as biomass. Only ~10% is passed on. By the time energy reaches the 4th or 5th trophic level, there is simply too little usable energy left to support another viable population of predators. Thus, <strong>Reason (R) is correct and provides the exact scientific explanation for (A)</strong>.</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 90,
+      "post_author": 1,
+      "post_date": "2026-06-24 11:00:00",
+      "post_title": "A species whose presence, absence, or relative well-being in...",
+      "post_content": "<p>A species whose presence, absence, or relative well-being in a given environment serves as a sign of the overall health of its ecosystem is technically referred to as a/an:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Keystone species",
+            "image": ""
+          },
+          {
+            "text": "Indicator species",
+            "image": ""
+          },
+          {
+            "text": "Umbrella species",
+            "image": ""
+          },
+          {
+            "text": "Invasive species",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Indicator species</h5><p><strong>Ecological Classifications of Species:</strong> Biologists use specific terms to describe the roles different species play in monitoring or managing ecosystems.</p><h5>Definitions</h5><ul><li><strong>Indicator Species (Correct Answer):</strong> Also known as biological indicators, these are organisms whose status provides information on the overall condition of the ecosystem and of other species in that ecosystem. They are often highly sensitive to environmental changes. Examples include Lichens (indicate air quality/SO2 levels) and Frogs (indicate water quality).</li><li><strong>Keystone Species:</strong> A species that has a disproportionately large impact on its environment relative to its abundance. Without them, the ecosystem would dramatically change (e.g., Sea otters, Wolves).</li><li><strong>Umbrella Species:</strong> Species selected for making conservation-related decisions, typically because protecting these species indirectly protects the many other species that make up the ecological community of its habitat (e.g., Tigers require massive territories, protecting a tiger protects the whole forest).</li><li><strong>Invasive Species:</strong> An introduced, non-native species that overpopulates and harms its new environment.</li></ul>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-studies"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
