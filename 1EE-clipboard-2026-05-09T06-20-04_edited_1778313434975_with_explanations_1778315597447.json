@@ -1,0 +1,1008 @@
+{
+  "version": "1.8.0",
+  "export_type": "topic_bundle",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "language": "English",
+      "language_code": "01EN",
+      "name": "English Comprehension (EC)",
+      "slug": "english-comprehension-ec"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1076,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Select the most appropriate synonym of the given word: <b>CAUSTIC</b>",
+      "post_content": "Select the most appropriate synonym of the given word: <b>CAUSTIC</b>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Kind",
+            "image": ""
+          },
+          {
+            "text": "Mild",
+            "image": ""
+          },
+          {
+            "text": "Gentle",
+            "image": ""
+          },
+          {
+            "text": "Sarcastic",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ <b>'Caustic'</b> शब्द का Synonym (समानार्थी शब्द) बताना है।</p><p>'Caustic' का अर्थ होता है 'तीखा', 'कटाक्षपूर्ण' या 'व्यंग्यात्मक' (sarcastic in a scathing and bitter way)। इसलिए सही उत्तर <b>'Sarcastic'</b> है।</p><p><b>Extra Info:</b> अन्य शब्दों के अर्थ:<br>- Kind: दयालु।<br>- Mild: हल्का या सौम्य।<br>- Gentle: सज्जन या शांत। (ये तीनों शब्द Caustic के विलोम / Antonyms हैं)।</p>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1077,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<div>Choose the correct meaning of idiom: </div><div><b>Make no bones about it</b></div>",
+      "post_content": "<div>Choose the correct meaning of idiom: </div><div><b>Make no bones about it</b></div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "To hesitate before speaking",
+            "image": ""
+          },
+          {
+            "text": "To remain neutral",
+            "image": ""
+          },
+          {
+            "text": "To be direct and honest",
+            "image": ""
+          },
+          {
+            "text": "To confuse the listener",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>Idiom <b>'Make no bones about it'</b> का मतलब होता है किसी बात को बिना किसी हिचकिचाहट के बिल्कुल स्पष्ट और ईमानदारी से कहना (to state a fact in a way that allows no doubt)।</p><p>इसलिए सही उत्तर <b>'To be direct and honest'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1078,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Select the most appropriate antonym of the given word: <b>Evanescent</b>",
+      "post_content": "Select the most appropriate antonym of the given word: <b>Evanescent</b>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Ephemeral",
+            "image": ""
+          },
+          {
+            "text": "Transient",
+            "image": ""
+          },
+          {
+            "text": "Enduring",
+            "image": ""
+          },
+          {
+            "text": "Fleeting",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ <b>'Evanescent'</b> शब्द का Antonym (विलोम शब्द) बताना है।</p><p>'Evanescent' का अर्थ होता है 'क्षणभंगुर' या 'जल्दी गायब हो जाने वाला' (quickly fading or disappearing)। इसलिए इसका सही विलोम <b>'Enduring'</b> (लंबे समय तक टिकने वाला / स्थायी) होगा।</p><p><b>Extra Info:</b> अन्य शब्दों के अर्थ:<br>- Ephemeral: अल्पकालिक (short-lived)।<br>- Transient: अस्थायी।<br>- Fleeting: क्षणिक। (ये तीनों शब्द Evanescent के समानार्थी / Synonyms हैं)।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1079,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Identify the misspelt word",
+      "post_content": "Identify the misspelt word",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Avaricious",
+            "image": ""
+          },
+          {
+            "text": "Temerarious",
+            "image": ""
+          },
+          {
+            "text": "Penitent",
+            "image": ""
+          },
+          {
+            "text": "Inadvertant",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>दिए गए विकल्पों में से <b>'Inadvertant'</b> की स्पेलिंग गलत है।</p><p>इसकी सही स्पेलिंग <b>Inadvertent</b> (I-n-a-d-v-e-r-t-e-n-t) होती है, जिसका मतलब होता है 'अनजाने में' या 'बिना इरादे के' (unintentional)।</p><p><b>Extra Info:</b><br>- Avaricious: लालची (greedy)।<br>- Temerarious: दुस्साहसी या लापरवाह।<br>- Penitent: पश्चाताप करने वाला (feeling sorrow for doing wrong)।</p>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1080,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Correct spelling metamorphic...",
+      "post_content": "Spot the correct spelling of an REE-bearing metamorphic texture word.",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Prophyroblastic",
+            "image": ""
+          },
+          {
+            "text": "Porphyroblastic",
+            "image": ""
+          },
+          {
+            "text": "Porfyrblastic",
+            "image": ""
+          },
+          {
+            "text": "Porphyroblastik",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस प्रश्न में <b>'Porphyroblastic'</b> की सही स्पेलिंग पहचाननी है।</p><p>यह एक जियोलॉजिकल (Metamorphic) शब्द है जिसका अर्थ एक प्रकार का चट्टानी टेक्सचर होता है जहाँ बड़े क्रिस्टल्स (porphyroblasts) पाए जाते हैं। इसकी सही स्पेलिंग है: <b>Porphyroblastic</b>.</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1081,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "One-word: Rule of the wealthy...",
+      "post_content": "Choose the correct one-word substitute for: 'A political system based on the rule of the wealthy'.",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Oligarchy",
+            "image": ""
+          },
+          {
+            "text": "Aristocracy",
+            "image": ""
+          },
+          {
+            "text": "Plutocracy",
+            "image": ""
+          },
+          {
+            "text": "Meritocracy",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>दिए गए वाक्यांश <i>'A political system based on the rule of the wealthy'</i> (अमीरों द्वारा चलाया जाने वाला शासन) के लिए सही One-word substitute <b>'Plutocracy'</b> है।</p><p><b>Extra Info:</b><br>- Oligarchy: कुछ थोड़े से लोगों का शासन (Rule by a few)।<br>- Aristocracy: कुलीन वर्ग या उच्च वर्ग का शासन।<br>- Meritocracy: योग्यता के आधार पर शासन।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1082,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Select the correct option:</b>\n<div>Only after a decade of fieldwork ___ fully grasp the dialect's nuances.</div>",
+      "post_content": "<b>Select the correct option:</b>\n<div>Only after a decade of fieldwork ___ fully grasp the dialect's nuances.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "she had",
+            "image": ""
+          },
+          {
+            "text": "did she",
+            "image": ""
+          },
+          {
+            "text": "had she",
+            "image": ""
+          },
+          {
+            "text": "she did",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ <b>Inversion</b> (उलट-फेर) का नियम लागू होता है। जब कोई वाक्य <i>'Only after'</i> जैसे शब्दों से शुरू होता है, तो उसके बाद आने वाले Clause में Inversion (Helping Verb + Subject + Main Verb) का प्रयोग किया जाता है।</p><p>चूँकि आगे Verb की First Form 'grasp' दी गई है, इसलिए 'did she' सही होगा ('had' के साथ V3 'grasped' आता है)। अतः सही उत्तर <b>'did she'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1083,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Select the correct option:</b>\n<div>The professor's remarks were so dense with jargon that they bordered on ___.</div>",
+      "post_content": "<b>Select the correct option:</b>\n<div>The professor's remarks were so dense with jargon that they bordered on ___.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "opacity",
+            "image": ""
+          },
+          {
+            "text": "opaque",
+            "image": ""
+          },
+          {
+            "text": "opacus",
+            "image": ""
+          },
+          {
+            "text": "opalescent",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>वाक्य में <i>'bordered on'</i> (के करीब होना / लगभग वैसा ही होना) एक phrasal verb है, जिसके बाद एक Noun (संज्ञा) का प्रयोग होना चाहिए।</p><p>विकल्पों में से <b>'opacity'</b> (अस्पष्टता / समझने में कठिनाई) एक Noun है, जबकि 'opaque' (अस्पष्ट) एक Adjective (विशेषण) है। इसलिए रिक्त स्थान में <b>'opacity'</b> आएगा।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1084,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Select the correct option:</b>\n<div>Her rebuttal, though eloquent, failed to ___ the central issue raised by the opposition.</div>",
+      "post_content": "<b>Select the correct option:</b>\n<div>Her rebuttal, though eloquent, failed to ___ the central issue raised by the opposition.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "address",
+            "image": ""
+          },
+          {
+            "text": "digress",
+            "image": ""
+          },
+          {
+            "text": "circumvent",
+            "image": ""
+          },
+          {
+            "text": "elude",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ वाक्य के अर्थ के अनुसार सही शब्द चुनना है। 'Rebuttal' (खंडन) का उद्देश्य मुख्य मुद्दे (central issue) को संबोधित करना या सुलझाना होता है, लेकिन यहाँ वह इसमें विफल (failed) रहा।</p><p><i>'Address an issue'</i> का मतलब होता है किसी मुद्दे पर ध्यान देना या उसे सुलझाने की कोशिश करना। अतः सही उत्तर <b>'address'</b> है।</p><p><b>Extra Info:</b> Digress: विषय से भटक जाना। Circumvent: बचना या गोलमोल करना। Elude: बच निकलना।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1085,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Find the part of the sentence that contains an error:</b>\n<div>The reforms being recommended by the panel (1)/ are not only intended to streamline administrative functions (2)/ but also addressing the asymmetries in resource allocation (3)/ that have long plagued rural districts. (4)</div>",
+      "post_content": "<b>Find the part of the sentence that contains an error:</b>\n<div>The reforms being recommended by the panel (1)/ are not only intended to streamline administrative functions (2)/ but also addressing the asymmetries in resource allocation (3)/ that have long plagued rural districts. (4)</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "(1)",
+            "image": ""
+          },
+          {
+            "text": "(2)",
+            "image": ""
+          },
+          {
+            "text": "(3)",
+            "image": ""
+          },
+          {
+            "text": "(4)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस वाक्य के Part (3) में <b>Parallelism</b> (समानता) की गलती है।</p><p><b>Step 1:</b> कोआर्डिनेटिंग कंजंक्शन <i>'not only... but also'</i> के दोनों तरफ ग्रामर का स्ट्रक्चर एक जैसा होना चाहिए।</p><p><b>Step 2:</b> 'not only' के बाद <i>'intended to streamline'</i> (Infinitive: to + V1) का प्रयोग हुआ है।</p><p><b>Step 3:</b> इसलिए 'but also' के बाद भी <i>'addressing'</i> (V-ing) की जगह <i>'to address'</i> का प्रयोग होना चाहिए।</p><p>अतः गलती <b>Part (3)</b> में है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1086,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Find the part of the sentence that contains an error:</b>\n<div>What the committee failed to deliberate on adequately (1)/ were not the policy's objectives themselves, (2)/ but the political ramifications it (3)/ might have had if implemented without broader consensus. (4)</div>",
+      "post_content": "<b>Find the part of the sentence that contains an error:</b>\n<div>What the committee failed to deliberate on adequately (1)/ were not the policy's objectives themselves, (2)/ but the political ramifications it (3)/ might have had if implemented without broader consensus. (4)</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "(1)",
+            "image": ""
+          },
+          {
+            "text": "(2)",
+            "image": ""
+          },
+          {
+            "text": "(3)",
+            "image": ""
+          },
+          {
+            "text": "(4)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस वाक्य के Part (2) में Subject-Verb Agreement की गलती है।</p><p><b>Step 1:</b> वाक्य का मुख्य Subject <i>'What the committee failed to deliberate on adequately'</i> है, जो कि एक पूरी Noun Clause है।</p><p><b>Step 2:</b> ग्रामर के नियम के अनुसार, जब कोई Noun Clause वाक्य का Subject होता है, तो उसे हमेशा Singular (एकवचन) माना जाता है।</p><p><b>Step 3:</b> इसलिए इसके साथ लगने वाली Verb भी Singular होनी चाहिए। यहाँ <i>'were'</i> की जगह <b>'was'</b> का इस्तेमाल होना चाहिए था (was not the policy's objectives...)।</p><p>अतः गलती <b>Part (2)</b> में है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1087,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<div><b>Change the following from active to passive:</b></div><div>The laboratory will have double-checked the reagents by dawn.</div>",
+      "post_content": "<div><b>Change the following from active to passive:</b></div><div>The laboratory will have double-checked the reagents by dawn.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "The reagents have been double-checked by the laboratory by dawn.",
+            "image": ""
+          },
+          {
+            "text": "The reagents will have been double-checked by the laboratory by dawn.",
+            "image": ""
+          },
+          {
+            "text": "The reagents will be double-checked by the laboratory by dawn.",
+            "image": ""
+          },
+          {
+            "text": "The reagents would have been double-checking by the laboratory by dawn.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यह वाक्य <b>Future Perfect Tense</b> में है (<i>will have + V3</i>)।</p><p><b>Step 1:</b> Future Perfect का Passive Voice बनाते समय <b>'will have + been + V3'</b> का प्रयोग किया जाता है।</p><p><b>Step 2:</b> Object (<i>'the reagents'</i>) वाक्य का Subject बन जाएगा।</p><p><b>Step 3:</b> इसलिए सही Passive Voice होगा: <b>'The reagents will have been double-checked by the laboratory by dawn.'</b></p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1088,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Select the sentence containing the homonym of the highlighted word:</b>\nThe fanon rested on the Pope's shoulder during Mass.",
+      "post_content": "<b>Select the sentence containing the homonym of the highlighted word:</b>\nThe fanon rested on the Pope's shoulder during Mass.",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "The theologian lectured on the fanon's origin in Rome.",
+            "image": ""
+          },
+          {
+            "text": "The tailor stitched the edge of the fanon carefully.",
+            "image": ""
+          },
+          {
+            "text": "The critic analyzed Fanon's theory of postcolonial identity.",
+            "image": ""
+          },
+          {
+            "text": "The cardinal wore the fanon over his chasuble.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस प्रश्न में <b>'fanon'</b> शब्द के Homonym (समान उच्चारण वाले लेकिन भिन्न अर्थ वाले शब्द) वाला वाक्य चुनना था।</p><p>दिए गए वाक्य में 'fanon' का अर्थ है पोप द्वारा पहना जाने वाला एक विशेष कपड़ा (shoulder cape)। विकल्प 3 में <b>'Fanon'</b> (Frantz Fanon) एक प्रसिद्ध विचारक और लेखक का नाम है। यहाँ स्पेलिंग और उच्चारण समान हैं लेकिन अर्थ/संदर्भ बिल्कुल अलग है, इसलिए यह सही Homonym का उदाहरण है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1089,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Convert the sentence provided below from its passive voice structure to an active voice structure:</b>\n<div>Rare minerals are known to have been secretly extracted from the site by unauthorized workers before the inspection.</div>",
+      "post_content": "<b>Convert the sentence provided below from its passive voice structure to an active voice structure:</b>\n<div>Rare minerals are known to have been secretly extracted from the site by unauthorized workers before the inspection.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Unauthorized workers extracted the rare minerals before inspection.",
+            "image": ""
+          },
+          {
+            "text": "The site was secretly mined before the inspection.",
+            "image": ""
+          },
+          {
+            "text": "Unauthorized workers are known to have secretly extracted rare minerals before inspection.",
+            "image": ""
+          },
+          {
+            "text": "The minerals had been extracted prior to inspection.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>हमें इस Passive Voice वाले वाक्य को Active Voice में बदलना है।</p><p><b>Step 1:</b> <i>'Rare minerals are known to have been secretly extracted... by unauthorized workers'</i> में काम करने वाले (Subject) 'unauthorized workers' हैं।</p><p><b>Step 2:</b> Active में Subject पहले आएगा। 'are known to have been extracted' बदलकर 'are known to have extracted' हो जाएगा।</p><p><b>Step 3:</b> सही संरचना होगी: <b>'Unauthorized workers are known to have secretly extracted rare minerals before inspection.'</b></p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1400,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "For seventeen-year-old Meera, adolescence was not merely a phase of hormonal transitions and academic aspirations-it became an arena where perception and self-worth collided with insidious intensity. In a world saturated with curated digital aesthetics and algorithm-driven beauty hierarchies, Meera's own reflection began to feel less like truth and more like betrayal. Every scroll through her social media feed deepened a gnawing dissonance: between her authentic self and the impossible silhouettes idolized online. This wasn't mere teenage insecurity-it manifested as a systematic devaluation of her physical self. Gradually, she adopted punitive behaviors: food became conditional, mirrors became adversaries, and compliments transformed into cryptic reminders of inadequacy. The subtle descent into dysmorphia was neither loud nor linear. Academically capable and socially pleasant, Meera wore the mask of normalcy with precision. Yet beneath the practiced smiles was a quiet implosion. She began withdrawing emotionally, rationalizing her distress as vanity, and trivializing her worth. The turning point came not with drama, but with silence-a refusal to eat for days, which led to medical intervention. Therapeutic engagement introduced her to the concept of self-image distortion, and the emotional scaffolding required to rebuild her fractured sense of identity. Through sustained counseling, Meera disentangled societal impositions from intrinsic value. She began to internalize that beauty is not a monolith dictated by culture but a spectrum shaped by diversity, health, and self-compassion. Meera's narrative is not a singular anomaly but a mirror to a larger epidemic-where teenagers battle unspoken wars behind flawless digital façades. Combating this requires more than awareness; it calls for critical media literacy, empathetic environments, and systemic redefinition of beauty norms that extend beyond superficial metrics.",
+      "post_content": "For seventeen-year-old Meera, adolescence was not merely a phase of hormonal transitions and academic aspirations-it became an arena where perception and self-worth collided with insidious intensity. In a world saturated with curated digital aesthetics and algorithm-driven beauty hierarchies, Meera's own reflection began to feel less like truth and more like betrayal. Every scroll through her social media feed deepened a gnawing dissonance: between her authentic self and the impossible silhouettes idolized online. This wasn't mere teenage insecurity-it manifested as a systematic devaluation of her physical self. Gradually, she adopted punitive behaviors: food became conditional, mirrors became adversaries, and compliments transformed into cryptic reminders of inadequacy. The subtle descent into dysmorphia was neither loud nor linear. Academically capable and socially pleasant, Meera wore the mask of normalcy with precision. Yet beneath the practiced smiles was a quiet implosion. She began withdrawing emotionally, rationalizing her distress as vanity, and trivializing her worth. The turning point came not with drama, but with silence-a refusal to eat for days, which led to medical intervention. Therapeutic engagement introduced her to the concept of self-image distortion, and the emotional scaffolding required to rebuild her fractured sense of identity. Through sustained counseling, Meera disentangled societal impositions from intrinsic value. She began to internalize that beauty is not a monolith dictated by culture but a spectrum shaped by diversity, health, and self-compassion. Meera's narrative is not a singular anomaly but a mirror to a larger epidemic-where teenagers battle unspoken wars behind flawless digital façades. Combating this requires more than awareness; it calls for critical media literacy, empathetic environments, and systemic redefinition of beauty norms that extend beyond superficial metrics.",
+      "post_status": "publish",
+      "post_type": "passage",
+      "meta_input": {
+        "_aimcq_options": [],
+        "_aimcq_explanation": "",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": [],
+      "embedded_media": []
+    },
+    {
+      "id": 1090,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Meaning of gnawing dissonance...",
+      "post_content": "What does the phrase \"gnawing dissonance\" in the passage most likely refer to?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Her hunger due to skipped meals",
+            "image": ""
+          },
+          {
+            "text": "Conflict between her inner worth and online ideals",
+            "image": ""
+          },
+          {
+            "text": "Her disagreement with her teachers",
+            "image": ""
+          },
+          {
+            "text": "Her detachment from academic pressure",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैसेज के अनुसार, <b>'gnawing dissonance'</b> का अर्थ उस मानसिक संघर्ष या टकराव से है जो Meera अपनी असलियत (authentic self) और सोशल मीडिया पर दिखने वाली बनावटी सुंदरता (impossible silhouettes) के बीच महसूस करती है।</p><p>इसलिए सही उत्तर <b>'Conflict between her inner worth and online ideals'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1091,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Meera's psychological decline...",
+      "post_content": "How does the passage describe Meera's psychological decline?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Abrupt and confrontational",
+            "image": ""
+          },
+          {
+            "text": "Erratic and attention-seeking",
+            "image": ""
+          },
+          {
+            "text": "Subtle and inwardly destructive",
+            "image": ""
+          },
+          {
+            "text": "Vocal and rebellious",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैसेज में साफ लिखा है: <i>'The subtle descent into dysmorphia was neither loud nor linear... Yet beneath the practiced smiles was a quiet implosion.'</i></p><p>इसका मतलब है कि उसका मानसिक पतन बहुत ही सूक्ष्म (subtle) और अंदर ही अंदर खुद को नुकसान पहुँचाने वाला (quiet implosion / inwardly destructive) था। अतः सही उत्तर <b>'Subtle and inwardly destructive'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1092,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Concept helping Meera recover...",
+      "post_content": "What concept helped Meera begin recovering emotionally?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Narcissistic validation",
+            "image": ""
+          },
+          {
+            "text": "Self-image distortion",
+            "image": ""
+          },
+          {
+            "text": "Social withdrawal management",
+            "image": ""
+          },
+          {
+            "text": "Behavioral conditioning",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैसेज में स्पष्ट रूप से बताया गया है: <i>'Therapeutic engagement introduced her to the concept of self-image distortion...'</i> जिसने उसकी रिकवरी में मदद की।</p><p>इसलिए सही उत्तर <b>'Self-image distortion'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1093,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Central theme of the passage...",
+      "post_content": "Which of the following best captures the central theme of the passage?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "The influence of peer pressure on teens",
+            "image": ""
+          },
+          {
+            "text": "Cosmetic beauty norms and fashion trends",
+            "image": ""
+          },
+          {
+            "text": "Hidden psychological battles due to digital aesthetics",
+            "image": ""
+          },
+          {
+            "text": "The necessity of academic counseling for teens",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पूरा पैसेज Meera की कहानी के माध्यम से यह बताता है कि कैसे सोशल मीडिया और डिजिटल सुंदरता के मायाजाल (curated digital aesthetics) के कारण टीनएजर्स को अंदरूनी और छिपी हुई मानसिक समस्याओं (hidden psychological battles) का सामना करना पड़ता है।</p><p>अतः सही उत्तर <b>'Hidden psychological battles due to digital aesthetics'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1094,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Tone of the author...",
+      "post_content": "What is the tone of the author in the end of the paragraph?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Dismissive and ironic",
+            "image": ""
+          },
+          {
+            "text": "Reflective and critical",
+            "image": ""
+          },
+          {
+            "text": "Optimistic and celebratory",
+            "image": ""
+          },
+          {
+            "text": "Detached and neutral",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैसेज के अंत में लेखक कहता है कि इसे रोकने के लिए 'critical media literacy, empathetic environments, and systemic redefinition of beauty norms' की जरूरत है। यहाँ लेखक समाज की व्यवस्था पर <b>आलोचनात्मक (critical)</b> है और इस मुद्दे पर गहराई से <b>विचार (reflective)</b> कर रहा है।</p><p>इसलिए सही टोन <b>'Reflective and critical'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1095,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<div>Choose the most suitable option to replace the highlighted part of the sentence:</div><div>I suggested that he <b>goes to the doctor immediately</b>.</div>",
+      "post_content": "<div>Choose the most suitable option to replace the highlighted part of the sentence:</div><div>I suggested that he <b>goes to the doctor immediately</b>.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "go to doctor at once",
+            "image": ""
+          },
+          {
+            "text": "should goes to the doctor.",
+            "image": ""
+          },
+          {
+            "text": "go to the doctor immediately",
+            "image": ""
+          },
+          {
+            "text": "should have go to the doctor",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ <b>Subjunctive Mood</b> का नियम लागू होता है। जब किसी वाक्य में 'suggest', 'recommend', 'insist', 'demand' आदि शब्दों के बाद 'that' clause आती है, तो उसमें Verb का Base Form (बिना s/es के) इस्तेमाल होता है, चाहे Subject सिंगुलर ही क्यों न हो।</p><p>इसलिए 'he goes' की जगह <b>'he go'</b> का इस्तेमाल होगा। सही विकल्प <b>'go to the doctor immediately'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1096,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "Choose the most suitable option to replace the highlighted part of the sentence:\n<div>I am used <b>to get up early</b> in the morning.</div>",
+      "post_content": "Choose the most suitable option to replace the highlighted part of the sentence:\n<div>I am used <b>to get up early</b> in the morning.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "to get up early",
+            "image": ""
+          },
+          {
+            "text": "with getting up early",
+            "image": ""
+          },
+          {
+            "text": "to getting up early",
+            "image": ""
+          },
+          {
+            "text": "for getting up early",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>ग्रामर के नियमों के अनुसार <b>'be used to'</b> (जैसे: is/am/are used to) का अर्थ होता है 'किसी चीज़ का अभ्यस्त होना' (accustomed to)। इसके बाद हमेशा <b>Gerund (V-ing)</b> का प्रयोग किया जाता है।</p><p>इसलिए 'to get up' की जगह <b>'to getting up'</b> का इस्तेमाल होगा। सही वाक्य होगा: <i>'I am used to getting up early in the morning.'</i></p><p><b>Extra Info:</b> केवल 'used to + V1' का प्रयोग Past की आदत बताने के लिए होता है (जैसे: I used to get up early), लेकिन 'be + used to' के साथ 'V-ing' आता है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1097,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.</b>\n<div>She said, \"He doesn't listen to me.\"</div>",
+      "post_content": "<b>A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.</b>\n<div>She said, \"He doesn't listen to me.\"</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "She said he don't listen to her.",
+            "image": ""
+          },
+          {
+            "text": "She said that he doesn't listened to her.",
+            "image": ""
+          },
+          {
+            "text": "She said that he didn't listen to her.",
+            "image": ""
+          },
+          {
+            "text": "She said that he didn't listened to her.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>Direct से Indirect Speech में बदलने के नियम:</p><p><b>Step 1:</b> Reporting verb past tense ('said') में है, इसलिए Direct Speech का टेन्स (Simple Present) बदलकर Simple Past हो जाएगा। 'doesn't listen' का <b>'didn't listen'</b> बन जाएगा।</p><p><b>Step 2:</b> Pronoun 'me' (1st person) बोलने वाली (She) के अनुसार बदलकर <b>'her'</b> हो जाएगा।</p><p>इसलिए सही Indirect Speech होगा: <b>'She said that he didn't listen to her.'</b></p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1098,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.</b>\n<div>The manager informed the employees that the deadline for submission had been extended by two days.</div>",
+      "post_content": "<b>A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.</b>\n<div>The manager informed the employees that the deadline for submission had been extended by two days.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "\"You may submit the work two days later than planned,\" the manager informed.",
+            "image": ""
+          },
+          {
+            "text": "\"The deadline has been extended by two days,\" said the manager.",
+            "image": ""
+          },
+          {
+            "text": "\"We are extending the submission deadline by two days,\" the manager said.",
+            "image": ""
+          },
+          {
+            "text": "\"You must finish it within two extra days,\" the manager said.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>Indirect से Direct Speech में बदलने के नियम:</p><p><b>Step 1:</b> Indirect वाक्य में Past Perfect (<i>'had been extended'</i>) का प्रयोग हुआ है, जो Direct speech में Present Perfect (<i>'has been extended'</i>) या Simple Past रहा होगा।</p><p><b>Step 2:</b> <i>'informed the employees'</i> को Direct Speech में सामान्य <i>'said the manager'</i> के रूप में लिखा जा सकता है।</p><p>विकल्प 2 इस नियम पर बिल्कुल सटीक बैठता है: <b>\"The deadline has been extended by two days,\" said the manager.</b></p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1099,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Rearrange the following sentences to form a coherent paragraph:</b>\n<div>1. These narratives often explore the ethical and social consequences of technological advancement, from artificial intelligence to genetic engineering.\n</div><div>2. Science fiction is a genre of speculative fiction that typically deals with imaginative concepts such as futuristic science and technology.\n</div><div>3. This makes it a powerful tool for social commentary and for anticipating future challenges and dilemmas.\n</div><div>4. While entertaining, the genre serves a purpose beyond mere escapism.</div>",
+      "post_content": "<b>Rearrange the following sentences to form a coherent paragraph:</b>\n<div>1. These narratives often explore the ethical and social consequences of technological advancement, from artificial intelligence to genetic engineering.\n</div><div>2. Science fiction is a genre of speculative fiction that typically deals with imaginative concepts such as futuristic science and technology.\n</div><div>3. This makes it a powerful tool for social commentary and for anticipating future challenges and dilemmas.\n</div><div>4. While entertaining, the genre serves a purpose beyond mere escapism.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "2, 4, 1, 3",
+            "image": ""
+          },
+          {
+            "text": "1, 3, 2, 4",
+            "image": ""
+          },
+          {
+            "text": "4, 1, 3, 2",
+            "image": ""
+          },
+          {
+            "text": "2, 1, 4, 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैराजंबल को सही क्रम में लगाने का तरीका:</p><p><b>Step 1:</b> शुरुआत एक स्वतंत्र और परिचयात्मक वाक्य से होगी। वाक्य 2 'Science fiction' की परिभाषा देता है, इसलिए यह पहला होगा (2. Science fiction is a genre...).</p><p><b>Step 2:</b> वाक्य 4 में बताया गया है कि यह केवल मनोरंजन नहीं बल्कि इसका एक उद्देश्य (purpose) भी है (4. While entertaining...).</p><p><b>Step 3:</b> वाक्य 1 उसी उद्देश्य को समझाता है (1. These narratives often explore the ethical...).</p><p><b>Step 4:</b> अंत में, इसका परिणाम वाक्य 3 में बताया गया है (3. This makes it a powerful tool...).</p><p>इसलिए सही क्रम <b>2, 4, 1, 3</b> है।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1100,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_title": "<b>Rearrange the following sentences to form a coherent paragraph:</b>\n<div>1. This process ensures that the food we eat is safe and does not contain harmful bacteria or other contaminants.\n</div><div>2. Food processing is a series of methods used to transform raw ingredients into consumable products.\n</div><div>3. These methods can range from simple actions like cutting and grinding to more complex procedures such as pasteurization and fermentation.\n</div><div>4. Furthermore, it also helps to preserve food, extend its shelf life, and enhance its nutritional value.</div>",
+      "post_content": "<b>Rearrange the following sentences to form a coherent paragraph:</b>\n<div>1. This process ensures that the food we eat is safe and does not contain harmful bacteria or other contaminants.\n</div><div>2. Food processing is a series of methods used to transform raw ingredients into consumable products.\n</div><div>3. These methods can range from simple actions like cutting and grinding to more complex procedures such as pasteurization and fermentation.\n</div><div>4. Furthermore, it also helps to preserve food, extend its shelf life, and enhance its nutritional value.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "2, 3, 1, 4",
+            "image": ""
+          },
+          {
+            "text": "1, 2, 3, 4",
+            "image": ""
+          },
+          {
+            "text": "3, 1, 4, 2",
+            "image": ""
+          },
+          {
+            "text": "4, 2, 1, 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैराजंबल को सही क्रम में लगाने का तरीका:</p><p><b>Step 1:</b> शुरुआत वाक्य 2 से होगी क्योंकि यह 'Food processing' का परिचय (definition) देता है (2. Food processing is a series of methods...).</p><p><b>Step 2:</b> वाक्य 3 उन 'methods' (तरीकों) के बारे में विस्तार से बताता है जिनका जिक्र वाक्य 2 में हुआ है (3. These methods can range from...).</p><p><b>Step 3:</b> वाक्य 1 इस प्रक्रिया (process) का प्राथमिक फायदा बताता है (1. This process ensures that the food we eat is safe...).</p><p><b>Step 4:</b> वाक्य 4 में 'Furthermore' (इसके अलावा) लगाकर अन्य फायदे बताए गए हैं (4. Furthermore, it also helps to preserve food...).</p><p>इसलिए सही क्रम <b>2, 3, 1, 4</b> है।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "english-comprehension-ec"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
