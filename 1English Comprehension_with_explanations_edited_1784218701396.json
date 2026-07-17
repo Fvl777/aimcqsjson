@@ -1,0 +1,1008 @@
+{
+  "version": "1.8.0",
+  "export_type": "topic_bundle",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "language": "English",
+      "language_code": "01EN",
+      "name": "General intelligence (GI)",
+      "slug": "general-intelligence-gi"
+    }
+  ],
+  "posts": [
+    {
+      "id": 13692,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:41:36",
+      "post_title": "Acquiring Wisdom vs. Education | GI Questions",
+      "post_content": "According to the passage, how is wisdom primarily acquired?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Through textbooks",
+            "image": ""
+          },
+          {
+            "text": "Through emotional detachment",
+            "image": ""
+          },
+          {
+            "text": "Through experience and reflection",
+            "image": ""
+          },
+          {
+            "text": "Through algorithmic thinking",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैसेज के अनुसार, wisdom (बुद्धिमत्ता) 'experience, introspection, and emotional intelligence' से हासिल होती है। इसलिए सही उत्तर <b>'Through experience and reflection'</b> है।</p><p><b>Extra Info:</b> पैसेज में स्पष्ट रूप से बताया गया है कि शिक्षा (education) किताबों और स्कूल से मिलती है, जबकि असली बुद्धिमत्ता (wisdom) जिंदगी के अनुभवों और उन पर सोच-विचार (reflection) करने से आती है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13693,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:41:36",
+      "post_title": "Meaning of &#8216;Wisdom Enriches the Soul&#8217; | GI Insights",
+      "post_content": "What does the author mean by 'wisdom enriches the soul'?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "It enhances academic success",
+            "image": ""
+          },
+          {
+            "text": "It fosters deeper moral insight",
+            "image": ""
+          },
+          {
+            "text": "It improves verbal expression",
+            "image": ""
+          },
+          {
+            "text": "It sharpens mathematical skills",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>लेखक का <b>'wisdom enriches the soul'</b> से मतलब यह है कि बुद्धिमत्ता इंसान को नैतिक (moral) रूप से मजबूत और समझदार बनाती है। पैसेज में इसे 'sagacity' और 'ethical consistency' से जोड़ा गया है। अतः सही उत्तर <b>'It fosters deeper moral insight'</b> है।</p><p><b>Extra Info:</b> Soul (आत्मा) को enrich (समृद्ध) करने का सीधा संबंध इंसान के चरित्र, नैतिकता (ethics) और सही फैसले लेने की क्षमता से होता है, न कि किताबी या गणितीय ज्ञान से।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13694,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:41:36",
+      "post_title": "Wisdom Without Formal Education | GI Passage Quiz",
+      "post_content": "Who, according to the author, can be wise despite lacking formal education?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Scientists",
+            "image": ""
+          },
+          {
+            "text": "School children",
+            "image": ""
+          },
+          {
+            "text": "Elders and artisans",
+            "image": ""
+          },
+          {
+            "text": "Technocrats",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैसेज में साफ-साफ लिखा है: <i>'Conversely, many wise individuals—farmers, artisans, elders—may not possess formal education...'</i>। इसलिए सही उत्तर <b>'Elders and artisans'</b> है।</p><p><b>Extra Info:</b> बिना किताबी पढ़ाई के भी लोग अपनी जिंदगी के अनुभवों (lived realities) से बहुत समझदार (wise) हो सकते हैं।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13695,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:41:36",
+      "post_title": "Central Contrast: Education vs. Wisdom | GI Analysis",
+      "post_content": "What is the central contrast drawn in the passage?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Education vs. career",
+            "image": ""
+          },
+          {
+            "text": "Intelligence vs. memory",
+            "image": ""
+          },
+          {
+            "text": "Reading vs. writing",
+            "image": ""
+          },
+          {
+            "text": "Formal learning vs. applied wisdom",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पूरा पैसेज मुख्य रूप से 'Education' (किताबी पढ़ाई) और 'Wisdom' (व्यावहारिक समझदारी) के बीच का अंतर बताता है। इसलिए <b>'Formal learning vs. applied wisdom'</b> सही उत्तर है।</p><p><b>Extra Info:</b> Contrast का मतलब होता है दो चीजों के बीच का अंतर या तुलना। यहाँ 'Formal Education' (जो स्कूल में मिलती है) और 'Applied Wisdom' (जो असल जिंदगी में काम आती है) की तुलना की गई है।</p>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13696,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:41:36",
+      "post_title": "According to the author, why has the gap between education and wisdom widened in recent times?",
+      "post_content": "According to the author, why has the gap between education and wisdom widened in recent times?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Due to overuse of social media",
+            "image": ""
+          },
+          {
+            "text": "Because wisdom is no longer valued",
+            "image": ""
+          },
+          {
+            "text": "Because of rote learning and algorithmic methods",
+            "image": ""
+          },
+          {
+            "text": "Because people stop learning after school",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैसेज के अनुसार: <i>'In an era dominated by information overload and algorithmic thinking, the schism between the two has widened. Educational institutions often prioritize rote memorization...'</i>। इसका मतलब है रट्टा मारने (rote learning) और एल्गोरिथम वाले तरीकों के कारण यह दूरी बढ़ी है।</p><p><b>Extra Info:</b> 'Schism' का मतलब होता है विभाजन या दूरी (gap)। आजकल स्कूल सिर्फ रटने (rote memorization) पर ध्यान देते हैं, जिससे असली समझदारी पीछे छूट जाती है।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13687,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:15:27",
+      "post_title": "<strong>Rearrange the following sentences in correct order to make a logical passage:</strong>\n<ol><li>A media strategy was framed based on outreach results.</li><li>Demographic metrics were tracked from campaign dashboards.</li><li>User interactions were collected across platforms.</li><li>Analysts segmented users by age and behavior.</li>\n</ol>",
+      "post_content": "<strong>Rearrange the following sentences in correct order to make a logical passage:</strong>\n<ol><li>A media strategy was framed based on outreach results.</li><li>Demographic metrics were tracked from campaign dashboards.</li><li>User interactions were collected across platforms.</li><li>Analysts segmented users by age and behavior.</li>\n</ol>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "3-2-4-1",
+            "image": ""
+          },
+          {
+            "text": "2-3-1-4",
+            "image": ""
+          },
+          {
+            "text": "3-1-4-2",
+            "image": ""
+          },
+          {
+            "text": "4-1-2-3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यह एक logical sequence (तार्किक क्रम) का सवाल है। इसे हल करने के स्टेप्स:</p><p><b>Step 1:</b> सबसे पहले डेटा इकठ्ठा किया जाएगा (3. User interactions were collected across platforms).</p><p><b>Step 2:</b> फिर उस डेटा से मेट्रिक्स (आंकड़े) ट्रैक किए जाएंगे (2. Demographic metrics were tracked...).</p><p><b>Step 3:</b> इसके बाद एनालिस्ट उस डेटा के आधार पर यूज़र्स को अलग-अलग सेगमेंट में बांटेंगे (4. Analysts segmented users by age and behavior).</p><p><b>Step 4:</b> और अंत में इन सब नतीजों के आधार पर एक मीडिया रणनीति बनाई जाएगी (1. A media strategy was framed based on outreach results).</p><p>अतः सही क्रम <b>3-2-4-1</b> है।</p><p><b>Extra Info:</b> पैराजंबल (Para-jumble) हल करते समय हमेशा काम के होने के क्रम (chronological flow) पर ध्यान देना चाहिए।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13688,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:15:27",
+      "post_title": "<strong>Rearrange the following sentences to form a coherent paragraph:</strong><ol><li><span style=\"font-family: inherit;\">It is a process that involves the systematic and objective investigation of a subject to discover new facts or to confirm existing ones.</span></li><li>Research is a foundational pillar of academic and scientific progress.</li><li>This can be either theoretical, aiming to expand knowledge, or applied, seeking to solve a practical problem.</li><li>The findings of this investigation are then documented and peer-reviewed to ensure validity and credibility.</li>\n</ol>",
+      "post_content": "<strong>Rearrange the following sentences to form a coherent paragraph:</strong><ol><li><span style=\"font-family: inherit;\">It is a process that involves the systematic and objective investigation of a subject to discover new facts or to confirm existing ones.</span></li><li>Research is a foundational pillar of academic and scientific progress.</li><li>This can be either theoretical, aiming to expand knowledge, or applied, seeking to solve a practical problem.</li><li>The findings of this investigation are then documented and peer-reviewed to ensure validity and credibility.</li>\n</ol>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "2, 1, 3, 4",
+            "image": ""
+          },
+          {
+            "text": "1, 2, 4, 3",
+            "image": ""
+          },
+          {
+            "text": "4, 3, 2, 1",
+            "image": ""
+          },
+          {
+            "text": "3, 4, 1, 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>पैराजंबल को सही क्रम में लगाने का तरीका:</p><p><b>Step 1:</b> शुरुआत एक स्वतंत्र और परिचयात्मक वाक्य से होगी। वाक्य 2 'रिसर्च' की परिभाषा देता है, इसलिए यह पहला होगा (2. Research is a foundational pillar...).</p><p><b>Step 2:</b> वाक्य 1 में Pronoun 'It' का इस्तेमाल हुआ है जो 'Research' के लिए ही है (1. It is a process that involves...).</p><p><b>Step 3:</b> वाक्य 3 में 'This' का प्रयोग उस रिसर्च के प्रकार (theoretical/applied) बताने के लिए हुआ है (3. This can be either theoretical...).</p><p><b>Step 4:</b> अंत में, इस प्रक्रिया के नतीजे (findings) की बात वाक्य 4 में की गई है (4. The findings of this investigation...).</p><p>इसलिए सही क्रम <b>2, 1, 3, 4</b> है।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13686,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:15:03",
+      "post_title": "<strong>A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.</strong><div>He said that he would join the meeting after lunch.</div>",
+      "post_content": "<strong>A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.</strong><div>He said that he would join the meeting after lunch.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "\"I will join the meeting after lunch,\" he said.",
+            "image": ""
+          },
+          {
+            "text": "\"I would join the meeting after lunch,\" he said.",
+            "image": ""
+          },
+          {
+            "text": "\"I shall join the meeting after lunch,\" he said.",
+            "image": ""
+          },
+          {
+            "text": "\"I can join the meeting after lunch,\" he said.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ हमें Indirect Speech से Direct Speech में बदलना है।</p><p><b>Step 1:</b> Reporting verb past tense ('said') में है, इसलिए Direct Speech का टेन्स बदलेगा।</p><p><b>Step 2:</b> Indirect में 'would' का इस्तेमाल हुआ है, जो Direct speech में 'will' रहा होगा।</p><p><b>Step 3:</b> Pronoun 'he' बोलने वाले खुद (I) के लिए इस्तेमाल हुआ था।</p><p>इसलिए सही Direct Speech होगा: <b>\"I will join the meeting after lunch,\" he said.</b></p><p><b>Extra Info:</b> Direct-Indirect speech के नियमों के अनुसार 'will' बदलकर 'would' हो जाता है और 1st person pronoun (I/We) reporting verb के subject के अनुसार बदलता है।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13685,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:14:48",
+      "post_title": "<strong>A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.</strong><div>He asked me, \"Have you done your homework?\"</div>",
+      "post_content": "<strong>A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.</strong><div>He asked me, \"Have you done your homework?\"</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "He asked me if I had done my homework.",
+            "image": ""
+          },
+          {
+            "text": "He asked me have I done my homework.",
+            "image": ""
+          },
+          {
+            "text": "He asked me whether I have done my homework.",
+            "image": ""
+          },
+          {
+            "text": "He asked me whether had I done my homework.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>Direct से Indirect Speech में बदलने के नियम:</p><p><b>Step 1:</b> Yes/No वाले प्रश्नवाचक (Interrogative) वाक्यों में 'asked' के बाद conjunction के रूप में <b>if</b> या <b>whether</b> का प्रयोग होता है ('that' का नहीं)।</p><p><b>Step 2:</b> Direct वाक्य Present Perfect ('Have you done') में है, जो Indirect में Past Perfect ('had done') में बदल जाएगा।</p><p><b>Step 3:</b> Pronoun 'you' object ('me') के अनुसार 'I' में बदल जाएगा और 'your' बदलकर 'my' हो जाएगा।</p><p>इसलिए सही उत्तर <b>'He asked me if I had done my homework.'</b> है।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13684,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:14:48",
+      "post_title": "Choose the most suitable option to replace the&#8230;",
+      "post_content": "Choose the most suitable option to replace the highlighted part of the sentence:\r\nThe doctor advised him <strong><em>to avoid eating sweets and doing exercise regularly</em></strong>.",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "avoiding sweets and doing regular exercise",
+            "image": ""
+          },
+          {
+            "text": "to avoid sweets and to exercises regularly",
+            "image": ""
+          },
+          {
+            "text": "to avoid eating sweets and to exercise regularly",
+            "image": ""
+          },
+          {
+            "text": "to not eat sweets and do exercises",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ Parallelism (समानता) का नियम लागू होता है। 'advised him' के बाद दो काम बताए गए हैं: 1) sweets न खाना, और 2) exercise करना।</p><p>यहाँ 'avoid' के साथ 'doing exercise' लगाने से वाक्य का अर्थ गलत निकल रहा है, जैसे डॉक्टर ने 'exercise करने से बचने' को कहा हो।</p><p>सही संरचना (structure) होगी: advised him <b>[to avoid eating sweets]</b> and <b>[to exercise regularly]</b>.</p><p>इसलिए सही उत्तर <b>'to avoid eating sweets and to exercise regularly'</b> है।</p><p><b>Extra Info:</b> Conjunction 'and' से जुड़ने वाले दोनों हिस्से ग्रामर के हिसाब से बैलेंस (parallel) होने चाहिए।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13682,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:14:24",
+      "post_title": "<strong>Select the sentence containing the homonym of the highlighted word: </strong><div>The choir began the introit at the priest's signal.</div>",
+      "post_content": "<strong>Select the sentence containing the homonym of the highlighted word: </strong><div>The choir began the introit at the priest's signal.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "The child sang the introit during the intermission.",
+            "image": ""
+          },
+          {
+            "text": "The introit was replaced by an organ improvisation.",
+            "image": ""
+          },
+          {
+            "text": "The missal included Latin text for the introit.",
+            "image": ""
+          },
+          {
+            "text": "The cantor rehearsed the Sunday introit.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस प्रश्न में 'introit' शब्द के समान उच्चारण वाले (homonym) या उसी शब्द के दूसरे संदर्भ (context) को पहचानना था।</p><p>यहाँ 'introit' का अर्थ ईसाई धर्म की प्रार्थना सभा (mass) के शुरू में गाया जाने वाला भजन या गीत है। विकल्प 1 (The child sang the introit during the intermission) में भी यह गाने के ही संदर्भ में इस्तेमाल हुआ है।</p><p><b>Extra Info:</b> Homonyms वे शब्द होते हैं जिनकी स्पेलिंग और उच्चारण एक जैसे होते हैं लेकिन उनके अर्थ वाक्यों के अनुसार अलग-अलग हो सकते हैं (जैसे: Bark - पेड़ की छाल, और Bark - कुत्ते का भौंकना)।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13683,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:14:24",
+      "post_title": "<strong>Convert the sentence provided below from its passive voice structure to an active voice structure: </strong><div>It was being suggested by multiple sources that the operation had been compromised internally.</div>",
+      "post_content": "<strong>Convert the sentence provided below from its passive voice structure to an active voice structure: </strong><div>It was being suggested by multiple sources that the operation had been compromised internally.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Multiple sources suggested the operation was compromised internally.",
+            "image": ""
+          },
+          {
+            "text": "The operation was compromised, multiple sources suggested.",
+            "image": ""
+          },
+          {
+            "text": "The sources were suggesting an operation compromise.",
+            "image": ""
+          },
+          {
+            "text": "The operation had compromised multiple internal sources.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>हमें इस Passive Voice वाले वाक्य को Active Voice में बदलना है।</p><p><b>Step 1:</b> <i>'It was being suggested by multiple sources'</i> का Active रूप होगा <i>'Multiple sources were suggesting...'</i> या संदर्भ के अनुसार <i>'Multiple sources suggested...'</i>।</p><p><b>Step 2:</b> चूँकि दिए गए विकल्पों में 'were suggesting' के साथ वाक्य का सही अर्थ नहीं निकल रहा है (विकल्प 3 ग्रामर के हिसाब से गलत तरीके से लिखा है), इसलिए हम सबसे उपयुक्त विकल्प <b>'Multiple sources suggested the operation was compromised internally'</b> को चुनेंगे।</p><p><b>Extra Info:</b> Active Voice में Subject (काम करने वाला) पहले आता है। यहाँ 'multiple sources' subject हैं।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13680,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:52",
+      "post_title": "<strong>Find the part of the sentence that contains an error:</strong><div>What renders the draft legislation particularly contentious is not its proposed realignment of fiscal powers per se, (1)/ but that it presumes, without empirical substantiation, (2)/ a fiscal equivalence among states whose developmental baselines are (3)/ incommensurable by any normative metric. (4)</div>",
+      "post_content": "<strong>Find the part of the sentence that contains an error:</strong><div>What renders the draft legislation particularly contentious is not its proposed realignment of fiscal powers per se, (1)/ but that it presumes, without empirical substantiation, (2)/ a fiscal equivalence among states whose developmental baselines are (3)/ incommensurable by any normative metric. (4)</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "(1)",
+            "image": ""
+          },
+          {
+            "text": "(2)",
+            "image": ""
+          },
+          {
+            "text": "(3)",
+            "image": ""
+          },
+          {
+            "text": "(4)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस वाक्य के Part (2) में Parallelism (समानता) की गलती है।</p><p><b>Step 1:</b> <i>'not... but...'</i> कोआर्डिनेटिंग कंजंक्शन का जोड़ा (correlative conjunction) है। इसके दोनों तरफ ग्रामर का स्ट्रक्चर एक जैसा होना चाहिए।</p><p><b>Step 2:</b> 'not' के बाद एक Noun Phrase (<i>'its proposed realignment...'</i>) का इस्तेमाल हुआ है।</p><p><b>Step 3:</b> इसलिए 'but' के बाद भी Noun Phrase आना चाहिए, जबकि यहाँ एक पूरी Clause (<i>'that it presumes...'</i>) दे दी गई है। इसे <i>'but its presumption'</i> होना चाहिए था।</p><p>अतः गलती <b>Part (2)</b> में है।</p><p><b>Extra Info:</b> Not only... but also, Either... or, और Not... but के इस्तेमाल में हमेशा Parallelism के नियम का ध्यान रखें।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13681,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:52",
+      "post_title": "<strong>Change the following from active to passive:</strong><div>They have been neglecting maintenance of the archives for years.</div>",
+      "post_content": "<strong>Change the following from active to passive:</strong><div>They have been neglecting maintenance of the archives for years.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Maintenance of the archives had been neglected by them for years.",
+            "image": ""
+          },
+          {
+            "text": "Maintenance of the archives is being neglected by them for years.",
+            "image": ""
+          },
+          {
+            "text": "Maintenance of the archives was being neglected by them for years.",
+            "image": ""
+          },
+          {
+            "text": "Maintenance of the archives has been being neglected by them for years.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यह वाक्य Present Perfect Continuous Tense (<i>'have been neglecting'</i>) में है।</p><p><b>Step 1:</b> Present Perfect Continuous का Passive Voice बनाते समय <b>'has/have been + being + V3'</b> का प्रयोग किया जाता है।</p><p><b>Step 2:</b> Object (<i>'Maintenance of the archives'</i>) वाक्य का Subject बन जाएगा। यह Singular (एकवचन) है, इसलिए 'has' लगेगा।</p><p><b>Step 3:</b> 'has been' के साथ 'being' और verb की third form 'neglected' लगेगी।</p><p>इसलिए सही Passive Voice होगा: <b>'Maintenance of the archives has been being neglected by them for years.'</b></p><p><b>Extra Info:</b> आम बोलचाल में Present Perfect Continuous का Passive कम इस्तेमाल होता है, लेकिन ग्रामर के नियमों के अनुसार इसे 'been being + V3' लगाकर बनाया जाता है।</p>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13677,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:34",
+      "post_title": "<strong>Select the correct option:</strong><div>Rare though the phenomenon is, it can occur ___ prolonged drought conditions.</div>",
+      "post_content": "<strong>Select the correct option:</strong><div>Rare though the phenomenon is, it can occur ___ prolonged drought conditions.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "towards",
+            "image": ""
+          },
+          {
+            "text": "amid",
+            "image": ""
+          },
+          {
+            "text": "among",
+            "image": ""
+          },
+          {
+            "text": "under",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>रिक्त स्थान के लिए सही Preposition चुनना है। यहाँ <i>'conditions'</i> (स्थितियों/परिस्थितियों) की बात हो रही है।</p><p>जब हम किसी विशेष परिस्थिति या हालात के तहत कुछ होने की बात करते हैं, तो <b>'under'</b> का प्रयोग होता है (जैसे: under these conditions, under pressure)।</p><p>इसलिए <b>'under'</b> prolonged drought conditions (लंबे समय तक सूखे की स्थिति के तहत) बिल्कुल सही होगा।</p><p><b>Extra Info:</b> 'Amid' का मतलब 'के बीच में' (किसी घटना के दौरान) होता है, लेकिन 'conditions' और 'circumstances' के साथ हमेशा 'under' का ही इस्तेमाल सही माना जाता है।</p>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13678,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:34",
+      "post_title": "<strong>Select the correct option:</strong><div>While the proposal appeared pragmatic on paper, its implementation proved ___ complicated than expected.</div>",
+      "post_content": "<strong>Select the correct option:</strong><div>While the proposal appeared pragmatic on paper, its implementation proved ___ complicated than expected.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "less",
+            "image": ""
+          },
+          {
+            "text": "more",
+            "image": ""
+          },
+          {
+            "text": "much",
+            "image": ""
+          },
+          {
+            "text": "rather",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ वाक्य में <i>'than'</i> का इस्तेमाल हुआ है, जो यह बताता है कि यह Comparative Degree (तुलना) का वाक्य है।</p><p>'complicated' एक ऐसा एडजेक्टिव है जिसका comparative form <b>'more complicated'</b> होता है (जैसे: उम्मीद से ज्यादा मुश्किल)।</p><p>इसलिए रिक्त स्थान में <b>'more'</b> आएगा।</p><p><b>Extra Info:</b> जब किसी शब्द में एक से ज्यादा सिलेबल (syllables) होते हैं (जैसे com-pli-cat-ed), तो उसकी comparative degree बनाने के लिए उसके पहले 'more' लगाया जाता है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13679,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:34",
+      "post_title": "<strong>Find the part of the sentence that contains an error:</strong><div>That the report failed to address the root causes (1)/ of the community unrest were surprising (2)/ given the exhaustive data (3)/ compiled over several months. (4)</div>",
+      "post_content": "<strong>Find the part of the sentence that contains an error:</strong><div>That the report failed to address the root causes (1)/ of the community unrest were surprising (2)/ given the exhaustive data (3)/ compiled over several months. (4)</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "(1)",
+            "image": ""
+          },
+          {
+            "text": "(2)",
+            "image": ""
+          },
+          {
+            "text": "(3)",
+            "image": ""
+          },
+          {
+            "text": "(4)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस वाक्य के Part (2) में Subject-Verb Agreement की गलती है।</p><p><b>Step 1:</b> वाक्य का मुख्य Subject <i>'That the report failed to address the root causes of the community unrest'</i> है, जो कि एक पूरी Noun Clause है।</p><p><b>Step 2:</b> ग्रामर के नियम के अनुसार, जब कोई Noun Clause वाक्य का Subject होता है, तो उसे हमेशा Singular (एकवचन) माना जाता है।</p><p><b>Step 3:</b> इसलिए इसके साथ लगने वाली Verb भी Singular होनी चाहिए। यहाँ 'were' की जगह <b>'was'</b> का इस्तेमाल होना चाहिए था (was surprising)।</p><p><b>Extra Info:</b> 'unrest' या 'causes' यहाँ मुख्य Subject नहीं हैं, बल्कि 'पूरी बात' (कि रिपोर्ट फेल हो गई) Subject है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13675,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:05",
+      "post_title": "Choose the correct <strong>one-word substitute</strong> for: <div>'An official reprimand or strong criticism'.</div>",
+      "post_content": "Choose the correct <strong>one-word substitute</strong> for: <div>'An official reprimand or strong criticism'.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Accusation",
+            "image": ""
+          },
+          {
+            "text": "Denunciation",
+            "image": ""
+          },
+          {
+            "text": "Censure",
+            "image": ""
+          },
+          {
+            "text": "Indictment",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>दिए गए वाक्यांश <i>'An official reprimand or strong criticism'</i> (किसी की आधिकारिक रूप से कड़ी निंदा या फटकार लगाना) के लिए सही One-word substitute <b>'Censure'</b> (निंदा प्रस्ताव/कड़ी आलोचना) है।</p><p><b>Extra Info:</b><br>- Accusation: किसी पर आरोप लगाना।<br>- Denunciation: सार्वजनिक रूप से निंदा करना।<br>- Indictment: औपचारिक रूप से किसी पर अपराध का दोष लगाना।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13676,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:05",
+      "post_title": "<strong>Select the correct option:</strong><div>The startup scaled so rapidly that its infrastructure could ___ keep pace.</div>",
+      "post_content": "<strong>Select the correct option:</strong><div>The startup scaled so rapidly that its infrastructure could ___ keep pace.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "barely",
+            "image": ""
+          },
+          {
+            "text": "merely",
+            "image": ""
+          },
+          {
+            "text": "scarcely",
+            "image": ""
+          },
+          {
+            "text": "all but",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>वाक्य का अर्थ है कि स्टार्टअप इतनी तेज़ी से बढ़ा कि उसका इंफ्रास्ट्रक्चर 'मुश्किल से' ही उसके साथ तालमेल बिठा पाया।</p><p><b>'Barely'</b> का अर्थ होता है 'मुश्किल से' या 'शायद ही' (almost not)। यह वाक्य के भाव (sense) को बिल्कुल सही तरीके से पूरा करता है।</p><p><b>Extra Info:</b> 'Scarcely' और 'Barely' दोनों का मतलब लगभग एक जैसा होता है, लेकिन 'keep pace' (तालमेल बिठाना) जैसे व्यावहारिक क्षमता वाले वाक्यों में 'barely' का प्रयोग अधिक स्वाभाविक माना जाता है।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13674,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:13:04",
+      "post_title": "Spot the correct spelling of a CSF-shunt procedure.",
+      "post_content": "Spot the <strong>correct spelling</strong> of a CSF-shunt procedure.",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Ventriculoperitoneal",
+            "image": ""
+          },
+          {
+            "text": "Ventriculoperitonal",
+            "image": ""
+          },
+          {
+            "text": "Ventriculaperitoneal",
+            "image": ""
+          },
+          {
+            "text": "Ventriculoperetoneal",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>इस प्रश्न में <b>'Ventriculoperitoneal'</b> की सही स्पेलिंग पहचाननी है।</p><p>यह एक मेडिकल शब्द है जो दिमाग (ventricle) और पेट (peritoneum) से जुड़ा होता है। इसकी सही स्पेलिंग है: V-E-N-T-R-I-C-U-L-O-P-E-R-I-T-O-N-E-A-L.</p><p><b>Extra Info:</b> 'Ventriculoperitoneal shunt' (VP shunt) एक मेडिकल प्रक्रिया है जिसका इस्तेमाल दिमाग में अतिरिक्त तरल पदार्थ (fluid) को निकालने और दबाव कम करने के लिए किया जाता है।</p>",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13673,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:12:34",
+      "post_title": "Identify the misspelt word",
+      "post_content": "Identify the <strong>misspelt</strong> word",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Vicereine",
+            "image": ""
+          },
+          {
+            "text": "Floccinaucinihilipilification",
+            "image": ""
+          },
+          {
+            "text": "Defenestrate",
+            "image": ""
+          },
+          {
+            "text": "Quintessance",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>दिए गए विकल्पों में से 'Quintessance' की स्पेलिंग गलत है।</p><p>इसकी सही स्पेलिंग <b>Quintessence</b> (Q-u-i-n-t-e-s-s-e-n-c-e) होती है, जिसका मतलब होता है किसी चीज़ का सबसे शुद्ध या आदर्श उदाहरण (perfect example)।</p><p><b>Extra Info:</b><br>- Vicereine: वायसराय की पत्नी।<br>- Defenestrate: किसी व्यक्ति या वस्तु को खिड़की से बाहर फेंकना।<br>- Floccinaucinihilipilification: किसी चीज़ को बेकार या मूल्यहीन समझने की आदत।</p>",
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13671,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:12:21",
+      "post_title": "Choose the correct meaning of idiom: <strong style=\"font-family: inherit;\">Hobson's choice</strong>",
+      "post_content": "Choose the correct meaning of idiom: <strong style=\"font-family: inherit;\">Hobson's choice</strong>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A dilemma between two evils",
+            "image": ""
+          },
+          {
+            "text": "A free and fair decision",
+            "image": ""
+          },
+          {
+            "text": "No real choice at all",
+            "image": ""
+          },
+          {
+            "text": "A selection made under duress",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>Idiom <b>'Hobson's choice'</b> का मतलब होता है एक ऐसी स्थिति जहाँ आपको लगता है कि आपके पास विकल्प हैं, लेकिन असल में कोई विकल्प नहीं होता है; या तो आप दी गई चीज़ को स्वीकार करें या फिर कुछ भी ना लें। (No real choice at all)।</p><p><b>Extra Info:</b> इस मुहावरे की उत्पत्ति थॉमस हॉब्सन (Thomas Hobson) नाम के एक व्यक्ति से हुई थी जो घोड़े किराए पर देता था। उसका नियम था कि ग्राहक को वही घोड़ा लेना पड़ेगा जो दरवाजे के सबसे करीब खड़ा है, अन्यथा कोई घोड़ा नहीं मिलेगा।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13672,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:12:21",
+      "post_title": "Select the most appropriate antonym of the given word&#8230;.",
+      "post_content": "Select the most appropriate antonym of the given word. <strong>Perfidious</strong>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Betraying",
+            "image": ""
+          },
+          {
+            "text": "Faithless",
+            "image": ""
+          },
+          {
+            "text": "Loyal",
+            "image": ""
+          },
+          {
+            "text": "Treacherous",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ <b>'Perfidious'</b> (परफिडियस) शब्द का Antonym (विलोम शब्द) बताना है।</p><p>'Perfidious' का मतलब होता है 'धोखेबाज़' या 'जिस पर भरोसा न किया जा सके' (deceitful and untrustworthy)। इसलिए इसका सही विलोम <b>'Loyal'</b> (वफादार) होगा।</p><p><b>Extra Info:</b> अन्य शब्दों के अर्थ:<br>- Betraying: धोखा देना।<br>- Faithless: बेवफ़ा या अविश्वसनीय।<br>- Treacherous: नमकहराम या कपटी। (ये तीनों शब्द Perfidious के समानार्थी हैं)।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13670,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:12:01",
+      "post_title": "Select the most appropriate synonym of the given word: <b>PERFIDIOUS</b>",
+      "post_content": "Select the most appropriate synonym of the given word: <b>PERFIDIOUS</b>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Honest",
+            "image": ""
+          },
+          {
+            "text": "Faithful",
+            "image": ""
+          },
+          {
+            "text": "Treacherous",
+            "image": ""
+          },
+          {
+            "text": "Loyal",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>यहाँ <b>'Perfidious'</b> (परफिडियस) शब्द का Synonym (समानार्थी शब्द) बताना है।</p><p>'Perfidious' का अर्थ होता है धोखेबाज़ या विश्वासघाती। दिए गए विकल्पों में <b>'Treacherous'</b> (कपटपूर्ण/धोखेबाज़) इसका सबसे सटीक पर्यायवाची है।</p><p><b>Extra Info:</b> 'Honest' (ईमानदार), 'Faithful' (वफादार) और 'Loyal' (निष्ठावान) इसके विलोम (Antonyms) हैं।</p>",
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13697,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:42:00",
+      "post_title": "Choose the most suitable option to replace the&#8230;",
+      "post_content": "Choose the most suitable option to replace the highlighted part of the sentence:\r\nShe has the reputation <strong><em>to be a kind woman</em></strong>.",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "to have kindness",
+            "image": ""
+          },
+          {
+            "text": "of being a kind woman",
+            "image": ""
+          },
+          {
+            "text": "of being the kind woman",
+            "image": ""
+          },
+          {
+            "text": "to be kind-hearted",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p>ग्रामर के नियमों के अनुसार <b>'reputation'</b> (प्रतिष्ठा/ख्याति) शब्द के बाद हमेशा Preposition <b>'of'</b> का प्रयोग किया जाता है, और उसके बाद Verb की 'ing' फॉर्म (Gerund) आती है।</p><p>इसलिए 'reputation to be' गलत है, इसकी जगह 'reputation of being' का इस्तेमाल होना चाहिए। सही वाक्य होगा: <i>'She has the reputation of being a kind woman.'</i></p><p><b>Extra Info:</b> कुछ Nouns के साथ fixed prepositions आते हैं, जैसे: habit of (doing something), chance of, hope of, आदि। उसी तरह 'reputation' के साथ हमेशा 'of' आता है।</p>",
+        "_aimcq_correct_answers": [
+          1
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 13691,
+      "post_author": 1,
+      "post_date": "2026-04-22 22:41:07",
+      "post_title": "Education vs. Wisdom: Understanding the Fundamental Difference",
+      "post_content": "While education and wisdom are often conflated in colloquial discourse, a discerning mind perceives a fundamental divergence between the two. Education is the formal acquisition of knowledge, often measured through degrees, academic accolades, and proficiency in structured disciplines. It is delivered through systematic curricula, institutionalized assessment, and theoretical frameworks. However, wisdom transcends this rigidity; it is the judicious application of knowledge to real-life contexts, enriched by experience, introspection, and emotional intelligence. An individual may be extensively educated yet remain bereft of wisdom if they lack the discernment to apply their learning ethically and effectively. Conversely, many wise individuals—farmers, artisans, elders—may not possess formal education, but their decisions exhibit prudence and sagacity cultivated through lived realities. Thus, education equips the mind, but wisdom enriches the soul. In an era dominated by information overload and algorithmic thinking, the schism between the two has widened. Educational institutions often prioritize rote memorization and standardized testing over critical thinking and moral reasoning. Consequently, society produces individuals proficient in problem-solving but deficient in decision-making that requires empathy, patience, or foresight. Wisdom, being innately human, cannot be downloaded or fast-tracked; it is earned through trial, failure, reflection, and a nuanced understanding of human nature. Furthermore, while education is temporally bounded—ending with formal schooling or academic milestones—wisdom is a lifelong pursuit. It does not boast certificates but manifests in humility, ethical consistency, and the ability to navigate ambiguity with grace. Ultimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to do it, especially when it is inconvenient.",
+      "post_status": "publish",
+      "post_type": "passage",
+      "meta_input": {
+        "_aimcq_options": [],
+        "_aimcq_explanation": "",
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": [],
+      "embedded_media": []
+    }
+  ]
+}
