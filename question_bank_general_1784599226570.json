@@ -1,0 +1,889 @@
+{
+  "version": "1.8.0",
+  "export_type": "question_bank",
+  "terms": [
+    {
+      "taxonomy": "General",
+      "language": "English and Hindi",
+      "language_code": "02ENHI",
+      "name": "General",
+      "slug": "general"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1784442093015,
+      "post_author": 1,
+      "post_date": "2026-07-19 11:51:33",
+      "post_title": "जिस मूल शब्द में विकार होने से 'क्रिया' बनती है, उसे कहते हैं:",
+      "post_content": "जिस मूल शब्द में विकार होने से 'क्रिया' बनती है, उसे कहते हैं:",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "विशेषण",
+            "image": ""
+          },
+          {
+            "text": "अव्यय",
+            "image": ""
+          },
+          {
+            "text": "धातु",
+            "image": ""
+          },
+          {
+            "text": "सर्वनाम",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>जिस मूल शब्द में विकार होने से 'क्रिया' बनती है, उसे 'धातु' कहते हैं।</b></p><p>हिंदी व्याकरण में, क्रिया का मूल रूप 'धातु' कहलाता है। धातु में प्रत्यय आदि के योग से क्रिया के विभिन्न रूप बनते हैं। उदाहरण के लिए, 'पढ़' एक धातु है, जिससे 'पढ़ना', 'पढ़ता है', 'पढ़ेगा' आदि क्रियाएँ बनती हैं।</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784445575143,
+      "post_author": 1,
+      "post_date": "2026-07-19 12:49:35",
+      "post_title": "'चरमोत्कर्ष' शब्द का सन्धि-विच्छेद है",
+      "post_content": "'चरमोत्कर्ष' शब्द का सन्धि-विच्छेद है",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "चर + मोत्कर्ष",
+            "image": ""
+          },
+          {
+            "text": "चरम + उत्कर्ष",
+            "image": ""
+          },
+          {
+            "text": "चरमो + उत्कर्ष",
+            "image": ""
+          },
+          {
+            "text": "चरम + कर्ष",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>'चरमोत्कर्ष' शब्द का सही सन्धि-विच्छेद 'चरम + उत्कर्ष' है।</b></p><p>यह गुण सन्धि का उदाहरण है। गुण सन्धि के नियमानुसार, जब 'अ' या 'आ' के बाद 'उ' या 'ऊ' आता है, तो दोनों मिलकर 'ओ' बन जाते हैं।</p><p>यहाँ, 'चरम' (जिसका अंतिम वर्ण 'म' में 'अ' स्वर है) और 'उत्कर्ष' (जिसका प्रथम वर्ण 'उ' है) के मेल से 'अ + उ = ओ' बनता है। इस प्रकार, 'चरम + उत्कर्ष' मिलकर 'चरमोत्कर्ष' बनता है।</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784452109953,
+      "post_author": 1,
+      "post_date": "2026-07-19 14:38:29",
+      "post_title": "Two objects of mass 10 kg and 20 kg respectively are connected to the two ends of a rigid rod of length 10 m with neglig",
+      "post_content": "Two objects of mass 10 kg and 20 kg respectively are connected to the two ends of a rigid rod of length 10 m with negligible mass. The distance of the center of mass of the system from the 10 kg mass is",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "$\\frac{10}{3}$ m",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{20}{3}$ m",
+            "image": ""
+          },
+          {
+            "text": "10 m",
+            "image": ""
+          },
+          {
+            "text": "5 m",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>The distance of the center of mass of the system from the 10 kg mass is $\\frac{20}{3}$ m.</b></p><p>To find the center of mass of the system, we can set up a one-dimensional coordinate system. Let's place the 10 kg mass at the origin (x = 0).</p><p>Let:<br>$m_1 = 10$ kg, located at $x_1 = 0$ m.<br>$m_2 = 20$ kg.<br>The length of the rod is 10 m, so the 20 kg mass is located at $x_2 = 10$ m.</p><p>The formula for the position of the center of mass ($x_{CM}$) is:<br>$x_{CM} = \\frac{m_1 x_1 + m_2 x_2}{m_1 + m_2}$</p><p>Substituting the values into the formula:<br>$x_{CM} = \\frac{(10 \\text{ kg} \\times 0 \\text{ m}) + (20 \\text{ kg} \\times 10 \\text{ m})}{10 \\text{ kg} + 20 \\text{ kg}}$<br>$x_{CM} = \\frac{0 + 200}{30}$<br>$x_{CM} = \\frac{200}{30} = \\frac{20}{3}$ m</p><p>Since we defined the position of the 10 kg mass as the origin, the calculated position of the center of mass, $x_{CM}$, is its distance from the 10 kg mass. Thus, the distance is $\\frac{20}{3}$ m.</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784452586827,
+      "post_author": 1,
+      "post_date": "2026-07-19 14:46:26",
+      "post_title": "A copper wire of length 10 m and radius $(\\frac{10^{-2}}{\\sqrt{\\pi}})$ m has electrical resistance of 10 $\\Omega$. The c",
+      "post_content": "<p>A copper wire of length 10 m and radius $(\\frac{10^{-2}}{\\sqrt{\\pi}})$ m has electrical resistance of 10 $\\Omega$. The current density in the wire for an electric field strength of 10 (V/m) is</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "$10^4$ A/m$^2$",
+            "image": ""
+          },
+          {
+            "text": "$10^6$ A/m$^2$",
+            "image": ""
+          },
+          {
+            "text": "$10^{-5}$ A/m$^2$",
+            "image": ""
+          },
+          {
+            "text": "$10^5$ A/m$^2$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>The current density in the wire is $10^5$ A/m$^2$.</b></p><p>The relationship between current density ($J$), electric field strength ($E$), and resistivity ($\nho$) is given by Ohm's law in microscopic form: $J = \\frac{E}{\\rho}$.</p><p>The resistance ($R$) of a wire is related to its resistivity ($\nho$), length ($L$), and cross-sectional area ($A$) by the formula $R = \\rho \\frac{L}{A}$.</p><p>From this, we can express resistivity as $\\rho = \\frac{RA}{L}$.</p><p>First, let's calculate the given values:</p><ul><li>Length, $L = 10$ m</li><li>Radius, $r = (\\frac{10^{-2}}{\\sqrt{\\pi}})$ m</li><li>Resistance, $R = 10 \\Omega$</li><li>Electric field strength, $E = 10$ V/m</li></ul><p>Next, we calculate the cross-sectional area ($A$) of the wire:</p><p>$A = \\pi r^2 = \\pi \\left(\\frac{10^{-2}}{\\sqrt{\\pi}}\\right)^2 = \\pi \\frac{10^{-4}}{\\pi} = 10^{-4}$ m$^2$.</p><p>Now, we can calculate the resistivity ($\nho$) of the wire's material:</p><p>$\\rho = \\frac{RA}{L} = \\frac{(10 \\Omega)(10^{-4} \\text{ m}^2)}{10 \\text{ m}} = 10^{-4} \\Omega \\cdot \\text{m}$.</p><p>Finally, we can find the current density ($J$):</p><p>$J = \\frac{E}{\\rho} = \\frac{10 \\text{ V/m}}{10^{-4} \\Omega \\cdot \\text{m}} = 10 \\times 10^4 \\text{ A/m}^2 = 10^5 \\text{ A/m}^2$.</p>",
+        "_aimcq_title_hi": "10 m लंबाई और $(\\frac{10^{-2}}{\\sqrt{\\pi}})$ m त्रिज्या वाले एक तांबे के तार का विद्युत प्रतिरोध 10 $\\Omega$ है। 10 (V/m",
+        "_aimcq_question_content_hi": "<p>10 m लंबाई और $(\\frac{10^{-2}}{\\sqrt{\\pi}})$ m त्रिज्या वाले एक तांबे के तार का विद्युत प्रतिरोध 10 $\\Omega$ है। 10 (V/m) की विद्युत क्षेत्र की तीव्रता के लिए तार में धारा घनत्व है</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$10^4$ A/m$^2$",
+            "image": ""
+          },
+          {
+            "text": "$10^6$ A/m$^2$",
+            "image": ""
+          },
+          {
+            "text": "$10^{-5}$ A/m$^2$",
+            "image": ""
+          },
+          {
+            "text": "$10^5$ A/m$^2$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<p><b>तार में धारा घनत्व $10^5$ A/m$^2$ है।</b></p><p>धारा घनत्व ($J$), विद्युत क्षेत्र की तीव्रता ($E$), और प्रतिरोधकता ($\nho$) के बीच संबंध ओम के नियम के सूक्ष्म रूप द्वारा दिया गया है: $J = \\frac{E}{\\rho}$।</p><p>एक तार का प्रतिरोध ($R$) उसकी प्रतिरोधकता ($\nho$), लंबाई ($L$), और अनुप्रस्थ काट क्षेत्रफल ($A$) से सूत्र $R = \\rho \\frac{L}{A}$ द्वारा संबंधित है।</p><p>इससे, हम प्रतिरोधकता को $\\rho = \\frac{RA}{L}$ के रूप में व्यक्त कर सकते हैं।</p><p>सबसे पहले, दिए गए मानों को सूचीबद्ध करें:</p><ul><li>लंबाई, $L = 10$ m</li><li>त्रिज्या, $r = (\\frac{10^{-2}}{\\sqrt{\\pi}})$ m</li><li>प्रतिरोध, $R = 10 \\Omega$</li><li>विद्युत क्षेत्र की तीव्रता, $E = 10$ V/m</li></ul><p>अगला, हम तार के अनुप्रस्थ काट क्षेत्रफल ($A$) की गणना करते हैं:</p><p>$A = \\pi r^2 = \\pi \\left(\\frac{10^{-2}}{\\sqrt{\\pi}}\\right)^2 = \\pi \\frac{10^{-4}}{\\pi} = 10^{-4}$ m$^2$।</p><p>अब, हम तार के पदार्थ की प्रतिरोधकता ($\nho$) की गणना कर सकते हैं:</p><p>$\\rho = \\frac{RA}{L} = \\frac{(10 \\Omega)(10^{-4} \\text{ m}^2)}{10 \\text{ m}} = 10^{-4} \\Omega \\cdot \\text{m}$।</p><p>अंत में, हम धारा घनत्व ($J$) ज्ञात कर सकते हैं:</p><p>$J = \\frac{E}{\\rho} = \\frac{10 \\text{ V/m}}{10^{-4} \\Omega \\cdot \\text{m}} = 10 \\times 10^4 \\text{ A/m}^2 = 10^5 \\text{ A/m}^2$।</p>"
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784459479699,
+      "post_author": 1,
+      "post_date": "2026-07-19 16:41:19",
+      "post_title": "A square loop of side $1\\text{ m}$ and resistance $1\\text{ }\\Omega$ is placed in a magnetic field of $0.5\\text{ T}$. If ",
+      "post_content": "A square loop of side $1\\text{ m}$ and resistance $1\\text{ }\\Omega$ is placed in a magnetic field of $0.5\\text{ T}$. If the plane of loop is<br>perpendicular to the direction of magnetic field, the magnetic flux through the loop is",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "$2\\text{ weber}$",
+            "image": ""
+          },
+          {
+            "text": "$0.5\\text{ weber}$",
+            "image": ""
+          },
+          {
+            "text": "$1\\text{ weber}$",
+            "image": ""
+          },
+          {
+            "text": "$\\text{Zero weber}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>Magnetic flux is $0.5$ weber.</b></p><p>Magnetic flux $\\Phi = B \\cdot A \\cdot \\cos\\theta$. Here, $B = 0.5\\text{ T}$, side $=1\\text{ m}$ so area $A = 1\\text{ m}^2$, and $\\theta = 0^\\circ$ (plane perpendicular to field, so normal parallel to field). Thus $\\Phi = 0.5 \\times 1 \\times 1 = 0.5\\text{ weber}$.</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784475823598,
+      "post_author": 1,
+      "post_date": "2026-07-19 21:13:43",
+      "post_title": "Let $T_1$ and $T_2$ be the energy of an electron in the first and second excited states of hydrogen atoms, respectively.",
+      "post_content": "Let $T_1$ and $T_2$ be the energy of an electron in the first and second excited states of hydrogen atoms,<br>respectively. According to the Bohr's model of an atom, the ratio $T_1 : T_2$ is",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "$1 : 4$",
+            "image": ""
+          },
+          {
+            "text": "$4 : 1$",
+            "image": ""
+          },
+          {
+            "text": "$4 : 9$",
+            "image": ""
+          },
+          {
+            "text": "$9 : 4$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>$9 : 4$</b></p><p>In Bohr's model, the energy of an electron in the $n$th state is $E_n = -13.6 \\text{ eV}/n^2$. The first excited state corresponds to $n=2$, and the second excited state to $n=3$. Thus $T_1 = E_2 = -13.6/4$ and $T_2 = E_3 = -13.6/9$. The ratio $T_1 : T_2 = (-13.6/4) : (-13.6/9) = 1/4 : 1/9 = 9 : 4$.</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784477056978,
+      "post_author": 1,
+      "post_date": "2026-07-19 21:34:16",
+      "post_title": "1. An electric lift with a maximum load of $2000\\text{ kg}$ (lift + passengers) is moving up with a constant speed of $1",
+      "post_content": "1. An electric lift with a maximum load of $2000\\text{ kg}$ (lift + passengers) is moving up with a constant speed of<br>$1.5\\text{ ms}^{-1}$. The frictional force opposing the motion is $3000\\text{ N}$. The minimum power delivered by the motor to<br>the lift in watts is : ($g = 10\\text{ m s}^{-2}$)",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "23000",
+            "image": ""
+          },
+          {
+            "text": "20000",
+            "image": ""
+          },
+          {
+            "text": "34500",
+            "image": ""
+          },
+          {
+            "text": "23500",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>Total force to overcome: weight + friction = $2000\\times10 + 3000 = 23000\\text{ N}$</b></p><p><b>Step 1:</b> Calculate weight: $mg = 2000\\times10 = 20000\\text{ N}$.</p><p><b>Step 2:</b> Add friction: $20000 + 3000 = 23000\\text{ N}$.</p><p><b>Step 3:</b> Power = force × velocity = $23000\\times1.5 = 34500\\text{ W}$.</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784479973628,
+      "post_author": 1,
+      "post_date": "2026-07-19 22:22:53",
+      "post_title": "Match List-I with List-II List-I (Electromagnetic waves) (a) AM radio waves (b) Microwaves (c) Infrared radiations (d) X",
+      "post_content": "Match List-I with List-II<br>List-I (Electromagnetic waves)<br>(a) AM radio waves<br>(b) Microwaves<br>(c) Infrared radiations<br>(d) X-rays<br>List-II (Wavelength)<br>(i) $10^{-10}\\text{ m}$<br>(ii) $10^2\\text{ m}$<br>(iii) $10^{-2}\\text{ m}$<br>(iv) $10^{-4}\\text{ m}$<br>Choose the correct answer from the options given below",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+            "image": ""
+          },
+          {
+            "text": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)",
+            "image": ""
+          },
+          {
+            "text": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+            "image": ""
+          },
+          {
+            "text": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>AM radio waves: $10^2$ m, Microwaves: $10^{-2}$ m, Infrared radiations: $10^{-4}$ m, X-rays: $10^{-10}$ m</b></p><p>Typical wavelengths: AM radio waves ~ $10^2$ m, microwaves ~ $10^{-2}$ m, infrared ~ $10^{-4}$ m, X-rays ~ $10^{-10}$ m. Thus (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i) matches option (4).</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784480181041,
+      "post_author": 1,
+      "post_date": "2026-07-19 22:26:21",
+      "post_title": "Given below are two statements Statement I : Biot-Savart's law gives us the expression for the magnetic field strength o",
+      "post_content": "Given below are two statements<br>Statement I : Biot-Savart's law gives us the expression for the magnetic field strength of an infinitesimal current element ($Idl$) of a current carrying conductor only.<br>Statement II : Biot-Savart's law is analogous to Coulomb's inverse square law of charge $q$, with the former being related to the field produced by a scalar source, $Idl$ while the latter being produced by a vector source, $q$.<br>In light of above statements choose the most appropriate answer from the options given below",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Both Statement I and Statement II are correct",
+            "image": ""
+          },
+          {
+            "text": "Both Statement I and Statement II are incorrect",
+            "image": ""
+          },
+          {
+            "text": "Statement I is correct and Statement II is incorrect",
+            "image": ""
+          },
+          {
+            "text": "Statement I is incorrect and Statement II is correct",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>Statement I is correct; Statement II is incorrect.</b></p><p>Biot-Savart's law gives the magnetic field due to an infinitesimal current element Idl. Statement II incorrectly states that Biot-Savart's law is analogous to Coulomb's law but swaps the source types: Idl is a vector source (current element with direction), while charge q is a scalar source. Thus Statement II is false.</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784480890053,
+      "post_author": 1,
+      "post_date": "2026-07-19 22:38:10",
+      "post_title": "When light propagates through a material medium of relative permittivity $\\epsilon_r$ and relative permeability $\\mu_r$,",
+      "post_content": "When light propagates through a material medium of relative permittivity $\\epsilon_r$ and relative permeability $\\mu_r$, the velocity of light, $v$ is given by ($c$-velocity of light in vacuum)",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "$v = c$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\sqrt{\\frac{\\mu_r}{\\epsilon_r}}$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\sqrt{\\frac{\\epsilon_r}{\\mu_r}}$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\frac{c}{\\sqrt{\\epsilon_r \\mu_r}}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>The velocity of light in a medium is $v = \\frac{c}{n}$, where $n = \\sqrt{\\epsilon_r \\mu_r}$ is the refractive index.</b></p><p><b>Step 1:</b> The speed of light in vacuum is $c$. In a material medium, the speed is reduced by the refractive index $n$.</p><p><b>Step 2:</b> For a non-magnetic medium, $n = \\sqrt{\\epsilon_r \\mu_r}$.</p><p><b>Step 3:</b> Therefore, $v = \\frac{c}{n} = \\frac{c}{\\sqrt{\\epsilon_r \\mu_r}}$.</p>",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784481434612,
+      "post_author": 1,
+      "post_date": "2026-07-19 22:47:14",
+      "post_title": "When light propagates through a material medium of relative permittivity $\\epsilon_r$ and relative permeability $\\mu_r$,",
+      "post_content": "When light propagates through a material medium of relative permittivity $\\epsilon_r$ and relative permeability $\\mu_r$, the velocity of light, $v$ is given by ($c$-velocity of light in vacuum)",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "$v = c$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\sqrt{\\frac{\\mu_r}{\\epsilon_r}}$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\sqrt{\\frac{\\epsilon_r}{\\mu_r}}$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\frac{c}{\\sqrt{\\epsilon_r \\mu_r}}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>The velocity of light in a medium is $v = \\frac{c}{n}$, where $n = \\sqrt{\\epsilon_r \\mu_r}$ is the refractive index.</b></p><p><b>Step 1:</b> The speed of light in vacuum is $c$. In a medium, the speed is reduced by the refractive index $n$.</p><p><b>Step 2:</b> For a non-magnetic medium, $n = \\sqrt{\\epsilon_r \\mu_r}$.</p><p><b>Step 3:</b> Therefore, $v = \\frac{c}{n} = \\frac{c}{\\sqrt{\\epsilon_r \\mu_r}}$.</p>",
+        "_aimcq_title_hi": "जब प्रकाश सापेक्ष विद्युतशीलता $\\epsilon_r$ और सापेक्ष चुंबकशीलता $\\mu_r$ वाले किसी भौतिक माध्यम में संचरित होता है, तो ",
+        "_aimcq_question_content_hi": "जब प्रकाश सापेक्ष विद्युतशीलता $\\epsilon_r$ और सापेक्ष चुंबकशीलता $\\mu_r$ वाले किसी भौतिक माध्यम में संचरित होता है, तो प्रकाश का वेग $v$ ($c$-निर्वात में प्रकाश का वेग) द्वारा दिया जाता है",
+        "_aimcq_options_hi": [
+          {
+            "text": "$v = c$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\sqrt{\\frac{\\mu_r}{\\epsilon_r}}$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\sqrt{\\frac{\\epsilon_r}{\\mu_r}}$",
+            "image": ""
+          },
+          {
+            "text": "$v = \\frac{c}{\\sqrt{\\epsilon_r \\mu_r}}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<p><b>माध्यम में प्रकाश का वेग $v = \\frac{c}{n}$ है, जहाँ $n = \\sqrt{\\epsilon_r \\mu_r}$ अपवर्तनांक है।</b></p><p><b>चरण 1:</b> निर्वात में प्रकाश की चाल $c$ है। माध्यम में चाल अपवर्तनांक $n$ से कम हो जाती है।</p><p><b>चरण 2:</b> अचुंबकीय माध्यम के लिए, $n = \\sqrt{\\epsilon_r \\mu_r}$।</p><p><b>चरण 3:</b> अतः, $v = \\frac{c}{n} = \\frac{c}{\\sqrt{\\epsilon_r \\mu_r}}$।</p>"
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784482172501,
+      "post_author": 1,
+      "post_date": "2026-07-19 22:59:32",
+      "post_title": "Two objects of mass $10\\text{ kg}$ and $20\\text{ kg}$ respectively are connected to the two ends of a rigid rod of lengt",
+      "post_content": "Two objects of mass $10\\text{ kg}$ and $20\\text{ kg}$ respectively are connected to the two ends of a rigid rod of length $10\\text{ m}$ with negligible mass. The distance of the center of mass of the system from the $10\\text{ kg}$ mass is",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "$5\\text{ m}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{10}{3}\\text{ m}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{20}{3}\\text{ m}$",
+            "image": ""
+          },
+          {
+            "text": "$10\\text{ m}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>The center of mass is at $\\frac{20}{3}\\text{ m}$ from the $10\\text{ kg}$ mass.</b></p><p><b>Step 1:</b> Recall the formula for center of mass of two point masses on a line: $x_{cm} = \\frac{m_1 x_1 + m_2 x_2}{m_1 + m_2}$, where $x$ is measured from a chosen origin.</p><p><b>Step 2:</b> Place the $10\\text{ kg}$ mass at $x=0$ and the $20\\text{ kg}$ mass at $x=10\\text{ m}$ (the rod length).</p><p><b>Step 3:</b> Substitute: $x_{cm} = \\frac{(10)(0) + (20)(10)}{10+20} = \\frac{0 + 200}{30} = \\frac{200}{30} = \\frac{20}{3}\\text{ m}$.</p><p><b>Step 4:</b> This is the distance from the $10\\text{ kg}$ mass (origin). So the answer is $\\frac{20}{3}\\text{ m}$.</p><p><b>Common mistake:</b> Some students incorrectly take the distance from the $20\\text{ kg}$ mass, which would be $10 - \\frac{20}{3} = \\frac{10}{3}\\text{ m}$ (option 2). Always read carefully which mass the distance is measured from.</p>",
+        "_aimcq_title_hi": "$10\\text{ kg}$ और $20\\text{ kg}$ द्रव्यमान की दो वस्तुएं क्रमशः $10\\text{ m}$ लंबी एक दृढ़ छड़ (नगण्य द्रव्यमान) के दो स",
+        "_aimcq_question_content_hi": "$10\\text{ kg}$ और $20\\text{ kg}$ द्रव्यमान की दो वस्तुएं क्रमशः $10\\text{ m}$ लंबी एक दृढ़ छड़ (नगण्य द्रव्यमान) के दो सिरों से जुड़ी हैं। $10\\text{ kg}$ द्रव्यमान से निकाय के द्रव्यमान केंद्र की दूरी है",
+        "_aimcq_options_hi": [
+          {
+            "text": "$5\\text{ m}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{10}{3}\\text{ m}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{20}{3}\\text{ m}$",
+            "image": ""
+          },
+          {
+            "text": "$10\\text{ m}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><b>द्रव्यमान केंद्र $10\\text{ kg}$ द्रव्यमान से $\\frac{20}{3}\\text{ m}$ दूरी पर है।</b></p><p><b>चरण 1:</b> दो बिंदु द्रव्यमानों के लिए द्रव्यमान केंद्र का सूत्र याद करें: $x_{cm} = \\frac{m_1 x_1 + m_2 x_2}{m_1 + m_2}$, जहाँ $x$ चुने गए मूल बिंदु से मापा जाता है।</p><p><b>चरण 2:</b> $10\\text{ kg}$ द्रव्यमान को $x=0$ पर और $20\\text{ kg}$ द्रव्यमान को $x=10\\text{ m}$ (छड़ की लंबाई) पर रखें।</p><p><b>चरण 3:</b> मान रखें: $x_{cm} = \\frac{(10)(0) + (20)(10)}{10+20} = \\frac{0 + 200}{30} = \\frac{200}{30} = \\frac{20}{3}\\text{ m}$।</p><p><b>चरण 4:</b> यह $10\\text{ kg}$ द्रव्यमान (मूल बिंदु) से दूरी है। अतः उत्तर $\\frac{20}{3}\\text{ m}$ है।</p><p><b>सामान्य गलती:</b> कुछ छात्र गलती से $20\\text{ kg}$ द्रव्यमान से दूरी ले लेते हैं, जो $10 - \\frac{20}{3} = \\frac{10}{3}\\text{ m}$ (विकल्प 2) होगी। हमेशा ध्यान से पढ़ें कि दूरी किस द्रव्यमान से मापनी है।</p>"
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784482685757,
+      "post_author": 1,
+      "post_date": "2026-07-19 23:08:05",
+      "post_title": "An ideal gas undergoes four different processes from the same initial state as shown in the figure below. Those processe",
+      "post_content": "An ideal gas undergoes four different processes from the same initial state as shown in the figure below. Those processes are adiabatic, isothermal, isobaric and isochoric. The curve which represents the adiabatic process among 1, 2, 3 and 4 is [image here: P-V diagram showing four curves from same initial point: curve 1 vertical (isochoric), curve 4 horizontal (isobaric), curve 3 hyperbolic (isothermal), curve 2 steeper than curve 3 (adiabatic)]",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "1",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>Curve 2 represents the adiabatic process.</b></p><p>In a P-V diagram, an adiabatic process (no heat exchange) has a steeper slope than an isothermal process (constant temperature) because the adiabatic exponent γ > 1. For an ideal gas, the adiabatic relation is PV^γ = constant, while the isothermal relation is PV = constant. Since γ > 1, the adiabatic curve drops faster as volume increases. Among the four curves from the same initial state: curve 1 is vertical (constant volume, isochoric), curve 4 is horizontal (constant pressure, isobaric), curve 3 is a hyperbola (isothermal), and curve 2 is steeper than curve 3, so it is adiabatic.</p>",
+        "_aimcq_title_hi": "एक आदर्श गैस समान प्रारंभिक अवस्था से चार विभिन्न प्रक्रियाओं से गुज़रती है जैसा कि नीचे दिए गए चित्र में दिखाया गया है।",
+        "_aimcq_question_content_hi": "एक आदर्श गैस समान प्रारंभिक अवस्था से चार विभिन्न प्रक्रियाओं से गुज़रती है जैसा कि नीचे दिए गए चित्र में दिखाया गया है। ये प्रक्रियाएँ रुद्धोष्म, समतापी, समदाबी और समआयतनिक हैं। 1, 2, 3 और 4 में से वक्र जो रुद्धोष्म प्रक्रिया को दर्शाता है, वह है [image here: P-V आरेख जिसमें समान प्रारंभिक बिंदु से चार वक्र: वक्र 1 ऊर्ध्वाधर (समआयतनिक), वक्र 4 क्षैतिज (समदाबी), वक्र 3 अतिपरवलय (समतापी), वक्र 2 वक्र 3 से अधिक तीव्र (रुद्धोष्म)]",
+        "_aimcq_options_hi": [
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "1",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><b>वक्र 2 रुद्धोष्म प्रक्रिया को दर्शाता है।</b></p><p>P-V आरेख में, रुद्धोष्म प्रक्रिया (बिना ऊष्मा विनिमय) की ढलान समतापी प्रक्रिया (स्थिर तापमान) से अधिक होती है क्योंकि रुद्धोष्म गुणांक γ > 1 होता है। आदर्श गैस के लिए, रुद्धोष्म संबंध PV^γ = स्थिरांक है, जबकि समतापी संबंध PV = स्थिरांक है। चूँकि γ > 1, रुद्धोष्म वक्र आयतन बढ़ने पर तेज़ी से गिरता है। समान प्रारंभिक अवस्था से चार वक्रों में: वक्र 1 ऊर्ध्वाधर (स्थिर आयतन, समआयतनिक), वक्र 4 क्षैतिज (स्थिर दाब, समदाबी), वक्र 3 अतिपरवलय (समतापी), और वक्र 2 वक्र 3 से अधिक तीव्र है, इसलिए यह रुद्धोष्म है।</p>"
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784599214885,
+      "post_author": 1,
+      "post_date": "2026-07-21 07:30:14",
+      "post_title": "निम्नलिखित गद्यांश को ध्यान से पढ़िए तथा प्रश्न संख्या 12 से 16 तक के उत्तर इस गद्यांश के आधार पर दीजिए -",
+      "post_content": "हर एक राष्ट्र अपनी संस्कृति के बल पर हीँ प्रगति करता है। सांस्कृतिक धरोहर के माध्यम से हीँ वह अपना जीवन सुखी, उपयोगी, शान्त तथा आनन्दमय बना सकता है। सभ्यता और संस्कृति में घनिष्ठ सम्बन्ध होते हुए भी अंतर है। जीवन को श्रेष्ठ तथा उन्नत बनाने की साधनाओं का नाम संस्कृति है और उन साधनाओं से प्राप्त जीवन प्रणाली का नाम सभ्यता है। किसी राष्ट्र की भौगोलिक परिस्थितियों का भी उनकी संस्कृति पर प्रभाव पड़ता है।",
+      "post_status": "publish",
+      "post_type": "passage",
+      "meta_input": {
+        "_aimcq_passage_content_hi": "",
+        "_aimcq_passage_translation_custom_prompt": "",
+        "_aimcq_passage_display_title_en": "निम्नलिखित गद्यांश को ध्यान से पढ़िए तथा प्रश्न संख्या 12 से 16 तक के उत्तर इस गद्यांश के आधार पर दीजिए -",
+        "_aimcq_passage_display_title_hi": "",
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": [],
+      "embedded_media": []
+    },
+    {
+      "id": 1784599214886,
+      "post_author": 1,
+      "post_date": "2026-07-21 07:30:14",
+      "post_title": "गद्यांश का सही शीर्षक है -",
+      "post_content": "गद्यांश का सही शीर्षक है -",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "राष्ट्र के विकास में परिस्थिति का योगदान",
+            "image": ""
+          },
+          {
+            "text": "राष्ट्र के विकास में सभ्यता का योगदान",
+            "image": ""
+          },
+          {
+            "text": "राष्ट्र के विकास में प्रकृति का योगदान",
+            "image": ""
+          },
+          {
+            "text": "राष्ट्र के विकास में संस्कृति का योगदान",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>गद्यांश का केंद्रीय विषय संस्कृति के महत्व पर है।</b></p><p>गद्यांश का पहला वाक्य 'हर एक राष्ट्र अपनी संस्कृति के बल पर ही प्रगति करता है' स्पष्ट रूप से बताता है कि राष्ट्र की प्रगति में संस्कृति का योगदान सर्वोपरि है। इसके बाद संस्कृति और सभ्यता के अंतर को समझाया गया है और अंत में भौगोलिक परिस्थितियों का संस्कृति पर प्रभाव बताया गया है। अतः गद्यांश का उपयुक्त शीर्षक 'राष्ट्र के विकास में संस्कृति का योगदान' होगा। अन्य विकल्पों में 'परिस्थिति', 'सभ्यता' और 'प्रकृति' गद्यांश के मुख्य विषय नहीं हैं।</p>",
+        "_aimcq_is_passage_question": "yes",
+        "_aimcq_passage_id": "1784599214885",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784599214887,
+      "post_author": 1,
+      "post_date": "2026-07-21 07:30:14",
+      "post_title": "सभ्यता और संस्कृति में -",
+      "post_content": "सभ्यता और संस्कृति में -",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "केवल अंतर है",
+            "image": ""
+          },
+          {
+            "text": "कोई सम्बन्ध नहीं है",
+            "image": ""
+          },
+          {
+            "text": "केवल घनिष्ठ सम्बन्ध है",
+            "image": ""
+          },
+          {
+            "text": "घनिष्ठ सम्बन्ध होते हुए भी अंतर है",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>गद्यांश के अनुसार सभ्यता और संस्कृति में घनिष्ठ सम्बन्ध होते हुए भी अंतर है।</b></p><p>गद्यांश में स्पष्ट कहा गया है: 'सभ्यता और संस्कृति में घनिष्ठ सम्बन्ध होते हुए भी अंतर है।' इस वाक्य से यह सिद्ध होता है कि दोनों के बीच गहरा संबंध है, लेकिन वे एक ही नहीं हैं। इसके बाद यह भी समझाया गया है कि संस्कृति जीवन को श्रेष्ठ बनाने की साधनाओं का नाम है, जबकि सभ्यता उन साधनों से प्राप्त जीवन प्रणाली है। अतः विकल्प (d) 'घनिष्ठ सम्बन्ध होते हुए भी अंतर है' सही है।</p>",
+        "_aimcq_is_passage_question": "yes",
+        "_aimcq_passage_id": "1784599214885",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784599214888,
+      "post_author": 1,
+      "post_date": "2026-07-21 07:30:14",
+      "post_title": "गद्यांश में किस शब्द का प्रयोग नहीं है?",
+      "post_content": "गद्यांश में किस शब्द का प्रयोग नहीं है?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "परिस्थिति",
+            "image": ""
+          },
+          {
+            "text": "संस्कृति",
+            "image": ""
+          },
+          {
+            "text": "सभ्यता",
+            "image": ""
+          },
+          {
+            "text": "प्रकृति",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>गद्यांश में 'प्रकृति' शब्द का प्रयोग नहीं हुआ है।</b></p><p>गद्यांश में 'परिस्थिति' शब्द 'भौगोलिक परिस्थितियों' के रूप में आया है, 'संस्कृति' और 'सभ्यता' शब्द बार-बार प्रयुक्त हुए हैं, जबकि 'प्रकृति' शब्द का कोई उल्लेख नहीं है। अतः 'प्रकृति' ही वह शब्द है जिसका प्रयोग नहीं किया गया। सामान्यतः छात्र 'भौगोलिक परिस्थितियों' को 'प्रकृति' समझने की भूल कर सकते हैं, पर ध्यान दें कि गद्यांश में 'प्रकृति' शब्द नहीं है।</p>",
+        "_aimcq_is_passage_question": "yes",
+        "_aimcq_passage_id": "1784599214885",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784599214889,
+      "post_author": 1,
+      "post_date": "2026-07-21 07:30:14",
+      "post_title": "प्रत्येक राष्ट्र की संस्कृति वहां की -",
+      "post_content": "प्रत्येक राष्ट्र की संस्कृति वहां की -",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "भौगोलिक परिस्थितियों पर भी निर्भर होती है",
+            "image": ""
+          },
+          {
+            "text": "औद्योगिक परिस्थितियों पर भी निर्भर होती है",
+            "image": ""
+          },
+          {
+            "text": "कलात्मक परिस्थितियों पर भी निर्भर होती है",
+            "image": ""
+          },
+          {
+            "text": "उपर्युक्त में से कोई नहीं",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>गद्यांश के अनुसार राष्ट्र की संस्कृति भौगोलिक परिस्थितियों पर निर्भर होती है।</b></p><p>गद्यांश का अंतिम वाक्य 'किसी राष्ट्र की भौगोलिक परिस्थितियों का भी उनकी संस्कृति पर प्रभाव पड़ता है' स्पष्ट रूप से बताता है कि संस्कृति का भौगोलिक परिस्थितियों से संबंध है। 'भौगोलिक' का अर्थ भूगोल से संबंधित है, न कि औद्योगिक या कलात्मक। अतः विकल्प (a) सही है।</p>",
+        "_aimcq_is_passage_question": "yes",
+        "_aimcq_passage_id": "1784599214885",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1784599214890,
+      "post_author": 1,
+      "post_date": "2026-07-21 07:30:14",
+      "post_title": "राष्ट्र किस के बल पर प्रगति करते हैं?",
+      "post_content": "राष्ट्र किस के बल पर प्रगति करते हैं?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "संस्कृति के बल पर",
+            "image": ""
+          },
+          {
+            "text": "साहित्य के बल पर",
+            "image": ""
+          },
+          {
+            "text": "संगीत के बल पर",
+            "image": ""
+          },
+          {
+            "text": "कला के बल पर",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><b>गद्यांश के अनुसार राष्ट्र संस्कृति के बल पर प्रगति करते हैं।</b></p><p>गद्यांश का पहला वाक्य 'हर एक राष्ट्र अपनी संस्कृति के बल पर ही प्रगति करता है' इस प्रश्न का सीधा उत्तर देता है। यहाँ 'संस्कृति' शब्द का प्रयोग हुआ है, न कि साहित्य, संगीत या कला का। अतः सही उत्तर (a) 'संस्कृति के बल पर' है।</p>",
+        "_aimcq_is_passage_question": "yes",
+        "_aimcq_passage_id": "1784599214885",
+        "_aimcq_title_hi": "",
+        "_aimcq_question_content_hi": "",
+        "_aimcq_options_hi": [],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "General": [
+          "general"
+        ]
+      },
+      "embedded_media": []
+    }
+  ],
+  "library": "General"
+}
