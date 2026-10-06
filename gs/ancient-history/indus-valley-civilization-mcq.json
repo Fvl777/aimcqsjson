@@ -1,0 +1,1515 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "language": "English and Hindi",
+      "language_code": "02ENHI",
+      "name": "Indus Valley Civilization",
+      "slug": "indus-valley-civilization"
+    }
+  ],
+  "posts": [
+    {
+      "id": 101,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Who led the first excavation at Harappa in…",
+      "post_content": "<p>Who led the first excavation at Harappa in 1921?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "R. D. Banerji",
+            "image": ""
+          },
+          {
+            "text": "Daya Ram Sahni",
+            "image": ""
+          },
+          {
+            "text": "John Marshall",
+            "image": ""
+          },
+          {
+            "text": "Mortimer Wheeler",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Daya Ram Sahni</h5><p><b>Daya Ram Sahni</b> of the <b>ASI</b> began excavating <b>Harappa</b> in <b>1921</b>.</p><h5>Correct Option Explanation</h5><p>Harappa, on the <b>Ravi</b> in present-day <b>Pakistan</b>, gave the civilization its alternative name, <b>Harappan Civilization</b>.</p><h5>Incorrect Options Analysis</h5><ul><li><b>R. D. Banerji</b> excavated <b>Mohenjodaro</b> in <b>1922</b>, not Harappa.</li><li><b>John Marshall</b>, ASI Director-General, announced the civilization in <b>1924</b>; he did not lead this dig.</li><li><b>Mortimer Wheeler</b> became Director-General in <b>1944</b>; excavated Harappa in <b>1946</b>.</li></ul><h5>Know More</h5><ul><li><b>Charles Masson</b> first noted Harappa's ruins in <b>1826</b>.</li><li><b>Alexander Cunningham</b> reported the first Harappan seal in <b>1875</b>.</li><li>Marshall announced the find in <b>The Illustrated London News</b>, <b>1924</b>.</li><li>Harappa has <b>Cemetery H</b> and <b>Cemetery R-37</b>.</li></ul>",
+        "_aimcq_title_hi": "1921 में हड़प्पा की पहली खुदाई का…",
+        "_aimcq_question_content_hi": "<p>1921 में हड़प्पा की पहली खुदाई का नेतृत्व किसने किया?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "आर. डी. बनर्जी",
+            "image": ""
+          },
+          {
+            "text": "दयाराम साहनी",
+            "image": ""
+          },
+          {
+            "text": "जॉन मार्शल",
+            "image": ""
+          },
+          {
+            "text": "मॉर्टिमर व्हीलर",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: दयाराम साहनी</h5><p><b>ASI</b> के <b>दयाराम साहनी</b> ने <b>1921</b> में <b>हड़प्पा</b> की खुदाई शुरू की।</p><h5>सही विकल्प की व्याख्या</h5><p>वर्तमान <b>पाकिस्तान</b> में <b>रावी</b> तट पर स्थित हड़प्पा के नाम पर ही सभ्यता को <b>हड़प्पा सभ्यता</b> कहा गया।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>आर. डी. बनर्जी</b> ने <b>1922</b> में <b>मोहनजोदड़ो</b> की खुदाई की, हड़प्पा की नहीं।</li><li><b>जॉन मार्शल</b> ने <b>1924</b> में सभ्यता की घोषणा की; पहली खुदाई उनके नेतृत्व में नहीं हुई।</li><li><b>मॉर्टिमर व्हीलर</b> <b>1944</b> में ASI महानिदेशक बने; हड़प्पा की खुदाई <b>1946</b> में की।</li></ul><h5>और जानें</h5><ul><li><b>चार्ल्स मैसन</b> ने <b>1826</b> में हड़प्पा के खंडहरों का उल्लेख किया।</li><li><b>अलेक्जेंडर कनिंघम</b> ने <b>1875</b> में पहली हड़प्पाई मुहर बताई।</li><li>मार्शल की घोषणा <b>द इलस्ट्रेटेड लंदन न्यूज़</b> में, <b>1924</b>।</li><li>हड़प्पा में <b>कब्रिस्तान-H</b> और <b>कब्रिस्तान R-37</b> मिले हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 102,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Consider the following Indus Valley sites…",
+      "post_content": "<p>Consider the following Indus Valley sites and arrange them in the correct chronological order of their discovery.</p><ol><li>Lothal</li><li>Dholavira</li><li>Harappa</li><li>Mohenjodaro</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "4, 3, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "3, 4, 2, 1",
+            "image": ""
+          },
+          {
+            "text": "3, 4, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "1, 3, 4, 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 3, 4, 1, 2</h5><p>Order of discovery: <b>Harappa</b>, <b>Mohenjodaro</b>, <b>Lothal</b>, <b>Dholavira</b>.</p><h5>Correct Option Explanation</h5><ul><li><b>Harappa</b> — <b>1921</b>; <b>Mohenjodaro</b> — <b>1922</b>.</li><li><b>Lothal</b> — <b>1954</b>; <b>Dholavira</b> — <b>1967–68</b>.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>4, 3, 1, 2: Harappa (1921) was found before Mohenjodaro (1922).</li><li>3, 4, 2, 1: Lothal (1954) was found before Dholavira (1967–68).</li><li>1, 3, 4, 2: Lothal wrongly placed first; Harappa and Mohenjodaro came earlier.</li></ul><h5>Know More</h5><ul><li><b>S. R. Rao</b> discovered <b>Lothal</b> in <b>1954</b>.</li><li><b>J. P. Joshi</b> discovered <b>Dholavira</b>; <b>R. S. Bisht</b> excavated it <b>1990–2005</b>.</li><li><b>R. D. Banerji</b> found <b>Mohenjodaro</b> in <b>1922</b>.</li><li><b>Kalibangan</b> excavated <b>1960–69</b> by <b>B. B. Lal</b> and <b>B. K. Thapar</b>.</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित सिंधु घाटी स्थलों को उनकी…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित सिंधु घाटी स्थलों को उनकी खोज के सही कालानुक्रमिक क्रम में व्यवस्थित कीजिए।</p><ol><li>लोथल</li><li>धौलावीरा</li><li>हड़प्पा</li><li>मोहनजोदड़ो</li></ol><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "4, 3, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "3, 4, 2, 1",
+            "image": ""
+          },
+          {
+            "text": "3, 4, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "1, 3, 4, 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: 3, 4, 1, 2</h5><p>खोज का क्रम: <b>हड़प्पा</b>, <b>मोहनजोदड़ो</b>, <b>लोथल</b>, <b>धौलावीरा</b>।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>हड़प्पा</b> — <b>1921</b>; <b>मोहनजोदड़ो</b> — <b>1922</b>।</li><li><b>लोथल</b> — <b>1954</b>; <b>धौलावीरा</b> — <b>1967–68</b>।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>4, 3, 1, 2: हड़प्पा (1921) की खोज मोहनजोदड़ो (1922) से पहले हुई।</li><li>3, 4, 2, 1: लोथल (1954) की खोज धौलावीरा (1967–68) से पहले हुई।</li><li>1, 3, 4, 2: लोथल को गलत रूप से पहले रखा गया; हड़प्पा व मोहनजोदड़ो पहले मिले।</li></ul><h5>और जानें</h5><ul><li><b>एस. आर. राव</b> ने <b>1954</b> में <b>लोथल</b> खोजा।</li><li><b>जे. पी. जोशी</b> ने <b>धौलावीरा</b> खोजा; <b>आर. एस. बिष्ट</b> ने <b>1990–2005</b> खुदाई की।</li><li><b>आर. डी. बनर्जी</b> ने <b>1922</b> में <b>मोहनजोदड़ो</b> खोजा।</li><li><b>कालीबंगा</b> की खुदाई <b>1960–69</b>, <b>बी. बी. लाल</b> व <b>बी. के. थापर</b> द्वारा।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 103,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which of the following statements is/are…",
+      "post_content": "<p>Which of the following statements about the Indus Valley Civilization is/are correct?</p><ol><li>The Indus script has not been conclusively deciphered so far.</li><li>Most Harappan seals were made of steatite.</li><li>Iron was widely used by the Harappans for tools and weapons.</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1",
+            "image": ""
+          },
+          {
+            "text": "Only 1 and 2",
+            "image": ""
+          },
+          {
+            "text": "Only 2 and 3",
+            "image": ""
+          },
+          {
+            "text": "1, 2 and 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 1 and 2</h5><p>Statements <b>1</b> and <b>2</b> are correct; statement <b>3</b> is false.</p><h5>Correct Option Explanation</h5><p>The script, with roughly <b>400</b> signs, remains <b>undeciphered</b>. Seals were mostly carved from <b>steatite</b>.</p><h5>Incorrect Options Analysis</h5><ul><li>Only 1: omits statement 2, which is also true.</li><li>Only 2 and 3: statement 3 is false; statement 1 is true.</li><li>1, 2 and 3: statement 3 is false — Harappans used <b>copper</b> and <b>bronze</b>, not iron.</li></ul><h5>Know More</h5><ul><li>Iron enters India only c. <b>1000 BCE</b>.</li><li>Script runs mostly <b>right to left</b>.</li><li><b>I. Mahadevan</b> catalogued <b>417</b> signs (1977).</li><li>Seals also made of <b>faience</b>, terracotta, copper.</li></ul>",
+        "_aimcq_title_hi": "सिंधु घाटी सभ्यता के बारे में निम्नलिखित…",
+        "_aimcq_question_content_hi": "<p>सिंधु घाटी सभ्यता के बारे में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?</p><ol><li>सिंधु लिपि को अब तक पूर्ण रूप से पढ़ा नहीं जा सका है।</li><li>अधिकांश हड़प्पाई मुहरें सेलखड़ी की बनी थीं।</li><li>हड़प्पावासी औज़ारों और हथियारों में लोहे का व्यापक उपयोग करते थे।</li></ol><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 1",
+            "image": ""
+          },
+          {
+            "text": "केवल 1 और 2",
+            "image": ""
+          },
+          {
+            "text": "केवल 2 और 3",
+            "image": ""
+          },
+          {
+            "text": "1, 2 और 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 1 और 2</h5><p>कथन <b>1</b> और <b>2</b> सही हैं; कथन <b>3</b> असत्य है।</p><h5>सही विकल्प की व्याख्या</h5><p>लगभग <b>400</b> चिह्नों वाली लिपि अब भी <b>अपठित</b> है। मुहरें अधिकतर <b>सेलखड़ी</b> से बनीं।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>केवल 1: कथन 2 भी सत्य है, उसे छोड़ दिया गया।</li><li>केवल 2 और 3: कथन 3 असत्य है; कथन 1 सत्य है।</li><li>1, 2 और 3: कथन 3 असत्य है — हड़प्पावासी <b>तांबा</b> व <b>कांस्य</b> प्रयोग करते थे, लोहा नहीं।</li></ul><h5>और जानें</h5><ul><li>भारत में लोहा लगभग <b>1000 ई.पू.</b> में आया।</li><li>लिपि प्रायः <b>दाएँ से बाएँ</b> लिखी गई।</li><li><b>आई. महादेवन</b> ने <b>417</b> चिह्न सूचीबद्ध किए (1977)।</li><li>मुहरें <b>फ़ायंस</b>, मृदा व तांबे की भी बनीं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 104,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Match List - I with List - II and choose…",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Site)</th><th>List - II<br>(Feature)</th></tr><tr><td>A. Lothal</td><td>1. Great Bath</td></tr><tr><td>B. Kalibangan</td><td>2. Ploughed field</td></tr><tr><td>C. Mohenjodaro</td><td>3. Dockyard</td></tr><tr><td>D. Dholavira</td><td>4. Inscription of ten large signs</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-2, B-3, C-1, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-2, C-4, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-2, C-1, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-1, C-2, D-4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-3, B-2, C-1, D-4</h5><p>Each site is paired with its signature feature.</p><h5>Correct Option Explanation</h5><ul><li><b>Lothal</b> — <b>dockyard</b>; <b>Kalibangan</b> — <b>ploughed field</b>.</li><li><b>Mohenjodaro</b> — <b>Great Bath</b>; <b>Dholavira</b> — <b>ten-sign</b> signboard.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>A-2, B-3, C-1, D-4: Lothal and Kalibangan features are swapped.</li><li>A-3, B-2, C-4, D-1: Mohenjodaro and Dholavira features are swapped.</li><li>A-3, B-1, C-2, D-4: Kalibangan and Mohenjodaro features are swapped.</li></ul><h5>Know More</h5><ul><li><b>Lothal</b> lies near the <b>Bhogavo</b> river, <b>Gulf of Khambhat</b>.</li><li>Great Bath measures about <b>12 m × 7 m</b>.</li><li><b>Dholavira</b> has three divisions: citadel, middle town, lower town.</li><li><b>Kalibangan</b> also has <b>fire altars</b>.</li></ul>",
+        "_aimcq_title_hi": "सूची - I को सूची - II से सुमेलित कीजिए और…",
+        "_aimcq_question_content_hi": "<p>सूची - I को सूची - II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग करके सही उत्तर चुनिए।</p><table border='1' cellpadding='4'><tr><th>सूची - I<br>(स्थल)</th><th>सूची - II<br>(विशेषता)</th></tr><tr><td>A. लोथल</td><td>1. विशाल स्नानागार</td></tr><tr><td>B. कालीबंगा</td><td>2. जुता हुआ खेत</td></tr><tr><td>C. मोहनजोदड़ो</td><td>3. गोदी (डॉकयार्ड)</td></tr><tr><td>D. धौलावीरा</td><td>4. दस बड़े चिह्नों वाला अभिलेख</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "A-2, B-3, C-1, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-2, C-4, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-2, C-1, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-1, C-2, D-4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: A-3, B-2, C-1, D-4</h5><p>प्रत्येक स्थल को उसकी विशिष्ट विशेषता से जोड़ा गया है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>लोथल</b> — <b>गोदी</b>; <b>कालीबंगा</b> — <b>जुता हुआ खेत</b>।</li><li><b>मोहनजोदड़ो</b> — <b>विशाल स्नानागार</b>; <b>धौलावीरा</b> — <b>दस चिह्नों</b> वाला साइनबोर्ड।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>A-2, B-3, C-1, D-4: लोथल और कालीबंगा की विशेषताएँ आपस में बदल गईं।</li><li>A-3, B-2, C-4, D-1: मोहनजोदड़ो और धौलावीरा की विशेषताएँ आपस में बदल गईं।</li><li>A-3, B-1, C-2, D-4: कालीबंगा और मोहनजोदड़ो की विशेषताएँ आपस में बदल गईं।</li></ul><h5>और जानें</h5><ul><li><b>लोथल</b> <b>खंभात की खाड़ी</b> के पास <b>भोगावो</b> नदी पर है।</li><li>विशाल स्नानागार लगभग <b>12 मी × 7 मी</b> का है।</li><li><b>धौलावीरा</b> तीन भागों में बँटा: दुर्ग, मध्य नगर, निचला नगर।</li><li><b>कालीबंगा</b> में <b>अग्निवेदियाँ</b> भी मिलीं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 105,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which of the following pairs is/are NOT…",
+      "post_content": "<p>Which of the following pairs of Harappan site and river is/are NOT correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Site)</th><th>(River)</th></tr><tr><td>1. Harappa</td><td>Ravi</td></tr><tr><td>2. Kalibangan</td><td>Ghaggar</td></tr><tr><td>3. Ropar</td><td>Sutlej</td></tr><tr><td>4. Lothal</td><td>Narmada</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1, 2 and 3",
+            "image": ""
+          },
+          {
+            "text": "Only 3 and 4",
+            "image": ""
+          },
+          {
+            "text": "Only 1",
+            "image": ""
+          },
+          {
+            "text": "Only 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 4</h5><p>Only the <b>Lothal–Narmada</b> pair is wrongly matched.</p><h5>Correct Option Explanation</h5><p><b>Lothal</b> lies on the <b>Bhogavo</b> river near the <b>Gulf of Khambhat</b>, not the Narmada.</p><h5>Incorrect Options Analysis</h5><ul><li>Only 1, 2 and 3: Harappa–Ravi, Kalibangan–Ghaggar, Ropar–Sutlej are all correct pairs.</li><li>Only 3 and 4: Ropar–Sutlej is correct; only pair 4 is wrong.</li><li>Only 1: Harappa–Ravi is correct.</li></ul><h5>Know More</h5><ul><li><b>Mohenjodaro</b> and <b>Chanhudaro</b> lie on the <b>Indus</b>.</li><li><b>Ropar</b> excavated <b>1953–55</b> by <b>Y. D. Sharma</b>.</li><li><b>Kalibangan</b> lies on the dried <b>Ghaggar–Hakra</b> channel.</li><li><b>Lothal</b> excavated by <b>S. R. Rao</b>.</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित में से कौन-सा/से युग्म…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित में से हड़प्पाई स्थल और नदी का कौन-सा/से युग्म सही सुमेलित नहीं है/हैं?</p><table border='1' cellpadding='4'><tr><th>(स्थल)</th><th>(नदी)</th></tr><tr><td>1. हड़प्पा</td><td>रावी</td></tr><tr><td>2. कालीबंगा</td><td>घग्घर</td></tr><tr><td>3. रोपड़</td><td>सतलुज</td></tr><tr><td>4. लोथल</td><td>नर्मदा</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 1, 2 और 3",
+            "image": ""
+          },
+          {
+            "text": "केवल 3 और 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 1",
+            "image": ""
+          },
+          {
+            "text": "केवल 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 4</h5><p>केवल <b>लोथल–नर्मदा</b> युग्म गलत सुमेलित है।</p><h5>सही विकल्प की व्याख्या</h5><p><b>लोथल</b> <b>खंभात की खाड़ी</b> के पास <b>भोगावो</b> नदी पर है, नर्मदा पर नहीं।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>केवल 1, 2 और 3: हड़प्पा–रावी, कालीबंगा–घग्घर, रोपड़–सतलुज तीनों सही युग्म हैं।</li><li>केवल 3 और 4: रोपड़–सतलुज सही है; केवल युग्म 4 गलत है।</li><li>केवल 1: हड़प्पा–रावी सही युग्म है।</li></ul><h5>और जानें</h5><ul><li><b>मोहनजोदड़ो</b> और <b>चन्हूदड़ो</b> <b>सिंधु</b> पर स्थित हैं।</li><li><b>रोपड़</b> की खुदाई <b>1953–55</b> में <b>वाई. डी. शर्मा</b> ने की।</li><li><b>कालीबंगा</b> सूखी <b>घग्घर–हाकरा</b> धारा पर है।</li><li><b>लोथल</b> की खुदाई <b>एस. आर. राव</b> ने की।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 106,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "The name 'Mohenjodaro', in the Sindhi…",
+      "post_content": "<p>The name 'Mohenjodaro', in the Sindhi language, literally means:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "City of the Priests",
+            "image": ""
+          },
+          {
+            "text": "Citadel of the Gods",
+            "image": ""
+          },
+          {
+            "text": "Mound of the Dead",
+            "image": ""
+          },
+          {
+            "text": "Land of the Seven Rivers",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Mound of the Dead</h5><p><b>Mohenjodaro</b> (Sindhi: <b>Mohen-jo-daro</b>) means <b>Mound of the Dead</b>.</p><h5>Correct Option Explanation</h5><p>The site lies on the <b>Indus</b> in <b>Larkana</b>, <b>Sindh</b>; <b>R. D. Banerji</b> found it in <b>1922</b>.</p><h5>Incorrect Options Analysis</h5><ul><li>City of the Priests: not the meaning of the name.</li><li>Citadel of the Gods: not the meaning of the name.</li><li>Land of the Seven Rivers: that is <b>Sapta Sindhu</b> of the <b>Rig Veda</b>.</li></ul><h5>Know More</h5><ul><li>UNESCO <b>World Heritage Site</b> since <b>1980</b>.</li><li>Citadel in the <b>west</b>, lower town in the <b>east</b>.</li><li>Houses built of baked bricks, ratio <b>4:2:1</b>.</li><li>Home to the <b>Great Bath</b> and <b>Pashupati</b> seal.</li></ul>",
+        "_aimcq_title_hi": "सिंधी भाषा में 'मोहनजोदड़ो' का शाब्दिक…",
+        "_aimcq_question_content_hi": "<p>सिंधी भाषा में 'मोहनजोदड़ो' का शाब्दिक अर्थ है:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "पुजारियों का नगर",
+            "image": ""
+          },
+          {
+            "text": "देवताओं का दुर्ग",
+            "image": ""
+          },
+          {
+            "text": "मृतकों का टीला",
+            "image": ""
+          },
+          {
+            "text": "सात नदियों की भूमि",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: मृतकों का टीला</h5><p><b>मोहनजोदड़ो</b> (सिंधी: <b>मोहन-जो-दड़ो</b>) का अर्थ <b>मृतकों का टीला</b> है।</p><h5>सही विकल्प की व्याख्या</h5><p>यह स्थल <b>सिंध</b> के <b>लरकाना</b> में <b>सिंधु</b> तट पर है; <b>आर. डी. बनर्जी</b> ने <b>1922</b> में इसे खोजा।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>पुजारियों का नगर: नाम का यह अर्थ नहीं है।</li><li>देवताओं का दुर्ग: नाम का यह अर्थ नहीं है।</li><li>सात नदियों की भूमि: यह <b>ऋग्वेद</b> का <b>सप्त सिंधु</b> क्षेत्र है।</li></ul><h5>और जानें</h5><ul><li><b>1980</b> से यूनेस्को <b>विश्व धरोहर स्थल</b>।</li><li>दुर्ग <b>पश्चिम</b> में, निचला नगर <b>पूर्व</b> में।</li><li>मकान पक्की ईंटों के, अनुपात <b>4:2:1</b>।</li><li>यहाँ <b>विशाल स्नानागार</b> और <b>पशुपति</b> मुहर मिली।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 107,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which of the following pairs of Harappan…",
+      "post_content": "<p>Which of the following pairs of Harappan site and present location is/are correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Site)</th><th>(Present location)</th></tr><tr><td>1. Dholavira</td><td>Gujarat</td></tr><tr><td>2. Rakhigarhi</td><td>Haryana</td></tr><tr><td>3. Kalibangan</td><td>Punjab</td></tr><tr><td>4. Ropar</td><td>Punjab</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1 and 2",
+            "image": ""
+          },
+          {
+            "text": "Only 1, 2 and 4",
+            "image": ""
+          },
+          {
+            "text": "Only 2 and 3",
+            "image": ""
+          },
+          {
+            "text": "1, 2, 3 and 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 1, 2 and 4</h5><p>Pairs <b>1</b>, <b>2</b> and <b>4</b> are correct; <b>Kalibangan</b> is not in Punjab.</p><h5>Correct Option Explanation</h5><p><b>Dholavira</b> — <b>Kutch, Gujarat</b>; <b>Rakhigarhi</b> — <b>Hisar, Haryana</b>; <b>Ropar</b> — <b>Rupnagar, Punjab</b>. Kalibangan is in <b>Rajasthan</b>.</p><h5>Incorrect Options Analysis</h5><ul><li>Only 1 and 2: omits pair 4, which is also correct.</li><li>Only 2 and 3: pair 3 is wrong; pair 1 is wrongly left out.</li><li>1, 2, 3 and 4: pair 3 is wrong.</li></ul><h5>Know More</h5><ul><li><b>Banawali</b> lies in <b>Fatehabad</b>, Haryana.</li><li><b>Kalibangan</b> lies in <b>Hanumangarh</b> district.</li><li><b>Alamgirpur</b> lies near <b>Meerut</b>, Uttar Pradesh.</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित में से कौन-सा/से युग्म…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित में से हड़प्पाई स्थल और उसकी वर्तमान स्थिति का कौन-सा/से युग्म सही सुमेलित है/हैं?</p><table border='1' cellpadding='4'><tr><th>(स्थल)</th><th>(वर्तमान स्थिति)</th></tr><tr><td>1. धौलावीरा</td><td>गुजरात</td></tr><tr><td>2. राखीगढ़ी</td><td>हरियाणा</td></tr><tr><td>3. कालीबंगा</td><td>पंजाब</td></tr><tr><td>4. रोपड़</td><td>पंजाब</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 1 और 2",
+            "image": ""
+          },
+          {
+            "text": "केवल 1, 2 और 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 2 और 3",
+            "image": ""
+          },
+          {
+            "text": "1, 2, 3 और 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 1, 2 और 4</h5><p>युग्म <b>1</b>, <b>2</b> और <b>4</b> सही हैं; <b>कालीबंगा</b> पंजाब में नहीं है।</p><h5>सही विकल्प की व्याख्या</h5><p><b>धौलावीरा</b> — <b>कच्छ, गुजरात</b>; <b>राखीगढ़ी</b> — <b>हिसार, हरियाणा</b>; <b>रोपड़</b> — <b>रूपनगर, पंजाब</b>। कालीबंगा <b>राजस्थान</b> में है।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>केवल 1 और 2: युग्म 4 भी सही है, उसे छोड़ दिया गया।</li><li>केवल 2 और 3: युग्म 3 गलत है; युग्म 1 गलती से छूट गया।</li><li>1, 2, 3 और 4: युग्म 3 गलत है।</li></ul><h5>और जानें</h5><ul><li><b>बनावली</b> हरियाणा के <b>फतेहाबाद</b> में है।</li><li><b>कालीबंगा</b> <b>हनुमानगढ़</b> जिले में है।</li><li><b>आलमगीरपुर</b> उत्तर प्रदेश में <b>मेरठ</b> के पास है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 108,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "The seal identified by John Marshall as…",
+      "post_content": "<p>The seal identified by John Marshall as the 'Proto-Shiva' or 'Pashupati' seal was discovered at:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Harappa",
+            "image": ""
+          },
+          {
+            "text": "Chanhudaro",
+            "image": ""
+          },
+          {
+            "text": "Lothal",
+            "image": ""
+          },
+          {
+            "text": "Mohenjodaro",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Mohenjodaro</h5><p>The <b>Pashupati seal</b> was found at <b>Mohenjodaro</b>.</p><h5>Correct Option Explanation</h5><p>It shows a seated, horned figure ringed by an <b>elephant</b>, <b>tiger</b>, <b>rhinoceros</b> and <b>buffalo</b>; <b>Marshall</b> called it <b>Proto-Shiva</b>.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Harappa</b> is known for its red sandstone male torso and granaries.</li><li><b>Chanhudaro</b>, a craft site without a citadel, was found by <b>N. G. Majumdar</b> in <b>1931</b>.</li><li><b>Lothal</b> is known for its dockyard.</li></ul><h5>Know More</h5><ul><li>The seal is made of <b>steatite</b>.</li><li>The <b>unicorn</b> bull is the commonest seal motif.</li><li><b>Priest-King</b> bust also comes from Mohenjodaro.</li><li>Bronze <b>Dancing Girl</b> was found here too.</li></ul>",
+        "_aimcq_title_hi": "जॉन मार्शल द्वारा 'आद्य-शिव' या 'पशुपति'…",
+        "_aimcq_question_content_hi": "<p>जॉन मार्शल द्वारा 'आद्य-शिव' या 'पशुपति' मुहर के रूप में पहचानी गई मुहर कहाँ से प्राप्त हुई थी?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "हड़प्पा",
+            "image": ""
+          },
+          {
+            "text": "चन्हूदड़ो",
+            "image": ""
+          },
+          {
+            "text": "लोथल",
+            "image": ""
+          },
+          {
+            "text": "मोहनजोदड़ो",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: मोहनजोदड़ो</h5><p><b>पशुपति मुहर</b> <b>मोहनजोदड़ो</b> से मिली।</p><h5>सही विकल्प की व्याख्या</h5><p>इसमें सींगयुक्त बैठी आकृति के चारों ओर <b>हाथी</b>, <b>बाघ</b>, <b>गैंडा</b> और <b>भैंसा</b> हैं; <b>मार्शल</b> ने इसे <b>आद्य-शिव</b> कहा।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>हड़प्पा</b> लाल बलुआ पत्थर के पुरुष धड़ और अन्नागारों के लिए प्रसिद्ध है।</li><li><b>चन्हूदड़ो</b> दुर्ग-रहित शिल्प केंद्र है; <b>एन. जी. मजूमदार</b> ने <b>1931</b> में खोजा।</li><li><b>लोथल</b> अपनी गोदी के लिए प्रसिद्ध है।</li></ul><h5>और जानें</h5><ul><li>यह मुहर <b>सेलखड़ी</b> की बनी है।</li><li>मुहरों पर सबसे आम आकृति <b>एकशृंगी</b> बैल है।</li><li><b>पुजारी-राजा</b> की मूर्ति भी मोहनजोदड़ो से मिली।</li><li>कांस्य <b>नर्तकी</b> भी यहीं मिली।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 109,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Match List - I with List - II and choose…",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Site)</th><th>List - II<br>(Archaeologist associated with excavation)</th></tr><tr><td>A. Chanhudaro</td><td>1. S. R. Rao</td></tr><tr><td>B. Lothal</td><td>2. N. G. Majumdar</td></tr><tr><td>C. Kalibangan</td><td>3. B. B. Lal and B. K. Thapar</td></tr><tr><td>D. Dholavira</td><td>4. R. S. Bisht</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-2, B-1, C-3, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-1, B-2, C-3, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-1, C-4, D-3",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-1, C-2, D-4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-2, B-1, C-3, D-4</h5><p>Each site is paired with the archaeologist linked to its excavation.</p><h5>Correct Option Explanation</h5><ul><li><b>Chanhudaro</b> — <b>N. G. Majumdar</b> (1931); <b>Lothal</b> — <b>S. R. Rao</b>.</li><li><b>Kalibangan</b> — <b>B. B. Lal</b> and <b>B. K. Thapar</b>; <b>Dholavira</b> — <b>R. S. Bisht</b>.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>A-1, B-2, C-3, D-4: Chanhudaro and Lothal archaeologists are swapped.</li><li>A-2, B-1, C-4, D-3: Kalibangan and Dholavira archaeologists are swapped.</li><li>A-3, B-1, C-2, D-4: Chanhudaro and Kalibangan archaeologists are wrongly paired.</li></ul><h5>Know More</h5><ul><li><b>E. J. H. Mackay</b> excavated <b>Chanhudaro</b> in <b>1935–36</b>.</li><li><b>Lothal</b> excavated <b>1955–62</b>.</li><li><b>Dholavira</b> excavated <b>1990–2005</b>.</li><li><b>Chanhudaro</b> was a <b>bead-making</b> centre.</li></ul>",
+        "_aimcq_title_hi": "सूची - I को सूची - II से सुमेलित कीजिए और…",
+        "_aimcq_question_content_hi": "<p>सूची - I को सूची - II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग करके सही उत्तर चुनिए।</p><table border='1' cellpadding='4'><tr><th>सूची - I<br>(स्थल)</th><th>सूची - II<br>(खुदाई से जुड़े पुरातत्वविद)</th></tr><tr><td>A. चन्हूदड़ो</td><td>1. एस. आर. राव</td></tr><tr><td>B. लोथल</td><td>2. एन. जी. मजूमदार</td></tr><tr><td>C. कालीबंगा</td><td>3. बी. बी. लाल और बी. के. थापर</td></tr><tr><td>D. धौलावीरा</td><td>4. आर. एस. बिष्ट</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "A-2, B-1, C-3, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-1, B-2, C-3, D-4",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-1, C-4, D-3",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-1, C-2, D-4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: A-2, B-1, C-3, D-4</h5><p>प्रत्येक स्थल को उसकी खुदाई से जुड़े पुरातत्वविद से जोड़ा गया है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>चन्हूदड़ो</b> — <b>एन. जी. मजूमदार</b> (1931); <b>लोथल</b> — <b>एस. आर. राव</b>।</li><li><b>कालीबंगा</b> — <b>बी. बी. लाल</b> व <b>बी. के. थापर</b>; <b>धौलावीरा</b> — <b>आर. एस. बिष्ट</b>।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>A-1, B-2, C-3, D-4: चन्हूदड़ो और लोथल के पुरातत्वविद आपस में बदल गए।</li><li>A-2, B-1, C-4, D-3: कालीबंगा और धौलावीरा के पुरातत्वविद आपस में बदल गए।</li><li>A-3, B-1, C-2, D-4: चन्हूदड़ो और कालीबंगा के पुरातत्वविद गलत जोड़े गए।</li></ul><h5>और जानें</h5><ul><li><b>ई. जे. एच. मैके</b> ने <b>1935–36</b> में <b>चन्हूदड़ो</b> की खुदाई की।</li><li><b>लोथल</b> की खुदाई <b>1955–62</b> में हुई।</li><li><b>धौलावीरा</b> की खुदाई <b>1990–2005</b> में हुई।</li><li><b>चन्हूदड़ो</b> <b>मनका-निर्माण</b> का केंद्र था।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 110,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Given below are two statements, one is…",
+      "post_content": "<p>Given below are two statements, one is labelled as <b>Assertion (A)</b> and the other as <b>Reason (R)</b>.</p><p><b>Assertion (A):</b> Harappan cities are regarded as among the earliest examples of planned urban settlements.</p><p><b>Reason (R):</b> Streets in Harappan cities cut one another at right angles in a grid pattern and were provided with covered drains.</p><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "(A) is true, but (R) is false",
+            "image": ""
+          },
+          {
+            "text": "(A) is false, but (R) is true",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Both (A) and (R) are true and (R) is the correct explanation of (A)</h5><p>The <b>grid layout</b> and <b>covered drains</b> are the proof of planning.</p><h5>Correct Option Explanation</h5><p>Streets met at <b>right angles</b>, dividing cities into blocks; <b>covered drains</b> with inspection holes ran along them — the marks of a <b>planned city</b>.</p><h5>Incorrect Options Analysis</h5><ul><li>(R) is not a separate fact: grid streets and drains directly explain (A).</li><li>(R) is true, so \"(R) is false\" fails.</li><li>(A) is true, so \"(A) is false\" fails.</li></ul><h5>Know More</h5><ul><li>Cities split into <b>citadel</b> and <b>lower town</b>.</li><li>Baked bricks followed a <b>4:2:1</b> ratio.</li><li><b>Dholavira</b> has three divisions.</li><li>Houses faced inwards around <b>courtyards</b>.</li></ul>",
+        "_aimcq_title_hi": "नीचे दो कथन दिए गए हैं, जिनमें से एक को…",
+        "_aimcq_question_content_hi": "<p>नीचे दो कथन दिए गए हैं, जिनमें से एक को <b>अभिकथन (A)</b> तथा दूसरे को <b>कारण (R)</b> कहा गया है।</p><p><b>अभिकथन (A):</b> हड़प्पाई नगर नियोजित नगरीय बस्तियों के सबसे प्रारंभिक उदाहरणों में गिने जाते हैं।</p><p><b>कारण (R):</b> हड़प्पाई नगरों में सड़कें ग्रिड पद्धति में एक-दूसरे को समकोण पर काटती थीं और उनमें ढकी हुई नालियाँ बनी थीं।</p><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "(A) और (R) दोनों सत्य हैं, किंतु (R), (A) की सही व्याख्या नहीं है",
+            "image": ""
+          },
+          {
+            "text": "(A) और (R) दोनों सत्य हैं और (R), (A) की सही व्याख्या है",
+            "image": ""
+          },
+          {
+            "text": "(A) सत्य है, किंतु (R) असत्य है",
+            "image": ""
+          },
+          {
+            "text": "(A) असत्य है, किंतु (R) सत्य है",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: (A) और (R) दोनों सत्य हैं और (R), (A) की सही व्याख्या है</h5><p><b>ग्रिड योजना</b> और <b>ढकी नालियाँ</b> नियोजन का प्रमाण हैं।</p><h5>सही विकल्प की व्याख्या</h5><p>सड़कें <b>समकोण</b> पर मिलकर नगर को खंडों में बाँटती थीं; साथ में निरीक्षण-छिद्रों वाली <b>ढकी नालियाँ</b> थीं — यही <b>नियोजित नगर</b> के लक्षण हैं।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>(R) अलग तथ्य नहीं है: ग्रिड सड़कें व नालियाँ सीधे (A) की व्याख्या करती हैं।</li><li>(R) सत्य है, इसलिए \"(R) असत्य है\" गलत है।</li><li>(A) सत्य है, इसलिए \"(A) असत्य है\" गलत है।</li></ul><h5>और जानें</h5><ul><li>नगर <b>दुर्ग</b> और <b>निचले नगर</b> में बँटे थे।</li><li>पक्की ईंटों का अनुपात <b>4:2:1</b> था।</li><li><b>धौलावीरा</b> तीन भागों में बँटा था।</li><li>मकान <b>आँगन</b> के चारों ओर भीतर की ओर खुलते थे।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 111,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Consider the following stages of cultural…",
+      "post_content": "<p>Consider the following stages of cultural development in the Indus region and arrange them in the correct chronological order, from earliest to latest.</p><ol><li>Mature Harappan phase</li><li>Late Harappan phase</li><li>Early Harappan phase</li><li>Mehrgarh Neolithic settlement</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "3, 4, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "4, 3, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "4, 3, 2, 1",
+            "image": ""
+          },
+          {
+            "text": "4, 1, 3, 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 4, 3, 1, 2</h5><p>Order: <b>Mehrgarh</b>, Early Harappan, Mature Harappan, Late Harappan.</p><h5>Correct Option Explanation</h5><ul><li><b>Mehrgarh</b> Neolithic — c. <b>7000 BCE</b>.</li><li>Early — c. <b>3300–2600 BCE</b>; Mature — c. <b>2600–1900 BCE</b>; Late — c. <b>1900–1300 BCE</b>.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>3, 4, 1, 2: Mehrgarh predates the Early Harappan phase.</li><li>4, 3, 2, 1: Late phase placed before Mature phase.</li><li>4, 1, 3, 2: Mature phase placed before Early phase.</li></ul><h5>Know More</h5><ul><li><b>J.-F. Jarrige</b> discovered <b>Mehrgarh</b> in <b>1974</b>.</li><li>Mehrgarh lies near the <b>Bolan</b> river, Balochistan.</li><li><b>Kot Diji</b> represents an Early Harappan culture.</li><li><b>Cemetery H</b> belongs to the Late phase.</li></ul>",
+        "_aimcq_title_hi": "सिंधु क्षेत्र में सांस्कृतिक विकास के…",
+        "_aimcq_question_content_hi": "<p>सिंधु क्षेत्र में सांस्कृतिक विकास के निम्नलिखित चरणों को प्राचीनतम से नवीनतम के सही कालानुक्रमिक क्रम में व्यवस्थित कीजिए।</p><ol><li>परिपक्व हड़प्पा चरण</li><li>उत्तर हड़प्पा चरण</li><li>प्रारंभिक हड़प्पा चरण</li><li>मेहरगढ़ नवपाषाणिक बस्ती</li></ol><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "3, 4, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "4, 3, 1, 2",
+            "image": ""
+          },
+          {
+            "text": "4, 3, 2, 1",
+            "image": ""
+          },
+          {
+            "text": "4, 1, 3, 2",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: 4, 3, 1, 2</h5><p>क्रम: <b>मेहरगढ़</b>, प्रारंभिक हड़प्पा, परिपक्व हड़प्पा, उत्तर हड़प्पा।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>मेहरगढ़</b> नवपाषाण — लगभग <b>7000 ई.पू.</b></li><li>प्रारंभिक — लगभग <b>3300–2600 ई.पू.</b>; परिपक्व — लगभग <b>2600–1900 ई.पू.</b>; उत्तर — लगभग <b>1900–1300 ई.पू.</b></li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>3, 4, 1, 2: मेहरगढ़ प्रारंभिक हड़प्पा चरण से पहले का है।</li><li>4, 3, 2, 1: उत्तर चरण को परिपक्व चरण से पहले रखा गया।</li><li>4, 1, 3, 2: परिपक्व चरण को प्रारंभिक चरण से पहले रखा गया।</li></ul><h5>और जानें</h5><ul><li><b>जे.-एफ. जारिज</b> ने <b>1974</b> में <b>मेहरगढ़</b> खोजा।</li><li>मेहरगढ़ बलूचिस्तान में <b>बोलन</b> नदी के पास है।</li><li><b>कोट दीजी</b> प्रारंभिक हड़प्पा संस्कृति का प्रतिनिधि है।</li><li><b>कब्रिस्तान-H</b> उत्तर चरण का है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 112,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which of the following pre-Harappan…",
+      "post_content": "<p>Which of the following pre-Harappan Neolithic sites, situated near the Bolan Pass in Balochistan, shows the earliest evidence of farming in South Asia?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Kot Diji",
+            "image": ""
+          },
+          {
+            "text": "Mehrgarh",
+            "image": ""
+          },
+          {
+            "text": "Amri",
+            "image": ""
+          },
+          {
+            "text": "Kunal",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Mehrgarh</h5><p><b>Mehrgarh</b> shows South Asia's earliest farming, c. <b>7000 BCE</b>.</p><h5>Correct Option Explanation</h5><p>Excavated by <b>J.-F. Jarrige</b> from <b>1974</b>; yielded <b>wheat</b> and <b>barley</b> remains and early domesticated animals.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Kot Diji</b> is a pre-Harappan fortified site in <b>Sindh</b>, excavated by <b>F. A. Khan</b>.</li><li><b>Amri</b> is a pre-Harappan culture site on the <b>Indus</b>, in Sindh.</li><li><b>Kunal</b> is an early Harappan site in <b>Haryana</b> with <b>silver</b> ornaments.</li></ul><h5>Know More</h5><ul><li>Mehrgarh was occupied c. <b>7000–2500 BCE</b>.</li><li>Evidence of <b>drilled teeth</b> found at Mehrgarh.</li><li>Mehrgarh lies on the <b>Kachi plain</b>.</li></ul>",
+        "_aimcq_title_hi": "बलूचिस्तान में बोलन दर्रे के निकट स्थित…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित में से बलूचिस्तान में बोलन दर्रे के निकट स्थित कौन-सा पूर्व-हड़प्पाई नवपाषाणिक स्थल दक्षिण एशिया में कृषि के सबसे प्राचीन साक्ष्य देता है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "कोट दीजी",
+            "image": ""
+          },
+          {
+            "text": "मेहरगढ़",
+            "image": ""
+          },
+          {
+            "text": "आमरी",
+            "image": ""
+          },
+          {
+            "text": "कुणाल",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: मेहरगढ़</h5><p><b>मेहरगढ़</b> में दक्षिण एशिया की सबसे प्राचीन खेती के साक्ष्य हैं, लगभग <b>7000 ई.पू.</b></p><h5>सही विकल्प की व्याख्या</h5><p><b>जे.-एफ. जारिज</b> ने <b>1974</b> से खुदाई की; <b>गेहूँ</b>, <b>जौ</b> के अवशेष और प्रारंभिक पालतू पशु मिले।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>कोट दीजी</b> <b>सिंध</b> का पूर्व-हड़प्पाई किलाबंद स्थल है, जिसे <b>एफ. ए. खान</b> ने खोदा।</li><li><b>आमरी</b> सिंध में <b>सिंधु</b> पर पूर्व-हड़प्पाई संस्कृति का स्थल है।</li><li><b>कुणाल</b> <b>हरियाणा</b> का प्रारंभिक हड़प्पाई स्थल है, जहाँ <b>चाँदी</b> के आभूषण मिले।</li></ul><h5>और जानें</h5><ul><li>मेहरगढ़ में लगभग <b>7000–2500 ई.पू.</b> तक बस्ती रही।</li><li>मेहरगढ़ में <b>छिद्रित दाँतों</b> के साक्ष्य मिले।</li><li>मेहरगढ़ <b>कच्छी मैदान</b> पर स्थित है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 113,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which of the following pairs is/are NOT…",
+      "post_content": "<p>Which of the following pairs of Harappan site and its notable feature is/are NOT correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Site)</th><th>(Notable feature)</th></tr><tr><td>1. Harappa</td><td>Cemetery H</td></tr><tr><td>2. Chanhudaro</td><td>Bead-making workshop</td></tr><tr><td>3. Dholavira</td><td>Great Bath</td></tr><tr><td>4. Kalibangan</td><td>Fire altars</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1",
+            "image": ""
+          },
+          {
+            "text": "Only 2 and 3",
+            "image": ""
+          },
+          {
+            "text": "Only 3",
+            "image": ""
+          },
+          {
+            "text": "Only 3 and 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 3</h5><p>Only the <b>Dholavira–Great Bath</b> pair is wrong.</p><h5>Correct Option Explanation</h5><p>The <b>Great Bath</b> belongs to <b>Mohenjodaro</b>. <b>Dholavira</b> is known for <b>water reservoirs</b> and its ten-sign inscription.</p><h5>Incorrect Options Analysis</h5><ul><li>Only 1: Harappa–Cemetery H is correct; it holds Late Harappan burials.</li><li>Only 2 and 3: Chanhudaro–bead-making workshop is correct.</li><li>Only 3 and 4: Kalibangan–fire altars is correct.</li></ul><h5>Know More</h5><ul><li><b>M. S. Vats</b> identified <b>Cemetery H</b> at Harappa.</li><li><b>Chanhudaro</b> lacked a citadel.</li><li><b>Kalibangan</b> means 'black bangles'.</li><li>Great Bath had <b>bitumen</b> waterproofing.</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित में से कौन-सा/से युग्म…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित में से हड़प्पाई स्थल और उसकी उल्लेखनीय विशेषता का कौन-सा/से युग्म सही सुमेलित नहीं है/हैं?</p><table border='1' cellpadding='4'><tr><th>(स्थल)</th><th>(उल्लेखनीय विशेषता)</th></tr><tr><td>1. हड़प्पा</td><td>कब्रिस्तान-H</td></tr><tr><td>2. चन्हूदड़ो</td><td>मनका निर्माण कार्यशाला</td></tr><tr><td>3. धौलावीरा</td><td>विशाल स्नानागार</td></tr><tr><td>4. कालीबंगा</td><td>अग्निवेदियाँ</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 1",
+            "image": ""
+          },
+          {
+            "text": "केवल 2 और 3",
+            "image": ""
+          },
+          {
+            "text": "केवल 3",
+            "image": ""
+          },
+          {
+            "text": "केवल 3 और 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 3</h5><p>केवल <b>धौलावीरा–विशाल स्नानागार</b> युग्म गलत है।</p><h5>सही विकल्प की व्याख्या</h5><p><b>विशाल स्नानागार</b> <b>मोहनजोदड़ो</b> में है। <b>धौलावीरा</b> <b>जलाशयों</b> और दस चिह्नों वाले अभिलेख के लिए जाना जाता है।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>केवल 1: हड़प्पा–कब्रिस्तान-H सही है; इसमें उत्तर हड़प्पाई कब्रें हैं।</li><li>केवल 2 और 3: चन्हूदड़ो–मनका कार्यशाला सही युग्म है।</li><li>केवल 3 और 4: कालीबंगा–अग्निवेदियाँ सही युग्म है।</li></ul><h5>और जानें</h5><ul><li><b>एम. एस. वत्स</b> ने हड़प्पा में <b>कब्रिस्तान-H</b> पहचाना।</li><li><b>चन्हूदड़ो</b> में दुर्ग नहीं था।</li><li><b>कालीबंगा</b> का अर्थ 'काली चूड़ियाँ' है।</li><li>विशाल स्नानागार में <b>बिटुमेन</b> से जलरोधन हुआ।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 114,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "The Greeks called the cotton grown in the…",
+      "post_content": "<p>The Greeks called the cotton grown in the Indus region by the name:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Karpasa",
+            "image": ""
+          },
+          {
+            "text": "Gossypium",
+            "image": ""
+          },
+          {
+            "text": "Kapas",
+            "image": ""
+          },
+          {
+            "text": "Sindon",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Sindon</h5><p>Greeks called Indus cotton <b>Sindon</b>, derived from <b>Sindhu</b>.</p><h5>Correct Option Explanation</h5><p>Harappans were among the first to cultivate <b>cotton</b>; the Greek name preserves the river's name.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Karpasa</b> is the Sanskrit word for cotton, not the Greek name.</li><li><b>Gossypium</b> is the modern botanical genus name.</li><li><b>Kapas</b> is the Hindi term, not Greek.</li></ul><h5>Know More</h5><ul><li>Cotton cloth traces found at <b>Mohenjodaro</b>.</li><li><b>Spindle whorls</b> indicate spinning.</li><li><b>Mehrgarh</b> has early cotton evidence.</li></ul>",
+        "_aimcq_title_hi": "यूनानी लोग सिंधु क्षेत्र में उगाई जाने वाली…",
+        "_aimcq_question_content_hi": "<p>यूनानी लोग सिंधु क्षेत्र में उगाई जाने वाली कपास को किस नाम से पुकारते थे?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "कार्पास",
+            "image": ""
+          },
+          {
+            "text": "गॉसिपियम",
+            "image": ""
+          },
+          {
+            "text": "कपास",
+            "image": ""
+          },
+          {
+            "text": "सिंडन",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: सिंडन</h5><p>यूनानी सिंधु की कपास को <b>सिंडन</b> कहते थे, जो <b>सिंधु</b> से बना है।</p><h5>सही विकल्प की व्याख्या</h5><p>हड़प्पावासी <b>कपास</b> उगाने वाले पहले लोगों में थे; यूनानी नाम नदी के नाम को सुरक्षित रखता है।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>कार्पास</b> कपास का संस्कृत शब्द है, यूनानी नाम नहीं।</li><li><b>गॉसिपियम</b> आधुनिक वानस्पतिक वंश का नाम है।</li><li><b>कपास</b> हिंदी शब्द है, यूनानी नहीं।</li></ul><h5>और जानें</h5><ul><li><b>मोहनजोदड़ो</b> से सूती वस्त्र के अवशेष मिले।</li><li><b>तकली के चक्र</b> कताई के प्रमाण हैं।</li><li><b>मेहरगढ़</b> में कपास के प्रारंभिक साक्ष्य हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 115,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Match List - I with List - II and choose…",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Artefact / feature)</th><th>List - II<br>(Site)</th></tr><tr><td>A. Bronze 'Dancing Girl'</td><td>1. Chanhudaro</td></tr><tr><td>B. Red sandstone male torso</td><td>2. Dholavira</td></tr><tr><td>C. Bead-making workshop</td><td>3. Mohenjodaro</td></tr><tr><td>D. Ten-sign inscription board</td><td>4. Harappa</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-4, B-3, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-1, C-4, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-1, D-2",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-3, B-4, C-1, D-2</h5><p>Each artefact or feature is paired with its find-site.</p><h5>Correct Option Explanation</h5><ul><li><b>Dancing Girl</b> — <b>Mohenjodaro</b>; red sandstone <b>torso</b> — <b>Harappa</b>.</li><li><b>Bead workshop</b> — <b>Chanhudaro</b>; <b>ten-sign board</b> — <b>Dholavira</b>.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>A-4, B-3, C-1, D-2: Dancing Girl and torso sites are swapped.</li><li>A-3, B-4, C-2, D-1: Bead workshop and ten-sign board sites are swapped.</li><li>A-3, B-1, C-4, D-2: Torso and bead workshop sites are wrongly paired.</li></ul><h5>Know More</h5><ul><li><b>Dancing Girl</b> is about <b>10.5 cm</b> tall, made by lost-wax method.</li><li><b>Priest-King</b> bust is <b>steatite</b>, from Mohenjodaro.</li><li>Harappan stone and bronze <b>sculptures</b> are comparatively rare.</li></ul>",
+        "_aimcq_title_hi": "सूची - I को सूची - II से सुमेलित कीजिए और…",
+        "_aimcq_question_content_hi": "<p>सूची - I को सूची - II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग करके सही उत्तर चुनिए।</p><table border='1' cellpadding='4'><tr><th>सूची - I<br>(कलाकृति / विशेषता)</th><th>सूची - II<br>(स्थल)</th></tr><tr><td>A. कांस्य 'नर्तकी'</td><td>1. चन्हूदड़ो</td></tr><tr><td>B. लाल बलुआ पत्थर का पुरुष धड़</td><td>2. धौलावीरा</td></tr><tr><td>C. मनका निर्माण कार्यशाला</td><td>3. मोहनजोदड़ो</td></tr><tr><td>D. दस चिह्नों वाला अभिलेख-पट्ट</td><td>4. हड़प्पा</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "A-4, B-3, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-1, C-4, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-1, D-2",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: A-3, B-4, C-1, D-2</h5><p>प्रत्येक कलाकृति या विशेषता को उसके प्राप्ति-स्थल से जोड़ा गया है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>नर्तकी</b> — <b>मोहनजोदड़ो</b>; लाल बलुआ पत्थर का <b>धड़</b> — <b>हड़प्पा</b>।</li><li><b>मनका कार्यशाला</b> — <b>चन्हूदड़ो</b>; <b>दस चिह्नों वाला पट्ट</b> — <b>धौलावीरा</b>।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>A-4, B-3, C-1, D-2: नर्तकी और धड़ के स्थल आपस में बदल गए।</li><li>A-3, B-4, C-2, D-1: मनका कार्यशाला और अभिलेख-पट्ट के स्थल आपस में बदल गए।</li><li>A-3, B-1, C-4, D-2: धड़ और मनका कार्यशाला के स्थल गलत जोड़े गए।</li></ul><h5>और जानें</h5><ul><li><b>नर्तकी</b> लगभग <b>10.5 सेमी</b> ऊँची, मोम-साँचा विधि से बनी।</li><li><b>पुजारी-राजा</b> की मूर्ति <b>सेलखड़ी</b> की है, मोहनजोदड़ो से।</li><li>हड़प्पाई पत्थर और कांस्य <b>मूर्तियाँ</b> अपेक्षाकृत दुर्लभ हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 116,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "The Mature (urban) phase of the Indus…",
+      "post_content": "<p>The Mature (urban) phase of the Indus Valley Civilization is generally dated to approximately:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "c. 3500–2500 BCE",
+            "image": ""
+          },
+          {
+            "text": "c. 1900–1300 BCE",
+            "image": ""
+          },
+          {
+            "text": "c. 2600–1900 BCE",
+            "image": ""
+          },
+          {
+            "text": "c. 1500–600 BCE",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: c. 2600–1900 BCE</h5><p>The <b>Mature Harappan</b> phase spans c. <b>2600–1900 BCE</b>.</p><h5>Correct Option Explanation</h5><p>Urban features — <b>planned cities</b>, <b>standard weights</b>, <b>seals</b> — peaked in this window by <b>radiocarbon</b> dating.</p><h5>Incorrect Options Analysis</h5><ul><li>c. 3500–2500 BCE: range starts too early and mixes in the Early phase.</li><li>c. 1900–1300 BCE: this range matches the Late Harappan phase.</li><li>c. 1500–600 BCE: this range falls after the civilization's decline.</li></ul><h5>Know More</h5><ul><li>Early Harappan — c. <b>3300–2600 BCE</b>.</li><li>Late Harappan — c. <b>1900–1300 BCE</b>.</li><li><b>D. P. Agrawal</b> proposed <b>2300–1750 BCE</b> using C-14.</li></ul>",
+        "_aimcq_title_hi": "सिंधु घाटी सभ्यता का परिपक्व (नगरीय)…",
+        "_aimcq_question_content_hi": "<p>सिंधु घाटी सभ्यता का परिपक्व (नगरीय) चरण सामान्यतः लगभग किस अवधि का माना जाता है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "लगभग 3500–2500 ई.पू.",
+            "image": ""
+          },
+          {
+            "text": "लगभग 1900–1300 ई.पू.",
+            "image": ""
+          },
+          {
+            "text": "लगभग 2600–1900 ई.पू.",
+            "image": ""
+          },
+          {
+            "text": "लगभग 1500–600 ई.पू.",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: लगभग 2600–1900 ई.पू.</h5><p><b>परिपक्व हड़प्पा</b> चरण लगभग <b>2600–1900 ई.पू.</b> का है।</p><h5>सही विकल्प की व्याख्या</h5><p><b>रेडियोकार्बन</b> तिथि के अनुसार <b>नियोजित नगर</b>, <b>मानक बाट</b>, <b>मुहरें</b> जैसे नगरीय लक्षण इसी काल में चरम पर थे।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>लगभग 3500–2500 ई.पू.: अवधि बहुत पहले शुरू होती है और प्रारंभिक चरण को मिलाती है।</li><li>लगभग 1900–1300 ई.पू.: यह अवधि उत्तर हड़प्पा चरण की है।</li><li>लगभग 1500–600 ई.पू.: यह अवधि सभ्यता के पतन के बाद की है।</li></ul><h5>और जानें</h5><ul><li>प्रारंभिक हड़प्पा — लगभग <b>3300–2600 ई.पू.</b></li><li>उत्तर हड़प्पा — लगभग <b>1900–1300 ई.पू.</b></li><li><b>डी. पी. अग्रवाल</b> ने C-14 से <b>2300–1750 ई.पू.</b> सुझाया।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 117,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which material was used to make the Great…",
+      "post_content": "<p>Which material was used to make the Great Bath of Mohenjodaro water-tight?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Lime plaster",
+            "image": ""
+          },
+          {
+            "text": "Lead sheets",
+            "image": ""
+          },
+          {
+            "text": "Cement mortar",
+            "image": ""
+          },
+          {
+            "text": "Bitumen",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Bitumen</h5><p>A layer of <b>bitumen</b> (natural tar) made the tank water-tight.</p><h5>Correct Option Explanation</h5><p>The tank's baked-brick walls were set in <b>gypsum mortar</b> and sealed with <b>bitumen</b>; <b>drains</b> carried water out.</p><h5>Incorrect Options Analysis</h5><ul><li>Lime plaster: not the waterproofing material used.</li><li>Lead sheets: no evidence of lead lining.</li><li>Cement mortar: cement was unknown to the Harappans.</li></ul><h5>Know More</h5><ul><li>Great Bath measures about <b>12 m × 7 m</b>, <b>2.4 m</b> deep.</li><li>Steps lead down on <b>north</b> and <b>south</b> sides.</li><li>Rooms and a <b>well</b> adjoin the tank.</li></ul>",
+        "_aimcq_title_hi": "मोहनजोदड़ो के विशाल स्नानागार को जलरोधी…",
+        "_aimcq_question_content_hi": "<p>मोहनजोदड़ो के विशाल स्नानागार को जलरोधी बनाने के लिए किस सामग्री का उपयोग किया गया था?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "चूने का प्लास्टर",
+            "image": ""
+          },
+          {
+            "text": "सीसे की चादरें",
+            "image": ""
+          },
+          {
+            "text": "सीमेंट का गारा",
+            "image": ""
+          },
+          {
+            "text": "बिटुमेन (प्राकृतिक कोलतार)",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: बिटुमेन (प्राकृतिक कोलतार)</h5><p><b>बिटुमेन</b> (प्राकृतिक कोलतार) की परत से कुंड जलरोधी बना।</p><h5>सही विकल्प की व्याख्या</h5><p>कुंड की पक्की ईंटों की दीवारें <b>जिप्सम गारे</b> से जोड़ी गईं और <b>बिटुमेन</b> से सील की गईं; <b>नालियों</b> से पानी बाहर जाता था।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>चूने का प्लास्टर: जलरोधन के लिए प्रयुक्त सामग्री नहीं था।</li><li>सीसे की चादरें: सीसे की परत का कोई प्रमाण नहीं।</li><li>सीमेंट का गारा: हड़प्पावासी सीमेंट से अपरिचित थे।</li></ul><h5>और जानें</h5><ul><li>विशाल स्नानागार लगभग <b>12 मी × 7 मी</b>, <b>2.4 मी</b> गहरा है।</li><li><b>उत्तर</b> और <b>दक्षिण</b> में सीढ़ियाँ उतरती हैं।</li><li>कुंड के साथ कमरे और एक <b>कुआँ</b> जुड़े हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 118,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which of the following Harappan sites is…",
+      "post_content": "<p>Which of the following Harappan sites is located in present-day Afghanistan?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Sutkagen-Dor",
+            "image": ""
+          },
+          {
+            "text": "Ganweriwala",
+            "image": ""
+          },
+          {
+            "text": "Shortugai",
+            "image": ""
+          },
+          {
+            "text": "Banawali",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Shortugai</h5><p><b>Shortugai</b> lies in northern <b>Afghanistan</b>.</p><h5>Correct Option Explanation</h5><p>Located on the <b>Oxus</b> (Amu Darya) near <b>Badakhshan</b>; a Harappan trading outpost for <b>lapis lazuli</b>.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Sutkagen-Dor</b> is the westernmost site, near the Iranian border in <b>Balochistan</b>.</li><li><b>Ganweriwala</b> lies in <b>Cholistan</b>, Pakistan.</li><li><b>Banawali</b> lies in <b>Fatehabad</b>, Haryana.</li></ul><h5>Know More</h5><ul><li>A French team under <b>H.-P. Francfort</b> excavated Shortugai.</li><li><b>Badakhshan</b> was the source of lapis lazuli.</li><li>Shortugai is the most distant known Harappan colony.</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित में से कौन-सा हड़प्पाई स्थल…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित में से कौन-सा हड़प्पाई स्थल वर्तमान अफ़गानिस्तान में स्थित है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "सुत्कागेन-दोर",
+            "image": ""
+          },
+          {
+            "text": "गनवेरीवाला",
+            "image": ""
+          },
+          {
+            "text": "शॉर्तुगई",
+            "image": ""
+          },
+          {
+            "text": "बनावली",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: शॉर्तुगई</h5><p><b>शॉर्तुगई</b> उत्तरी <b>अफ़गानिस्तान</b> में है।</p><h5>सही विकल्प की व्याख्या</h5><p><b>बदख़्शाँ</b> के निकट <b>ऑक्सस</b> (अमू दरिया) पर स्थित; <b>लाजवर्द</b> के व्यापार की हड़प्पाई चौकी।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>सुत्कागेन-दोर</b> सबसे पश्चिमी स्थल है, <b>बलूचिस्तान</b> में ईरानी सीमा के पास।</li><li><b>गनवेरीवाला</b> पाकिस्तान के <b>चोलिस्तान</b> में है।</li><li><b>बनावली</b> हरियाणा के <b>फतेहाबाद</b> में है।</li></ul><h5>और जानें</h5><ul><li><b>एच.-पी. फ्रैंकफोर्ट</b> के फ्रांसीसी दल ने शॉर्तुगई की खुदाई की।</li><li><b>बदख़्शाँ</b> लाजवर्द का स्रोत था।</li><li>शॉर्तुगई सबसे दूर ज्ञात हड़प्पाई बस्ती है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 119,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "In Mesopotamian cuneiform records, the…",
+      "post_content": "<p>In Mesopotamian cuneiform records, the Indus Valley region was referred to as:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Meluhha",
+            "image": ""
+          },
+          {
+            "text": "Dilmun",
+            "image": ""
+          },
+          {
+            "text": "Magan",
+            "image": ""
+          },
+          {
+            "text": "Akkad",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Meluhha</h5><p>Mesopotamian texts call the Indus region <b>Meluhha</b>.</p><h5>Correct Option Explanation</h5><p>Sumerian and Akkadian records list <b>carnelian</b>, <b>lapis lazuli</b>, <b>ivory</b> and timber arriving from <b>Meluhha</b>.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Dilmun</b> is identified with <b>Bahrain</b>, a trade intermediary.</li><li><b>Magan</b> is linked with <b>Oman</b>, a copper source.</li><li><b>Akkad</b> was a Mesopotamian empire founded by <b>Sargon</b>.</li></ul><h5>Know More</h5><ul><li>Harappan seals found at <b>Ur</b> and <b>Kish</b>.</li><li>Trade ran through the <b>Persian Gulf</b>.</li><li>A Sumerian text mentions a Meluhhan village at <b>Lagash</b>.</li></ul>",
+        "_aimcq_title_hi": "मेसोपोटामिया के कीलाक्षर अभिलेखों में…",
+        "_aimcq_question_content_hi": "<p>मेसोपोटामिया के कीलाक्षर अभिलेखों में सिंधु घाटी क्षेत्र को किस नाम से जाना गया है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "मेलुहा",
+            "image": ""
+          },
+          {
+            "text": "दिलमुन",
+            "image": ""
+          },
+          {
+            "text": "मगन",
+            "image": ""
+          },
+          {
+            "text": "अक्कद",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: मेलुहा</h5><p>मेसोपोटामियाई ग्रंथ सिंधु क्षेत्र को <b>मेलुहा</b> कहते हैं।</p><h5>सही विकल्प की व्याख्या</h5><p>सुमेरी और अक्कदी अभिलेखों में <b>मेलुहा</b> से आने वाले <b>कार्नेलियन</b>, <b>लाजवर्द</b>, <b>हाथीदाँत</b> और लकड़ी का उल्लेख है।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>दिलमुन</b> की पहचान <b>बहरीन</b> से होती है, जो व्यापारिक मध्यस्थ था।</li><li><b>मगन</b> का संबंध <b>ओमान</b> से है, जो तांबे का स्रोत था।</li><li><b>अक्कद</b> <b>सारगोन</b> द्वारा स्थापित मेसोपोटामियाई साम्राज्य था।</li></ul><h5>और जानें</h5><ul><li><b>उर</b> और <b>किश</b> से हड़प्पाई मुहरें मिलीं।</li><li>व्यापार <b>फ़ारस की खाड़ी</b> से होता था।</li><li>एक सुमेरी ग्रंथ में <b>लगश</b> में मेलुहाई गाँव का उल्लेख है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 120,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Harappan weights, found in standardised…",
+      "post_content": "<p>Harappan weights, found in standardised cubical form, were mostly made of which stone?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Granite",
+            "image": ""
+          },
+          {
+            "text": "Chert",
+            "image": ""
+          },
+          {
+            "text": "Marble",
+            "image": ""
+          },
+          {
+            "text": "Basalt",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Chert</h5><p>Most Harappan weights were cut from <b>chert</b>.</p><h5>Correct Option Explanation</h5><p>Cubical <b>chert</b> weights followed a binary series (<b>1, 2, 4, 8…</b>) at the lower end, then a decimal-linked series.</p><h5>Incorrect Options Analysis</h5><ul><li>Granite: not the common material for weights.</li><li>Marble: not the common material for weights.</li><li>Basalt: not the common material for weights.</li></ul><h5>Know More</h5><ul><li>Weights ratio: <b>1:2:4:8:16:32</b>, up to <b>12,800</b>.</li><li>Cubical weights found at <b>Lothal</b> and <b>Mohenjodaro</b>.</li><li>Seals were mostly <b>steatite</b>.</li></ul>",
+        "_aimcq_title_hi": "मानकीकृत घनाकार रूप में मिले हड़प्पाई…",
+        "_aimcq_question_content_hi": "<p>मानकीकृत घनाकार रूप में मिले हड़प्पाई बाट अधिकांशतः किस पत्थर के बने थे?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "ग्रेनाइट",
+            "image": ""
+          },
+          {
+            "text": "चर्ट",
+            "image": ""
+          },
+          {
+            "text": "संगमरमर",
+            "image": ""
+          },
+          {
+            "text": "बेसाल्ट",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: चर्ट</h5><p>अधिकांश हड़प्पाई बाट <b>चर्ट</b> से काटे गए थे।</p><h5>सही विकल्प की व्याख्या</h5><p>घनाकार <b>चर्ट</b> बाट निचले स्तर पर द्विआधारी श्रृंखला (<b>1, 2, 4, 8…</b>) और आगे दशमलव-संबद्ध श्रृंखला का पालन करते थे।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>ग्रेनाइट: बाटों की सामान्य सामग्री नहीं था।</li><li>संगमरमर: बाटों की सामान्य सामग्री नहीं था।</li><li>बेसाल्ट: बाटों की सामान्य सामग्री नहीं था।</li></ul><h5>और जानें</h5><ul><li>बाट अनुपात: <b>1:2:4:8:16:32</b>, <b>12,800</b> तक।</li><li>घनाकार बाट <b>लोथल</b> और <b>मोहनजोदड़ो</b> से मिले।</li><li>मुहरें अधिकतर <b>सेलखड़ी</b> की थीं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 121,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Evidence of rice cultivation in the…",
+      "post_content": "<p>Evidence of rice cultivation in the Harappan civilization has been found at which of the following pairs of sites?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Harappa and Mohenjodaro",
+            "image": ""
+          },
+          {
+            "text": "Chanhudaro and Kot Diji",
+            "image": ""
+          },
+          {
+            "text": "Kalibangan and Ropar",
+            "image": ""
+          },
+          {
+            "text": "Lothal and Rangpur",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Lothal and Rangpur</h5><p><b>Rice husks</b> were found at <b>Lothal</b> and <b>Rangpur</b>.</p><h5>Correct Option Explanation</h5><p>Both lie in <b>Gujarat</b>; husk remains there are the key evidence of <b>rice</b> in Harappan contexts.</p><h5>Incorrect Options Analysis</h5><ul><li>Harappa and Mohenjodaro: <b>wheat</b> and <b>barley</b> dominate, not rice.</li><li>Chanhudaro and Kot Diji: not known for rice evidence.</li><li>Kalibangan and Ropar: not known for rice evidence.</li></ul><h5>Know More</h5><ul><li>Staple crops: <b>wheat</b> and <b>barley</b>.</li><li><b>Kalibangan</b> shows <b>mixed cropping</b> in a ploughed field.</li><li><b>Sesame</b> and <b>mustard</b> were also grown.</li><li><b>Rangpur</b> lies in Saurashtra, Gujarat.</li></ul>",
+        "_aimcq_title_hi": "हड़प्पा सभ्यता में चावल की खेती के साक्ष्य…",
+        "_aimcq_question_content_hi": "<p>हड़प्पा सभ्यता में चावल की खेती के साक्ष्य निम्नलिखित में से किन स्थलों से मिले हैं?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "हड़प्पा और मोहनजोदड़ो",
+            "image": ""
+          },
+          {
+            "text": "चन्हूदड़ो और कोट दीजी",
+            "image": ""
+          },
+          {
+            "text": "कालीबंगा और रोपड़",
+            "image": ""
+          },
+          {
+            "text": "लोथल और रंगपुर",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: लोथल और रंगपुर</h5><p><b>लोथल</b> और <b>रंगपुर</b> से <b>चावल की भूसी</b> मिली।</p><h5>सही विकल्प की व्याख्या</h5><p>दोनों <b>गुजरात</b> में हैं; वहाँ की भूसी के अवशेष हड़प्पाई संदर्भ में <b>चावल</b> के मुख्य साक्ष्य हैं।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>हड़प्पा और मोहनजोदड़ो: यहाँ <b>गेहूँ</b> व <b>जौ</b> प्रमुख हैं, चावल नहीं।</li><li>चन्हूदड़ो और कोट दीजी: चावल के साक्ष्य के लिए प्रसिद्ध नहीं।</li><li>कालीबंगा और रोपड़: चावल के साक्ष्य के लिए प्रसिद्ध नहीं।</li></ul><h5>और जानें</h5><ul><li>मुख्य फसलें: <b>गेहूँ</b> और <b>जौ</b>।</li><li><b>कालीबंगा</b> के जुते खेत में <b>मिश्रित खेती</b> दिखती है।</li><li><b>तिल</b> और <b>सरसों</b> भी उगाई जाती थीं।</li><li><b>रंगपुर</b> गुजरात के सौराष्ट्र में है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 122,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which Harappan site is divided into three…",
+      "post_content": "<p>Which Harappan site is divided into three parts — citadel, middle town and lower town?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Dholavira",
+            "image": ""
+          },
+          {
+            "text": "Mohenjodaro",
+            "image": ""
+          },
+          {
+            "text": "Harappa",
+            "image": ""
+          },
+          {
+            "text": "Kalibangan",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Dholavira</h5><p><b>Dholavira</b> is uniquely divided into <b>three</b> parts.</p><h5>Correct Option Explanation</h5><p>Its <b>citadel</b>, <b>middle town</b> and <b>lower town</b> were each fortified; built largely of <b>stone</b>.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Mohenjodaro</b> has two parts: citadel (west) and lower town (east).</li><li><b>Harappa</b> has two parts: citadel mound and lower town.</li><li><b>Kalibangan</b> has two separately fortified parts.</li></ul><h5>Know More</h5><ul><li>Dholavira lies on <b>Khadir Bet</b>, Rann of Kutch.</li><li>It has elaborate <b>water-harvesting reservoirs</b>.</li><li>Inscribed as a <b>UNESCO World Heritage Site</b> in <b>2021</b>.</li></ul>",
+        "_aimcq_title_hi": "कौन-सा हड़प्पाई स्थल तीन भागों में…",
+        "_aimcq_question_content_hi": "<p>कौन-सा हड़प्पाई स्थल तीन भागों — दुर्ग, मध्य नगर और निचला नगर — में विभाजित था?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "धौलावीरा",
+            "image": ""
+          },
+          {
+            "text": "मोहनजोदड़ो",
+            "image": ""
+          },
+          {
+            "text": "हड़प्पा",
+            "image": ""
+          },
+          {
+            "text": "कालीबंगा",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: धौलावीरा</h5><p><b>धौलावीरा</b> विशिष्ट रूप से <b>तीन</b> भागों में बँटा था।</p><h5>सही विकल्प की व्याख्या</h5><p>इसके <b>दुर्ग</b>, <b>मध्य नगर</b> और <b>निचला नगर</b> तीनों किलाबंद थे; निर्माण मुख्यतः <b>पत्थर</b> का था।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>मोहनजोदड़ो</b> दो भागों में है: दुर्ग (पश्चिम) और निचला नगर (पूर्व)।</li><li><b>हड़प्पा</b> दो भागों में है: दुर्ग टीला और निचला नगर।</li><li><b>कालीबंगा</b> के दो भाग अलग-अलग किलाबंद थे।</li></ul><h5>और जानें</h5><ul><li>धौलावीरा कच्छ के रण में <b>खादिर बेट</b> पर है।</li><li>यहाँ विस्तृत <b>जल-संचयन जलाशय</b> हैं।</li><li><b>2021</b> में <b>यूनेस्को विश्व धरोहर स्थल</b> घोषित।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 123,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Which is the easternmost known site of the…",
+      "post_content": "<p>Which is the easternmost known site of the Harappan civilization?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Manda",
+            "image": ""
+          },
+          {
+            "text": "Daimabad",
+            "image": ""
+          },
+          {
+            "text": "Alamgirpur",
+            "image": ""
+          },
+          {
+            "text": "Sutkagen-Dor",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Alamgirpur</h5><p><b>Alamgirpur</b> is the easternmost known Harappan site.</p><h5>Correct Option Explanation</h5><p>It lies on the <b>Hindon</b> river near <b>Meerut</b>, <b>Uttar Pradesh</b>.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Manda</b> is the northernmost Indian site, on the <b>Chenab</b>, Jammu.</li><li><b>Daimabad</b> is the southernmost site, on the <b>Pravara</b>, Maharashtra.</li><li><b>Sutkagen-Dor</b> is the westernmost site, near the Iranian border.</li></ul><h5>Know More</h5><ul><li><b>Y. D. Sharma</b> excavated Alamgirpur in <b>1958–59</b>.</li><li>A <b>cloth impression</b> on a trough was found there.</li><li>Alamgirpur lies in the <b>Ganga–Yamuna Doab</b>.</li></ul>",
+        "_aimcq_title_hi": "हड़प्पा सभ्यता का सबसे पूर्वी ज्ञात स्थल…",
+        "_aimcq_question_content_hi": "<p>हड़प्पा सभ्यता का सबसे पूर्वी ज्ञात स्थल कौन-सा है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "मांडा",
+            "image": ""
+          },
+          {
+            "text": "दैमाबाद",
+            "image": ""
+          },
+          {
+            "text": "आलमगीरपुर",
+            "image": ""
+          },
+          {
+            "text": "सुत्कागेन-दोर",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: आलमगीरपुर</h5><p><b>आलमगीरपुर</b> सबसे पूर्वी ज्ञात हड़प्पाई स्थल है।</p><h5>सही विकल्प की व्याख्या</h5><p>यह <b>उत्तर प्रदेश</b> में <b>मेरठ</b> के पास <b>हिंडन</b> नदी पर है।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>मांडा</b> भारत का सबसे उत्तरी स्थल है, जम्मू में <b>चिनाब</b> पर।</li><li><b>दैमाबाद</b> सबसे दक्षिणी स्थल है, महाराष्ट्र में <b>प्रवरा</b> पर।</li><li><b>सुत्कागेन-दोर</b> सबसे पश्चिमी स्थल है, ईरानी सीमा के पास।</li></ul><h5>और जानें</h5><ul><li><b>वाई. डी. शर्मा</b> ने <b>1958–59</b> में आलमगीरपुर की खुदाई की।</li><li>यहाँ एक कुंड पर <b>कपड़े की छाप</b> मिली।</li><li>आलमगीरपुर <b>गंगा–यमुना दोआब</b> में है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 124,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "In which district of Haryana is…",
+      "post_content": "<p>In which district of Haryana is Rakhigarhi, a major Harappan site, located?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Fatehabad",
+            "image": ""
+          },
+          {
+            "text": "Hisar",
+            "image": ""
+          },
+          {
+            "text": "Rohtak",
+            "image": ""
+          },
+          {
+            "text": "Sirsa",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Hisar</h5><p><b>Rakhigarhi</b> lies in <b>Hisar</b> district, <b>Haryana</b>.</p><h5>Correct Option Explanation</h5><p>It sits on the <b>Ghaggar–Hakra</b> palaeochannel and is among the <b>largest</b> Harappan sites in India.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Fatehabad</b> houses <b>Banawali</b> and <b>Kunal</b>, not Rakhigarhi.</li><li>Rohtak: Rakhigarhi does not lie here.</li><li>Sirsa: Rakhigarhi does not lie here.</li></ul><h5>Know More</h5><ul><li>Excavated by <b>Amarendra Nath</b> (ASI) in <b>1997–2000</b>.</li><li><b>Vasant Shinde</b> led later excavations.</li><li>Ancient <b>DNA</b> study published in <b>2019</b>.</li></ul>",
+        "_aimcq_title_hi": "हरियाणा के किस जिले में प्रमुख हड़प्पाई…",
+        "_aimcq_question_content_hi": "<p>हरियाणा के किस जिले में प्रमुख हड़प्पाई स्थल राखीगढ़ी स्थित है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "फतेहाबाद",
+            "image": ""
+          },
+          {
+            "text": "हिसार",
+            "image": ""
+          },
+          {
+            "text": "रोहतक",
+            "image": ""
+          },
+          {
+            "text": "सिरसा",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: हिसार</h5><p><b>राखीगढ़ी</b> <b>हरियाणा</b> के <b>हिसार</b> जिले में है।</p><h5>सही विकल्प की व्याख्या</h5><p>यह <b>घग्घर–हाकरा</b> के प्राचीन प्रवाह-मार्ग पर है और भारत के <b>सबसे बड़े</b> हड़प्पाई स्थलों में है।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>फतेहाबाद</b> में <b>बनावली</b> और <b>कुणाल</b> हैं, राखीगढ़ी नहीं।</li><li>रोहतक: राखीगढ़ी यहाँ नहीं है।</li><li>सिरसा: राखीगढ़ी यहाँ नहीं है।</li></ul><h5>और जानें</h5><ul><li><b>अमरेंद्र नाथ</b> (ASI) ने <b>1997–2000</b> में खुदाई की।</li><li><b>वसंत शिंदे</b> ने बाद की खुदाइयों का नेतृत्व किया।</li><li>प्राचीन <b>DNA</b> अध्ययन <b>2019</b> में प्रकाशित हुआ।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 125,
+      "post_author": 1,
+      "post_date": "2026-10-06 15:54:00",
+      "post_title": "Khetri, a major source of copper for the…",
+      "post_content": "<p>Khetri, a major source of copper for the Harappans, is located in which present-day state?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Rajasthan",
+            "image": ""
+          },
+          {
+            "text": "Karnataka",
+            "image": ""
+          },
+          {
+            "text": "Odisha",
+            "image": ""
+          },
+          {
+            "text": "Kerala",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Rajasthan</h5><p><b>Khetri</b> lies in <b>Jhunjhunu</b> district, <b>Rajasthan</b>.</p><h5>Correct Option Explanation</h5><p>The <b>Aravalli</b> copper belt around Khetri, linked with the <b>Ganeshwar–Jodhpura</b> culture, supplied copper to Harappans.</p><h5>Incorrect Options Analysis</h5><ul><li><b>Karnataka</b> is known for <b>Kolar</b>, a Harappan gold source.</li><li>Odisha: Khetri is not located here.</li><li>Kerala: Khetri is not located here.</li></ul><h5>Know More</h5><ul><li><b>Bronze</b> = copper + <b>tin</b>.</li><li>Tin likely came from <b>Afghanistan</b> and Central Asia.</li><li><b>Carnelian</b> came mainly from <b>Gujarat</b>.</li><li><b>Lapis lazuli</b> came from <b>Badakhshan</b>.</li></ul>",
+        "_aimcq_title_hi": "हड़प्पावासियों के लिए तांबे का प्रमुख…",
+        "_aimcq_question_content_hi": "<p>हड़प्पावासियों के लिए तांबे का प्रमुख स्रोत खेतड़ी वर्तमान में किस राज्य में स्थित है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "राजस्थान",
+            "image": ""
+          },
+          {
+            "text": "कर्नाटक",
+            "image": ""
+          },
+          {
+            "text": "ओडिशा",
+            "image": ""
+          },
+          {
+            "text": "केरल",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: राजस्थान</h5><p><b>खेतड़ी</b> <b>राजस्थान</b> के <b>झुंझुनूं</b> जिले में है।</p><h5>सही विकल्प की व्याख्या</h5><p>खेतड़ी के आसपास की <b>अरावली</b> ताम्र-पट्टी, जो <b>गणेश्वर–जोधपुरा</b> संस्कृति से जुड़ी है, हड़प्पावासियों को तांबा देती थी।</p><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>कर्नाटक</b> <b>कोलार</b> के लिए जाना जाता है, जो हड़प्पाई सोने का स्रोत था।</li><li>ओडिशा: खेतड़ी यहाँ स्थित नहीं है।</li><li>केरल: खेतड़ी यहाँ स्थित नहीं है।</li></ul><h5>और जानें</h5><ul><li><b>कांस्य</b> = तांबा + <b>टिन</b>।</li><li>टिन संभवतः <b>अफ़गानिस्तान</b> व मध्य एशिया से आता था।</li><li><b>कार्नेलियन</b> मुख्यतः <b>गुजरात</b> से आता था।</li><li><b>लाजवर्द</b> <b>बदख़्शाँ</b> से आता था।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "indus-valley-civilization"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
