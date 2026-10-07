@@ -1,0 +1,1515 @@
+{
+  "version": "1.7.0",
+  "export_type": "single",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "language": "English and Hindi",
+      "language_code": "02ENHI",
+      "name": "Early Vedic / Vedic Period",
+      "slug": "early-vedic-vedic-period"
+    }
+  ],
+  "posts": [
+    {
+      "id": 101,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "The Rigveda describes the region initially o…",
+      "post_content": "<p>The Rigveda describes the region initially occupied by the Early Vedic Aryans as:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Aryavarta",
+            "image": ""
+          },
+          {
+            "text": "Brahmavarta",
+            "image": ""
+          },
+          {
+            "text": "Sapta Sindhu",
+            "image": ""
+          },
+          {
+            "text": "Madhyadesha",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Sapta Sindhu</h5><p>The Rigveda calls the early Aryan homeland <b>Sapta Sindhu</b>, the “land of seven rivers”.</p><h5>Correct Option Explanation</h5><ul><li>Usually counted as <b>Sindhu</b>, the five Punjab rivers (<b>Vitasta, Askini, Parushni, Vipasa, Shutudri</b>) and <b>Sarasvati</b>.</li><li>Early Vedic settlement centred on <b>Punjab</b> and the adjoining <b>Sarasvati</b> region.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Aryavarta</b> is a post-Rigvedic term; the <b>Manusmriti</b> uses it for the land between the Himalayas and the Vindhyas.</li><li><b>Brahmavarta</b> is a Manusmriti-era name for the strip between the <b>Sarasvati</b> and <b>Drishadvati</b>, not the Rigvedic name for the whole region.</li><li><b>Madhyadesha</b> is a later name for the Ganga–Yamuna heartland, linked to the eastward shift of Vedic culture, not to the Rigveda's setting.</li></ul><h5>Know More</h5><ul><li><b>Sindhu</b> is the most frequently mentioned river; <b>Sarasvati</b> is praised as <b>Naditama</b>.</li><li><b>Ganga</b> appears only once, in the <b>Nadistuti Sukta</b> (X.75).</li><li>Western tributaries named: <b>Kubha</b> (Kabul), <b>Krumu</b> (Kurram), <b>Gomati</b> (Gomal), <b>Suvastu</b> (Swat).</li><li><b>Mujavant</b>, a Himalayan peak, is famed in the Rigveda as a source of Soma.</li></ul>",
+        "_aimcq_title_hi": "ऋग्वेद में प्रारंभिक वैदिक आर्यों द्वारा आरं…",
+        "_aimcq_question_content_hi": "<p>ऋग्वेद में प्रारंभिक वैदिक आर्यों द्वारा आरंभ में बसाए गए क्षेत्र का वर्णन किस नाम से किया गया है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "आर्यावर्त",
+            "image": ""
+          },
+          {
+            "text": "ब्रह्मावर्त",
+            "image": ""
+          },
+          {
+            "text": "सप्त सिंधु",
+            "image": ""
+          },
+          {
+            "text": "मध्यदेश",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: सप्त सिंधु</h5><p>ऋग्वेद प्रारंभिक आर्य निवास क्षेत्र को <b>सप्त सिंधु</b> (सात नदियों की भूमि) कहता है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>सामान्यतः इसमें <b>सिंधु</b>, पंजाब की पाँच नदियाँ (<b>वितस्ता, अस्किनी, परुष्णी, विपाशा, शुतुद्रि</b>) और <b>सरस्वती</b> गिनी जाती हैं।</li><li>प्रारंभिक वैदिक बसावट का केंद्र <b>पंजाब</b> और उससे लगा <b>सरस्वती</b> क्षेत्र था।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>आर्यावर्त</b> ऋग्वेदोत्तर शब्द है; <b>मनुस्मृति</b> इसे हिमालय और विंध्य के बीच की भूमि के लिए प्रयुक्त करती है।</li><li><b>ब्रह्मावर्त</b> मनुस्मृति-कालीन नाम है, जो <b>सरस्वती</b> और <b>दृषद्वती</b> के बीच की पट्टी के लिए है; यह पूरे क्षेत्र का ऋग्वैदिक नाम नहीं है।</li><li><b>मध्यदेश</b> गंगा–यमुना क्षेत्र का परवर्ती नाम है, जो वैदिक संस्कृति के पूर्व की ओर खिसकने से जुड़ा है, ऋग्वेद की पृष्ठभूमि से नहीं।</li></ul><h5>और जानें</h5><ul><li><b>सिंधु</b> सर्वाधिक उल्लिखित नदी है; <b>सरस्वती</b> को <b>नदीतमा</b> कहा गया है।</li><li><b>गंगा</b> का उल्लेख केवल एक बार, <b>नदीस्तुति सूक्त</b> (X.75) में आता है।</li><li>पश्चिमी सहायक नदियाँ: <b>कुभा</b> (काबुल), <b>क्रुमु</b> (कुर्रम), <b>गोमती</b> (गोमल), <b>सुवास्तु</b> (स्वात)।</li><li><b>मूजवंत</b> हिमालयी पर्वत ऋग्वेद में सोम के स्रोत के रूप में प्रसिद्ध है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 102,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Consider the following categories of Vedic l…",
+      "post_content": "<p>Consider the following categories of Vedic literature and arrange them in the correct chronological order of their composition.</p><ol><li>Upanishads</li><li>Rigveda Samhita</li><li>Aranyakas</li><li>Brahmanas</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "2, 3, 4, 1",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 3, 1",
+            "image": ""
+          },
+          {
+            "text": "4, 2, 3, 1",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 1, 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 2, 4, 3, 1</h5><p>Order: <b>Rigveda Samhita</b> → <b>Brahmanas</b> → <b>Aranyakas</b> → <b>Upanishads</b>.</p><h5>Correct Option Explanation</h5><ul><li><b>Samhita</b>: hymns, the oldest layer, composed in the Early Vedic phase.</li><li><b>Brahmanas</b>: prose ritual manuals explaining sacrifice.</li><li><b>Aranyakas</b>: “forest texts”, bridge between ritual and philosophy.</li><li><b>Upanishads</b>: speculative philosophy, the closing section (<b>Vedanta</b>).</li></ul><h5>Incorrect Options Analysis</h5><ul><li>“2, 3, 4, 1” puts the Aranyakas before the Brahmanas; the order is wrong.</li><li>“4, 2, 3, 1” places the Brahmanas before the Rigveda Samhita; the order is wrong.</li><li>“2, 4, 1, 3” places the Upanishads before the Aranyakas; the order is wrong.</li></ul><h5>Know More</h5><ul><li>Four Vedas: <b>Rigveda, Samaveda, Yajurveda, Atharvaveda</b>.</li><li><b>Rigveda</b>: 10 Mandalas and <b>1,028</b> hymns (1,017 + 11 Valakhilya).</li><li><b>Yajurveda</b> has two recensions: <b>Krishna</b> (Taittiriya, Maitrayani, Kathaka) and <b>Shukla</b> (Vajasaneyi).</li><li>Six <b>Vedangas</b>: Shiksha, Kalpa, Vyakarana, Nirukta, Chhandas, Jyotisha.</li></ul>",
+        "_aimcq_title_hi": "वैदिक साहित्य की निम्नलिखित श्रेणियों पर विच…",
+        "_aimcq_question_content_hi": "<p>वैदिक साहित्य की निम्नलिखित श्रेणियों पर विचार कीजिए और उन्हें रचना के सही कालानुक्रम में व्यवस्थित कीजिए।</p><ol><li>उपनिषद</li><li>ऋग्वेद संहिता</li><li>आरण्यक</li><li>ब्राह्मण</li></ol><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "2, 3, 4, 1",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 3, 1",
+            "image": ""
+          },
+          {
+            "text": "4, 2, 3, 1",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 1, 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: 2, 4, 3, 1</h5><p>क्रम: <b>ऋग्वेद संहिता</b> → <b>ब्राह्मण</b> → <b>आरण्यक</b> → <b>उपनिषद</b>।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>संहिता</b>: मंत्रों का संग्रह, सबसे प्राचीन स्तर, प्रारंभिक वैदिक काल की रचना।</li><li><b>ब्राह्मण</b>: यज्ञ की व्याख्या करने वाले गद्य कर्मकांड ग्रंथ।</li><li><b>आरण्यक</b>: “वन के ग्रंथ”, कर्मकांड और दर्शन के बीच की कड़ी।</li><li><b>उपनिषद</b>: चिंतनशील दर्शन, वेदों का अंतिम भाग (<b>वेदांत</b>)।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>“2, 3, 4, 1” में आरण्यक को ब्राह्मणों से पहले रखा गया है; क्रम गलत है।</li><li>“4, 2, 3, 1” में ब्राह्मणों को ऋग्वेद संहिता से पहले रखा गया है; क्रम गलत है।</li><li>“2, 4, 1, 3” में उपनिषदों को आरण्यकों से पहले रखा गया है; क्रम गलत है।</li></ul><h5>और जानें</h5><ul><li>चार वेद: <b>ऋग्वेद, सामवेद, यजुर्वेद, अथर्ववेद</b>।</li><li><b>ऋग्वेद</b>: 10 मंडल और <b>1,028</b> सूक्त (1,017 + 11 वालखिल्य)।</li><li><b>यजुर्वेद</b> की दो शाखाएँ हैं: <b>कृष्ण</b> (तैत्तिरीय, मैत्रायणी, काठक) और <b>शुक्ल</b> (वाजसनेयी)।</li><li>छह <b>वेदांग</b>: शिक्षा, कल्प, व्याकरण, निरुक्त, छंद, ज्योतिष।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 103,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Consider the following statements about the…",
+      "post_content": "<p>Consider the following statements about the Early Vedic (Rigvedic) period:</p><ol><li>In the Rigveda, the word “ayas” is generally taken to mean copper or bronze rather than iron.</li><li>The Purusha Sukta in the Tenth Mandala of the Rigveda refers to the four varnas.</li><li>Settled plough agriculture was the dominant economic activity of the Rigvedic people.</li></ol><p>Which of the statements given above is/are correct?</p><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 2 and 3",
+            "image": ""
+          },
+          {
+            "text": "Only 1 and 2",
+            "image": ""
+          },
+          {
+            "text": "Only 1 and 3",
+            "image": ""
+          },
+          {
+            "text": "1, 2 and 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 1 and 2</h5><p>Statements <b>1</b> and <b>2</b> are correct; statement 3 is wrong.</p><h5>Correct Option Explanation</h5><ul><li><b>1 true</b>: Rigvedic <b>ayas</b> = copper/bronze; iron appears later as <b>krishna/shyama ayas</b>.</li><li><b>2 true</b>: <b>Purusha Sukta</b> (X.90) names Brahmana, Rajanya, Vaishya, Shudra.</li><li><b>3 false</b>: economy was <b>pastoral</b>; cattle (<b>go</b>) measured wealth; <b>yava</b> (barley) was the only crop named; agriculture was secondary.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>“Only 2 and 3” wrongly accepts statement 3 and drops the true statement 1.</li><li>“Only 1 and 3” wrongly accepts statement 3 and drops the true statement 2.</li><li>“1, 2 and 3” wrongly includes statement 3.</li></ul><h5>Know More</h5><ul><li>Cattle-linked terms: <b>gavishti</b> (search for cows, i.e. battle), <b>gopati</b>, <b>duhitri</b> (milker; daughter).</li><li>The cow is called <b>aghnya</b> (not to be killed).</li><li>The <b>Purusha Sukta</b> and the <b>Tenth Mandala</b> are regarded as later additions to the Rigveda.</li><li>Agriculture became the mainstay only in the <b>Later Vedic</b> phase, with iron tools.</li></ul>",
+        "_aimcq_title_hi": "प्रारंभिक वैदिक (ऋग्वैदिक) काल के संबंध में…",
+        "_aimcq_question_content_hi": "<p>प्रारंभिक वैदिक (ऋग्वैदिक) काल के संबंध में निम्नलिखित कथनों पर विचार कीजिए:</p><ol><li>ऋग्वेद में ‘अयस्’ शब्द को सामान्यतः लोहे के बजाय ताँबे या काँसे का वाचक माना जाता है।</li><li>ऋग्वेद के दसवें मंडल का पुरुष सूक्त चार वर्णों का उल्लेख करता है।</li><li>स्थायी हल-आधारित कृषि ऋग्वैदिक लोगों की प्रमुख आर्थिक गतिविधि थी।</li></ol><p>उपर्युक्त कथनों में से कौन-सा/से सही है/हैं?</p><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 2 और 3",
+            "image": ""
+          },
+          {
+            "text": "केवल 1 और 2",
+            "image": ""
+          },
+          {
+            "text": "केवल 1 और 3",
+            "image": ""
+          },
+          {
+            "text": "1, 2 और 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 1 और 2</h5><p>कथन <b>1</b> और <b>2</b> सही हैं; कथन 3 गलत है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>1 सत्य</b>: ऋग्वैदिक <b>अयस्</b> = ताँबा/काँसा; लोहा बाद में <b>कृष्ण/श्याम अयस्</b> के रूप में आता है।</li><li><b>2 सत्य</b>: <b>पुरुष सूक्त</b> (X.90) में ब्राह्मण, राजन्य, वैश्य, शूद्र का उल्लेख है।</li><li><b>3 असत्य</b>: अर्थव्यवस्था <b>पशुचारण</b> प्रधान थी; गाय (<b>गो</b>) संपत्ति का मापदंड थी; केवल <b>यव</b> (जौ) नामक फसल का उल्लेख है; कृषि गौण थी।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>“केवल 2 और 3” कथन 3 को गलत ढंग से स्वीकार करता है और सही कथन 1 को छोड़ देता है।</li><li>“केवल 1 और 3” कथन 3 को गलत ढंग से स्वीकार करता है और सही कथन 2 को छोड़ देता है।</li><li>“1, 2 और 3” में गलत कथन 3 भी शामिल है।</li></ul><h5>और जानें</h5><ul><li>गाय से जुड़े शब्द: <b>गविष्टि</b> (गायों की खोज, अर्थात युद्ध), <b>गोपति</b>, <b>दुहितृ</b> (दुहने वाली; पुत्री)।</li><li>गाय को <b>अघ्न्या</b> (न मारने योग्य) कहा गया है।</li><li><b>पुरुष सूक्त</b> और <b>दशम मंडल</b> को ऋग्वेद में परवर्ती जोड़ माना जाता है।</li><li>कृषि <b>उत्तर वैदिक</b> काल में लौह उपकरणों के साथ मुख्य आधार बनी।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 104,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Match List - I with List - II and choose the…",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Rigvedic river)</th><th>List - II<br>(Modern river)</th></tr><tr><td>A. Shutudri</td><td>1. Chenab</td></tr><tr><td>B. Vipasa</td><td>2. Jhelum</td></tr><tr><td>C. Askini</td><td>3. Sutlej</td></tr><tr><td>D. Vitasta</td><td>4. Beas</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-3, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-1, B-2, C-3, D-4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-3, B-4, C-1, D-2</h5><p><b>Shutudri</b> = Sutlej (3), <b>Vipasa</b> = Beas (4), <b>Askini</b> = Chenab (1), <b>Vitasta</b> = Jhelum (2).</p><h5>Correct Option Explanation</h5><ul><li>These are Punjab tributaries of the <b>Sindhu</b> named in the Rigveda (<b>Nadistuti Sukta</b>, X.75, and hymn III.33).</li><li>Greek forms: Vitasta = <b>Hydaspes</b>, Askini = <b>Acesines</b>, Vipasa = <b>Hyphasis</b>.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>A-3, B-4, C-2, D-1: Askini and Vitasta are swapped.</li><li>A-4, B-3, C-1, D-2: Shutudri and Vipasa are swapped.</li><li>A-1, B-2, C-3, D-4: all four pairings are wrong.</li></ul><h5>Know More</h5><ul><li><b>Parushni</b> = Ravi (Greek <b>Hydraotes</b>), the river of the <b>Dasarajna</b> battle.</li><li><b>Kubha</b> = Kabul, <b>Krumu</b> = Kurram, <b>Gomati</b> = Gomal, <b>Suvastu</b> = Swat.</li><li>Hymn <b>III.33</b>: <b>Vishvamitra</b> persuades Vipasa and Shutudri to let the Bharatas cross.</li><li><b>Sarasvati</b> and <b>Drishadvati</b> bounded the later Brahmavarta region.</li></ul>",
+        "_aimcq_title_hi": "सूची - I का सूची - II से मिलान कीजिए और सूचि…",
+        "_aimcq_question_content_hi": "<p>सूची - I का सूची - II से मिलान कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।</p><table border='1' cellpadding='4'><tr><th>सूची - I<br>(ऋग्वैदिक नदी)</th><th>सूची - II<br>(आधुनिक नदी)</th></tr><tr><td>A. शुतुद्रि</td><td>1. चिनाब</td></tr><tr><td>B. विपाशा</td><td>2. झेलम</td></tr><tr><td>C. अस्किनी</td><td>3. सतलुज</td></tr><tr><td>D. वितस्ता</td><td>4. ब्यास</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-3, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-1, B-2, C-3, D-4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: A-3, B-4, C-1, D-2</h5><p><b>शुतुद्रि</b> = सतलुज (3), <b>विपाशा</b> = ब्यास (4), <b>अस्किनी</b> = चिनाब (1), <b>वितस्ता</b> = झेलम (2)।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>ये ऋग्वेद में वर्णित <b>सिंधु</b> की पंजाबी सहायक नदियाँ हैं (<b>नदीस्तुति सूक्त</b>, X.75, तथा सूक्त III.33)।</li><li>यूनानी रूप: वितस्ता = <b>हाइडेस्पीज़</b>, अस्किनी = <b>एकेसीनीज़</b>, विपाशा = <b>हाइफ़ेसिस</b>।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>A-3, B-4, C-2, D-1: अस्किनी और वितस्ता आपस में बदल गई हैं।</li><li>A-4, B-3, C-1, D-2: शुतुद्रि और विपाशा आपस में बदल गई हैं।</li><li>A-1, B-2, C-3, D-4: चारों मिलान गलत हैं।</li></ul><h5>और जानें</h5><ul><li><b>परुष्णी</b> = रावी (यूनानी <b>हाइड्राओतीज़</b>), जिसके तट पर <b>दाशराज्ञ</b> युद्ध हुआ।</li><li><b>कुभा</b> = काबुल, <b>क्रुमु</b> = कुर्रम, <b>गोमती</b> = गोमल, <b>सुवास्तु</b> = स्वात।</li><li>सूक्त <b>III.33</b>: <b>विश्वामित्र</b> विपाशा और शुतुद्रि से भरतों को पार जाने देने का अनुरोध करते हैं।</li><li><b>सरस्वती</b> और <b>दृषद्वती</b> परवर्ती ब्रह्मावर्त क्षेत्र की सीमाएँ थीं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 105,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which of the following pairs of Early Vedic…",
+      "post_content": "<p>Which of the following pairs of Early Vedic terms and their meanings is/are NOT correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Term)</th><th>(Meaning)</th></tr><tr><td>1. Gavishti</td><td>Search for cows (a term for battle)</td></tr><tr><td>2. Gramani</td><td>Commander of the army</td></tr><tr><td>3. Purohita</td><td>Chief priest of the king</td></tr><tr><td>4. Senani</td><td>Head of the village</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1 and 3",
+            "image": ""
+          },
+          {
+            "text": "Only 2, 3 and 4",
+            "image": ""
+          },
+          {
+            "text": "Only 4",
+            "image": ""
+          },
+          {
+            "text": "Only 2 and 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 2 and 4</h5><p>Pairs <b>2</b> and <b>4</b> are wrongly matched: their meanings are swapped.</p><h5>Correct Option Explanation</h5><ul><li><b>Gramani</b> = head of the <b>grama</b> (village).</li><li><b>Senani</b> = army commander.</li><li><b>Gavishti</b> (search for cows) and <b>Purohita</b> (chief priest) are correct.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>“Only 1 and 3” names the correctly matched pairs, not the wrong ones.</li><li>“Only 2, 3 and 4” wrongly includes pair 3, which is correct.</li><li>“Only 4” misses pair 2, which is also wrong.</li></ul><h5>Know More</h5><ul><li>Rigvedic polity ladder: <b>kula → grama → vish → jana → rashtra</b>.</li><li><b>Rajan</b> was the tribal chief; <b>bali</b> was a voluntary offering, not a regular tax.</li><li>Other officials: <b>Spasa</b> (spies) and <b>Vrajapati</b> (pasture-ground head).</li><li><b>Vasishtha</b> and <b>Vishvamitra</b> were the famous purohitas.</li></ul>",
+        "_aimcq_title_hi": "प्रारंभिक वैदिक शब्दों और उनके अर्थों के निम…",
+        "_aimcq_question_content_hi": "<p>प्रारंभिक वैदिक शब्दों और उनके अर्थों के निम्नलिखित युग्मों में से कौन-सा/से सुमेलित नहीं है/हैं?</p><table border='1' cellpadding='4'><tr><th>(शब्द)</th><th>(अर्थ)</th></tr><tr><td>1. गविष्टि</td><td>गायों की खोज (युद्ध के लिए प्रयुक्त शब्द)</td></tr><tr><td>2. ग्रामणी</td><td>सेना का सेनापति</td></tr><tr><td>3. पुरोहित</td><td>राजा का प्रमुख पुरोहित</td></tr><tr><td>4. सेनानी</td><td>गाँव का मुखिया</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 1 और 3",
+            "image": ""
+          },
+          {
+            "text": "केवल 2, 3 और 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 2 और 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 2 और 4</h5><p>युग्म <b>2</b> और <b>4</b> गलत सुमेलित हैं: दोनों के अर्थ आपस में बदल गए हैं।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>ग्रामणी</b> = <b>ग्राम</b> (गाँव) का मुखिया।</li><li><b>सेनानी</b> = सेना का नायक।</li><li><b>गविष्टि</b> (गायों की खोज) और <b>पुरोहित</b> (प्रमुख पुरोहित) सही हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>“केवल 1 और 3” सही सुमेलित युग्मों को बताता है, गलत युग्मों को नहीं।</li><li>“केवल 2, 3 और 4” में युग्म 3 गलत ढंग से शामिल है, जो सही है।</li><li>“केवल 4” में युग्म 2 छूट गया है, जो भी गलत है।</li></ul><h5>और जानें</h5><ul><li>ऋग्वैदिक राजनीतिक क्रम: <b>कुल → ग्राम → विश → जन → राष्ट्र</b>।</li><li><b>राजन</b> जनजातीय मुखिया था; <b>बलि</b> स्वैच्छिक भेंट थी, नियमित कर नहीं।</li><li>अन्य अधिकारी: <b>स्पश</b> (गुप्तचर) और <b>व्रजपति</b> (चरागाह प्रमुख)।</li><li><b>वसिष्ठ</b> और <b>विश्वामित्र</b> प्रसिद्ध पुरोहित थे।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 106,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "The Dasarajna (Battle of the Ten Kings), in…",
+      "post_content": "<p>The Dasarajna (Battle of the Ten Kings), in which the Bharata chief Sudas was victorious, was fought on the banks of which river?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Sindhu",
+            "image": ""
+          },
+          {
+            "text": "Parushni",
+            "image": ""
+          },
+          {
+            "text": "Vipasa",
+            "image": ""
+          },
+          {
+            "text": "Gomati",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Parushni</h5><p>The battle was fought on the <b>Parushni</b> (modern <b>Ravi</b>).</p><h5>Correct Option Explanation</h5><ul><li><b>Sudas</b> of the <b>Bharata</b> clan, with <b>Vasishtha</b> as purohita, defeated a confederacy of ten tribes.</li><li>Described mainly in <b>Mandala VII</b> (hymns 18, 33, 83).</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Sindhu</b> is the Indus, the chief river of the Rigveda, not the battle site.</li><li><b>Vipasa</b> is the Beas; Vishvamitra's crossing of it appears in hymn III.33.</li><li><b>Gomati</b> is the Gomal, a western tributary of the Indus.</li></ul><h5>Know More</h5><ul><li>Opponents included the <b>Purus</b>, <b>Yadus</b>, <b>Turvashas</b>, <b>Anus</b> and <b>Druhyus</b>.</li><li><b>Vasishtha</b> and <b>Vishvamitra</b> were rival priests; Vishvamitra had earlier served Sudas.</li><li>Bharatas and Purus later merged into the <b>Kuru</b> tribe.</li><li><b>Dasas/Dasyus</b> and <b>Panis</b> are the hostile non-Aryan groups of the Rigveda.</li></ul>",
+        "_aimcq_title_hi": "दाशराज्ञ युद्ध (दस राजाओं का युद्ध), जिसमें…",
+        "_aimcq_question_content_hi": "<p>दाशराज्ञ युद्ध (दस राजाओं का युद्ध), जिसमें भरत प्रमुख सुदास विजयी हुए, किस नदी के तट पर लड़ा गया?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "सिंधु",
+            "image": ""
+          },
+          {
+            "text": "परुष्णी",
+            "image": ""
+          },
+          {
+            "text": "विपाशा",
+            "image": ""
+          },
+          {
+            "text": "गोमती",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: परुष्णी</h5><p>युद्ध <b>परुष्णी</b> (आधुनिक <b>रावी</b>) नदी के तट पर लड़ा गया।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>भरत</b> कुल के <b>सुदास</b> ने, <b>वसिष्ठ</b> के पुरोहित रहते, दस जनों के संघ को पराजित किया।</li><li>इसका वर्णन मुख्यतः <b>सप्तम मंडल</b> (सूक्त 18, 33, 83) में है।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>सिंधु</b> (इंडस) ऋग्वेद की प्रमुख नदी है, युद्ध-स्थल नहीं।</li><li><b>विपाशा</b> ब्यास है; विश्वामित्र द्वारा इसे पार करने का वर्णन सूक्त III.33 में है।</li><li><b>गोमती</b> गोमल है, जो सिंधु की पश्चिमी सहायक नदी है।</li></ul><h5>और जानें</h5><ul><li>विरोधियों में <b>पुरु</b>, <b>यदु</b>, <b>तुर्वश</b>, <b>अनु</b> और <b>द्रुह्यु</b> शामिल थे।</li><li><b>वसिष्ठ</b> और <b>विश्वामित्र</b> प्रतिद्वंद्वी पुरोहित थे; विश्वामित्र पहले सुदास के पुरोहित रहे थे।</li><li>भरत और पुरु बाद में <b>कुरु</b> जन में विलीन हो गए।</li><li><b>दास/दस्यु</b> और <b>पणि</b> ऋग्वेद के शत्रु-समूह हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 107,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which of the following pairs of Brahmana tex…",
+      "post_content": "<p>Which of the following pairs of Brahmana texts and the Veda to which they are attached is/are correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Brahmana text)</th><th>(Attached Veda)</th></tr><tr><td>1. Aitareya Brahmana</td><td>Rigveda</td></tr><tr><td>2. Shatapatha Brahmana</td><td>Samaveda</td></tr><tr><td>3. Gopatha Brahmana</td><td>Atharvaveda</td></tr><tr><td>4. Taittiriya Brahmana</td><td>Krishna Yajurveda</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1, 3 and 4",
+            "image": ""
+          },
+          {
+            "text": "Only 1, 2 and 3",
+            "image": ""
+          },
+          {
+            "text": "Only 2, 3 and 4",
+            "image": ""
+          },
+          {
+            "text": "All of the above",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 1, 3 and 4</h5><p>Pairs <b>1, 3 and 4</b> are correct; pair 2 is wrong.</p><h5>Correct Option Explanation</h5><ul><li><b>Shatapatha Brahmana</b> belongs to the <b>Shukla (White) Yajurveda</b> (Vajasaneyi Samhita), not the Samaveda.</li><li><b>Aitareya</b> (Rigveda), <b>Gopatha</b> (Atharvaveda) and <b>Taittiriya</b> (Krishna Yajurveda) are correctly attached.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>“Only 1, 2 and 3” includes the wrong pair 2 and omits pair 4.</li><li>“Only 2, 3 and 4” includes the wrong pair 2 and omits pair 1.</li><li>“All of the above” wrongly treats pair 2 as correct.</li></ul><h5>Know More</h5><ul><li>Rigveda Brahmanas: <b>Aitareya</b> and <b>Kaushitaki</b>.</li><li>Samaveda Brahmanas: <b>Tandya (Panchavimsha)</b> and <b>Jaiminiya</b>.</li><li><b>Shatapatha</b> (100 paths) is linked with <b>Yajnavalkya</b> and holds the Manu flood legend.</li><li><b>Gopatha</b> is the only Brahmana of the Atharvaveda.</li></ul>",
+        "_aimcq_title_hi": "ब्राह्मण ग्रंथों और उनसे संबद्ध वेदों के निम…",
+        "_aimcq_question_content_hi": "<p>ब्राह्मण ग्रंथों और उनसे संबद्ध वेदों के निम्नलिखित युग्मों में से कौन-सा/से सुमेलित है/हैं?</p><table border='1' cellpadding='4'><tr><th>(ब्राह्मण ग्रंथ)</th><th>(संबद्ध वेद)</th></tr><tr><td>1. ऐतरेय ब्राह्मण</td><td>ऋग्वेद</td></tr><tr><td>2. शतपथ ब्राह्मण</td><td>सामवेद</td></tr><tr><td>3. गोपथ ब्राह्मण</td><td>अथर्ववेद</td></tr><tr><td>4. तैत्तिरीय ब्राह्मण</td><td>कृष्ण यजुर्वेद</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 1, 3 और 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 1, 2 और 3",
+            "image": ""
+          },
+          {
+            "text": "केवल 2, 3 और 4",
+            "image": ""
+          },
+          {
+            "text": "उपर्युक्त सभी",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 1, 3 और 4</h5><p>युग्म <b>1, 3 और 4</b> सही हैं; युग्म 2 गलत है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>शतपथ ब्राह्मण</b> <b>शुक्ल यजुर्वेद</b> (वाजसनेयी संहिता) से संबद्ध है, सामवेद से नहीं।</li><li><b>ऐतरेय</b> (ऋग्वेद), <b>गोपथ</b> (अथर्ववेद) और <b>तैत्तिरीय</b> (कृष्ण यजुर्वेद) सही संबद्ध हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>“केवल 1, 2 और 3” में गलत युग्म 2 शामिल है और युग्म 4 छूट गया है।</li><li>“केवल 2, 3 और 4” में गलत युग्म 2 शामिल है और युग्म 1 छूट गया है।</li><li>“उपर्युक्त सभी” युग्म 2 को गलत ढंग से सही मानता है।</li></ul><h5>और जानें</h5><ul><li>ऋग्वेद के ब्राह्मण: <b>ऐतरेय</b> और <b>कौषीतकि</b>।</li><li>सामवेद के ब्राह्मण: <b>ताण्ड्य (पंचविंश)</b> और <b>जैमिनीय</b>।</li><li><b>शतपथ</b> (100 पथ) का संबंध <b>याज्ञवल्क्य</b> से है और इसमें मनु की जल-प्रलय कथा है।</li><li><b>गोपथ</b> अथर्ववेद का एकमात्र ब्राह्मण है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 108,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "The national motto “Satyameva Jayate” is tak…",
+      "post_content": "<p>The national motto “Satyameva Jayate” is taken from which Upanishad?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Mundaka Upanishad",
+            "image": ""
+          },
+          {
+            "text": "Katha Upanishad",
+            "image": ""
+          },
+          {
+            "text": "Kena Upanishad",
+            "image": ""
+          },
+          {
+            "text": "Chandogya Upanishad",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Mundaka Upanishad</h5><p>“Satyameva Jayate” comes from the <b>Mundaka Upanishad</b> (III.1.6).</p><h5>Correct Option Explanation</h5><ul><li>The verse reads that truth alone triumphs, not falsehood.</li><li>Mundaka is attached to the <b>Atharvaveda</b>; it separates <b>Para</b> (higher) and <b>Apara</b> (lower) knowledge.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Katha Upanishad</b> carries the <b>Nachiketa–Yama</b> dialogue on death and the Atman.</li><li><b>Kena Upanishad</b> opens with “by whom is the mind directed?” and treats Brahman as the unseen power.</li><li><b>Chandogya Upanishad</b> holds <b>“Tat tvam asi”</b> from the Uddalaka–Shvetaketu teaching.</li></ul><h5>Know More</h5><ul><li>The motto sits in Devanagari beneath the <b>Lion Capital</b> of Sarnath, the State Emblem adopted on <b>26 January 1950</b>.</li><li><b>Madan Mohan Malaviya</b> popularised the phrase in the freedom movement.</li><li><b>Brihadaranyaka</b> is the largest Upanishad.</li><li>Principal Upanishads (about 10–13) were commented on by <b>Shankaracharya</b>.</li></ul>",
+        "_aimcq_title_hi": "राष्ट्रीय आदर्श वाक्य “सत्यमेव जयते” किस उपन…",
+        "_aimcq_question_content_hi": "<p>राष्ट्रीय आदर्श वाक्य “सत्यमेव जयते” किस उपनिषद से लिया गया है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "मुंडक उपनिषद",
+            "image": ""
+          },
+          {
+            "text": "कठ उपनिषद",
+            "image": ""
+          },
+          {
+            "text": "केन उपनिषद",
+            "image": ""
+          },
+          {
+            "text": "छांदोग्य उपनिषद",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: मुंडक उपनिषद</h5><p>“सत्यमेव जयते” <b>मुंडक उपनिषद</b> (III.1.6) से लिया गया है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>श्लोक का आशय है कि सत्य की ही विजय होती है, असत्य की नहीं।</li><li>मुंडक <b>अथर्ववेद</b> से संबद्ध है; यह <b>परा</b> (उच्च) और <b>अपरा</b> (निम्न) विद्या में भेद करता है।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>कठ उपनिषद</b> में मृत्यु और आत्मा पर <b>नचिकेता–यम</b> संवाद है।</li><li><b>केन उपनिषद</b> “किसके द्वारा मन प्रेरित होता है?” से आरंभ होकर ब्रह्म को अदृश्य शक्ति मानता है।</li><li><b>छांदोग्य उपनिषद</b> में उद्दालक–श्वेतकेतु उपदेश का <b>“तत्त्वमसि”</b> है।</li></ul><h5>और जानें</h5><ul><li>यह वाक्य सारनाथ के <b>सिंह-शीर्ष</b> के नीचे देवनागरी में अंकित है; राजचिह्न <b>26 जनवरी 1950</b> को अपनाया गया।</li><li><b>मदन मोहन मालवीय</b> ने स्वतंत्रता आंदोलन में इस वाक्यांश को लोकप्रिय बनाया।</li><li><b>बृहदारण्यक</b> सबसे बड़ा उपनिषद है।</li><li>प्रमुख उपनिषदों (लगभग 10–13) पर <b>शंकराचार्य</b> ने भाष्य लिखे।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 109,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Match List - I with List - II and choose the…",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Veda)</th><th>List - II<br>(Principal priest associated)</th></tr><tr><td>A. Rigveda</td><td>1. Brahma</td></tr><tr><td>B. Samaveda</td><td>2. Hotri</td></tr><tr><td>C. Yajurveda</td><td>3. Adhvaryu</td></tr><tr><td>D. Atharvaveda</td><td>4. Udgatri</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-4, B-2, C-3, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-4, C-1, D-3",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-4, C-3, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-2, B-4, C-3, D-1</h5><p><b>Rigveda–Hotri</b>, <b>Samaveda–Udgatri</b>, <b>Yajurveda–Adhvaryu</b>, <b>Atharvaveda–Brahma</b>.</p><h5>Correct Option Explanation</h5><ul><li><b>Hotri</b> recites Rigvedic verses invoking the gods.</li><li><b>Udgatri</b> sings the Samans.</li><li><b>Adhvaryu</b> performs the manual rites, muttering yajus formulas.</li><li><b>Brahma</b> supervises the whole sacrifice, traditionally linked with the Atharvaveda.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>A-4, B-2, C-3, D-1: Rigveda and Samaveda are swapped.</li><li>A-2, B-4, C-1, D-3: Yajurveda and Atharvaveda are swapped.</li><li>A-3, B-4, C-2, D-1: Rigveda and Yajurveda are swapped.</li></ul><h5>Know More</h5><ul><li>Four chief priests (<b>ritvijas</b>) conduct a Shrauta sacrifice; large rites use up to <b>16</b> priests.</li><li><b>Samaveda</b> draws most verses from the Rigveda and is the root of Indian <b>classical music</b>.</li><li><b>Atharvaveda</b> holds charms, spells and folk beliefs; also called <b>Brahmaveda</b>.</li><li><b>Rigveda</b> recension surviving today: <b>Shakala</b>.</li></ul>",
+        "_aimcq_title_hi": "सूची - I का सूची - II से मिलान कीजिए और सूचि…",
+        "_aimcq_question_content_hi": "<p>सूची - I का सूची - II से मिलान कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।</p><table border='1' cellpadding='4'><tr><th>सूची - I<br>(वेद)</th><th>सूची - II<br>(संबद्ध प्रमुख ऋत्विज)</th></tr><tr><td>A. ऋग्वेद</td><td>1. ब्रह्मा</td></tr><tr><td>B. सामवेद</td><td>2. होतृ</td></tr><tr><td>C. यजुर्वेद</td><td>3. अध्वर्यु</td></tr><tr><td>D. अथर्ववेद</td><td>4. उद्गातृ</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "A-4, B-2, C-3, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-4, C-1, D-3",
+            "image": ""
+          },
+          {
+            "text": "A-2, B-4, C-3, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: A-2, B-4, C-3, D-1</h5><p><b>ऋग्वेद–होतृ</b>, <b>सामवेद–उद्गातृ</b>, <b>यजुर्वेद–अध्वर्यु</b>, <b>अथर्ववेद–ब्रह्मा</b>।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>होतृ</b> देवताओं के आवाहन हेतु ऋग्वैदिक मंत्रों का पाठ करता है।</li><li><b>उद्गातृ</b> सामों का गान करता है।</li><li><b>अध्वर्यु</b> यजुष मंत्र बुदबुदाते हुए यज्ञ की क्रियाएँ करता है।</li><li><b>ब्रह्मा</b> संपूर्ण यज्ञ का निरीक्षण करता है, परंपरा से अथर्ववेद से जुड़ा है।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>A-4, B-2, C-3, D-1: ऋग्वेद और सामवेद आपस में बदल गए हैं।</li><li>A-2, B-4, C-1, D-3: यजुर्वेद और अथर्ववेद आपस में बदल गए हैं।</li><li>A-3, B-4, C-2, D-1: ऋग्वेद और यजुर्वेद आपस में बदल गए हैं।</li></ul><h5>और जानें</h5><ul><li>श्रौत यज्ञ में चार प्रमुख <b>ऋत्विज</b> होते हैं; बड़े यज्ञों में <b>16</b> तक पुरोहित होते हैं।</li><li><b>सामवेद</b> अधिकांश मंत्र ऋग्वेद से लेता है और भारतीय <b>शास्त्रीय संगीत</b> का मूल है।</li><li><b>अथर्ववेद</b> में अभिचार, मंत्र और लोक-विश्वास हैं; इसे <b>ब्रह्मवेद</b> भी कहते हैं।</li><li>आज उपलब्ध <b>ऋग्वेद</b> की शाखा: <b>शाकल</b>।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 110,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Given below are two statements, one is label…",
+      "post_content": "<p>Given below are two statements, one is labelled as <b>Assertion (A)</b> and the other as <b>Reason (R)</b>.</p><p><b>Assertion (A):</b> The authority of the Rajan increased substantially in the Later Vedic period.</p><p><b>Reason (R):</b> This happened because the Sabha and Samiti became more powerful and began to control the king.</p><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "image": ""
+          },
+          {
+            "text": "(A) is true, but (R) is false",
+            "image": ""
+          },
+          {
+            "text": "(A) is false, but (R) is true",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: (A) is true, but (R) is false</h5><p><b>(A) is true</b>, but <b>(R) is false</b>.</p><h5>Correct Option Explanation</h5><ul><li><b>A true</b>: kings performed <b>Rajasuya</b>, <b>Vajapeya</b> and <b>Ashvamedha</b>; titles like <b>Samrat</b>, <b>Ekarat</b>, <b>Virat</b> appear; kingship became hereditary and tied to a territory (<b>rashtra</b>).</li><li><b>R false</b>: <b>Sabha</b> and <b>Samiti</b> lost importance, the <b>Vidatha</b> vanished, and women were kept out of the Sabha.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>“Both true, (R) not the explanation” wrongly treats (R) as true.</li><li>“Both true, (R) the explanation” wrongly treats (R) as true; the rise of the king came with the decline of assemblies.</li><li>“(A) false, (R) true” reverses the facts: (A) is true and (R) is false.</li></ul><h5>Know More</h5><ul><li><b>Ratnins</b>: royal functionaries honoured in the <b>Rajasuya</b>.</li><li><b>Bali</b> turned from a voluntary gift into a regular tribute; <b>Bhagadugha</b> was the revenue collector.</li><li><b>Kuru</b> and <b>Panchala</b> were the leading Later Vedic kingdoms.</li><li><b>Pravahana Jaivali</b> was a Panchala king; <b>Janaka</b> ruled Videha.</li></ul>",
+        "_aimcq_title_hi": "नीचे दो कथन दिए गए हैं, एक को अभिकथन (A) और…",
+        "_aimcq_question_content_hi": "<p>नीचे दो कथन दिए गए हैं, एक को <b>अभिकथन (A)</b> और दूसरे को <b>कारण (R)</b> कहा गया है।</p><p><b>अभिकथन (A):</b> उत्तर वैदिक काल में राजन की सत्ता में उल्लेखनीय वृद्धि हुई।</p><p><b>कारण (R):</b> ऐसा इसलिए हुआ क्योंकि सभा और समिति अधिक शक्तिशाली हो गईं और राजा पर नियंत्रण रखने लगीं।</p><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "(A) और (R) दोनों सत्य हैं, किंतु (R), (A) की सही व्याख्या नहीं है",
+            "image": ""
+          },
+          {
+            "text": "(A) और (R) दोनों सत्य हैं और (R), (A) की सही व्याख्या है",
+            "image": ""
+          },
+          {
+            "text": "(A) सत्य है, किंतु (R) असत्य है",
+            "image": ""
+          },
+          {
+            "text": "(A) असत्य है, किंतु (R) सत्य है",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: (A) सत्य है, किंतु (R) असत्य है</h5><p><b>(A) सत्य है</b>, किंतु <b>(R) असत्य है</b>।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>A सत्य</b>: राजा <b>राजसूय</b>, <b>वाजपेय</b> और <b>अश्वमेध</b> करते थे; <b>सम्राट</b>, <b>एकराट्</b>, <b>विराट्</b> जैसी उपाधियाँ मिलती हैं; राजपद वंशानुगत और <b>राष्ट्र</b> (क्षेत्र) से जुड़ गया।</li><li><b>R असत्य</b>: <b>सभा</b> और <b>समिति</b> का महत्त्व घटा, <b>विदथ</b> लुप्त हो गया और स्त्रियों को सभा से बाहर रखा गया।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>“दोनों सत्य, (R) सही व्याख्या नहीं” (R) को गलत ढंग से सत्य मानता है।</li><li>“दोनों सत्य, (R) सही व्याख्या” (R) को गलत ढंग से सत्य मानता है; राजा की शक्ति बढ़ने के साथ सभाओं का ह्रास हुआ।</li><li>“(A) असत्य, (R) सत्य” तथ्य उलट देता है: (A) सत्य और (R) असत्य है।</li></ul><h5>और जानें</h5><ul><li><b>रत्निन</b>: <b>राजसूय</b> में सम्मानित राजकीय पदाधिकारी।</li><li><b>बलि</b> स्वैच्छिक भेंट से नियमित कर बन गई; <b>भागदुघ</b> राजस्व संग्रहकर्ता था।</li><li><b>कुरु</b> और <b>पांचाल</b> प्रमुख उत्तर वैदिक राज्य थे।</li><li><b>प्रवाहण जैवलि</b> पांचाल राजा थे; <b>जनक</b> विदेह के शासक थे।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 111,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Consider the following regions associated wi…",
+      "post_content": "<p>Consider the following regions associated with the eastward shift of the centre of Vedic culture and arrange them in the order in which they came into prominence in Vedic literature.</p><ol><li>Kosala–Videha</li><li>Sapta Sindhu</li><li>Magadha–Anga</li><li>Kuru–Panchala (Ganga–Yamuna doab)</li></ol><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "2, 1, 4, 3",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 3, 1",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 1, 3",
+            "image": ""
+          },
+          {
+            "text": "4, 2, 1, 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: 2, 4, 1, 3</h5><p>Order: <b>Sapta Sindhu</b> → <b>Kuru–Panchala</b> → <b>Kosala–Videha</b> → <b>Magadha–Anga</b>.</p><h5>Correct Option Explanation</h5><ul><li><b>Rigveda</b>: Punjab and Sapta Sindhu.</li><li><b>Later Vedic</b> texts: Kuru–Panchala doab is the cultural core.</li><li><b>Shatapatha Brahmana</b>: <b>Videgha Mathava</b> carries Agni east to the <b>Sadanira</b>, opening Kosala–Videha.</li><li><b>Magadha</b> and <b>Anga</b> sit on the eastern fringe, still seen as outside Vedic culture.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>“2, 1, 4, 3” places Kosala–Videha before Kuru–Panchala; the order is wrong.</li><li>“2, 4, 3, 1” places Magadha–Anga before Kosala–Videha; the order is wrong.</li><li>“4, 2, 1, 3” places Kuru–Panchala before Sapta Sindhu; the order is wrong.</li></ul><h5>Know More</h5><ul><li><b>Hastinapur</b> (Kurus) and <b>Ahichchhatra</b> (Panchalas) are key <b>PGW</b> sites.</li><li><b>Janaka</b> of Videha patronised <b>Yajnavalkya</b> and Brahmavidya debates.</li><li><b>Ajatashatru</b>, a Kashi king, also appears in Upanishadic dialogues.</li><li>Sixteen <b>Mahajanapadas</b> emerged by <b>c. 6th century BCE</b>.</li></ul>",
+        "_aimcq_title_hi": "वैदिक संस्कृति के केंद्र के पूर्व की ओर खिसक…",
+        "_aimcq_question_content_hi": "<p>वैदिक संस्कृति के केंद्र के पूर्व की ओर खिसकने से संबद्ध निम्नलिखित क्षेत्रों पर विचार कीजिए और उन्हें उस क्रम में व्यवस्थित कीजिए जिसमें वे वैदिक साहित्य में प्रमुख हुए।</p><ol><li>कोसल–विदेह</li><li>सप्त सिंधु</li><li>मगध–अंग</li><li>कुरु–पांचाल (गंगा–यमुना दोआब)</li></ol><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "2, 1, 4, 3",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 3, 1",
+            "image": ""
+          },
+          {
+            "text": "2, 4, 1, 3",
+            "image": ""
+          },
+          {
+            "text": "4, 2, 1, 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: 2, 4, 1, 3</h5><p>क्रम: <b>सप्त सिंधु</b> → <b>कुरु–पांचाल</b> → <b>कोसल–विदेह</b> → <b>मगध–अंग</b>।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>ऋग्वेद</b>: पंजाब और सप्त सिंधु।</li><li><b>उत्तर वैदिक</b> ग्रंथ: कुरु–पांचाल दोआब सांस्कृतिक केंद्र है।</li><li><b>शतपथ ब्राह्मण</b>: <b>विदेघ माथव</b> अग्नि को पूर्व में <b>सदानीरा</b> तक ले जाते हैं, जिससे कोसल–विदेह खुलता है।</li><li><b>मगध</b> और <b>अंग</b> पूर्वी सीमांत पर हैं, जिन्हें तब भी वैदिक संस्कृति से बाहर माना जाता था।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>“2, 1, 4, 3” में कोसल–विदेह को कुरु–पांचाल से पहले रखा गया है; क्रम गलत है।</li><li>“2, 4, 3, 1” में मगध–अंग को कोसल–विदेह से पहले रखा गया है; क्रम गलत है।</li><li>“4, 2, 1, 3” में कुरु–पांचाल को सप्त सिंधु से पहले रखा गया है; क्रम गलत है।</li></ul><h5>और जानें</h5><ul><li><b>हस्तिनापुर</b> (कुरु) और <b>अहिच्छत्र</b> (पांचाल) प्रमुख <b>चित्रित धूसर मृद्भांड</b> स्थल हैं।</li><li>विदेह के <b>जनक</b> ने <b>याज्ञवल्क्य</b> और ब्रह्मविद्या-शास्त्रार्थों को संरक्षण दिया।</li><li>काशी के राजा <b>अजातशत्रु</b> भी उपनिषदीय संवादों में आते हैं।</li><li><b>लगभग छठी शताब्दी ई.पू.</b> तक सोलह <b>महाजनपद</b> उभर आए।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 112,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "The Nasadiya Sukta, a hymn on the origin of…",
+      "post_content": "<p>The Nasadiya Sukta, a hymn on the origin of the universe, occurs in which Mandala of the Rigveda?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "First",
+            "image": ""
+          },
+          {
+            "text": "Third",
+            "image": ""
+          },
+          {
+            "text": "Seventh",
+            "image": ""
+          },
+          {
+            "text": "Tenth",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Tenth</h5><p>The <b>Nasadiya Sukta</b> is hymn <b>X.129</b>, in the <b>Tenth Mandala</b>.</p><h5>Correct Option Explanation</h5><ul><li>It speculates on creation from a state before being and non-being.</li><li>The Tenth Mandala is a late layer, rich in philosophical hymns.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Mandala I</b> opens with a hymn to <b>Agni</b> and has many composers, including the riddle hymns of <b>Dirghatamas</b>.</li><li><b>Mandala III</b> contains the <b>Gayatri Mantra</b> (III.62.10) of <b>Vishvamitra</b>.</li><li><b>Mandala VII</b> is attributed to <b>Vasishtha</b> and holds the <b>Dasarajna</b> hymns.</li></ul><h5>Know More</h5><ul><li>Other Tenth Mandala hymns: <b>Purusha</b> (X.90), <b>Hiranyagarbha</b> (X.121), <b>Devi</b> (X.125), <b>Nadistuti</b> (X.75).</li><li>Mandalas <b>II–VII</b> are the oldest “family books”; <b>I</b> and <b>X</b> are later additions.</li><li><b>Mandala IX</b> is devoted to <b>Soma Pavamana</b>.</li><li>The Rigveda has about <b>10,600</b> verses.</li></ul>",
+        "_aimcq_title_hi": "ब्रह्मांड की उत्पत्ति पर आधारित नासदीय सूक्त…",
+        "_aimcq_question_content_hi": "<p>ब्रह्मांड की उत्पत्ति पर आधारित नासदीय सूक्त ऋग्वेद के किस मंडल में है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "प्रथम",
+            "image": ""
+          },
+          {
+            "text": "तृतीय",
+            "image": ""
+          },
+          {
+            "text": "सप्तम",
+            "image": ""
+          },
+          {
+            "text": "दशम",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: दशम</h5><p><b>नासदीय सूक्त</b> सूक्त <b>X.129</b> है, जो <b>दशम मंडल</b> में है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>यह अस्तित्व और अनस्तित्व से पूर्व की अवस्था से सृष्टि के विषय में चिंतन करता है।</li><li>दशम मंडल परवर्ती स्तर है, जिसमें दार्शनिक सूक्त प्रचुर हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>प्रथम मंडल</b> <b>अग्नि</b> के सूक्त से आरंभ होता है और इसमें अनेक ऋषि हैं, जैसे <b>दीर्घतमा</b> के पहेलीनुमा सूक्त।</li><li><b>तृतीय मंडल</b> में <b>विश्वामित्र</b> का <b>गायत्री मंत्र</b> (III.62.10) है।</li><li><b>सप्तम मंडल</b> <b>वसिष्ठ</b> से संबद्ध है और इसमें <b>दाशराज्ञ</b> के सूक्त हैं।</li></ul><h5>और जानें</h5><ul><li>दशम मंडल के अन्य सूक्त: <b>पुरुष</b> (X.90), <b>हिरण्यगर्भ</b> (X.121), <b>देवी</b> (X.125), <b>नदीस्तुति</b> (X.75)।</li><li>मंडल <b>II–VII</b> सबसे प्राचीन “वंश मंडल” हैं; <b>I</b> और <b>X</b> परवर्ती जोड़ हैं।</li><li><b>नवम मंडल</b> <b>सोम पवमान</b> को समर्पित है।</li><li>ऋग्वेद में लगभग <b>10,600</b> मंत्र हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 113,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which of the following pairs of Rigvedic dei…",
+      "post_content": "<p>Which of the following pairs of Rigvedic deities and their association is/are correctly matched?</p><table border='1' cellpadding='4'><tr><th>(Deity)</th><th>(Association)</th></tr><tr><td>1. Savitr</td><td>Deity addressed in the Gayatri Mantra</td></tr><tr><td>2. Agni</td><td>God of rain and thunder</td></tr><tr><td>3. Pushan</td><td>Protector of herds and travellers</td></tr><tr><td>4. Varuna</td><td>God of war and the thunderbolt</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Only 1 and 4",
+            "image": ""
+          },
+          {
+            "text": "Only 2 and 4",
+            "image": ""
+          },
+          {
+            "text": "Only 1 and 3",
+            "image": ""
+          },
+          {
+            "text": "Only 1, 3 and 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Only 1 and 3</h5><p>Pairs <b>1</b> and <b>3</b> are correct.</p><h5>Correct Option Explanation</h5><ul><li><b>Savitr</b> is invoked in the <b>Gayatri Mantra</b> (RV III.62.10).</li><li><b>Pushan</b> guards herds, roads and travellers.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>Pair 2 is wrong: <b>Agni</b> is the fire and sacrifice god, the messenger between gods and humans; rain and thunder belong to <b>Indra</b> and <b>Parjanya</b>.</li><li>Pair 4 is wrong: <b>Varuna</b> upholds <b>Rita</b> (cosmic order) and rules the waters; war and the <b>vajra</b> belong to <b>Indra</b>.</li><li>Every option containing pair 2 or pair 4 is therefore wrong.</li></ul><h5>Know More</h5><ul><li><b>Indra</b> has about <b>250</b> hymns, <b>Agni</b> about <b>200</b>.</li><li><b>Soma</b> is the deity of <b>Mandala IX</b>.</li><li><b>Maruts</b> are storm gods, Indra's companions; <b>Ushas</b> is the dawn goddess; <b>Aditi</b> is mother of the Adityas.</li><li>Rigvedic worship was through <b>yajna</b> and hymns, with no temples or idols.</li></ul>",
+        "_aimcq_title_hi": "ऋग्वैदिक देवताओं और उनसे संबद्ध विशेषताओं के…",
+        "_aimcq_question_content_hi": "<p>ऋग्वैदिक देवताओं और उनसे संबद्ध विशेषताओं के निम्नलिखित युग्मों में से कौन-सा/से सुमेलित है/हैं?</p><table border='1' cellpadding='4'><tr><th>(देवता)</th><th>(संबद्धता)</th></tr><tr><td>1. सवितृ</td><td>गायत्री मंत्र में संबोधित देवता</td></tr><tr><td>2. अग्नि</td><td>वर्षा और गर्जन के देवता</td></tr><tr><td>3. पूषन</td><td>पशुओं और यात्रियों के रक्षक</td></tr><tr><td>4. वरुण</td><td>युद्ध और वज्र के देवता</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 1 और 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 2 और 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 1 और 3",
+            "image": ""
+          },
+          {
+            "text": "केवल 1, 3 और 4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: केवल 1 और 3</h5><p>युग्म <b>1</b> और <b>3</b> सही हैं।</p><h5>सही विकल्प की व्याख्या</h5><ul><li><b>सवितृ</b> को <b>गायत्री मंत्र</b> (ऋग्वेद III.62.10) में संबोधित किया गया है।</li><li><b>पूषन</b> पशुओं, मार्गों और यात्रियों की रक्षा करते हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>युग्म 2 गलत है: <b>अग्नि</b> अग्नि और यज्ञ के देवता तथा देवों और मनुष्यों के बीच दूत हैं; वर्षा और गर्जन <b>इंद्र</b> और <b>पर्जन्य</b> से जुड़े हैं।</li><li>युग्म 4 गलत है: <b>वरुण</b> <b>ऋत</b> (सृष्टि-व्यवस्था) के धारक और जल के स्वामी हैं; युद्ध और <b>वज्र</b> इंद्र से जुड़े हैं।</li><li>अतः युग्म 2 या 4 वाला प्रत्येक विकल्प गलत है।</li></ul><h5>और जानें</h5><ul><li><b>इंद्र</b> के लगभग <b>250</b> और <b>अग्नि</b> के लगभग <b>200</b> सूक्त हैं।</li><li><b>सोम</b> <b>नवम मंडल</b> के देवता हैं।</li><li><b>मरुत</b> इंद्र के साथी तूफ़ानी देवता हैं; <b>उषा</b> प्रभात की देवी हैं; <b>अदिति</b> आदित्यों की माता हैं।</li><li>ऋग्वैदिक उपासना <b>यज्ञ</b> और मंत्रों से होती थी; मंदिर या मूर्ति-पूजा नहीं थी।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 114,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which Rigvedic river is praised as “Naditama…",
+      "post_content": "<p>Which Rigvedic river is praised as “Naditama” (the best of rivers)?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Sindhu",
+            "image": ""
+          },
+          {
+            "text": "Sarasvati",
+            "image": ""
+          },
+          {
+            "text": "Vipasa",
+            "image": ""
+          },
+          {
+            "text": "Shutudri",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Sarasvati</h5><p><b>Sarasvati</b> is the <b>Naditama</b> of the Rigveda.</p><h5>Correct Option Explanation</h5><ul><li>RV <b>II.41.16</b> hails her as best of mothers, rivers and goddesses.</li><li>Hymns <b>VI.61</b> and <b>VII.95–96</b> are devoted to her.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Sindhu</b> is the most frequently mentioned river, but the epithet <b>Naditama</b> is not hers.</li><li><b>Vipasa</b> is the Beas, known mainly from hymn III.33.</li><li><b>Shutudri</b> is the Sutlej, also from hymn III.33.</li></ul><h5>Know More</h5><ul><li>Sarasvati is often identified with the <b>Ghaggar–Hakra</b>; the identification is debated.</li><li><b>Drishadvati</b> lay beside the Sarasvati, forming the later <b>Brahmavarta</b>.</li><li><b>Ganga</b> appears once and <b>Yamuna</b> a few times, both in later hymns.</li><li><b>Nadistuti Sukta</b> (X.75) lists rivers from east to west.</li></ul>",
+        "_aimcq_title_hi": "किस ऋग्वैदिक नदी की “नदीतमा” (नदियों में श्र…",
+        "_aimcq_question_content_hi": "<p>किस ऋग्वैदिक नदी की “नदीतमा” (नदियों में श्रेष्ठ) कहकर स्तुति की गई है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "सिंधु",
+            "image": ""
+          },
+          {
+            "text": "सरस्वती",
+            "image": ""
+          },
+          {
+            "text": "विपाशा",
+            "image": ""
+          },
+          {
+            "text": "शुतुद्रि",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: सरस्वती</h5><p><b>सरस्वती</b> ऋग्वेद की <b>नदीतमा</b> है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>ऋग्वेद <b>II.41.16</b> उन्हें श्रेष्ठ माता, नदी और देवी कहता है।</li><li>सूक्त <b>VI.61</b> और <b>VII.95–96</b> उन्हें समर्पित हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>सिंधु</b> सर्वाधिक उल्लिखित नदी है, किंतु <b>नदीतमा</b> विशेषण उसका नहीं है।</li><li><b>विपाशा</b> ब्यास है, जो मुख्यतः सूक्त III.33 से ज्ञात है।</li><li><b>शुतुद्रि</b> सतलुज है, यह भी सूक्त III.33 में आती है।</li></ul><h5>और जानें</h5><ul><li>सरस्वती को प्रायः <b>घग्गर–हाकरा</b> से जोड़ा जाता है; यह पहचान विवादित है।</li><li><b>दृषद्वती</b> सरस्वती के समीप थी; दोनों मिलकर परवर्ती <b>ब्रह्मावर्त</b> बनाती थीं।</li><li><b>गंगा</b> एक बार और <b>यमुना</b> कुछ बार आती हैं, दोनों परवर्ती सूक्तों में।</li><li><b>नदीस्तुति सूक्त</b> (X.75) नदियों को पूर्व से पश्चिम क्रम में गिनाता है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 115,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Match List - I with List - II and choose the…",
+      "post_content": "<p>Match List - I with List - II and choose the correct answer by using the code given below the lists.</p><table border='1' cellpadding='4'><tr><th>List - I<br>(Rigveda Mandala)</th><th>List - II<br>(Traditionally associated seer)</th></tr><tr><td>A. Mandala II</td><td>1. Vasishtha</td></tr><tr><td>B. Mandala III</td><td>2. Atri</td></tr><tr><td>C. Mandala V</td><td>3. Vishvamitra</td></tr><tr><td>D. Mandala VII</td><td>4. Gritsamada</td></tr></table><p>Select the correct answer from the code given below:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-3, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-2, C-3, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-3, C-2, D-1",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: A-4, B-3, C-2, D-1</h5><p><b>II–Gritsamada</b>, <b>III–Vishvamitra</b>, <b>V–Atri</b>, <b>VII–Vasishtha</b>.</p><h5>Correct Option Explanation</h5><ul><li>Mandalas <b>II–VII</b> are the “family books”, each ascribed to a seer's family.</li><li>Full set: II <b>Gritsamada</b>, III <b>Vishvamitra</b>, IV <b>Vamadeva</b>, V <b>Atri</b>, VI <b>Bharadvaja</b>, VII <b>Vasishtha</b>.</li></ul><h5>Incorrect Options Analysis</h5><ul><li>A-3, B-4, C-2, D-1: Mandalas II and III are swapped.</li><li>A-4, B-3, C-1, D-2: Mandalas V and VII are swapped.</li><li>A-4, B-2, C-3, D-1: Mandalas III and V are swapped.</li></ul><h5>Know More</h5><ul><li><b>Gayatri Mantra</b> (III.62.10) is in Mandala III, addressed to <b>Savitr</b>.</li><li><b>Mandala VII</b> carries the <b>Dasarajna</b> hymns.</li><li><b>Mandala VIII</b> is largely ascribed to the <b>Kanva</b> family.</li><li><b>Mandala IX</b> is wholly on <b>Soma</b>; <b>I</b> and <b>X</b> are later.</li></ul>",
+        "_aimcq_title_hi": "सूची - I का सूची - II से मिलान कीजिए और सूचि…",
+        "_aimcq_question_content_hi": "<p>सूची - I का सूची - II से मिलान कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।</p><table border='1' cellpadding='4'><tr><th>सूची - I<br>(ऋग्वेद का मंडल)</th><th>सूची - II<br>(परंपरागत रूप से संबद्ध ऋषि)</th></tr><tr><td>A. मंडल II</td><td>1. वसिष्ठ</td></tr><tr><td>B. मंडल III</td><td>2. अत्रि</td></tr><tr><td>C. मंडल V</td><td>3. विश्वामित्र</td></tr><tr><td>D. मंडल VII</td><td>4. गृत्समद</td></tr></table><p>नीचे दिए गए कूट से सही उत्तर चुनिए:</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "A-3, B-4, C-2, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-3, C-1, D-2",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-2, C-3, D-1",
+            "image": ""
+          },
+          {
+            "text": "A-4, B-3, C-2, D-1",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: A-4, B-3, C-2, D-1</h5><p><b>II–गृत्समद</b>, <b>III–विश्वामित्र</b>, <b>V–अत्रि</b>, <b>VII–वसिष्ठ</b>।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>मंडल <b>II–VII</b> “वंश मंडल” हैं, प्रत्येक किसी ऋषि-कुल से संबद्ध है।</li><li>पूर्ण सूची: II <b>गृत्समद</b>, III <b>विश्वामित्र</b>, IV <b>वामदेव</b>, V <b>अत्रि</b>, VI <b>भरद्वाज</b>, VII <b>वसिष्ठ</b>।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li>A-3, B-4, C-2, D-1: मंडल II और III आपस में बदल गए हैं।</li><li>A-4, B-3, C-1, D-2: मंडल V और VII आपस में बदल गए हैं।</li><li>A-4, B-2, C-3, D-1: मंडल III और V आपस में बदल गए हैं।</li></ul><h5>और जानें</h5><ul><li><b>गायत्री मंत्र</b> (III.62.10) मंडल III में है और <b>सवितृ</b> को संबोधित है।</li><li><b>मंडल VII</b> में <b>दाशराज्ञ</b> के सूक्त हैं।</li><li><b>मंडल VIII</b> मुख्यतः <b>कण्व</b> कुल से संबद्ध है।</li><li><b>मंडल IX</b> पूर्णतः <b>सोम</b> पर है; <b>I</b> और <b>X</b> परवर्ती हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 116,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which of the following terms is used in Late…",
+      "post_content": "<p>Which of the following terms is used in Later Vedic texts for iron?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Hiranya",
+            "image": ""
+          },
+          {
+            "text": "Krishna Ayas",
+            "image": ""
+          },
+          {
+            "text": "Rajata",
+            "image": ""
+          },
+          {
+            "text": "Trapu",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Krishna Ayas</h5><p>Later Vedic texts call iron <b>Krishna Ayas</b> (also <b>Shyama Ayas</b>), the “black metal”.</p><h5>Correct Option Explanation</h5><ul><li>Found in the <b>Yajurveda</b> Samhitas and the <b>Atharvaveda</b>.</li><li>Rigvedic <b>ayas</b> alone meant copper or bronze.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Hiranya</b> is gold.</li><li><b>Rajata</b> is silver.</li><li><b>Trapu</b> is tin, named in the Atharvaveda.</li></ul><h5>Know More</h5><ul><li>Iron appears in the Ganga–Yamuna doab from about <b>1000 BCE</b>, e.g. <b>Atranjikhera</b> and <b>Jakhera</b>.</li><li>Iron axes and ploughshares helped clear forests and expand agriculture.</li><li><b>Lohitayas</b> (red metal) denotes copper.</li><li><b>Nishka</b> was a gold ornament used as a value measure, not true coinage.</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित में से कौन-सा शब्द उत्तर वैदिक ग्…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित में से कौन-सा शब्द उत्तर वैदिक ग्रंथों में लोहे के लिए प्रयुक्त हुआ है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "हिरण्य",
+            "image": ""
+          },
+          {
+            "text": "कृष्ण अयस्",
+            "image": ""
+          },
+          {
+            "text": "रजत",
+            "image": ""
+          },
+          {
+            "text": "त्रपु",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: कृष्ण अयस्</h5><p>उत्तर वैदिक ग्रंथ लोहे को <b>कृष्ण अयस्</b> (या <b>श्याम अयस्</b>), अर्थात “काली धातु” कहते हैं।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>यह शब्द <b>यजुर्वेद</b> संहिताओं और <b>अथर्ववेद</b> में मिलता है।</li><li>ऋग्वैदिक <b>अयस्</b> केवल ताँबे या काँसे का वाचक था।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>हिरण्य</b> सोना है।</li><li><b>रजत</b> चाँदी है।</li><li><b>त्रपु</b> टिन है, जिसका उल्लेख अथर्ववेद में है।</li></ul><h5>और जानें</h5><ul><li>गंगा–यमुना दोआब में लोहा लगभग <b>1000 ई.पू.</b> से मिलता है, जैसे <b>अतरंजीखेड़ा</b> और <b>जाखेड़ा</b>।</li><li>लौह कुल्हाड़ियों और फालों ने वन-कटाई और कृषि-विस्तार में सहायता की।</li><li><b>लोहितायस्</b> (लाल धातु) ताँबे का द्योतक है।</li><li><b>निष्क</b> स्वर्ण आभूषण था जो मूल्य-माप के रूप में प्रयुक्त होता था, वास्तविक सिक्का नहीं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 117,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Painted Grey Ware (PGW) pottery found at sit…",
+      "post_content": "<p>Painted Grey Ware (PGW) pottery found at sites such as Hastinapur and Ahichchhatra is generally correlated with which phase?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Mature Harappan phase",
+            "image": ""
+          },
+          {
+            "text": "Early Vedic phase",
+            "image": ""
+          },
+          {
+            "text": "Later Vedic phase",
+            "image": ""
+          },
+          {
+            "text": "Mauryan phase",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Later Vedic phase</h5><p>PGW is generally correlated with the <b>Later Vedic</b> phase.</p><h5>Correct Option Explanation</h5><ul><li>Dated roughly <b>1100/1000–500 BCE</b>, mainly in the <b>Upper Ganga</b> plain and Haryana–Punjab.</li><li>Overlaps with the Kuru–Panchala heartland and early <b>iron</b> use.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Mature Harappan</b> (c. 2600–1900 BCE) is far earlier and has no PGW.</li><li><b>Early Vedic</b> culture is not firmly tied to any single archaeological culture; the Sapta Sindhu setting does not match PGW.</li><li><b>Mauryan</b> levels are marked by <b>NBPW</b> (Northern Black Polished Ware), not PGW.</li></ul><h5>Know More</h5><ul><li>PGW is a fine, wheel-made grey pottery with black painted designs.</li><li>Other PGW sites: <b>Kurukshetra</b>, <b>Mathura</b>, <b>Atranjikhera</b>.</li><li><b>Ochre Coloured Pottery</b> and <b>copper hoards</b> are linked with the Doab before PGW.</li><li><b>NBPW</b> dates from about <b>700/600 BCE</b> and marks the second urbanisation.</li></ul>",
+        "_aimcq_title_hi": "हस्तिनापुर और अहिच्छत्र जैसे स्थलों से प्राप…",
+        "_aimcq_question_content_hi": "<p>हस्तिनापुर और अहिच्छत्र जैसे स्थलों से प्राप्त चित्रित धूसर मृद्भांड (PGW) को सामान्यतः किस चरण से जोड़ा जाता है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "परिपक्व हड़प्पा चरण",
+            "image": ""
+          },
+          {
+            "text": "प्रारंभिक वैदिक चरण",
+            "image": ""
+          },
+          {
+            "text": "उत्तर वैदिक चरण",
+            "image": ""
+          },
+          {
+            "text": "मौर्य चरण",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: उत्तर वैदिक चरण</h5><p>PGW को सामान्यतः <b>उत्तर वैदिक</b> चरण से जोड़ा जाता है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>लगभग <b>1100/1000–500 ई.पू.</b>, मुख्यतः <b>ऊपरी गंगा</b> मैदान तथा हरियाणा–पंजाब में।</li><li>यह कुरु–पांचाल क्षेत्र और प्रारंभिक <b>लौह</b> उपयोग से मेल खाता है।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>परिपक्व हड़प्पा</b> (लगभग 2600–1900 ई.पू.) बहुत पहले का है और उसमें PGW नहीं है।</li><li><b>प्रारंभिक वैदिक</b> संस्कृति को किसी एक पुरातात्त्विक संस्कृति से दृढ़ता से नहीं जोड़ा जा सकता; सप्त सिंधु का परिवेश PGW से मेल नहीं खाता।</li><li><b>मौर्य</b> स्तरों की पहचान <b>NBPW</b> (उत्तरी काले चमकीले मृद्भांड) से होती है, PGW से नहीं।</li></ul><h5>और जानें</h5><ul><li>PGW पतला, चाक-निर्मित धूसर मृद्भांड है जिस पर काले रंग की चित्रकारी होती है।</li><li>अन्य PGW स्थल: <b>कुरुक्षेत्र</b>, <b>मथुरा</b>, <b>अतरंजीखेड़ा</b>।</li><li>PGW से पूर्व दोआब में <b>गैरिक मृद्भांड</b> और <b>ताम्र निधियाँ</b> मिलती हैं।</li><li><b>NBPW</b> लगभग <b>700/600 ई.पू.</b> से है और द्वितीय नगरीकरण का सूचक है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 118,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which was the earliest and most frequently m…",
+      "post_content": "<p>Which was the earliest and most frequently mentioned Rigvedic tribal assembly, in which women also took part?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Vidatha",
+            "image": ""
+          },
+          {
+            "text": "Sabha",
+            "image": ""
+          },
+          {
+            "text": "Samiti",
+            "image": ""
+          },
+          {
+            "text": "Gana",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Vidatha</h5><p><b>Vidatha</b> was the earliest Rigvedic assembly, open to women.</p><h5>Correct Option Explanation</h5><ul><li>Mentioned over <b>120</b> times in the Rigveda, more than Sabha or Samiti.</li><li>Handled religious, military and economic matters, including distribution of booty.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Sabha</b> was a smaller body of elders and nobles; women were later excluded.</li><li><b>Samiti</b> was the general assembly of the people (<b>vish</b>), involved in choosing and approving the king.</li><li><b>Gana</b> is a tribal group; it later names non-monarchical republican units.</li></ul><h5>Know More</h5><ul><li>The <b>Atharvaveda</b> calls Sabha and Samiti the “daughters of Prajapati”.</li><li>In the <b>Later Vedic</b> period the Vidatha disappeared and the Sabha and Samiti lost weight.</li><li>Women seers such as <b>Ghosha</b>, <b>Lopamudra</b> and <b>Apala</b> are credited with Rigvedic hymns.</li><li>A <b>Gramani</b> led the village, linking the kinship unit to the tribal assemblies.</li></ul>",
+        "_aimcq_title_hi": "ऋग्वेद की सबसे प्राचीन और सर्वाधिक उल्लिखित…",
+        "_aimcq_question_content_hi": "<p>ऋग्वेद की सबसे प्राचीन और सर्वाधिक उल्लिखित जनजातीय सभा कौन-सी थी, जिसमें स्त्रियाँ भी भाग लेती थीं?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "विदथ",
+            "image": ""
+          },
+          {
+            "text": "सभा",
+            "image": ""
+          },
+          {
+            "text": "समिति",
+            "image": ""
+          },
+          {
+            "text": "गण",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: विदथ</h5><p><b>विदथ</b> ऋग्वेद की सबसे प्राचीन सभा थी, जिसमें स्त्रियाँ भाग लेती थीं।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>ऋग्वेद में <b>120</b> से अधिक बार उल्लिखित, सभा और समिति से अधिक।</li><li>यह धार्मिक, सैन्य और आर्थिक विषय देखती थी, जिनमें लूट का वितरण भी शामिल था।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>सभा</b> वृद्धों और कुलीनों की छोटी संस्था थी; बाद में स्त्रियाँ इससे बाहर कर दी गईं।</li><li><b>समिति</b> जनसाधारण (<b>विश</b>) की सामान्य सभा थी, जो राजा के चयन और अनुमोदन में भाग लेती थी।</li><li><b>गण</b> जनजातीय समूह है; बाद में यह अराजतंत्रीय गणराज्यों का नाम बना।</li></ul><h5>और जानें</h5><ul><li><b>अथर्ववेद</b> सभा और समिति को “प्रजापति की पुत्रियाँ” कहता है।</li><li><b>उत्तर वैदिक</b> काल में विदथ लुप्त हो गया और सभा-समिति का महत्त्व घटा।</li><li><b>घोषा</b>, <b>लोपामुद्रा</b> और <b>अपाला</b> जैसी ऋषिकाओं को ऋग्वैदिक सूक्तों का श्रेय दिया जाता है।</li><li><b>ग्रामणी</b> गाँव का नेतृत्व करता था, जो कुल-इकाई को जनजातीय सभाओं से जोड़ता था।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 119,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which of the following women is traditionall…",
+      "post_content": "<p>Which of the following women is traditionally credited with composing Rigvedic hymns (X.39–40) addressed to the Ashvins?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Gargi Vachaknavi",
+            "image": ""
+          },
+          {
+            "text": "Maitreyi",
+            "image": ""
+          },
+          {
+            "text": "Katyayani",
+            "image": ""
+          },
+          {
+            "text": "Ghosha",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Ghosha</h5><p><b>Ghosha</b> is the seer credited with RV <b>X.39–40</b> to the <b>Ashvins</b>.</p><h5>Correct Option Explanation</h5><ul><li>Tradition makes her the daughter or granddaughter of the seer <b>Kakshivat</b>.</li><li>She is one of the <b>rishikas</b>, women seers of the Rigveda.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Gargi Vachaknavi</b> belongs to the Upanishadic age; she questions <b>Yajnavalkya</b> in <b>Janaka's</b> court (Brihadaranyaka Upanishad).</li><li><b>Maitreyi</b> is Yajnavalkya's wife and his Atman-dialogue partner in the Brihadaranyaka Upanishad.</li><li><b>Katyayani</b> is Yajnavalkya's other wife in the same Upanishad.</li></ul><h5>Know More</h5><ul><li>Other women seers: <b>Lopamudra</b> (I.179), <b>Apala</b> (VIII.91), <b>Vishvavara</b> (V.28), <b>Shashvati</b>.</li><li>Rigvedic women could attend the <b>Vidatha</b>; child marriage was not the norm.</li><li>In the Later Vedic period women's status declined and they were excluded from the Sabha.</li><li><b>Ashvins</b> are twin physician-gods of the Rigveda.</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित में से किस स्त्री को परंपरा से अश…",
+        "_aimcq_question_content_hi": "<p>निम्नलिखित में से किस स्त्री को परंपरा से अश्विनों को संबोधित ऋग्वैदिक सूक्तों (X.39–40) की रचना का श्रेय दिया जाता है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "गार्गी वाचक्नवी",
+            "image": ""
+          },
+          {
+            "text": "मैत्रेयी",
+            "image": ""
+          },
+          {
+            "text": "कात्यायनी",
+            "image": ""
+          },
+          {
+            "text": "घोषा",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: घोषा</h5><p><b>घोषा</b> को ऋग्वेद <b>X.39–40</b> के <b>अश्विनों</b> को संबोधित सूक्तों का श्रेय दिया जाता है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>परंपरा में वे ऋषि <b>कक्षीवान</b> की पुत्री या पौत्री मानी जाती हैं।</li><li>वे ऋग्वेद की <b>ऋषिकाओं</b> (स्त्री-ऋषियों) में से एक हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>गार्गी वाचक्नवी</b> उपनिषद-काल की हैं; वे <b>जनक</b> की सभा में <b>याज्ञवल्क्य</b> से प्रश्न करती हैं (बृहदारण्यक उपनिषद)।</li><li><b>मैत्रेयी</b> याज्ञवल्क्य की पत्नी और बृहदारण्यक उपनिषद में आत्मा-संवाद की सहभागी हैं।</li><li><b>कात्यायनी</b> उसी उपनिषद में याज्ञवल्क्य की दूसरी पत्नी हैं।</li></ul><h5>और जानें</h5><ul><li>अन्य ऋषिकाएँ: <b>लोपामुद्रा</b> (I.179), <b>अपाला</b> (VIII.91), <b>विश्ववारा</b> (V.28), <b>शाश्वती</b>।</li><li>ऋग्वैदिक स्त्रियाँ <b>विदथ</b> में भाग ले सकती थीं; बाल विवाह प्रचलित नहीं था।</li><li>उत्तर वैदिक काल में स्त्रियों की स्थिति गिरी और उन्हें सभा से बाहर रखा गया।</li><li><b>अश्विन</b> ऋग्वेद के जुड़वाँ चिकित्सक देवता हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 120,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Who argued in “The Arctic Home in the Vedas”…",
+      "post_content": "<p>Who argued in “The Arctic Home in the Vedas” (1903) that the original home of the Aryans was in the Arctic region?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Bal Gangadhar Tilak",
+            "image": ""
+          },
+          {
+            "text": "Max Müller",
+            "image": ""
+          },
+          {
+            "text": "Dayananda Saraswati",
+            "image": ""
+          },
+          {
+            "text": "A. C. Das",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Bal Gangadhar Tilak</h5><p><b>Bal Gangadhar Tilak</b> proposed the <b>Arctic home</b> theory in <b>1903</b>.</p><h5>Correct Option Explanation</h5><ul><li>He read Vedic references to long dawns and long nights as astronomical memories of a polar homeland.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Max Müller</b> argued for <b>Central Asia</b> as the original home.</li><li><b>Dayananda Saraswati</b> placed the original home in <b>Tibet</b>.</li><li><b>A. C. Das</b> argued for <b>Sapta Sindhu</b> (Punjab) in Rigvedic India (1920).</li></ul><h5>Know More</h5><ul><li><b>V. Gordon Childe</b> favoured the <b>south Russian steppes</b>.</li><li><b>Ganganath Jha</b> proposed <b>Brahmarshi Desha</b>; <b>Rajbali Pandey</b> proposed <b>Madhyadesha</b>; <b>L. D. Kalla</b> proposed Kashmir.</li><li><b>Penka</b> argued for Scandinavia.</li><li>The steppe-origin view today is tied to <b>Indo-European</b> language studies; the debate remains active.</li></ul>",
+        "_aimcq_title_hi": "“द आर्कटिक होम इन द वेदाज़” (1903) में किसने…",
+        "_aimcq_question_content_hi": "<p>“द आर्कटिक होम इन द वेदाज़” (1903) में किसने तर्क दिया कि आर्यों का मूल निवास आर्कटिक क्षेत्र था?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "बाल गंगाधर तिलक",
+            "image": ""
+          },
+          {
+            "text": "मैक्स मूलर",
+            "image": ""
+          },
+          {
+            "text": "दयानंद सरस्वती",
+            "image": ""
+          },
+          {
+            "text": "ए. सी. दास",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: बाल गंगाधर तिलक</h5><p><b>बाल गंगाधर तिलक</b> ने <b>1903</b> में <b>आर्कटिक मूल</b> का सिद्धांत प्रस्तुत किया।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>उन्होंने वैदिक संदर्भों में लंबे उषःकाल और लंबी रात्रियों को ध्रुवीय मातृभूमि की खगोलीय स्मृति माना।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>मैक्स मूलर</b> ने <b>मध्य एशिया</b> को मूल निवास बताया।</li><li><b>दयानंद सरस्वती</b> ने मूल निवास <b>तिब्बत</b> माना।</li><li><b>ए. सी. दास</b> ने Rigvedic India (1920) में <b>सप्त सिंधु</b> (पंजाब) का पक्ष लिया।</li></ul><h5>और जानें</h5><ul><li><b>वी. गॉर्डन चाइल्ड</b> ने <b>दक्षिणी रूस के स्तेपी</b> का पक्ष लिया।</li><li><b>गंगानाथ झा</b> ने <b>ब्रह्मर्षि देश</b>, <b>राजबली पांडेय</b> ने <b>मध्य देश</b> और <b>एल. डी. कल्ला</b> ने कश्मीर का सुझाव दिया।</li><li><b>पेंका</b> ने स्कैंडिनेविया का पक्ष लिया।</li><li>स्तेपी-मूल का मत आज <b>भारोपीय</b> भाषा अध्ययन से जुड़ा है; बहस जारी है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 121,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which deity is addressed in the largest numb…",
+      "post_content": "<p>Which deity is addressed in the largest number of hymns (about 250) in the Rigveda?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Agni",
+            "image": ""
+          },
+          {
+            "text": "Varuna",
+            "image": ""
+          },
+          {
+            "text": "Soma",
+            "image": ""
+          },
+          {
+            "text": "Indra",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Indra</h5><p><b>Indra</b> has about <b>250</b> hymns, the most of any Rigvedic deity.</p><h5>Correct Option Explanation</h5><ul><li>Chief god of the warlike Early Vedic society: <b>Vritrahan</b> (slayer of Vritra), <b>Purandara</b> (destroyer of forts), wielder of the <b>vajra</b>.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Agni</b> comes second with about <b>200</b> hymns; he carries offerings to the gods.</li><li><b>Varuna</b> upholds <b>Rita</b>, the cosmic order, and has far fewer hymns.</li><li><b>Soma</b> is the deity of the plant and drink; nearly all of <b>Mandala IX</b> is for him, yet his total remains below Indra's.</li></ul><h5>Know More</h5><ul><li><b>Vishnu</b> and <b>Rudra</b> are minor Rigvedic gods who rise later.</li><li><b>Parjanya</b> is the rain god; <b>Vayu</b> the wind god.</li><li>Goddesses such as <b>Ushas</b>, <b>Aditi</b>, <b>Prithvi</b> and <b>Sarasvati</b> are less prominent.</li><li>Deities were mostly <b>natural forces</b> personified; worship was by <b>yajna</b>.</li></ul>",
+        "_aimcq_title_hi": "ऋग्वेद में किस देवता को सर्वाधिक सूक्त (लगभग…",
+        "_aimcq_question_content_hi": "<p>ऋग्वेद में किस देवता को सर्वाधिक सूक्त (लगभग 250) समर्पित हैं?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "अग्नि",
+            "image": ""
+          },
+          {
+            "text": "वरुण",
+            "image": ""
+          },
+          {
+            "text": "सोम",
+            "image": ""
+          },
+          {
+            "text": "इंद्र",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: इंद्र</h5><p><b>इंद्र</b> को लगभग <b>250</b> सूक्त समर्पित हैं, जो किसी भी ऋग्वैदिक देवता से अधिक हैं।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>युद्धप्रिय प्रारंभिक वैदिक समाज के प्रधान देवता: <b>वृत्रहन्</b> (वृत्र के हंता), <b>पुरंदर</b> (दुर्गों के विध्वंसक), <b>वज्र</b> धारक।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>अग्नि</b> लगभग <b>200</b> सूक्तों के साथ दूसरे स्थान पर हैं; वे आहुतियाँ देवताओं तक पहुँचाते हैं।</li><li><b>वरुण</b> <b>ऋत</b> (सृष्टि-व्यवस्था) के धारक हैं और उनके सूक्त बहुत कम हैं।</li><li><b>सोम</b> पौधे और पेय के देवता हैं; <b>नवम मंडल</b> लगभग पूरा उन्हें समर्पित है, फिर भी कुल संख्या इंद्र से कम है।</li></ul><h5>और जानें</h5><ul><li><b>विष्णु</b> और <b>रुद्र</b> ऋग्वेद के गौण देवता हैं, जो आगे चलकर प्रमुख बने।</li><li><b>पर्जन्य</b> वर्षा के और <b>वायु</b> पवन के देवता हैं।</li><li><b>उषा</b>, <b>अदिति</b>, <b>पृथ्वी</b> और <b>सरस्वती</b> जैसी देवियाँ कम प्रमुख हैं।</li><li>देवता अधिकतर <b>प्राकृतिक शक्तियों</b> के मानवीकरण थे; उपासना <b>यज्ञ</b> से होती थी।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 122,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "The earliest Indian version of the Great Flo…",
+      "post_content": "<p>The earliest Indian version of the Great Flood legend, involving Manu and a fish, is found in which text?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Shatapatha Brahmana",
+            "image": ""
+          },
+          {
+            "text": "Rigveda Samhita",
+            "image": ""
+          },
+          {
+            "text": "Atharvaveda",
+            "image": ""
+          },
+          {
+            "text": "Chandogya Upanishad",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Shatapatha Brahmana</h5><p>The <b>Shatapatha Brahmana</b> (I.8.1) holds the earliest Indian flood story.</p><h5>Correct Option Explanation</h5><ul><li>A small fish begs <b>Manu</b> for protection, grows huge, and warns of the flood.</li><li>Manu builds a ship, ties it to the fish's horn and survives.</li><li>Later <b>Puranas</b> identify the fish with <b>Matsya</b>, an avatar of Vishnu.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Rigveda Samhita</b> knows Manu as progenitor but has no flood narrative.</li><li><b>Atharvaveda</b> is chiefly charms and spells.</li><li><b>Chandogya Upanishad</b> is philosophical, known for <b>“Tat tvam asi”</b>.</li></ul><h5>Know More</h5><ul><li>Shatapatha belongs to the <b>Shukla Yajurveda</b> and has <b>100</b> adhyayas.</li><li>It is associated with <b>Yajnavalkya</b> and also tells of <b>Videgha Mathava</b>.</li><li><b>Matsya Purana</b> expands the Manu–fish story.</li><li>Manu is called <b>Vaivasvata</b>, seventh Manu of the present age.</li></ul>",
+        "_aimcq_title_hi": "मनु और मत्स्य से संबंधित महाप्रलय की कथा का…",
+        "_aimcq_question_content_hi": "<p>मनु और मत्स्य से संबंधित महाप्रलय की कथा का भारत में सबसे प्राचीन रूप किस ग्रंथ में मिलता है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "शतपथ ब्राह्मण",
+            "image": ""
+          },
+          {
+            "text": "ऋग्वेद संहिता",
+            "image": ""
+          },
+          {
+            "text": "अथर्ववेद",
+            "image": ""
+          },
+          {
+            "text": "छांदोग्य उपनिषद",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: शतपथ ब्राह्मण</h5><p><b>शतपथ ब्राह्मण</b> (I.8.1) में भारत की सबसे प्राचीन जल-प्रलय कथा है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>एक छोटी मछली <b>मनु</b> से रक्षा माँगती है, विशाल हो जाती है और प्रलय की चेतावनी देती है।</li><li>मनु नाव बनाकर उसे मछली के सींग से बाँधते हैं और बच जाते हैं।</li><li>परवर्ती <b>पुराण</b> इस मछली को विष्णु के अवतार <b>मत्स्य</b> से जोड़ते हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>ऋग्वेद संहिता</b> मनु को आदि पुरुष मानती है, किंतु उसमें प्रलय कथा नहीं है।</li><li><b>अथर्ववेद</b> मुख्यतः अभिचार और मंत्रों का ग्रंथ है।</li><li><b>छांदोग्य उपनिषद</b> दार्शनिक है और <b>“तत्त्वमसि”</b> के लिए प्रसिद्ध है।</li></ul><h5>और जानें</h5><ul><li>शतपथ <b>शुक्ल यजुर्वेद</b> से संबद्ध है और इसमें <b>100</b> अध्याय हैं।</li><li>इसका संबंध <b>याज्ञवल्क्य</b> से है और इसमें <b>विदेघ माथव</b> की कथा भी है।</li><li><b>मत्स्य पुराण</b> मनु–मत्स्य कथा का विस्तार करता है।</li><li>मनु को <b>वैवस्वत</b> कहा जाता है, जो वर्तमान युग के सातवें मनु हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 123,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "Which crop is the only one mentioned in the…",
+      "post_content": "<p>Which crop is the only one mentioned in the Rigveda?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Vrihi (rice)",
+            "image": ""
+          },
+          {
+            "text": "Godhuma (wheat)",
+            "image": ""
+          },
+          {
+            "text": "Yava (barley)",
+            "image": ""
+          },
+          {
+            "text": "Tila (sesame)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Yava (barley)</h5><p><b>Yava</b> (barley) is the only crop named in the Rigveda.</p><h5>Correct Option Explanation</h5><ul><li>Fits the <b>pastoral</b> economy of the Early Vedic people, where farming was secondary.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Vrihi</b> (rice) appears only in Later Vedic texts such as the <b>Atharvaveda</b> and <b>Yajurveda</b>.</li><li><b>Godhuma</b> (wheat) is also a Later Vedic mention.</li><li><b>Tila</b> (sesame) appears in later Vedic literature, not the Rigveda.</li></ul><h5>Know More</h5><ul><li>Rigvedic terms for the plough: <b>langala</b>, <b>sira</b>; <b>krishi</b> is cultivation.</li><li>Later Vedic crops: <b>rice, wheat, pulses (masha, mudga), sesame</b>.</li><li>Agriculture became the mainstay in the <b>Later Vedic</b> period with iron tools.</li><li>Barter was common; <b>nishka</b> served as a gold measure of value.</li></ul>",
+        "_aimcq_title_hi": "ऋग्वेद में केवल किस फसल का उल्लेख मिलता है?",
+        "_aimcq_question_content_hi": "<p>ऋग्वेद में केवल किस फसल का उल्लेख मिलता है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "व्रीहि (चावल)",
+            "image": ""
+          },
+          {
+            "text": "गोधूम (गेहूँ)",
+            "image": ""
+          },
+          {
+            "text": "यव (जौ)",
+            "image": ""
+          },
+          {
+            "text": "तिल",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: यव (जौ)</h5><p><b>यव</b> (जौ) ही ऋग्वेद में नामित एकमात्र फसल है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>यह प्रारंभिक वैदिक लोगों की <b>पशुचारी</b> अर्थव्यवस्था से मेल खाता है, जिसमें कृषि गौण थी।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>व्रीहि</b> (चावल) केवल उत्तर वैदिक ग्रंथों, जैसे <b>अथर्ववेद</b> और <b>यजुर्वेद</b>, में आता है।</li><li><b>गोधूम</b> (गेहूँ) का उल्लेख भी उत्तर वैदिक है।</li><li><b>तिल</b> परवर्ती वैदिक साहित्य में मिलता है, ऋग्वेद में नहीं।</li></ul><h5>और जानें</h5><ul><li>हल के ऋग्वैदिक शब्द: <b>लांगल</b>, <b>सीर</b>; <b>कृषि</b> खेती का द्योतक है।</li><li>उत्तर वैदिक फसलें: <b>चावल, गेहूँ, दालें (माष, मुद्ग), तिल</b>।</li><li><b>उत्तर वैदिक</b> काल में लौह उपकरणों के साथ कृषि मुख्य आधार बनी।</li><li>वस्तु-विनिमय प्रचलित था; <b>निष्क</b> स्वर्ण-मूल्य का माप था।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 124,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "In the Later Vedic Rajasuya sacrifice, the k…",
+      "post_content": "<p>In the Later Vedic Rajasuya sacrifice, the king made offerings at the houses of a group of high functionaries who were known as:</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Mahamatras",
+            "image": ""
+          },
+          {
+            "text": "Ratnins",
+            "image": ""
+          },
+          {
+            "text": "Amatyas",
+            "image": ""
+          },
+          {
+            "text": "Pradeshikas",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Ratnins</h5><p>These functionaries were the <b>Ratnins</b> (“jewel-holders”).</p><h5>Correct Option Explanation</h5><ul><li>Their houses were visited in the <b>Ratnahavimshi</b> rite of the Rajasuya.</li><li>The list includes <b>Purohita, Senani, Mahishi</b> (chief queen), <b>Suta, Gramani, Kshattri, Samgrihitri</b> (treasurer), <b>Bhagadugha</b> (tax collector), <b>Akshavapa</b> (accountant), <b>Govikartana</b> (huntsman).</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Mahamatras</b> were high officials of the Mauryan state, prominent under <b>Ashoka</b>.</li><li><b>Amatyas</b> are ministers described in later political literature such as the <b>Arthashastra</b>.</li><li><b>Pradeshikas</b> were Ashokan district-level officers.</li></ul><h5>Know More</h5><ul><li><b>Rajasuya</b> was the royal consecration; <b>Vajapeya</b> a chariot race; <b>Ashvamedha</b> a horse sacrifice asserting sovereignty.</li><li>Titles in the Later Vedic period: <b>Samrat, Ekarat, Virat</b>.</li><li>Kingship turned hereditary and tied to a territory (<b>rashtra</b>).</li><li><b>Bali</b> became a regular tribute collected by the Bhagadugha.</li></ul>",
+        "_aimcq_title_hi": "उत्तर वैदिक राजसूय यज्ञ में राजा उच्च पदाधिक…",
+        "_aimcq_question_content_hi": "<p>उत्तर वैदिक राजसूय यज्ञ में राजा उच्च पदाधिकारियों के एक समूह के घरों पर आहुतियाँ देता था। यह समूह किस नाम से जाना जाता था?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "महामात्र",
+            "image": ""
+          },
+          {
+            "text": "रत्निन",
+            "image": ""
+          },
+          {
+            "text": "अमात्य",
+            "image": ""
+          },
+          {
+            "text": "प्रादेशिक",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: रत्निन</h5><p>ये पदाधिकारी <b>रत्निन</b> (“रत्न-धारक”) कहलाते थे।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>राजसूय के <b>रत्नहविंषि</b> अनुष्ठान में राजा उनके घरों पर जाता था।</li><li>सूची में <b>पुरोहित, सेनानी, महिषी</b> (मुख्य रानी), <b>सूत, ग्रामणी, क्षत्तृ, संगृहीतृ</b> (कोषाध्यक्ष), <b>भागदुघ</b> (कर संग्राहक), <b>अक्षावाप</b> (लेखाकार), <b>गोविकर्तन</b> (शिकारी) शामिल हैं।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>महामात्र</b> मौर्य राज्य के उच्च अधिकारी थे, <b>अशोक</b> के काल में प्रमुख।</li><li><b>अमात्य</b> परवर्ती राजनीतिक साहित्य, जैसे <b>अर्थशास्त्र</b>, में वर्णित मंत्री हैं।</li><li><b>प्रादेशिक</b> अशोक के जिला-स्तर के अधिकारी थे।</li></ul><h5>और जानें</h5><ul><li><b>राजसूय</b> राज्याभिषेक था; <b>वाजपेय</b> रथ-दौड़ और <b>अश्वमेध</b> संप्रभुता सिद्ध करने वाला अश्व-यज्ञ था।</li><li>उत्तर वैदिक उपाधियाँ: <b>सम्राट, एकराट्, विराट्</b>।</li><li>राजपद वंशानुगत और <b>राष्ट्र</b> (क्षेत्र) से जुड़ गया।</li><li><b>बलि</b> नियमित कर बनी, जिसे भागदुघ वसूलता था।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 125,
+      "post_author": 1,
+      "post_date": "2026-10-07 11:00:00",
+      "post_title": "The dialogue between the sage Yajnavalkya an…",
+      "post_content": "<p>The dialogue between the sage Yajnavalkya and his wife Maitreyi on the nature of the Self (Atman) occurs in which Upanishad?</p>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_options": [
+          {
+            "text": "Katha Upanishad",
+            "image": ""
+          },
+          {
+            "text": "Chandogya Upanishad",
+            "image": ""
+          },
+          {
+            "text": "Mundaka Upanishad",
+            "image": ""
+          },
+          {
+            "text": "Brihadaranyaka Upanishad",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<h5>Correct Answer: Brihadaranyaka Upanishad</h5><p>The dialogue is in the <b>Brihadaranyaka Upanishad</b> (II.4 and IV.5).</p><h5>Correct Option Explanation</h5><ul><li>Yajnavalkya, leaving for forest life, teaches Maitreyi that all things are dear for the sake of the <b>Atman</b>.</li><li>It belongs to the <b>Shukla Yajurveda</b> and is the largest Upanishad.</li></ul><h5>Incorrect Options Analysis</h5><ul><li><b>Katha Upanishad</b> has the <b>Nachiketa–Yama</b> dialogue.</li><li><b>Chandogya Upanishad</b> has the <b>Uddalaka–Shvetaketu</b> teaching.</li><li><b>Mundaka Upanishad</b> has <b>“Satyameva Jayate”</b> and the <b>Para–Apara vidya</b> distinction.</li></ul><h5>Know More</h5><ul><li>Famous Brihadaranyaka statement: <b>“Aham Brahmasmi”</b> (I.4.10) and the <b>“neti neti”</b> formula.</li><li><b>Janaka</b> of Videha hosted Yajnavalkya's debates.</li><li><b>Gargi Vachaknavi</b> challenged Yajnavalkya in that court.</li><li>The text forms the closing part of the <b>Shatapatha Brahmana</b> tradition.</li></ul>",
+        "_aimcq_title_hi": "ऋषि याज्ञवल्क्य और उनकी पत्नी मैत्रेयी के बी…",
+        "_aimcq_question_content_hi": "<p>ऋषि याज्ञवल्क्य और उनकी पत्नी मैत्रेयी के बीच आत्मा के स्वरूप पर संवाद किस उपनिषद में आता है?</p>",
+        "_aimcq_options_hi": [
+          {
+            "text": "कठ उपनिषद",
+            "image": ""
+          },
+          {
+            "text": "छांदोग्य उपनिषद",
+            "image": ""
+          },
+          {
+            "text": "मुंडक उपनिषद",
+            "image": ""
+          },
+          {
+            "text": "बृहदारण्यक उपनिषद",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<h5>सही उत्तर: बृहदारण्यक उपनिषद</h5><p>यह संवाद <b>बृहदारण्यक उपनिषद</b> (II.4 और IV.5) में है।</p><h5>सही विकल्प की व्याख्या</h5><ul><li>वनवास को जाते हुए याज्ञवल्क्य मैत्रेयी को सिखाते हैं कि सब कुछ <b>आत्मा</b> के लिए प्रिय होता है।</li><li>यह <b>शुक्ल यजुर्वेद</b> से संबद्ध और सबसे बड़ा उपनिषद है।</li></ul><h5>गलत विकल्पों का विश्लेषण</h5><ul><li><b>कठ उपनिषद</b> में <b>नचिकेता–यम</b> संवाद है।</li><li><b>छांदोग्य उपनिषद</b> में <b>उद्दालक–श्वेतकेतु</b> उपदेश है।</li><li><b>मुंडक उपनिषद</b> में <b>“सत्यमेव जयते”</b> और <b>परा–अपरा विद्या</b> का भेद है।</li></ul><h5>और जानें</h5><ul><li>बृहदारण्यक के प्रसिद्ध कथन: <b>“अहं ब्रह्मास्मि”</b> (I.4.10) और <b>“नेति नेति”</b> सूत्र।</li><li>विदेह के <b>जनक</b> याज्ञवल्क्य के शास्त्रार्थों के आयोजक थे।</li><li>उसी सभा में <b>गार्गी वाचक्नवी</b> ने याज्ञवल्क्य को चुनौती दी।</li><li>यह ग्रंथ <b>शतपथ ब्राह्मण</b> परंपरा का अंतिम भाग है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "early-vedic-vedic-period"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
